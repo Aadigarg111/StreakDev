@@ -29,7 +29,7 @@ type LessonSessionProps = {
   maxHearts: number;
   onLoseHeart: () => number;
   onRefillHearts: (mode: "practice" | "gems") => void;
-  onCompleteLesson: (payload: LessonCompletionPayload) => void;
+  onCompleteLesson: (payload: LessonCompletionPayload) => Promise<CompletionRewards | void> | CompletionRewards | void;
   onExit: () => void;
 };
 
@@ -45,6 +45,11 @@ type SemanticCheckResponse = {
   correct: boolean | null;
   feedback: string | null;
   method: string;
+};
+
+type CompletionRewards = {
+  completedQuests?: Array<{ id: string; description: string; gemsReward: number }>;
+  newlyUnlockedAchievements?: Array<{ id: string; label: string; description: string }>;
 };
 
 function getInitialAnswer(exercise?: Exercise): LessonAnswer {
@@ -435,13 +440,17 @@ function OutOfHeartsScreen({
 function SummaryScreen({
   accuracy,
   durationSeconds,
+  finishing,
   xpEarned,
+  rewards,
   streakExtended,
   onContinue,
 }: {
   accuracy: number;
   durationSeconds: number;
+  finishing: boolean;
   xpEarned: number;
+  rewards: CompletionRewards | null;
   streakExtended: boolean;
   onContinue: () => void;
 }) {
@@ -503,8 +512,22 @@ function SummaryScreen({
             <span>Streak extended</span>
           </motion.div>
         )}
-        <DuoButton className="mt-7 w-full" onClick={onContinue}>
-          Continue
+        {rewards && (
+          <div className="mt-5 grid gap-2 text-left">
+            {(rewards.completedQuests ?? []).map((quest) => (
+              <div className="rounded-duo bg-[#F1FFE8] px-3 py-2 text-sm font-black text-duo-green-dark" key={quest.id}>
+                Quest complete: {quest.description} (+{quest.gemsReward} gems)
+              </div>
+            ))}
+            {(rewards.newlyUnlockedAchievements ?? []).map((achievement) => (
+              <div className="rounded-duo bg-duo-grey-panel px-3 py-2 text-sm font-black text-duo-eel" key={achievement.id}>
+                Achievement unlocked: {achievement.label}
+              </div>
+            ))}
+          </div>
+        )}
+        <DuoButton className="mt-7 w-full" disabled={finishing} onClick={onContinue}>
+          {finishing ? "Saving..." : rewards ? "Back to path" : "Continue"}
         </DuoButton>
       </div>
     </main>
@@ -531,10 +554,14 @@ export function LessonSession({
   const [feedback, setFeedback] = useState<FeedbackState | null>(null);
   const [correctCount, setCorrectCount] = useState(0);
   const [wrongCount, setWrongCount] = useState(0);
+  const [, setCurrentCorrectStreak] = useState(0);
+  const [longestCorrectStreak, setLongestCorrectStreak] = useState(0);
   const [phase, setPhase] = useState<"lesson" | "summary" | "out-of-hearts">("lesson");
   const [showExitConfirm, setShowExitConfirm] = useState(false);
   const [heartBreaking, setHeartBreaking] = useState(false);
   const [checking, setChecking] = useState(false);
+  const [finishing, setFinishing] = useState(false);
+  const [completionRewards, setCompletionRewards] = useState<CompletionRewards | null>(null);
   const startTimeRef = useRef(Date.now());
   const completedTodayRef = useRef(false);
   const exercise = exercises[currentIndex];
@@ -644,11 +671,17 @@ export function LessonSession({
 
     if (correct) {
       setCorrectCount((count) => count + 1);
+      setCurrentCorrectStreak((streak) => {
+        const nextStreak = streak + 1;
+        setLongestCorrectStreak((longest) => Math.max(longest, nextStreak));
+        return nextStreak;
+      });
       playFeedback("correct");
       return;
     }
 
     setWrongCount((count) => count + 1);
+    setCurrentCorrectStreak(0);
     setHeartBreaking(true);
     window.setTimeout(() => setHeartBreaking(false), 450);
     const nextHearts = onLoseHeart();
@@ -670,11 +703,21 @@ export function LessonSession({
     setCurrentIndex((index) => index + 1);
   }
 
-  function finishLesson() {
+  async function finishLesson() {
+    if (finishing) {
+      return;
+    }
+
+    if (completionRewards) {
+      onExit();
+      return;
+    }
+
     const totalAnswers = correctCount + wrongCount;
     const accuracy = Math.round((correctCount / Math.max(1, totalAnswers)) * 100);
 
-    onCompleteLesson({
+    setFinishing(true);
+    const rewards = await onCompleteLesson({
       trackId,
       sectionOrder,
       unitOrder,
@@ -683,7 +726,20 @@ export function LessonSession({
       xpEarned,
       accuracy,
       perfect: wrongCount === 0,
+      longestCorrectStreak,
     });
+
+    setFinishing(false);
+
+    if (
+      rewards &&
+      ((rewards.completedQuests?.length ?? 0) > 0 ||
+        (rewards.newlyUnlockedAchievements?.length ?? 0) > 0)
+    ) {
+      setCompletionRewards(rewards);
+      return;
+    }
+
     onExit();
   }
 
@@ -711,7 +767,9 @@ export function LessonSession({
       <SummaryScreen
         accuracy={accuracy}
         durationSeconds={durationSeconds}
-        onContinue={finishLesson}
+        finishing={finishing}
+        onContinue={() => void finishLesson()}
+        rewards={completionRewards}
         streakExtended={completedTodayRef.current}
         xpEarned={xpEarned}
       />

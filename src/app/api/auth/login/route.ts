@@ -1,30 +1,40 @@
+import bcrypt from "bcrypt";
 import { NextResponse } from "next/server";
-import { randomToken, setOAuthStateCookie } from "@/lib/auth/cookies";
+import { createSession, setSessionCookie } from "@/lib/auth/session";
+import { checkRateLimit, clearRateLimit } from "@/lib/auth/rate-limit";
+import { getDb } from "@/lib/db/mongo";
 
 export const runtime = "nodejs";
 
-export async function GET(request: Request) {
-  const clientId = process.env.GITHUB_CLIENT_ID;
-  const appUrl = process.env.APP_URL ?? new URL(request.url).origin;
+export async function POST(request: Request) {
+  const { email, password } = await request.json().catch(() => ({}));
+  const normalizedEmail = String(email || "").trim().toLowerCase();
 
-  if (!clientId) {
-    return NextResponse.json(
-      { error: "GITHUB_CLIENT_ID is not configured." },
-      { status: 503 },
-    );
+  if (!normalizedEmail || !password) {
+    return NextResponse.json({ error: "Invalid email or password" }, { status: 401 });
   }
 
-  const state = randomToken();
-  setOAuthStateCookie(state);
+  const rateLimitOk = await checkRateLimit(normalizedEmail, request);
 
-  const params = new URLSearchParams({
-    client_id: clientId,
-    redirect_uri: `${appUrl}/api/auth/callback/github`,
-    scope: "read:user",
-    state,
-  });
+  if (!rateLimitOk) {
+    return NextResponse.json({ error: "Too many attempts. Try again later." }, { status: 429 });
+  }
 
-  return NextResponse.redirect(
-    `https://github.com/login/oauth/authorize?${params.toString()}`,
+  const db = await getDb();
+  const user = await db.collection("users").findOne({ email: normalizedEmail });
+
+  if (!user || !(await bcrypt.compare(String(password), user.passwordHash))) {
+    return NextResponse.json({ error: "Invalid email or password" }, { status: 401 });
+  }
+
+  await clearRateLimit(normalizedEmail, request);
+  await db.collection("users").updateOne(
+    { _id: user._id },
+    { $set: { lastActiveAt: new Date() } },
   );
+
+  const token = await createSession(user._id);
+  setSessionCookie(token);
+
+  return NextResponse.json({ success: true });
 }

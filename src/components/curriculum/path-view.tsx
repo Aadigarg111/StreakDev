@@ -6,6 +6,7 @@ import {
   Gem,
   Heart,
   Home,
+  LoaderCircle,
   Lock,
   RotateCcw,
   Star,
@@ -15,11 +16,12 @@ import {
   Zap,
 } from "lucide-react";
 import { motion, useReducedMotion } from "framer-motion";
+import { useEffect, useState } from "react";
 import type { Track } from "../../../types/content";
 import { getVisibleSections, tracks } from "@/lib/curriculum";
 import { cn } from "@/lib/cn";
 import { DuoButton } from "@/components/ui/duo-button";
-import { GitHubAuthStatus } from "@/components/auth/github-auth-status";
+import { AuthStatus } from "@/components/auth/auth-status";
 import type { TrackProgress } from "@/store/user-progress";
 
 type PathViewProps = {
@@ -40,6 +42,282 @@ type PathViewProps = {
   onStartLesson: () => void;
 };
 
+type ActiveView = "learn" | "league" | "quests" | "profile";
+
+type MobileNavItem = {
+  label: string;
+  icon: typeof Home;
+  view?: ActiveView;
+};
+
+type LeaderboardResponse = {
+  league: { tier: string; weekEndDate: string } | null;
+  leaderboard: Array<{
+    rank: number;
+    displayName: string;
+    avatarSeed: string;
+    weeklyXp: number;
+    isCurrentUser: boolean;
+  }>;
+  rank: number | null;
+  zone: "promotion" | "safe" | "demotion";
+  timeRemainingMs: number;
+};
+
+type QuestResponse = {
+  dailyQuests?: {
+    date: string;
+    quests: Array<{
+      id: string;
+      description: string;
+      target: number;
+      currentProgress: number;
+      completed: boolean;
+      gemsReward: number;
+    }>;
+  };
+};
+
+type AchievementResponse = {
+  achievements: Array<{
+    id: string;
+    label: string;
+    description: string;
+    unlocked: boolean;
+    unlockedAt: string | null;
+  }>;
+};
+
+function avatarColor(seed: string) {
+  const colors = ["#58CC02", "#1CB0F6", "#CE82FF", "#FFC800", "#FF4B4B"];
+  const total = seed.split("").reduce((sum, char) => sum + char.charCodeAt(0), 0);
+
+  return colors[total % colors.length];
+}
+
+function MiniAvatar({ name, seed }: { name: string; seed: string }) {
+  return (
+    <span
+      aria-hidden
+      className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-xs font-black text-white"
+      style={{ backgroundColor: avatarColor(seed) }}
+    >
+      {name.slice(0, 2).toUpperCase()}
+    </span>
+  );
+}
+
+function LeagueView() {
+  const [data, setData] = useState<LeaderboardResponse | null>(null);
+  const [error, setError] = useState(false);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    async function load() {
+      const response = await fetch("/api/leaderboard");
+
+      if (!response.ok) {
+        setError(true);
+        return;
+      }
+
+      const body = (await response.json()) as LeaderboardResponse;
+
+      if (!cancelled) {
+        setData(body);
+        setError(false);
+      }
+    }
+
+    void load();
+    const interval = window.setInterval(() => void load(), 45000);
+
+    return () => {
+      cancelled = true;
+      window.clearInterval(interval);
+    };
+  }, []);
+
+  if (error) {
+    return <EmptyState icon={Trophy} title="Sign in to join a league" />;
+  }
+
+  if (!data) {
+    return <LoadingState title="Loading league" />;
+  }
+
+  const hoursRemaining = Math.max(0, Math.ceil(data.timeRemainingMs / (1000 * 60 * 60)));
+
+  return (
+    <section className="space-y-4 pt-5">
+      <div className="rounded-duo-lg border-2 border-duo-swan bg-duo-snow p-5">
+        <p className="text-sm font-black uppercase text-duo-grey-disabled">{data.league?.tier ?? "Bronze"} league</p>
+        <h2 className="mt-1 text-3xl font-black">Rank #{data.rank ?? "-"}</h2>
+        <p className="mt-1 text-sm font-bold text-duo-grey-text">
+          {data.zone === "promotion" ? "Promotion zone" : data.zone === "demotion" ? "Demotion zone" : "Safe zone"} -
+          {" "}
+          {hoursRemaining}h left
+        </p>
+      </div>
+      <div className="overflow-hidden rounded-duo-lg border-2 border-duo-swan bg-duo-snow">
+        {data.leaderboard.map((member) => (
+          <div
+            className={cn(
+              "grid grid-cols-[36px_1fr_auto] items-center gap-3 border-b-2 border-duo-swan p-3 last:border-b-0",
+              member.isCurrentUser && "bg-[#F1FFE8]",
+            )}
+            key={`${member.rank}-${member.displayName}`}
+          >
+            <span className="text-center text-sm font-black text-duo-grey-disabled">{member.rank}</span>
+            <div className="flex min-w-0 items-center gap-2">
+              <MiniAvatar name={member.displayName} seed={member.avatarSeed} />
+              <span className="truncate font-black">{member.displayName}</span>
+            </div>
+            <span className="font-black text-duo-yellow-dark">{member.weeklyXp} XP</span>
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function QuestsView() {
+  const [data, setData] = useState<QuestResponse | null>(null);
+  const [error, setError] = useState(false);
+
+  useEffect(() => {
+    fetch("/api/quests")
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("unauthenticated");
+        }
+
+        return response.json() as Promise<QuestResponse>;
+      })
+      .then((body) => {
+        setData(body);
+        setError(false);
+      })
+      .catch(() => setError(true));
+  }, []);
+
+  if (error) {
+    return <EmptyState icon={Target} title="Sign in to track quests" />;
+  }
+
+  if (!data?.dailyQuests) {
+    return <LoadingState title="Loading quests" />;
+  }
+
+  return (
+    <section className="space-y-4 pt-5">
+      <h2 className="text-3xl font-black">Daily quests</h2>
+      {data.dailyQuests.quests.map((quest) => {
+        const percent = Math.min(100, (quest.currentProgress / quest.target) * 100);
+
+        return (
+          <div className="rounded-duo-lg border-2 border-duo-swan bg-duo-snow p-5" key={quest.id}>
+            <div className="flex items-start justify-between gap-3">
+              <div>
+                <p className="font-black">{quest.description}</p>
+                <p className="mt-1 text-sm font-bold text-duo-grey-text">
+                  {quest.currentProgress}/{quest.target} - {quest.gemsReward} gems
+                </p>
+              </div>
+              {quest.completed && <Check className="h-6 w-6 text-duo-green" />}
+            </div>
+            <div className="mt-4 h-4 overflow-hidden rounded-full bg-duo-swan">
+              <div className="h-full rounded-full bg-duo-green" style={{ width: `${percent}%` }} />
+            </div>
+          </div>
+        );
+      })}
+    </section>
+  );
+}
+
+function ProfileView({
+  stats,
+  completedUnitIds,
+}: {
+  stats: PathViewProps["stats"];
+  completedUnitIds: string[];
+}) {
+  const [achievements, setAchievements] = useState<AchievementResponse["achievements"]>([]);
+
+  useEffect(() => {
+    fetch("/api/achievements")
+      .then((response) => (response.ok ? response.json() : Promise.reject()))
+      .then((body: AchievementResponse) => setAchievements(body.achievements))
+      .catch(() => setAchievements([]));
+  }, []);
+
+  const unlockedCount = achievements.filter((achievement) => achievement.unlocked).length;
+
+  return (
+    <section className="space-y-4 pt-5">
+      <div className="rounded-duo-lg border-2 border-duo-swan bg-duo-snow p-5">
+        <p className="text-sm font-black uppercase text-duo-grey-disabled">Profile</p>
+        <h2 className="mt-1 text-3xl font-black">{stats.xp} XP</h2>
+        <div className="mt-4 grid grid-cols-2 gap-2 text-sm font-black">
+          <span className="rounded-duo bg-duo-grey-panel px-3 py-2">{stats.streakDays} day streak</span>
+          <span className="rounded-duo bg-duo-grey-panel px-3 py-2">{stats.gems} gems</span>
+          <span className="rounded-duo bg-duo-grey-panel px-3 py-2">{completedUnitIds.length} units</span>
+          <span className="rounded-duo bg-duo-grey-panel px-3 py-2">{unlockedCount} badges</span>
+        </div>
+      </div>
+      <AchievementsGrid achievements={achievements} />
+    </section>
+  );
+}
+
+function AchievementsGrid({ achievements }: { achievements: AchievementResponse["achievements"] }) {
+  if (achievements.length === 0) {
+    return <EmptyState icon={UserCircle} title="Sign in to unlock badges" />;
+  }
+
+  return (
+    <div className="grid gap-3 sm:grid-cols-2">
+      {achievements.map((achievement) => (
+        <div
+          className={cn(
+            "rounded-duo-lg border-2 border-duo-swan bg-duo-snow p-4",
+            !achievement.unlocked && "grayscale",
+          )}
+          key={achievement.id}
+        >
+          <Trophy className={cn("h-8 w-8", achievement.unlocked ? "fill-duo-yellow text-duo-yellow" : "text-duo-grey-disabled")} />
+          <p className="mt-3 font-black">{achievement.label}</p>
+          <p className="mt-1 text-sm font-bold text-duo-grey-text">{achievement.description}</p>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+function LoadingState({ title }: { title: string }) {
+  return (
+    <div className="grid min-h-[360px] place-items-center pt-5">
+      <div className="flex items-center gap-2 font-black text-duo-grey-text">
+        <LoaderCircle className="h-5 w-5 animate-spin" />
+        {title}
+      </div>
+    </div>
+  );
+}
+
+function EmptyState({ icon: Icon, title }: { icon: typeof Trophy; title: string }) {
+  return (
+    <div className="grid min-h-[360px] place-items-center pt-5">
+      <div className="rounded-duo-lg border-2 border-duo-swan bg-duo-snow p-6 text-center">
+        <Icon className="mx-auto h-10 w-10 text-duo-grey-disabled" />
+        <p className="mt-3 font-black">{title}</p>
+      </div>
+    </div>
+  );
+}
+
 export function PathView({
   track,
   enrolledTrackIds,
@@ -52,14 +330,15 @@ export function PathView({
   onStartLesson,
 }: PathViewProps) {
   const reducedMotion = useReducedMotion();
+  const [activeView, setActiveView] = useState<ActiveView>("learn");
   const visibleSections = getVisibleSections(track, progress.currentSection);
   const enrolledTracks = tracks.filter((item) => enrolledTrackIds.includes(item.id));
-  const mobileNavItems = [
-    { label: "Learn", icon: Home, active: true },
-    { label: "Battle", icon: Zap, active: false },
-    { label: "League", icon: Trophy, active: false },
-    { label: "Quests", icon: Target, active: false },
-    { label: "Profile", icon: UserCircle, active: false },
+  const mobileNavItems: MobileNavItem[] = [
+    { label: "Learn", icon: Home, view: "learn" as const },
+    { label: "Battle", icon: Zap },
+    { label: "League", icon: Trophy, view: "league" as const },
+    { label: "Quests", icon: Target, view: "quests" as const },
+    { label: "Profile", icon: UserCircle, view: "profile" as const },
   ];
 
   return (
@@ -71,6 +350,31 @@ export function PathView({
             StreakDev
           </div>
           <nav className="grid gap-2">
+            {[
+              { label: "Learn", view: "learn" as const, icon: Home },
+              { label: "League", view: "league" as const, icon: Trophy },
+              { label: "Quests", view: "quests" as const, icon: Target },
+              { label: "Profile", view: "profile" as const, icon: UserCircle },
+            ].map((item) => {
+              const Icon = item.icon;
+
+              return (
+                <button
+                  className={cn(
+                    "flex items-center gap-2 rounded-duo border-2 px-3 py-3 text-left text-sm font-black transition focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25",
+                    item.view === activeView
+                      ? "border-duo-green bg-[#F1FFE8] text-duo-green-dark"
+                      : "border-duo-swan bg-duo-snow text-duo-grey-text",
+                  )}
+                  key={item.view}
+                  onClick={() => setActiveView(item.view)}
+                  type="button"
+                >
+                  <Icon className="h-5 w-5" />
+                  {item.label}
+                </button>
+              );
+            })}
             {enrolledTracks.map((item) => (
               <button
                 className={cn(
@@ -124,7 +428,7 @@ export function PathView({
                   <Gem className="h-5 w-5 fill-duo-purple text-duo-purple" />
                   {stats.gems}
                 </span>
-                <GitHubAuthStatus />
+                <AuthStatus />
               </div>
             </div>
             <div className="mt-3 flex gap-2 overflow-x-auto pb-1 lg:hidden">
@@ -146,6 +450,7 @@ export function PathView({
             </div>
           </header>
 
+          {activeView === "learn" && (
           <div className="space-y-8 pt-5">
             {visibleSections.map((section) => {
               const isCurrent = section.order === progress.currentSection;
@@ -238,6 +543,12 @@ export function PathView({
               );
             })}
           </div>
+          )}
+          {activeView === "league" && <LeagueView />}
+          {activeView === "quests" && <QuestsView />}
+          {activeView === "profile" && (
+            <ProfileView completedUnitIds={completedUnitIds} stats={stats} />
+          )}
         </section>
 
         <aside className="hidden space-y-4 lg:block">
@@ -294,24 +605,27 @@ export function PathView({
         <div className="mx-auto grid max-w-xl grid-cols-5 gap-1">
           {mobileNavItems.map((item) => {
             const Icon = item.icon;
+            const active = item.view === activeView;
+            const disabled = !item.view;
 
             return (
               <button
-                aria-current={item.active ? "page" : undefined}
-                aria-disabled={!item.active}
+                aria-current={active ? "page" : undefined}
+                aria-disabled={disabled}
                 className={cn(
                   "touch-target flex flex-col items-center justify-center rounded-duo px-1 py-1 text-[11px] font-black transition focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25",
-                  item.active
+                  active
                     ? "bg-[#F1FFE8] text-duo-green-dark"
                     : "text-duo-grey-disabled",
                 )}
                 key={item.label}
+                onClick={item.view ? () => setActiveView(item.view as ActiveView) : undefined}
                 type="button"
               >
                 <Icon
                   className={cn(
                     "h-5 w-5",
-                    item.active && "fill-duo-green text-duo-green",
+                    active && "fill-duo-green text-duo-green",
                   )}
                 />
                 <span className="mt-0.5 truncate">{item.label}</span>

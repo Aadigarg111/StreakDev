@@ -21,9 +21,10 @@ export type LessonCompletionPayload = {
   xpEarned: number;
   accuracy: number;
   perfect: boolean;
+  longestCorrectStreak?: number;
 };
 
-type UserProgressState = {
+export type UserProgressState = {
   onboardingComplete: boolean;
   enrolledTrackIds: string[];
   currentTrackId: string;
@@ -40,6 +41,8 @@ type UserProgressState = {
   completedUnitIds: string[];
   perfectLessonIds: string[];
   trackProgress: Record<string, TrackProgress>;
+  setProgressFromServer: (payload: Partial<UserProgressState>) => void;
+  getProgressSnapshot: () => ClientProgressSnapshot;
   completeOnboarding: (payload: {
     trackIds: string[];
     dailyGoal: DailyGoalId;
@@ -53,6 +56,24 @@ type UserProgressState = {
   refillHearts: (mode: "practice" | "gems") => void;
   completeLesson: (payload: LessonCompletionPayload) => void;
   resetOnboarding: () => void;
+};
+
+export type ClientProgressSnapshot = {
+  onboardingComplete: boolean;
+  enrolledTrackIds: string[];
+  currentTrackId: string;
+  dailyGoalXp: number;
+  hearts: number;
+  maxHearts: number;
+  xp: number;
+  weeklyXp: number;
+  streakDays: number;
+  lastActiveDate: string | null;
+  gems: number;
+  completedLessonIds: string[];
+  completedUnitIds: string[];
+  perfectLessonIds: string[];
+  trackProgress: Record<string, TrackProgress>;
 };
 
 function defaultTrackProgress(
@@ -97,8 +118,8 @@ function nextTrackProgress(
 }
 
 export const useUserProgressStore = create<UserProgressState>()(
-  persist(
-    (set) => ({
+  persist<UserProgressState>(
+    (set, get) => ({
       onboardingComplete: false,
       enrolledTrackIds: [],
       currentTrackId: "javascript",
@@ -115,6 +136,46 @@ export const useUserProgressStore = create<UserProgressState>()(
       completedUnitIds: [],
       perfectLessonIds: [],
       trackProgress: {},
+      setProgressFromServer: (payload) =>
+        set((state) => ({
+          ...state,
+          onboardingComplete: payload.onboardingComplete ?? state.onboardingComplete,
+          enrolledTrackIds: payload.enrolledTrackIds ?? state.enrolledTrackIds,
+          currentTrackId: payload.currentTrackId ?? state.currentTrackId,
+          dailyGoalXp: payload.dailyGoalXp ?? state.dailyGoalXp,
+          hearts: payload.hearts ?? state.hearts,
+          maxHearts: payload.maxHearts ?? state.maxHearts,
+          xp: payload.xp ?? state.xp,
+          weeklyXp: payload.weeklyXp ?? state.weeklyXp,
+          streakDays: payload.streakDays ?? state.streakDays,
+          lastActiveDate: payload.lastActiveDate ?? state.lastActiveDate,
+          gems: payload.gems ?? state.gems,
+          completedLessonIds: payload.completedLessonIds ?? state.completedLessonIds,
+          completedUnitIds: payload.completedUnitIds ?? state.completedUnitIds,
+          perfectLessonIds: payload.perfectLessonIds ?? state.perfectLessonIds,
+          trackProgress: payload.trackProgress ?? state.trackProgress,
+        })),
+      getProgressSnapshot: () => {
+        const state = get();
+
+        return {
+          onboardingComplete: state.onboardingComplete,
+          enrolledTrackIds: state.enrolledTrackIds,
+          currentTrackId: state.currentTrackId,
+          dailyGoalXp: state.dailyGoalXp,
+          hearts: state.hearts,
+          maxHearts: state.maxHearts,
+          xp: state.xp,
+          weeklyXp: state.weeklyXp,
+          streakDays: state.streakDays,
+          lastActiveDate: state.lastActiveDate,
+          gems: state.gems,
+          completedLessonIds: state.completedLessonIds,
+          completedUnitIds: state.completedUnitIds,
+          perfectLessonIds: state.perfectLessonIds,
+          trackProgress: state.trackProgress,
+        };
+      },
       completeOnboarding: ({
         trackIds,
         dailyGoal,

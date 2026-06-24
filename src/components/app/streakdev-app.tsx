@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { OnboardingFlow } from "@/components/onboarding/onboarding-flow";
 import { PathView } from "@/components/curriculum/path-view";
 import { LessonSession } from "@/components/lesson/lesson-session";
@@ -12,7 +12,15 @@ import {
 } from "@/lib/curriculum";
 import { enterImmersiveMode } from "@/lib/immersive-mode";
 import { useUserProgressStore } from "@/store/user-progress";
+import type { LessonCompletionPayload, UserProgressState } from "@/store/user-progress";
 import type { Exercise, Lesson } from "../../../types/content";
+
+type CompletionRewards = {
+  completedQuests?: Array<{ id: string; description: string; gemsReward: number }>;
+  newlyUnlockedAchievements?: Array<{ id: string; label: string; description: string }>;
+};
+
+const select = <T,>(selector: (state: UserProgressState) => T) => selector;
 
 type ActiveLesson = {
   trackId: string;
@@ -26,23 +34,96 @@ type ActiveLesson = {
 
 export function StreakDevApp() {
   const [activeLesson, setActiveLesson] = useState<ActiveLesson | null>(null);
-  const onboardingComplete = useUserProgressStore((state) => state.onboardingComplete);
-  const enrolledTrackIds = useUserProgressStore((state) => state.enrolledTrackIds);
-  const currentTrackId = useUserProgressStore((state) => state.currentTrackId);
-  const dailyGoalXp = useUserProgressStore((state) => state.dailyGoalXp);
-  const trackProgress = useUserProgressStore((state) => state.trackProgress);
-  const hearts = useUserProgressStore((state) => state.hearts);
-  const maxHearts = useUserProgressStore((state) => state.maxHearts);
-  const xp = useUserProgressStore((state) => state.xp);
-  const streakDays = useUserProgressStore((state) => state.streakDays);
-  const gems = useUserProgressStore((state) => state.gems);
-  const completedUnitIds = useUserProgressStore((state) => state.completedUnitIds);
-  const completeOnboarding = useUserProgressStore((state) => state.completeOnboarding);
-  const switchTrack = useUserProgressStore((state) => state.switchTrack);
-  const resetOnboarding = useUserProgressStore((state) => state.resetOnboarding);
-  const loseHeart = useUserProgressStore((state) => state.loseHeart);
-  const refillHearts = useUserProgressStore((state) => state.refillHearts);
-  const completeLesson = useUserProgressStore((state) => state.completeLesson);
+  const onboardingComplete = useUserProgressStore(select((state) => state.onboardingComplete));
+  const enrolledTrackIds = useUserProgressStore(select((state) => state.enrolledTrackIds));
+  const currentTrackId = useUserProgressStore(select((state) => state.currentTrackId));
+  const dailyGoalXp = useUserProgressStore(select((state) => state.dailyGoalXp));
+  const trackProgress = useUserProgressStore(select((state) => state.trackProgress));
+  const hearts = useUserProgressStore(select((state) => state.hearts));
+  const maxHearts = useUserProgressStore(select((state) => state.maxHearts));
+  const xp = useUserProgressStore(select((state) => state.xp));
+  const streakDays = useUserProgressStore(select((state) => state.streakDays));
+  const gems = useUserProgressStore(select((state) => state.gems));
+  const completedUnitIds = useUserProgressStore(select((state) => state.completedUnitIds));
+  const completeOnboarding = useUserProgressStore(select((state) => state.completeOnboarding));
+  const switchTrack = useUserProgressStore(select((state) => state.switchTrack));
+  const resetOnboarding = useUserProgressStore(select((state) => state.resetOnboarding));
+  const loseHeart = useUserProgressStore(select((state) => state.loseHeart));
+  const refillHearts = useUserProgressStore(select((state) => state.refillHearts));
+  const completeLesson = useUserProgressStore(select((state) => state.completeLesson));
+  const setProgressFromServer = useUserProgressStore(select((state) => state.setProgressFromServer));
+  const getProgressSnapshot = useUserProgressStore(select((state) => state.getProgressSnapshot));
+
+  const syncProgressFromServer = useCallback(async () => {
+    try {
+      const migrateResponse = await fetch("/api/progress/migrate", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(getProgressSnapshot()),
+      });
+
+      if (migrateResponse.ok) {
+        const body = await migrateResponse.json();
+
+        if (body.progress) {
+          setProgressFromServer(body.progress);
+        }
+      }
+    } catch {
+      // Guest mode keeps working if sync is unavailable.
+    }
+  }, [getProgressSnapshot, setProgressFromServer]);
+
+  useEffect(() => {
+    async function loadSignedInProgress() {
+      try {
+        const authResponse = await fetch("/api/auth/me");
+        const auth = await authResponse.json();
+
+        if (auth.authenticated) {
+          await syncProgressFromServer();
+        }
+      } catch {
+        // Local progress is the fallback for signed-out or offline use.
+      }
+    }
+
+    void loadSignedInProgress();
+    window.addEventListener("streakdev-auth-changed", syncProgressFromServer);
+
+    return () => {
+      window.removeEventListener("streakdev-auth-changed", syncProgressFromServer);
+    };
+  }, [syncProgressFromServer]);
+
+  async function completeLessonWithSync(payload: LessonCompletionPayload): Promise<CompletionRewards | void> {
+    completeLesson(payload);
+
+    try {
+      const response = await fetch("/api/progress", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+
+      if (!response.ok) {
+        return undefined;
+      }
+
+      const body = await response.json();
+
+      if (body.progress) {
+        setProgressFromServer(body.progress);
+      }
+
+      return {
+        completedQuests: body.completedQuests ?? [],
+        newlyUnlockedAchievements: body.newlyUnlockedAchievements ?? [],
+      };
+    } catch {
+      return undefined;
+    }
+  }
 
   if (!onboardingComplete) {
     return <OnboardingFlow onComplete={completeOnboarding} />;
@@ -80,7 +161,7 @@ export function StreakDevApp() {
         hearts={hearts}
         lesson={activeLesson.lesson}
         maxHearts={maxHearts}
-        onCompleteLesson={completeLesson}
+        onCompleteLesson={completeLessonWithSync}
         onExit={() => setActiveLesson(null)}
         onLoseHeart={loseHeart}
         onRefillHearts={refillHearts}
