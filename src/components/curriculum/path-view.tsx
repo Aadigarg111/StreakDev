@@ -22,6 +22,7 @@ import { getVisibleSections, tracks } from "@/lib/curriculum";
 import { cn } from "@/lib/cn";
 import { DuoButton } from "@/components/ui/duo-button";
 import { AuthStatus } from "@/components/auth/auth-status";
+import { ThemeToggle } from "@/components/app/theme-toggle";
 import type { TrackProgress } from "@/store/user-progress";
 
 type PathViewProps = {
@@ -165,7 +166,7 @@ function LeagueView() {
           <div
             className={cn(
               "grid grid-cols-[36px_1fr_auto] items-center gap-3 border-b-2 border-duo-swan p-3 last:border-b-0",
-              member.isCurrentUser && "bg-[#F1FFE8]",
+              member.isCurrentUser && "bg-[#F1FFE8] dark:bg-duo-green/15",
             )}
             key={`${member.rank}-${member.displayName}`}
           >
@@ -363,7 +364,7 @@ export function PathView({
                   className={cn(
                     "flex items-center gap-2 rounded-duo border-2 px-3 py-3 text-left text-sm font-black transition focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25",
                     item.view === activeView
-                      ? "border-duo-green bg-[#F1FFE8] text-duo-green-dark"
+                      ? "border-duo-green bg-[#F1FFE8] text-duo-green-dark dark:bg-duo-green/15"
                       : "border-duo-swan bg-duo-snow text-duo-grey-text",
                   )}
                   key={item.view}
@@ -380,7 +381,7 @@ export function PathView({
                 className={cn(
                   "rounded-duo border-2 px-3 py-3 text-left text-sm font-black transition focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25",
                   item.id === track.id
-                    ? "border-duo-green bg-[#F1FFE8] text-duo-green-dark"
+                    ? "border-duo-green bg-[#F1FFE8] text-duo-green-dark dark:bg-duo-green/15"
                     : "border-duo-swan bg-duo-snow text-duo-grey-text",
                 )}
                 key={item.id}
@@ -428,6 +429,7 @@ export function PathView({
                   <Gem className="h-5 w-5 fill-duo-purple text-duo-purple" />
                   {stats.gems}
                 </span>
+                <ThemeToggle />
                 <AuthStatus />
               </div>
             </div>
@@ -437,7 +439,7 @@ export function PathView({
                   className={cn(
                     "touch-target shrink-0 rounded-full border-2 px-3 py-2 text-xs font-black",
                     item.id === track.id
-                      ? "border-duo-green bg-[#F1FFE8] text-duo-green-dark"
+                      ? "border-duo-green bg-[#F1FFE8] text-duo-green-dark dark:bg-duo-green/15"
                       : "border-duo-swan bg-duo-snow text-duo-grey-text",
                   )}
                   key={item.id}
@@ -615,7 +617,7 @@ export function PathView({
                 className={cn(
                   "touch-target flex flex-col items-center justify-center rounded-duo px-1 py-1 text-[11px] font-black transition focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25",
                   active
-                    ? "bg-[#F1FFE8] text-duo-green-dark"
+                    ? "bg-[#F1FFE8] text-duo-green-dark dark:bg-duo-green/15"
                     : "text-duo-grey-disabled",
                 )}
                 key={item.label}

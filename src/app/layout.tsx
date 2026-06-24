@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Nunito } from "next/font/google";
 import { ServiceWorkerRegister } from "@/components/app/service-worker-register";
+import { ThemeScript } from "@/components/app/theme-script";
 import "./globals.css";
 
 const nunito = Nunito({
@@ -46,8 +47,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={nunito.variable}>
+    <html lang="en" className={nunito.variable} suppressHydrationWarning>
       <body className="antialiased">
+        <ThemeScript />
         <ServiceWorkerRegister />
         {children}
       </body>
