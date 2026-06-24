@@ -58,7 +58,7 @@ export function TrackCard({ track, selected, onClick }: TrackCardProps) {
     <button
       aria-pressed={selected}
       className={cn(
-        "touch-target no-select-interactive group flex min-h-[168px] w-full flex-col items-start rounded-duo-lg border-2 bg-duo-snow p-4 text-left transition",
+        "touch-target no-select-interactive group flex min-h-[64px] w-full items-center gap-4 rounded-duo border-2 bg-duo-snow px-4 py-3 text-left transition",
         "focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25",
         "active:translate-y-1",
         selected
@@ -69,7 +69,7 @@ export function TrackCard({ track, selected, onClick }: TrackCardProps) {
       type="button"
     >
       <span
-        className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl border-b-4 text-white"
+        className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl border-b-4 text-white"
         style={{
           backgroundColor: track.color,
           borderColor: "rgb(75 75 75 / 0.18)",
@@ -77,13 +77,30 @@ export function TrackCard({ track, selected, onClick }: TrackCardProps) {
       >
         <Icon className="h-7 w-7" />
       </span>
-      <span className="text-lg font-black text-duo-eel">{track.title}</span>
-      <span className="mt-1 line-clamp-2 text-sm font-bold leading-5 text-duo-grey-text">
-        {track.description}
+      <span className="min-w-0 flex-1">
+        <span
+          className={cn(
+            "block truncate text-lg font-black",
+            selected ? "text-duo-green-dark" : "text-duo-eel",
+          )}
+        >
+          {track.title}
+        </span>
+        <span className="block truncate text-xs font-black uppercase text-duo-grey-disabled">
+          {track.sections.length} sections -{" "}
+          {track.sections.reduce((sum, section) => sum + section.units.length, 0)} units
+        </span>
       </span>
-      <span className="mt-auto pt-3 text-xs font-black text-duo-grey-disabled">
-        {track.sections.length} sections -{" "}
-        {track.sections.reduce((sum, section) => sum + section.units.length, 0)} units
+      <span
+        aria-hidden
+        className={cn(
+          "grid h-7 w-7 shrink-0 place-items-center rounded-full border-2",
+          selected
+            ? "border-duo-green bg-duo-green text-white"
+            : "border-duo-swan bg-duo-grey-panel text-transparent",
+        )}
+      >
+        <span className="h-2.5 w-2.5 rounded-full bg-current" />
       </span>
     </button>
   );
