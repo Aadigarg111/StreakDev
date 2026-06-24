@@ -1,5 +1,5 @@
-import { StreakDevApp } from "@/components/app/streakdev-app";
+import { HomeAuthGate } from "@/components/app/auth-gate";
 
 export default function Home() {
-  return <StreakDevApp />;
+  return <HomeAuthGate />;
 }

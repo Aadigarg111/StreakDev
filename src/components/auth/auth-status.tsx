@@ -45,7 +45,7 @@ function AuthAvatar({ name, seed }: { name: string; seed: string }) {
   );
 }
 
-function AuthDialog({
+export function AuthDialog({
   mode,
   onClose,
   onSuccess,

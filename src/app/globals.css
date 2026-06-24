@@ -26,6 +26,19 @@
   --safe-bottom: env(safe-area-inset-bottom);
 }
 
+.dark {
+  --duo-grey-bg: #0f1a1f;
+  --duo-grey-panel: #1a2730;
+  --duo-grey-border: #2b3a42;
+  --duo-grey-text: #e5e5e5;
+  --duo-grey-disabled: #8fa0a8;
+  --duo-eel: #f3f7f9;
+  --duo-swan: #2b3a42;
+  --duo-snow: #1a2730;
+  --background: var(--duo-grey-bg);
+  --foreground: var(--duo-eel);
+}
+
 html {
   min-height: 100%;
   overflow-x: hidden;
