@@ -1,0 +1,3006 @@
+{
+  "id": "react",
+  "title": "React",
+  "category": "web-dev",
+  "icon": "atom",
+  "color": "#CE82FF",
+  "description": "Build interactive component systems with hooks, forms, and performance patterns.",
+  "sections": [
+    {
+      "id": "react-section-1",
+      "trackId": "react",
+      "order": 1,
+      "title": "Section 1: Components & JSX",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "react-section-1-unit-1-react-mental-model",
+          "sectionId": "react-section-1",
+          "order": 1,
+          "title": "React mental model",
+          "lessons": [
+            {
+              "id": "react-section-1-unit-1-react-mental-model-lesson-1",
+              "unitId": "react-section-1-unit-1-react-mental-model",
+              "title": "Learn React mental model",
+              "order": 1,
+              "exerciseIds": [
+                "react-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "react-section-1-unit-1-react-mental-model-lesson-2",
+              "unitId": "react-section-1-unit-1-react-mental-model",
+              "title": "Practice React mental model",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-1-react-mental-model-lesson-3",
+              "unitId": "react-section-1-unit-1-react-mental-model",
+              "title": "Review React mental model",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-1-unit-2-jsx-syntax",
+          "sectionId": "react-section-1",
+          "order": 2,
+          "title": "JSX syntax",
+          "lessons": [
+            {
+              "id": "react-section-1-unit-2-jsx-syntax-lesson-1",
+              "unitId": "react-section-1-unit-2-jsx-syntax",
+              "title": "Learn JSX syntax",
+              "order": 1,
+              "exerciseIds": [
+                "react-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "react-section-1-unit-2-jsx-syntax-lesson-2",
+              "unitId": "react-section-1-unit-2-jsx-syntax",
+              "title": "Practice JSX syntax",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-2-jsx-syntax-lesson-3",
+              "unitId": "react-section-1-unit-2-jsx-syntax",
+              "title": "Review JSX syntax",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-1-unit-3-component-functions",
+          "sectionId": "react-section-1",
+          "order": 3,
+          "title": "Component functions",
+          "lessons": [
+            {
+              "id": "react-section-1-unit-3-component-functions-lesson-1",
+              "unitId": "react-section-1-unit-3-component-functions",
+              "title": "Learn Component functions",
+              "order": 1,
+              "exerciseIds": [
+                "react-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "react-section-1-unit-3-component-functions-lesson-2",
+              "unitId": "react-section-1-unit-3-component-functions",
+              "title": "Practice Component functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-3-component-functions-lesson-3",
+              "unitId": "react-section-1-unit-3-component-functions",
+              "title": "Review Component functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-1-unit-4-composition",
+          "sectionId": "react-section-1",
+          "order": 4,
+          "title": "Composition",
+          "lessons": [
+            {
+              "id": "react-section-1-unit-4-composition-lesson-1",
+              "unitId": "react-section-1-unit-4-composition",
+              "title": "Learn Composition",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-4-composition-lesson-2",
+              "unitId": "react-section-1-unit-4-composition",
+              "title": "Practice Composition",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-4-composition-lesson-3",
+              "unitId": "react-section-1-unit-4-composition",
+              "title": "Review Composition",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-1-unit-5-fragments",
+          "sectionId": "react-section-1",
+          "order": 5,
+          "title": "Fragments",
+          "lessons": [
+            {
+              "id": "react-section-1-unit-5-fragments-lesson-1",
+              "unitId": "react-section-1-unit-5-fragments",
+              "title": "Learn Fragments",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-5-fragments-lesson-2",
+              "unitId": "react-section-1-unit-5-fragments",
+              "title": "Practice Fragments",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-5-fragments-lesson-3",
+              "unitId": "react-section-1-unit-5-fragments",
+              "title": "Review Fragments",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-1-unit-6-rendering-variables",
+          "sectionId": "react-section-1",
+          "order": 6,
+          "title": "Rendering variables",
+          "lessons": [
+            {
+              "id": "react-section-1-unit-6-rendering-variables-lesson-1",
+              "unitId": "react-section-1-unit-6-rendering-variables",
+              "title": "Learn Rendering variables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-6-rendering-variables-lesson-2",
+              "unitId": "react-section-1-unit-6-rendering-variables",
+              "title": "Practice Rendering variables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-6-rendering-variables-lesson-3",
+              "unitId": "react-section-1-unit-6-rendering-variables",
+              "title": "Review Rendering variables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-1-unit-7-inline-expressions",
+          "sectionId": "react-section-1",
+          "order": 7,
+          "title": "Inline expressions",
+          "lessons": [
+            {
+              "id": "react-section-1-unit-7-inline-expressions-lesson-1",
+              "unitId": "react-section-1-unit-7-inline-expressions",
+              "title": "Learn Inline expressions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-7-inline-expressions-lesson-2",
+              "unitId": "react-section-1-unit-7-inline-expressions",
+              "title": "Practice Inline expressions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-7-inline-expressions-lesson-3",
+              "unitId": "react-section-1-unit-7-inline-expressions",
+              "title": "Review Inline expressions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-1-unit-8-styling-basics",
+          "sectionId": "react-section-1",
+          "order": 8,
+          "title": "Styling basics",
+          "lessons": [
+            {
+              "id": "react-section-1-unit-8-styling-basics-lesson-1",
+              "unitId": "react-section-1-unit-8-styling-basics",
+              "title": "Learn Styling basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-8-styling-basics-lesson-2",
+              "unitId": "react-section-1-unit-8-styling-basics",
+              "title": "Practice Styling basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-8-styling-basics-lesson-3",
+              "unitId": "react-section-1-unit-8-styling-basics",
+              "title": "Review Styling basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-1-unit-9-file-organization",
+          "sectionId": "react-section-1",
+          "order": 9,
+          "title": "File organization",
+          "lessons": [
+            {
+              "id": "react-section-1-unit-9-file-organization-lesson-1",
+              "unitId": "react-section-1-unit-9-file-organization",
+              "title": "Learn File organization",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-9-file-organization-lesson-2",
+              "unitId": "react-section-1-unit-9-file-organization",
+              "title": "Practice File organization",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-9-file-organization-lesson-3",
+              "unitId": "react-section-1-unit-9-file-organization",
+              "title": "Review File organization",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-1-unit-10-component-practice",
+          "sectionId": "react-section-1",
+          "order": 10,
+          "title": "Component practice",
+          "lessons": [
+            {
+              "id": "react-section-1-unit-10-component-practice-lesson-1",
+              "unitId": "react-section-1-unit-10-component-practice",
+              "title": "Learn Component practice",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-10-component-practice-lesson-2",
+              "unitId": "react-section-1-unit-10-component-practice",
+              "title": "Practice Component practice",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-1-unit-10-component-practice-lesson-3",
+              "unitId": "react-section-1-unit-10-component-practice",
+              "title": "Review Component practice",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "react-section-2",
+      "trackId": "react",
+      "order": 2,
+      "title": "Section 2: Props & State",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "react-section-2-unit-1-passing-props",
+          "sectionId": "react-section-2",
+          "order": 1,
+          "title": "Passing props",
+          "lessons": [
+            {
+              "id": "react-section-2-unit-1-passing-props-lesson-1",
+              "unitId": "react-section-2-unit-1-passing-props",
+              "title": "Learn Passing props",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-1-passing-props-lesson-2",
+              "unitId": "react-section-2-unit-1-passing-props",
+              "title": "Practice Passing props",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-1-passing-props-lesson-3",
+              "unitId": "react-section-2-unit-1-passing-props",
+              "title": "Review Passing props",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-2-unit-2-default-props-patterns",
+          "sectionId": "react-section-2",
+          "order": 2,
+          "title": "Default props patterns",
+          "lessons": [
+            {
+              "id": "react-section-2-unit-2-default-props-patterns-lesson-1",
+              "unitId": "react-section-2-unit-2-default-props-patterns",
+              "title": "Learn Default props patterns",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-2-default-props-patterns-lesson-2",
+              "unitId": "react-section-2-unit-2-default-props-patterns",
+              "title": "Practice Default props patterns",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-2-default-props-patterns-lesson-3",
+              "unitId": "react-section-2-unit-2-default-props-patterns",
+              "title": "Review Default props patterns",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-2-unit-3-state-basics",
+          "sectionId": "react-section-2",
+          "order": 3,
+          "title": "State basics",
+          "lessons": [
+            {
+              "id": "react-section-2-unit-3-state-basics-lesson-1",
+              "unitId": "react-section-2-unit-3-state-basics",
+              "title": "Learn State basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-3-state-basics-lesson-2",
+              "unitId": "react-section-2-unit-3-state-basics",
+              "title": "Practice State basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-3-state-basics-lesson-3",
+              "unitId": "react-section-2-unit-3-state-basics",
+              "title": "Review State basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-2-unit-4-updating-state",
+          "sectionId": "react-section-2",
+          "order": 4,
+          "title": "Updating state",
+          "lessons": [
+            {
+              "id": "react-section-2-unit-4-updating-state-lesson-1",
+              "unitId": "react-section-2-unit-4-updating-state",
+              "title": "Learn Updating state",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-4-updating-state-lesson-2",
+              "unitId": "react-section-2-unit-4-updating-state",
+              "title": "Practice Updating state",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-4-updating-state-lesson-3",
+              "unitId": "react-section-2-unit-4-updating-state",
+              "title": "Review Updating state",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-2-unit-5-state-immutability",
+          "sectionId": "react-section-2",
+          "order": 5,
+          "title": "State immutability",
+          "lessons": [
+            {
+              "id": "react-section-2-unit-5-state-immutability-lesson-1",
+              "unitId": "react-section-2-unit-5-state-immutability",
+              "title": "Learn State immutability",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-5-state-immutability-lesson-2",
+              "unitId": "react-section-2-unit-5-state-immutability",
+              "title": "Practice State immutability",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-5-state-immutability-lesson-3",
+              "unitId": "react-section-2-unit-5-state-immutability",
+              "title": "Review State immutability",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-2-unit-6-derived-values",
+          "sectionId": "react-section-2",
+          "order": 6,
+          "title": "Derived values",
+          "lessons": [
+            {
+              "id": "react-section-2-unit-6-derived-values-lesson-1",
+              "unitId": "react-section-2-unit-6-derived-values",
+              "title": "Learn Derived values",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-6-derived-values-lesson-2",
+              "unitId": "react-section-2-unit-6-derived-values",
+              "title": "Practice Derived values",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-6-derived-values-lesson-3",
+              "unitId": "react-section-2-unit-6-derived-values",
+              "title": "Review Derived values",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-2-unit-7-lifting-state",
+          "sectionId": "react-section-2",
+          "order": 7,
+          "title": "Lifting state",
+          "lessons": [
+            {
+              "id": "react-section-2-unit-7-lifting-state-lesson-1",
+              "unitId": "react-section-2-unit-7-lifting-state",
+              "title": "Learn Lifting state",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-7-lifting-state-lesson-2",
+              "unitId": "react-section-2-unit-7-lifting-state",
+              "title": "Practice Lifting state",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-7-lifting-state-lesson-3",
+              "unitId": "react-section-2-unit-7-lifting-state",
+              "title": "Review Lifting state",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-2-unit-8-controlled-inputs",
+          "sectionId": "react-section-2",
+          "order": 8,
+          "title": "Controlled inputs",
+          "lessons": [
+            {
+              "id": "react-section-2-unit-8-controlled-inputs-lesson-1",
+              "unitId": "react-section-2-unit-8-controlled-inputs",
+              "title": "Learn Controlled inputs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-8-controlled-inputs-lesson-2",
+              "unitId": "react-section-2-unit-8-controlled-inputs",
+              "title": "Practice Controlled inputs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-8-controlled-inputs-lesson-3",
+              "unitId": "react-section-2-unit-8-controlled-inputs",
+              "title": "Review Controlled inputs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-2-unit-9-state-debugging",
+          "sectionId": "react-section-2",
+          "order": 9,
+          "title": "State debugging",
+          "lessons": [
+            {
+              "id": "react-section-2-unit-9-state-debugging-lesson-1",
+              "unitId": "react-section-2-unit-9-state-debugging",
+              "title": "Learn State debugging",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-9-state-debugging-lesson-2",
+              "unitId": "react-section-2-unit-9-state-debugging",
+              "title": "Practice State debugging",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-9-state-debugging-lesson-3",
+              "unitId": "react-section-2-unit-9-state-debugging",
+              "title": "Review State debugging",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-2-unit-10-small-app-state",
+          "sectionId": "react-section-2",
+          "order": 10,
+          "title": "Small app state",
+          "lessons": [
+            {
+              "id": "react-section-2-unit-10-small-app-state-lesson-1",
+              "unitId": "react-section-2-unit-10-small-app-state",
+              "title": "Learn Small app state",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-10-small-app-state-lesson-2",
+              "unitId": "react-section-2-unit-10-small-app-state",
+              "title": "Practice Small app state",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-2-unit-10-small-app-state-lesson-3",
+              "unitId": "react-section-2-unit-10-small-app-state",
+              "title": "Review Small app state",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "react-section-3",
+      "trackId": "react",
+      "order": 3,
+      "title": "Section 3: Hooks Basics",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "react-section-3-unit-1-usestate",
+          "sectionId": "react-section-3",
+          "order": 1,
+          "title": "useState",
+          "lessons": [
+            {
+              "id": "react-section-3-unit-1-usestate-lesson-1",
+              "unitId": "react-section-3-unit-1-usestate",
+              "title": "Learn useState",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-1-usestate-lesson-2",
+              "unitId": "react-section-3-unit-1-usestate",
+              "title": "Practice useState",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-1-usestate-lesson-3",
+              "unitId": "react-section-3-unit-1-usestate",
+              "title": "Review useState",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-3-unit-2-useeffect",
+          "sectionId": "react-section-3",
+          "order": 2,
+          "title": "useEffect",
+          "lessons": [
+            {
+              "id": "react-section-3-unit-2-useeffect-lesson-1",
+              "unitId": "react-section-3-unit-2-useeffect",
+              "title": "Learn useEffect",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-2-useeffect-lesson-2",
+              "unitId": "react-section-3-unit-2-useeffect",
+              "title": "Practice useEffect",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-2-useeffect-lesson-3",
+              "unitId": "react-section-3-unit-2-useeffect",
+              "title": "Review useEffect",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-3-unit-3-effect-dependencies",
+          "sectionId": "react-section-3",
+          "order": 3,
+          "title": "Effect dependencies",
+          "lessons": [
+            {
+              "id": "react-section-3-unit-3-effect-dependencies-lesson-1",
+              "unitId": "react-section-3-unit-3-effect-dependencies",
+              "title": "Learn Effect dependencies",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-3-effect-dependencies-lesson-2",
+              "unitId": "react-section-3-unit-3-effect-dependencies",
+              "title": "Practice Effect dependencies",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-3-effect-dependencies-lesson-3",
+              "unitId": "react-section-3-unit-3-effect-dependencies",
+              "title": "Review Effect dependencies",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-3-unit-4-cleanup-functions",
+          "sectionId": "react-section-3",
+          "order": 4,
+          "title": "Cleanup functions",
+          "lessons": [
+            {
+              "id": "react-section-3-unit-4-cleanup-functions-lesson-1",
+              "unitId": "react-section-3-unit-4-cleanup-functions",
+              "title": "Learn Cleanup functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-4-cleanup-functions-lesson-2",
+              "unitId": "react-section-3-unit-4-cleanup-functions",
+              "title": "Practice Cleanup functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-4-cleanup-functions-lesson-3",
+              "unitId": "react-section-3-unit-4-cleanup-functions",
+              "title": "Review Cleanup functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-3-unit-5-useref",
+          "sectionId": "react-section-3",
+          "order": 5,
+          "title": "useRef",
+          "lessons": [
+            {
+              "id": "react-section-3-unit-5-useref-lesson-1",
+              "unitId": "react-section-3-unit-5-useref",
+              "title": "Learn useRef",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-5-useref-lesson-2",
+              "unitId": "react-section-3-unit-5-useref",
+              "title": "Practice useRef",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-5-useref-lesson-3",
+              "unitId": "react-section-3-unit-5-useref",
+              "title": "Review useRef",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-3-unit-6-usememo",
+          "sectionId": "react-section-3",
+          "order": 6,
+          "title": "useMemo",
+          "lessons": [
+            {
+              "id": "react-section-3-unit-6-usememo-lesson-1",
+              "unitId": "react-section-3-unit-6-usememo",
+              "title": "Learn useMemo",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-6-usememo-lesson-2",
+              "unitId": "react-section-3-unit-6-usememo",
+              "title": "Practice useMemo",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-6-usememo-lesson-3",
+              "unitId": "react-section-3-unit-6-usememo",
+              "title": "Review useMemo",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-3-unit-7-usecallback",
+          "sectionId": "react-section-3",
+          "order": 7,
+          "title": "useCallback",
+          "lessons": [
+            {
+              "id": "react-section-3-unit-7-usecallback-lesson-1",
+              "unitId": "react-section-3-unit-7-usecallback",
+              "title": "Learn useCallback",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-7-usecallback-lesson-2",
+              "unitId": "react-section-3-unit-7-usecallback",
+              "title": "Practice useCallback",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-7-usecallback-lesson-3",
+              "unitId": "react-section-3-unit-7-usecallback",
+              "title": "Review useCallback",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-3-unit-8-rules-of-hooks",
+          "sectionId": "react-section-3",
+          "order": 8,
+          "title": "Rules of hooks",
+          "lessons": [
+            {
+              "id": "react-section-3-unit-8-rules-of-hooks-lesson-1",
+              "unitId": "react-section-3-unit-8-rules-of-hooks",
+              "title": "Learn Rules of hooks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-8-rules-of-hooks-lesson-2",
+              "unitId": "react-section-3-unit-8-rules-of-hooks",
+              "title": "Practice Rules of hooks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-8-rules-of-hooks-lesson-3",
+              "unitId": "react-section-3-unit-8-rules-of-hooks",
+              "title": "Review Rules of hooks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-3-unit-9-custom-hook-intro",
+          "sectionId": "react-section-3",
+          "order": 9,
+          "title": "Custom hook intro",
+          "lessons": [
+            {
+              "id": "react-section-3-unit-9-custom-hook-intro-lesson-1",
+              "unitId": "react-section-3-unit-9-custom-hook-intro",
+              "title": "Learn Custom hook intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-9-custom-hook-intro-lesson-2",
+              "unitId": "react-section-3-unit-9-custom-hook-intro",
+              "title": "Practice Custom hook intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-9-custom-hook-intro-lesson-3",
+              "unitId": "react-section-3-unit-9-custom-hook-intro",
+              "title": "Review Custom hook intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-3-unit-10-hook-troubleshooting",
+          "sectionId": "react-section-3",
+          "order": 10,
+          "title": "Hook troubleshooting",
+          "lessons": [
+            {
+              "id": "react-section-3-unit-10-hook-troubleshooting-lesson-1",
+              "unitId": "react-section-3-unit-10-hook-troubleshooting",
+              "title": "Learn Hook troubleshooting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-10-hook-troubleshooting-lesson-2",
+              "unitId": "react-section-3-unit-10-hook-troubleshooting",
+              "title": "Practice Hook troubleshooting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-3-unit-10-hook-troubleshooting-lesson-3",
+              "unitId": "react-section-3-unit-10-hook-troubleshooting",
+              "title": "Review Hook troubleshooting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "react-section-4",
+      "trackId": "react",
+      "order": 4,
+      "title": "Section 4: Rendering Patterns",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "react-section-4-unit-1-conditional-rendering",
+          "sectionId": "react-section-4",
+          "order": 1,
+          "title": "Conditional rendering",
+          "lessons": [
+            {
+              "id": "react-section-4-unit-1-conditional-rendering-lesson-1",
+              "unitId": "react-section-4-unit-1-conditional-rendering",
+              "title": "Learn Conditional rendering",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-1-conditional-rendering-lesson-2",
+              "unitId": "react-section-4-unit-1-conditional-rendering",
+              "title": "Practice Conditional rendering",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-1-conditional-rendering-lesson-3",
+              "unitId": "react-section-4-unit-1-conditional-rendering",
+              "title": "Review Conditional rendering",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-4-unit-2-lists-and-keys",
+          "sectionId": "react-section-4",
+          "order": 2,
+          "title": "Lists and keys",
+          "lessons": [
+            {
+              "id": "react-section-4-unit-2-lists-and-keys-lesson-1",
+              "unitId": "react-section-4-unit-2-lists-and-keys",
+              "title": "Learn Lists and keys",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-2-lists-and-keys-lesson-2",
+              "unitId": "react-section-4-unit-2-lists-and-keys",
+              "title": "Practice Lists and keys",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-2-lists-and-keys-lesson-3",
+              "unitId": "react-section-4-unit-2-lists-and-keys",
+              "title": "Review Lists and keys",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-4-unit-3-empty-states",
+          "sectionId": "react-section-4",
+          "order": 3,
+          "title": "Empty states",
+          "lessons": [
+            {
+              "id": "react-section-4-unit-3-empty-states-lesson-1",
+              "unitId": "react-section-4-unit-3-empty-states",
+              "title": "Learn Empty states",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-3-empty-states-lesson-2",
+              "unitId": "react-section-4-unit-3-empty-states",
+              "title": "Practice Empty states",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-3-empty-states-lesson-3",
+              "unitId": "react-section-4-unit-3-empty-states",
+              "title": "Review Empty states",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-4-unit-4-loading-states",
+          "sectionId": "react-section-4",
+          "order": 4,
+          "title": "Loading states",
+          "lessons": [
+            {
+              "id": "react-section-4-unit-4-loading-states-lesson-1",
+              "unitId": "react-section-4-unit-4-loading-states",
+              "title": "Learn Loading states",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-4-loading-states-lesson-2",
+              "unitId": "react-section-4-unit-4-loading-states",
+              "title": "Practice Loading states",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-4-loading-states-lesson-3",
+              "unitId": "react-section-4-unit-4-loading-states",
+              "title": "Review Loading states",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-4-unit-5-error-states",
+          "sectionId": "react-section-4",
+          "order": 5,
+          "title": "Error states",
+          "lessons": [
+            {
+              "id": "react-section-4-unit-5-error-states-lesson-1",
+              "unitId": "react-section-4-unit-5-error-states",
+              "title": "Learn Error states",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-5-error-states-lesson-2",
+              "unitId": "react-section-4-unit-5-error-states",
+              "title": "Practice Error states",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-5-error-states-lesson-3",
+              "unitId": "react-section-4-unit-5-error-states",
+              "title": "Review Error states",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-4-unit-6-slot-patterns",
+          "sectionId": "react-section-4",
+          "order": 6,
+          "title": "Slot patterns",
+          "lessons": [
+            {
+              "id": "react-section-4-unit-6-slot-patterns-lesson-1",
+              "unitId": "react-section-4-unit-6-slot-patterns",
+              "title": "Learn Slot patterns",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-6-slot-patterns-lesson-2",
+              "unitId": "react-section-4-unit-6-slot-patterns",
+              "title": "Practice Slot patterns",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-6-slot-patterns-lesson-3",
+              "unitId": "react-section-4-unit-6-slot-patterns",
+              "title": "Review Slot patterns",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-4-unit-7-children-composition",
+          "sectionId": "react-section-4",
+          "order": 7,
+          "title": "Children composition",
+          "lessons": [
+            {
+              "id": "react-section-4-unit-7-children-composition-lesson-1",
+              "unitId": "react-section-4-unit-7-children-composition",
+              "title": "Learn Children composition",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-7-children-composition-lesson-2",
+              "unitId": "react-section-4-unit-7-children-composition",
+              "title": "Practice Children composition",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-7-children-composition-lesson-3",
+              "unitId": "react-section-4-unit-7-children-composition",
+              "title": "Review Children composition",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-4-unit-8-render-helpers",
+          "sectionId": "react-section-4",
+          "order": 8,
+          "title": "Render helpers",
+          "lessons": [
+            {
+              "id": "react-section-4-unit-8-render-helpers-lesson-1",
+              "unitId": "react-section-4-unit-8-render-helpers",
+              "title": "Learn Render helpers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-8-render-helpers-lesson-2",
+              "unitId": "react-section-4-unit-8-render-helpers",
+              "title": "Practice Render helpers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-8-render-helpers-lesson-3",
+              "unitId": "react-section-4-unit-8-render-helpers",
+              "title": "Review Render helpers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-4-unit-9-reusable-cards",
+          "sectionId": "react-section-4",
+          "order": 9,
+          "title": "Reusable cards",
+          "lessons": [
+            {
+              "id": "react-section-4-unit-9-reusable-cards-lesson-1",
+              "unitId": "react-section-4-unit-9-reusable-cards",
+              "title": "Learn Reusable cards",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-9-reusable-cards-lesson-2",
+              "unitId": "react-section-4-unit-9-reusable-cards",
+              "title": "Practice Reusable cards",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-9-reusable-cards-lesson-3",
+              "unitId": "react-section-4-unit-9-reusable-cards",
+              "title": "Review Reusable cards",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-4-unit-10-rendering-polish",
+          "sectionId": "react-section-4",
+          "order": 10,
+          "title": "Rendering polish",
+          "lessons": [
+            {
+              "id": "react-section-4-unit-10-rendering-polish-lesson-1",
+              "unitId": "react-section-4-unit-10-rendering-polish",
+              "title": "Learn Rendering polish",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-10-rendering-polish-lesson-2",
+              "unitId": "react-section-4-unit-10-rendering-polish",
+              "title": "Practice Rendering polish",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-4-unit-10-rendering-polish-lesson-3",
+              "unitId": "react-section-4-unit-10-rendering-polish",
+              "title": "Review Rendering polish",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "react-section-5",
+      "trackId": "react",
+      "order": 5,
+      "title": "Section 5: Forms",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "react-section-5-unit-1-controlled-forms",
+          "sectionId": "react-section-5",
+          "order": 1,
+          "title": "Controlled forms",
+          "lessons": [
+            {
+              "id": "react-section-5-unit-1-controlled-forms-lesson-1",
+              "unitId": "react-section-5-unit-1-controlled-forms",
+              "title": "Learn Controlled forms",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-1-controlled-forms-lesson-2",
+              "unitId": "react-section-5-unit-1-controlled-forms",
+              "title": "Practice Controlled forms",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-1-controlled-forms-lesson-3",
+              "unitId": "react-section-5-unit-1-controlled-forms",
+              "title": "Review Controlled forms",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-5-unit-2-textarea-and-select",
+          "sectionId": "react-section-5",
+          "order": 2,
+          "title": "Textarea and select",
+          "lessons": [
+            {
+              "id": "react-section-5-unit-2-textarea-and-select-lesson-1",
+              "unitId": "react-section-5-unit-2-textarea-and-select",
+              "title": "Learn Textarea and select",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-2-textarea-and-select-lesson-2",
+              "unitId": "react-section-5-unit-2-textarea-and-select",
+              "title": "Practice Textarea and select",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-2-textarea-and-select-lesson-3",
+              "unitId": "react-section-5-unit-2-textarea-and-select",
+              "title": "Review Textarea and select",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-5-unit-3-checkboxes",
+          "sectionId": "react-section-5",
+          "order": 3,
+          "title": "Checkboxes",
+          "lessons": [
+            {
+              "id": "react-section-5-unit-3-checkboxes-lesson-1",
+              "unitId": "react-section-5-unit-3-checkboxes",
+              "title": "Learn Checkboxes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-3-checkboxes-lesson-2",
+              "unitId": "react-section-5-unit-3-checkboxes",
+              "title": "Practice Checkboxes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-3-checkboxes-lesson-3",
+              "unitId": "react-section-5-unit-3-checkboxes",
+              "title": "Review Checkboxes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-5-unit-4-validation",
+          "sectionId": "react-section-5",
+          "order": 4,
+          "title": "Validation",
+          "lessons": [
+            {
+              "id": "react-section-5-unit-4-validation-lesson-1",
+              "unitId": "react-section-5-unit-4-validation",
+              "title": "Learn Validation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-4-validation-lesson-2",
+              "unitId": "react-section-5-unit-4-validation",
+              "title": "Practice Validation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-4-validation-lesson-3",
+              "unitId": "react-section-5-unit-4-validation",
+              "title": "Review Validation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-5-unit-5-form-errors",
+          "sectionId": "react-section-5",
+          "order": 5,
+          "title": "Form errors",
+          "lessons": [
+            {
+              "id": "react-section-5-unit-5-form-errors-lesson-1",
+              "unitId": "react-section-5-unit-5-form-errors",
+              "title": "Learn Form errors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-5-form-errors-lesson-2",
+              "unitId": "react-section-5-unit-5-form-errors",
+              "title": "Practice Form errors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-5-form-errors-lesson-3",
+              "unitId": "react-section-5-unit-5-form-errors",
+              "title": "Review Form errors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-5-unit-6-submission-state",
+          "sectionId": "react-section-5",
+          "order": 6,
+          "title": "Submission state",
+          "lessons": [
+            {
+              "id": "react-section-5-unit-6-submission-state-lesson-1",
+              "unitId": "react-section-5-unit-6-submission-state",
+              "title": "Learn Submission state",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-6-submission-state-lesson-2",
+              "unitId": "react-section-5-unit-6-submission-state",
+              "title": "Practice Submission state",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-6-submission-state-lesson-3",
+              "unitId": "react-section-5-unit-6-submission-state",
+              "title": "Review Submission state",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-5-unit-7-reset-flows",
+          "sectionId": "react-section-5",
+          "order": 7,
+          "title": "Reset flows",
+          "lessons": [
+            {
+              "id": "react-section-5-unit-7-reset-flows-lesson-1",
+              "unitId": "react-section-5-unit-7-reset-flows",
+              "title": "Learn Reset flows",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-7-reset-flows-lesson-2",
+              "unitId": "react-section-5-unit-7-reset-flows",
+              "title": "Practice Reset flows",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-7-reset-flows-lesson-3",
+              "unitId": "react-section-5-unit-7-reset-flows",
+              "title": "Review Reset flows",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-5-unit-8-accessible-labels",
+          "sectionId": "react-section-5",
+          "order": 8,
+          "title": "Accessible labels",
+          "lessons": [
+            {
+              "id": "react-section-5-unit-8-accessible-labels-lesson-1",
+              "unitId": "react-section-5-unit-8-accessible-labels",
+              "title": "Learn Accessible labels",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-8-accessible-labels-lesson-2",
+              "unitId": "react-section-5-unit-8-accessible-labels",
+              "title": "Practice Accessible labels",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-8-accessible-labels-lesson-3",
+              "unitId": "react-section-5-unit-8-accessible-labels",
+              "title": "Review Accessible labels",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-5-unit-9-multi-step-forms",
+          "sectionId": "react-section-5",
+          "order": 9,
+          "title": "Multi-step forms",
+          "lessons": [
+            {
+              "id": "react-section-5-unit-9-multi-step-forms-lesson-1",
+              "unitId": "react-section-5-unit-9-multi-step-forms",
+              "title": "Learn Multi-step forms",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-9-multi-step-forms-lesson-2",
+              "unitId": "react-section-5-unit-9-multi-step-forms",
+              "title": "Practice Multi-step forms",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-9-multi-step-forms-lesson-3",
+              "unitId": "react-section-5-unit-9-multi-step-forms",
+              "title": "Review Multi-step forms",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-5-unit-10-form-project",
+          "sectionId": "react-section-5",
+          "order": 10,
+          "title": "Form project",
+          "lessons": [
+            {
+              "id": "react-section-5-unit-10-form-project-lesson-1",
+              "unitId": "react-section-5-unit-10-form-project",
+              "title": "Learn Form project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-10-form-project-lesson-2",
+              "unitId": "react-section-5-unit-10-form-project",
+              "title": "Practice Form project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-5-unit-10-form-project-lesson-3",
+              "unitId": "react-section-5-unit-10-form-project",
+              "title": "Review Form project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "react-section-6",
+      "trackId": "react",
+      "order": 6,
+      "title": "Section 6: Context & State",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "react-section-6-unit-1-context-basics",
+          "sectionId": "react-section-6",
+          "order": 1,
+          "title": "Context basics",
+          "lessons": [
+            {
+              "id": "react-section-6-unit-1-context-basics-lesson-1",
+              "unitId": "react-section-6-unit-1-context-basics",
+              "title": "Learn Context basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-1-context-basics-lesson-2",
+              "unitId": "react-section-6-unit-1-context-basics",
+              "title": "Practice Context basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-1-context-basics-lesson-3",
+              "unitId": "react-section-6-unit-1-context-basics",
+              "title": "Review Context basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-6-unit-2-provider-setup",
+          "sectionId": "react-section-6",
+          "order": 2,
+          "title": "Provider setup",
+          "lessons": [
+            {
+              "id": "react-section-6-unit-2-provider-setup-lesson-1",
+              "unitId": "react-section-6-unit-2-provider-setup",
+              "title": "Learn Provider setup",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-2-provider-setup-lesson-2",
+              "unitId": "react-section-6-unit-2-provider-setup",
+              "title": "Practice Provider setup",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-2-provider-setup-lesson-3",
+              "unitId": "react-section-6-unit-2-provider-setup",
+              "title": "Review Provider setup",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-6-unit-3-usecontext",
+          "sectionId": "react-section-6",
+          "order": 3,
+          "title": "useContext",
+          "lessons": [
+            {
+              "id": "react-section-6-unit-3-usecontext-lesson-1",
+              "unitId": "react-section-6-unit-3-usecontext",
+              "title": "Learn useContext",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-3-usecontext-lesson-2",
+              "unitId": "react-section-6-unit-3-usecontext",
+              "title": "Practice useContext",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-3-usecontext-lesson-3",
+              "unitId": "react-section-6-unit-3-usecontext",
+              "title": "Review useContext",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-6-unit-4-reducer-basics",
+          "sectionId": "react-section-6",
+          "order": 4,
+          "title": "Reducer basics",
+          "lessons": [
+            {
+              "id": "react-section-6-unit-4-reducer-basics-lesson-1",
+              "unitId": "react-section-6-unit-4-reducer-basics",
+              "title": "Learn Reducer basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-4-reducer-basics-lesson-2",
+              "unitId": "react-section-6-unit-4-reducer-basics",
+              "title": "Practice Reducer basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-4-reducer-basics-lesson-3",
+              "unitId": "react-section-6-unit-4-reducer-basics",
+              "title": "Review Reducer basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-6-unit-5-usereducer",
+          "sectionId": "react-section-6",
+          "order": 5,
+          "title": "useReducer",
+          "lessons": [
+            {
+              "id": "react-section-6-unit-5-usereducer-lesson-1",
+              "unitId": "react-section-6-unit-5-usereducer",
+              "title": "Learn useReducer",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-5-usereducer-lesson-2",
+              "unitId": "react-section-6-unit-5-usereducer",
+              "title": "Practice useReducer",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-5-usereducer-lesson-3",
+              "unitId": "react-section-6-unit-5-usereducer",
+              "title": "Review useReducer",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-6-unit-6-action-modeling",
+          "sectionId": "react-section-6",
+          "order": 6,
+          "title": "Action modeling",
+          "lessons": [
+            {
+              "id": "react-section-6-unit-6-action-modeling-lesson-1",
+              "unitId": "react-section-6-unit-6-action-modeling",
+              "title": "Learn Action modeling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-6-action-modeling-lesson-2",
+              "unitId": "react-section-6-unit-6-action-modeling",
+              "title": "Practice Action modeling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-6-action-modeling-lesson-3",
+              "unitId": "react-section-6-unit-6-action-modeling",
+              "title": "Review Action modeling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-6-unit-7-avoiding-over-render",
+          "sectionId": "react-section-6",
+          "order": 7,
+          "title": "Avoiding over-render",
+          "lessons": [
+            {
+              "id": "react-section-6-unit-7-avoiding-over-render-lesson-1",
+              "unitId": "react-section-6-unit-7-avoiding-over-render",
+              "title": "Learn Avoiding over-render",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-7-avoiding-over-render-lesson-2",
+              "unitId": "react-section-6-unit-7-avoiding-over-render",
+              "title": "Practice Avoiding over-render",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-7-avoiding-over-render-lesson-3",
+              "unitId": "react-section-6-unit-7-avoiding-over-render",
+              "title": "Review Avoiding over-render",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-6-unit-8-global-ui-state",
+          "sectionId": "react-section-6",
+          "order": 8,
+          "title": "Global UI state",
+          "lessons": [
+            {
+              "id": "react-section-6-unit-8-global-ui-state-lesson-1",
+              "unitId": "react-section-6-unit-8-global-ui-state",
+              "title": "Learn Global UI state",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-8-global-ui-state-lesson-2",
+              "unitId": "react-section-6-unit-8-global-ui-state",
+              "title": "Practice Global UI state",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-8-global-ui-state-lesson-3",
+              "unitId": "react-section-6-unit-8-global-ui-state",
+              "title": "Review Global UI state",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-6-unit-9-persisted-state",
+          "sectionId": "react-section-6",
+          "order": 9,
+          "title": "Persisted state",
+          "lessons": [
+            {
+              "id": "react-section-6-unit-9-persisted-state-lesson-1",
+              "unitId": "react-section-6-unit-9-persisted-state",
+              "title": "Learn Persisted state",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-9-persisted-state-lesson-2",
+              "unitId": "react-section-6-unit-9-persisted-state",
+              "title": "Practice Persisted state",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-9-persisted-state-lesson-3",
+              "unitId": "react-section-6-unit-9-persisted-state",
+              "title": "Review Persisted state",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-6-unit-10-state-architecture",
+          "sectionId": "react-section-6",
+          "order": 10,
+          "title": "State architecture",
+          "lessons": [
+            {
+              "id": "react-section-6-unit-10-state-architecture-lesson-1",
+              "unitId": "react-section-6-unit-10-state-architecture",
+              "title": "Learn State architecture",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-10-state-architecture-lesson-2",
+              "unitId": "react-section-6-unit-10-state-architecture",
+              "title": "Practice State architecture",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-6-unit-10-state-architecture-lesson-3",
+              "unitId": "react-section-6-unit-10-state-architecture",
+              "title": "Review State architecture",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "react-section-7",
+      "trackId": "react",
+      "order": 7,
+      "title": "Section 7: Data Fetching",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "react-section-7-unit-1-client-fetching",
+          "sectionId": "react-section-7",
+          "order": 1,
+          "title": "Client fetching",
+          "lessons": [
+            {
+              "id": "react-section-7-unit-1-client-fetching-lesson-1",
+              "unitId": "react-section-7-unit-1-client-fetching",
+              "title": "Learn Client fetching",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-1-client-fetching-lesson-2",
+              "unitId": "react-section-7-unit-1-client-fetching",
+              "title": "Practice Client fetching",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-1-client-fetching-lesson-3",
+              "unitId": "react-section-7-unit-1-client-fetching",
+              "title": "Review Client fetching",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-7-unit-2-effect-fetching",
+          "sectionId": "react-section-7",
+          "order": 2,
+          "title": "Effect fetching",
+          "lessons": [
+            {
+              "id": "react-section-7-unit-2-effect-fetching-lesson-1",
+              "unitId": "react-section-7-unit-2-effect-fetching",
+              "title": "Learn Effect fetching",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-2-effect-fetching-lesson-2",
+              "unitId": "react-section-7-unit-2-effect-fetching",
+              "title": "Practice Effect fetching",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-2-effect-fetching-lesson-3",
+              "unitId": "react-section-7-unit-2-effect-fetching",
+              "title": "Review Effect fetching",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-7-unit-3-abort-controller",
+          "sectionId": "react-section-7",
+          "order": 3,
+          "title": "Abort controller",
+          "lessons": [
+            {
+              "id": "react-section-7-unit-3-abort-controller-lesson-1",
+              "unitId": "react-section-7-unit-3-abort-controller",
+              "title": "Learn Abort controller",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-3-abort-controller-lesson-2",
+              "unitId": "react-section-7-unit-3-abort-controller",
+              "title": "Practice Abort controller",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-3-abort-controller-lesson-3",
+              "unitId": "react-section-7-unit-3-abort-controller",
+              "title": "Review Abort controller",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-7-unit-4-loading-skeletons",
+          "sectionId": "react-section-7",
+          "order": 4,
+          "title": "Loading skeletons",
+          "lessons": [
+            {
+              "id": "react-section-7-unit-4-loading-skeletons-lesson-1",
+              "unitId": "react-section-7-unit-4-loading-skeletons",
+              "title": "Learn Loading skeletons",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-4-loading-skeletons-lesson-2",
+              "unitId": "react-section-7-unit-4-loading-skeletons",
+              "title": "Practice Loading skeletons",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-4-loading-skeletons-lesson-3",
+              "unitId": "react-section-7-unit-4-loading-skeletons",
+              "title": "Review Loading skeletons",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-7-unit-5-error-retries",
+          "sectionId": "react-section-7",
+          "order": 5,
+          "title": "Error retries",
+          "lessons": [
+            {
+              "id": "react-section-7-unit-5-error-retries-lesson-1",
+              "unitId": "react-section-7-unit-5-error-retries",
+              "title": "Learn Error retries",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-5-error-retries-lesson-2",
+              "unitId": "react-section-7-unit-5-error-retries",
+              "title": "Practice Error retries",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-5-error-retries-lesson-3",
+              "unitId": "react-section-7-unit-5-error-retries",
+              "title": "Review Error retries",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-7-unit-6-pagination",
+          "sectionId": "react-section-7",
+          "order": 6,
+          "title": "Pagination",
+          "lessons": [
+            {
+              "id": "react-section-7-unit-6-pagination-lesson-1",
+              "unitId": "react-section-7-unit-6-pagination",
+              "title": "Learn Pagination",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-6-pagination-lesson-2",
+              "unitId": "react-section-7-unit-6-pagination",
+              "title": "Practice Pagination",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-6-pagination-lesson-3",
+              "unitId": "react-section-7-unit-6-pagination",
+              "title": "Review Pagination",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-7-unit-7-optimistic-ui",
+          "sectionId": "react-section-7",
+          "order": 7,
+          "title": "Optimistic UI",
+          "lessons": [
+            {
+              "id": "react-section-7-unit-7-optimistic-ui-lesson-1",
+              "unitId": "react-section-7-unit-7-optimistic-ui",
+              "title": "Learn Optimistic UI",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-7-optimistic-ui-lesson-2",
+              "unitId": "react-section-7-unit-7-optimistic-ui",
+              "title": "Practice Optimistic UI",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-7-optimistic-ui-lesson-3",
+              "unitId": "react-section-7-unit-7-optimistic-ui",
+              "title": "Review Optimistic UI",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-7-unit-8-caching-concepts",
+          "sectionId": "react-section-7",
+          "order": 8,
+          "title": "Caching concepts",
+          "lessons": [
+            {
+              "id": "react-section-7-unit-8-caching-concepts-lesson-1",
+              "unitId": "react-section-7-unit-8-caching-concepts",
+              "title": "Learn Caching concepts",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-8-caching-concepts-lesson-2",
+              "unitId": "react-section-7-unit-8-caching-concepts",
+              "title": "Practice Caching concepts",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-8-caching-concepts-lesson-3",
+              "unitId": "react-section-7-unit-8-caching-concepts",
+              "title": "Review Caching concepts",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-7-unit-9-server-data-boundaries",
+          "sectionId": "react-section-7",
+          "order": 9,
+          "title": "Server data boundaries",
+          "lessons": [
+            {
+              "id": "react-section-7-unit-9-server-data-boundaries-lesson-1",
+              "unitId": "react-section-7-unit-9-server-data-boundaries",
+              "title": "Learn Server data boundaries",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-9-server-data-boundaries-lesson-2",
+              "unitId": "react-section-7-unit-9-server-data-boundaries",
+              "title": "Practice Server data boundaries",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-9-server-data-boundaries-lesson-3",
+              "unitId": "react-section-7-unit-9-server-data-boundaries",
+              "title": "Review Server data boundaries",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-7-unit-10-data-project",
+          "sectionId": "react-section-7",
+          "order": 10,
+          "title": "Data project",
+          "lessons": [
+            {
+              "id": "react-section-7-unit-10-data-project-lesson-1",
+              "unitId": "react-section-7-unit-10-data-project",
+              "title": "Learn Data project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-10-data-project-lesson-2",
+              "unitId": "react-section-7-unit-10-data-project",
+              "title": "Practice Data project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-7-unit-10-data-project-lesson-3",
+              "unitId": "react-section-7-unit-10-data-project",
+              "title": "Review Data project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "react-section-8",
+      "trackId": "react",
+      "order": 8,
+      "title": "Section 8: Performance",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "react-section-8-unit-1-render-costs",
+          "sectionId": "react-section-8",
+          "order": 1,
+          "title": "Render costs",
+          "lessons": [
+            {
+              "id": "react-section-8-unit-1-render-costs-lesson-1",
+              "unitId": "react-section-8-unit-1-render-costs",
+              "title": "Learn Render costs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-1-render-costs-lesson-2",
+              "unitId": "react-section-8-unit-1-render-costs",
+              "title": "Practice Render costs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-1-render-costs-lesson-3",
+              "unitId": "react-section-8-unit-1-render-costs",
+              "title": "Review Render costs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-8-unit-2-react-memo",
+          "sectionId": "react-section-8",
+          "order": 2,
+          "title": "React memo",
+          "lessons": [
+            {
+              "id": "react-section-8-unit-2-react-memo-lesson-1",
+              "unitId": "react-section-8-unit-2-react-memo",
+              "title": "Learn React memo",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-2-react-memo-lesson-2",
+              "unitId": "react-section-8-unit-2-react-memo",
+              "title": "Practice React memo",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-2-react-memo-lesson-3",
+              "unitId": "react-section-8-unit-2-react-memo",
+              "title": "Review React memo",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-8-unit-3-stable-props",
+          "sectionId": "react-section-8",
+          "order": 3,
+          "title": "Stable props",
+          "lessons": [
+            {
+              "id": "react-section-8-unit-3-stable-props-lesson-1",
+              "unitId": "react-section-8-unit-3-stable-props",
+              "title": "Learn Stable props",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-3-stable-props-lesson-2",
+              "unitId": "react-section-8-unit-3-stable-props",
+              "title": "Practice Stable props",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-3-stable-props-lesson-3",
+              "unitId": "react-section-8-unit-3-stable-props",
+              "title": "Review Stable props",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-8-unit-4-usememo-patterns",
+          "sectionId": "react-section-8",
+          "order": 4,
+          "title": "useMemo patterns",
+          "lessons": [
+            {
+              "id": "react-section-8-unit-4-usememo-patterns-lesson-1",
+              "unitId": "react-section-8-unit-4-usememo-patterns",
+              "title": "Learn useMemo patterns",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-4-usememo-patterns-lesson-2",
+              "unitId": "react-section-8-unit-4-usememo-patterns",
+              "title": "Practice useMemo patterns",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-4-usememo-patterns-lesson-3",
+              "unitId": "react-section-8-unit-4-usememo-patterns",
+              "title": "Review useMemo patterns",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-8-unit-5-usecallback-patterns",
+          "sectionId": "react-section-8",
+          "order": 5,
+          "title": "useCallback patterns",
+          "lessons": [
+            {
+              "id": "react-section-8-unit-5-usecallback-patterns-lesson-1",
+              "unitId": "react-section-8-unit-5-usecallback-patterns",
+              "title": "Learn useCallback patterns",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-5-usecallback-patterns-lesson-2",
+              "unitId": "react-section-8-unit-5-usecallback-patterns",
+              "title": "Practice useCallback patterns",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-5-usecallback-patterns-lesson-3",
+              "unitId": "react-section-8-unit-5-usecallback-patterns",
+              "title": "Review useCallback patterns",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-8-unit-6-virtual-lists",
+          "sectionId": "react-section-8",
+          "order": 6,
+          "title": "Virtual lists",
+          "lessons": [
+            {
+              "id": "react-section-8-unit-6-virtual-lists-lesson-1",
+              "unitId": "react-section-8-unit-6-virtual-lists",
+              "title": "Learn Virtual lists",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-6-virtual-lists-lesson-2",
+              "unitId": "react-section-8-unit-6-virtual-lists",
+              "title": "Practice Virtual lists",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-6-virtual-lists-lesson-3",
+              "unitId": "react-section-8-unit-6-virtual-lists",
+              "title": "Review Virtual lists",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-8-unit-7-code-splitting",
+          "sectionId": "react-section-8",
+          "order": 7,
+          "title": "Code splitting",
+          "lessons": [
+            {
+              "id": "react-section-8-unit-7-code-splitting-lesson-1",
+              "unitId": "react-section-8-unit-7-code-splitting",
+              "title": "Learn Code splitting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-7-code-splitting-lesson-2",
+              "unitId": "react-section-8-unit-7-code-splitting",
+              "title": "Practice Code splitting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-7-code-splitting-lesson-3",
+              "unitId": "react-section-8-unit-7-code-splitting",
+              "title": "Review Code splitting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-8-unit-8-profiler-basics",
+          "sectionId": "react-section-8",
+          "order": 8,
+          "title": "Profiler basics",
+          "lessons": [
+            {
+              "id": "react-section-8-unit-8-profiler-basics-lesson-1",
+              "unitId": "react-section-8-unit-8-profiler-basics",
+              "title": "Learn Profiler basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-8-profiler-basics-lesson-2",
+              "unitId": "react-section-8-unit-8-profiler-basics",
+              "title": "Practice Profiler basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-8-profiler-basics-lesson-3",
+              "unitId": "react-section-8-unit-8-profiler-basics",
+              "title": "Review Profiler basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-8-unit-9-avoiding-work",
+          "sectionId": "react-section-8",
+          "order": 9,
+          "title": "Avoiding work",
+          "lessons": [
+            {
+              "id": "react-section-8-unit-9-avoiding-work-lesson-1",
+              "unitId": "react-section-8-unit-9-avoiding-work",
+              "title": "Learn Avoiding work",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-9-avoiding-work-lesson-2",
+              "unitId": "react-section-8-unit-9-avoiding-work",
+              "title": "Practice Avoiding work",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-9-avoiding-work-lesson-3",
+              "unitId": "react-section-8-unit-9-avoiding-work",
+              "title": "Review Avoiding work",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-8-unit-10-performance-audit",
+          "sectionId": "react-section-8",
+          "order": 10,
+          "title": "Performance audit",
+          "lessons": [
+            {
+              "id": "react-section-8-unit-10-performance-audit-lesson-1",
+              "unitId": "react-section-8-unit-10-performance-audit",
+              "title": "Learn Performance audit",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-10-performance-audit-lesson-2",
+              "unitId": "react-section-8-unit-10-performance-audit",
+              "title": "Practice Performance audit",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-8-unit-10-performance-audit-lesson-3",
+              "unitId": "react-section-8-unit-10-performance-audit",
+              "title": "Review Performance audit",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "react-section-9",
+      "trackId": "react",
+      "order": 9,
+      "title": "Section 9: Advanced Patterns",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "react-section-9-unit-1-compound-components",
+          "sectionId": "react-section-9",
+          "order": 1,
+          "title": "Compound components",
+          "lessons": [
+            {
+              "id": "react-section-9-unit-1-compound-components-lesson-1",
+              "unitId": "react-section-9-unit-1-compound-components",
+              "title": "Learn Compound components",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-1-compound-components-lesson-2",
+              "unitId": "react-section-9-unit-1-compound-components",
+              "title": "Practice Compound components",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-1-compound-components-lesson-3",
+              "unitId": "react-section-9-unit-1-compound-components",
+              "title": "Review Compound components",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-9-unit-2-controlled-vs-uncontrolled",
+          "sectionId": "react-section-9",
+          "order": 2,
+          "title": "Controlled vs uncontrolled",
+          "lessons": [
+            {
+              "id": "react-section-9-unit-2-controlled-vs-uncontrolled-lesson-1",
+              "unitId": "react-section-9-unit-2-controlled-vs-uncontrolled",
+              "title": "Learn Controlled vs uncontrolled",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-2-controlled-vs-uncontrolled-lesson-2",
+              "unitId": "react-section-9-unit-2-controlled-vs-uncontrolled",
+              "title": "Practice Controlled vs uncontrolled",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-2-controlled-vs-uncontrolled-lesson-3",
+              "unitId": "react-section-9-unit-2-controlled-vs-uncontrolled",
+              "title": "Review Controlled vs uncontrolled",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-9-unit-3-portals",
+          "sectionId": "react-section-9",
+          "order": 3,
+          "title": "Portals",
+          "lessons": [
+            {
+              "id": "react-section-9-unit-3-portals-lesson-1",
+              "unitId": "react-section-9-unit-3-portals",
+              "title": "Learn Portals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-3-portals-lesson-2",
+              "unitId": "react-section-9-unit-3-portals",
+              "title": "Practice Portals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-3-portals-lesson-3",
+              "unitId": "react-section-9-unit-3-portals",
+              "title": "Review Portals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-9-unit-4-error-boundaries",
+          "sectionId": "react-section-9",
+          "order": 4,
+          "title": "Error boundaries",
+          "lessons": [
+            {
+              "id": "react-section-9-unit-4-error-boundaries-lesson-1",
+              "unitId": "react-section-9-unit-4-error-boundaries",
+              "title": "Learn Error boundaries",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-4-error-boundaries-lesson-2",
+              "unitId": "react-section-9-unit-4-error-boundaries",
+              "title": "Practice Error boundaries",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-4-error-boundaries-lesson-3",
+              "unitId": "react-section-9-unit-4-error-boundaries",
+              "title": "Review Error boundaries",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-9-unit-5-suspense-basics",
+          "sectionId": "react-section-9",
+          "order": 5,
+          "title": "Suspense basics",
+          "lessons": [
+            {
+              "id": "react-section-9-unit-5-suspense-basics-lesson-1",
+              "unitId": "react-section-9-unit-5-suspense-basics",
+              "title": "Learn Suspense basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-5-suspense-basics-lesson-2",
+              "unitId": "react-section-9-unit-5-suspense-basics",
+              "title": "Practice Suspense basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-5-suspense-basics-lesson-3",
+              "unitId": "react-section-9-unit-5-suspense-basics",
+              "title": "Review Suspense basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-9-unit-6-animations",
+          "sectionId": "react-section-9",
+          "order": 6,
+          "title": "Animations",
+          "lessons": [
+            {
+              "id": "react-section-9-unit-6-animations-lesson-1",
+              "unitId": "react-section-9-unit-6-animations",
+              "title": "Learn Animations",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-6-animations-lesson-2",
+              "unitId": "react-section-9-unit-6-animations",
+              "title": "Practice Animations",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-6-animations-lesson-3",
+              "unitId": "react-section-9-unit-6-animations",
+              "title": "Review Animations",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-9-unit-7-accessibility-patterns",
+          "sectionId": "react-section-9",
+          "order": 7,
+          "title": "Accessibility patterns",
+          "lessons": [
+            {
+              "id": "react-section-9-unit-7-accessibility-patterns-lesson-1",
+              "unitId": "react-section-9-unit-7-accessibility-patterns",
+              "title": "Learn Accessibility patterns",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-7-accessibility-patterns-lesson-2",
+              "unitId": "react-section-9-unit-7-accessibility-patterns",
+              "title": "Practice Accessibility patterns",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-7-accessibility-patterns-lesson-3",
+              "unitId": "react-section-9-unit-7-accessibility-patterns",
+              "title": "Review Accessibility patterns",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-9-unit-8-testing-components",
+          "sectionId": "react-section-9",
+          "order": 8,
+          "title": "Testing components",
+          "lessons": [
+            {
+              "id": "react-section-9-unit-8-testing-components-lesson-1",
+              "unitId": "react-section-9-unit-8-testing-components",
+              "title": "Learn Testing components",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-8-testing-components-lesson-2",
+              "unitId": "react-section-9-unit-8-testing-components",
+              "title": "Practice Testing components",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-8-testing-components-lesson-3",
+              "unitId": "react-section-9-unit-8-testing-components",
+              "title": "Review Testing components",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-9-unit-9-design-systems",
+          "sectionId": "react-section-9",
+          "order": 9,
+          "title": "Design systems",
+          "lessons": [
+            {
+              "id": "react-section-9-unit-9-design-systems-lesson-1",
+              "unitId": "react-section-9-unit-9-design-systems",
+              "title": "Learn Design systems",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-9-design-systems-lesson-2",
+              "unitId": "react-section-9-unit-9-design-systems",
+              "title": "Practice Design systems",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-9-design-systems-lesson-3",
+              "unitId": "react-section-9-unit-9-design-systems",
+              "title": "Review Design systems",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-9-unit-10-advanced-refactor",
+          "sectionId": "react-section-9",
+          "order": 10,
+          "title": "Advanced refactor",
+          "lessons": [
+            {
+              "id": "react-section-9-unit-10-advanced-refactor-lesson-1",
+              "unitId": "react-section-9-unit-10-advanced-refactor",
+              "title": "Learn Advanced refactor",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-10-advanced-refactor-lesson-2",
+              "unitId": "react-section-9-unit-10-advanced-refactor",
+              "title": "Practice Advanced refactor",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-9-unit-10-advanced-refactor-lesson-3",
+              "unitId": "react-section-9-unit-10-advanced-refactor",
+              "title": "Review Advanced refactor",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "react-section-10",
+      "trackId": "react",
+      "order": 10,
+      "title": "Section 10: React Capstones",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "react-section-10-unit-1-todo-app",
+          "sectionId": "react-section-10",
+          "order": 1,
+          "title": "Todo app",
+          "lessons": [
+            {
+              "id": "react-section-10-unit-1-todo-app-lesson-1",
+              "unitId": "react-section-10-unit-1-todo-app",
+              "title": "Learn Todo app",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-1-todo-app-lesson-2",
+              "unitId": "react-section-10-unit-1-todo-app",
+              "title": "Practice Todo app",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-1-todo-app-lesson-3",
+              "unitId": "react-section-10-unit-1-todo-app",
+              "title": "Review Todo app",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-10-unit-2-quiz-app",
+          "sectionId": "react-section-10",
+          "order": 2,
+          "title": "Quiz app",
+          "lessons": [
+            {
+              "id": "react-section-10-unit-2-quiz-app-lesson-1",
+              "unitId": "react-section-10-unit-2-quiz-app",
+              "title": "Learn Quiz app",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-2-quiz-app-lesson-2",
+              "unitId": "react-section-10-unit-2-quiz-app",
+              "title": "Practice Quiz app",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-2-quiz-app-lesson-3",
+              "unitId": "react-section-10-unit-2-quiz-app",
+              "title": "Review Quiz app",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-10-unit-3-dashboard",
+          "sectionId": "react-section-10",
+          "order": 3,
+          "title": "Dashboard",
+          "lessons": [
+            {
+              "id": "react-section-10-unit-3-dashboard-lesson-1",
+              "unitId": "react-section-10-unit-3-dashboard",
+              "title": "Learn Dashboard",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-3-dashboard-lesson-2",
+              "unitId": "react-section-10-unit-3-dashboard",
+              "title": "Practice Dashboard",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-3-dashboard-lesson-3",
+              "unitId": "react-section-10-unit-3-dashboard",
+              "title": "Review Dashboard",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-10-unit-4-settings-page",
+          "sectionId": "react-section-10",
+          "order": 4,
+          "title": "Settings page",
+          "lessons": [
+            {
+              "id": "react-section-10-unit-4-settings-page-lesson-1",
+              "unitId": "react-section-10-unit-4-settings-page",
+              "title": "Learn Settings page",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-4-settings-page-lesson-2",
+              "unitId": "react-section-10-unit-4-settings-page",
+              "title": "Practice Settings page",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-4-settings-page-lesson-3",
+              "unitId": "react-section-10-unit-4-settings-page",
+              "title": "Review Settings page",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-10-unit-5-search-ui",
+          "sectionId": "react-section-10",
+          "order": 5,
+          "title": "Search UI",
+          "lessons": [
+            {
+              "id": "react-section-10-unit-5-search-ui-lesson-1",
+              "unitId": "react-section-10-unit-5-search-ui",
+              "title": "Learn Search UI",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-5-search-ui-lesson-2",
+              "unitId": "react-section-10-unit-5-search-ui",
+              "title": "Practice Search UI",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-5-search-ui-lesson-3",
+              "unitId": "react-section-10-unit-5-search-ui",
+              "title": "Review Search UI",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-10-unit-6-modal-flow",
+          "sectionId": "react-section-10",
+          "order": 6,
+          "title": "Modal flow",
+          "lessons": [
+            {
+              "id": "react-section-10-unit-6-modal-flow-lesson-1",
+              "unitId": "react-section-10-unit-6-modal-flow",
+              "title": "Learn Modal flow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-6-modal-flow-lesson-2",
+              "unitId": "react-section-10-unit-6-modal-flow",
+              "title": "Practice Modal flow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-6-modal-flow-lesson-3",
+              "unitId": "react-section-10-unit-6-modal-flow",
+              "title": "Review Modal flow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-10-unit-7-theme-switcher",
+          "sectionId": "react-section-10",
+          "order": 7,
+          "title": "Theme switcher",
+          "lessons": [
+            {
+              "id": "react-section-10-unit-7-theme-switcher-lesson-1",
+              "unitId": "react-section-10-unit-7-theme-switcher",
+              "title": "Learn Theme switcher",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-7-theme-switcher-lesson-2",
+              "unitId": "react-section-10-unit-7-theme-switcher",
+              "title": "Practice Theme switcher",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-7-theme-switcher-lesson-3",
+              "unitId": "react-section-10-unit-7-theme-switcher",
+              "title": "Review Theme switcher",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-10-unit-8-data-table",
+          "sectionId": "react-section-10",
+          "order": 8,
+          "title": "Data table",
+          "lessons": [
+            {
+              "id": "react-section-10-unit-8-data-table-lesson-1",
+              "unitId": "react-section-10-unit-8-data-table",
+              "title": "Learn Data table",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-8-data-table-lesson-2",
+              "unitId": "react-section-10-unit-8-data-table",
+              "title": "Practice Data table",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-8-data-table-lesson-3",
+              "unitId": "react-section-10-unit-8-data-table",
+              "title": "Review Data table",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-10-unit-9-performance-pass",
+          "sectionId": "react-section-10",
+          "order": 9,
+          "title": "Performance pass",
+          "lessons": [
+            {
+              "id": "react-section-10-unit-9-performance-pass-lesson-1",
+              "unitId": "react-section-10-unit-9-performance-pass",
+              "title": "Learn Performance pass",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-9-performance-pass-lesson-2",
+              "unitId": "react-section-10-unit-9-performance-pass",
+              "title": "Practice Performance pass",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-9-performance-pass-lesson-3",
+              "unitId": "react-section-10-unit-9-performance-pass",
+              "title": "Review Performance pass",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "react-section-10-unit-10-final-react-project",
+          "sectionId": "react-section-10",
+          "order": 10,
+          "title": "Final React project",
+          "lessons": [
+            {
+              "id": "react-section-10-unit-10-final-react-project-lesson-1",
+              "unitId": "react-section-10-unit-10-final-react-project",
+              "title": "Learn Final React project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-10-final-react-project-lesson-2",
+              "unitId": "react-section-10-unit-10-final-react-project",
+              "title": "Practice Final React project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "react-section-10-unit-10-final-react-project-lesson-3",
+              "unitId": "react-section-10-unit-10-final-react-project",
+              "title": "Review Final React project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

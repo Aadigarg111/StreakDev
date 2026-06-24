@@ -1,0 +1,3006 @@
+{
+  "id": "html-css",
+  "title": "HTML & CSS",
+  "category": "web-dev",
+  "icon": "code-xml",
+  "color": "#58CC02",
+  "description": "Build semantic, responsive, accessible interfaces from first principles.",
+  "sections": [
+    {
+      "id": "html-css-section-1",
+      "trackId": "html-css",
+      "order": 1,
+      "title": "Section 1: HTML Foundations",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "html-css-section-1-unit-1-document-anatomy",
+          "sectionId": "html-css-section-1",
+          "order": 1,
+          "title": "Document anatomy",
+          "lessons": [
+            {
+              "id": "html-css-section-1-unit-1-document-anatomy-lesson-1",
+              "unitId": "html-css-section-1-unit-1-document-anatomy",
+              "title": "Learn Document anatomy",
+              "order": 1,
+              "exerciseIds": [
+                "html-css-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "html-css-section-1-unit-1-document-anatomy-lesson-2",
+              "unitId": "html-css-section-1-unit-1-document-anatomy",
+              "title": "Practice Document anatomy",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-1-document-anatomy-lesson-3",
+              "unitId": "html-css-section-1-unit-1-document-anatomy",
+              "title": "Review Document anatomy",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-1-unit-2-headings-and-text",
+          "sectionId": "html-css-section-1",
+          "order": 2,
+          "title": "Headings and text",
+          "lessons": [
+            {
+              "id": "html-css-section-1-unit-2-headings-and-text-lesson-1",
+              "unitId": "html-css-section-1-unit-2-headings-and-text",
+              "title": "Learn Headings and text",
+              "order": 1,
+              "exerciseIds": [
+                "html-css-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "html-css-section-1-unit-2-headings-and-text-lesson-2",
+              "unitId": "html-css-section-1-unit-2-headings-and-text",
+              "title": "Practice Headings and text",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-2-headings-and-text-lesson-3",
+              "unitId": "html-css-section-1-unit-2-headings-and-text",
+              "title": "Review Headings and text",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-1-unit-3-links-and-anchors",
+          "sectionId": "html-css-section-1",
+          "order": 3,
+          "title": "Links and anchors",
+          "lessons": [
+            {
+              "id": "html-css-section-1-unit-3-links-and-anchors-lesson-1",
+              "unitId": "html-css-section-1-unit-3-links-and-anchors",
+              "title": "Learn Links and anchors",
+              "order": 1,
+              "exerciseIds": [
+                "html-css-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "html-css-section-1-unit-3-links-and-anchors-lesson-2",
+              "unitId": "html-css-section-1-unit-3-links-and-anchors",
+              "title": "Practice Links and anchors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-3-links-and-anchors-lesson-3",
+              "unitId": "html-css-section-1-unit-3-links-and-anchors",
+              "title": "Review Links and anchors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-1-unit-4-images-and-alt-text",
+          "sectionId": "html-css-section-1",
+          "order": 4,
+          "title": "Images and alt text",
+          "lessons": [
+            {
+              "id": "html-css-section-1-unit-4-images-and-alt-text-lesson-1",
+              "unitId": "html-css-section-1-unit-4-images-and-alt-text",
+              "title": "Learn Images and alt text",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-4-images-and-alt-text-lesson-2",
+              "unitId": "html-css-section-1-unit-4-images-and-alt-text",
+              "title": "Practice Images and alt text",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-4-images-and-alt-text-lesson-3",
+              "unitId": "html-css-section-1-unit-4-images-and-alt-text",
+              "title": "Review Images and alt text",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-1-unit-5-lists-and-tables",
+          "sectionId": "html-css-section-1",
+          "order": 5,
+          "title": "Lists and tables",
+          "lessons": [
+            {
+              "id": "html-css-section-1-unit-5-lists-and-tables-lesson-1",
+              "unitId": "html-css-section-1-unit-5-lists-and-tables",
+              "title": "Learn Lists and tables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-5-lists-and-tables-lesson-2",
+              "unitId": "html-css-section-1-unit-5-lists-and-tables",
+              "title": "Practice Lists and tables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-5-lists-and-tables-lesson-3",
+              "unitId": "html-css-section-1-unit-5-lists-and-tables",
+              "title": "Review Lists and tables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-1-unit-6-semantic-page-layout",
+          "sectionId": "html-css-section-1",
+          "order": 6,
+          "title": "Semantic page layout",
+          "lessons": [
+            {
+              "id": "html-css-section-1-unit-6-semantic-page-layout-lesson-1",
+              "unitId": "html-css-section-1-unit-6-semantic-page-layout",
+              "title": "Learn Semantic page layout",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-6-semantic-page-layout-lesson-2",
+              "unitId": "html-css-section-1-unit-6-semantic-page-layout",
+              "title": "Practice Semantic page layout",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-6-semantic-page-layout-lesson-3",
+              "unitId": "html-css-section-1-unit-6-semantic-page-layout",
+              "title": "Review Semantic page layout",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-1-unit-7-metadata-and-seo-basics",
+          "sectionId": "html-css-section-1",
+          "order": 7,
+          "title": "Metadata and SEO basics",
+          "lessons": [
+            {
+              "id": "html-css-section-1-unit-7-metadata-and-seo-basics-lesson-1",
+              "unitId": "html-css-section-1-unit-7-metadata-and-seo-basics",
+              "title": "Learn Metadata and SEO basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-7-metadata-and-seo-basics-lesson-2",
+              "unitId": "html-css-section-1-unit-7-metadata-and-seo-basics",
+              "title": "Practice Metadata and SEO basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-7-metadata-and-seo-basics-lesson-3",
+              "unitId": "html-css-section-1-unit-7-metadata-and-seo-basics",
+              "title": "Review Metadata and SEO basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-1-unit-8-audio-and-video",
+          "sectionId": "html-css-section-1",
+          "order": 8,
+          "title": "Audio and video",
+          "lessons": [
+            {
+              "id": "html-css-section-1-unit-8-audio-and-video-lesson-1",
+              "unitId": "html-css-section-1-unit-8-audio-and-video",
+              "title": "Learn Audio and video",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-8-audio-and-video-lesson-2",
+              "unitId": "html-css-section-1-unit-8-audio-and-video",
+              "title": "Practice Audio and video",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-8-audio-and-video-lesson-3",
+              "unitId": "html-css-section-1-unit-8-audio-and-video",
+              "title": "Review Audio and video",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-1-unit-9-forms-introduction",
+          "sectionId": "html-css-section-1",
+          "order": 9,
+          "title": "Forms introduction",
+          "lessons": [
+            {
+              "id": "html-css-section-1-unit-9-forms-introduction-lesson-1",
+              "unitId": "html-css-section-1-unit-9-forms-introduction",
+              "title": "Learn Forms introduction",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-9-forms-introduction-lesson-2",
+              "unitId": "html-css-section-1-unit-9-forms-introduction",
+              "title": "Practice Forms introduction",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-9-forms-introduction-lesson-3",
+              "unitId": "html-css-section-1-unit-9-forms-introduction",
+              "title": "Review Forms introduction",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-1-unit-10-html-validation",
+          "sectionId": "html-css-section-1",
+          "order": 10,
+          "title": "HTML validation",
+          "lessons": [
+            {
+              "id": "html-css-section-1-unit-10-html-validation-lesson-1",
+              "unitId": "html-css-section-1-unit-10-html-validation",
+              "title": "Learn HTML validation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-10-html-validation-lesson-2",
+              "unitId": "html-css-section-1-unit-10-html-validation",
+              "title": "Practice HTML validation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-1-unit-10-html-validation-lesson-3",
+              "unitId": "html-css-section-1-unit-10-html-validation",
+              "title": "Review HTML validation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "html-css-section-2",
+      "trackId": "html-css",
+      "order": 2,
+      "title": "Section 2: CSS Foundations",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "html-css-section-2-unit-1-selectors",
+          "sectionId": "html-css-section-2",
+          "order": 1,
+          "title": "Selectors",
+          "lessons": [
+            {
+              "id": "html-css-section-2-unit-1-selectors-lesson-1",
+              "unitId": "html-css-section-2-unit-1-selectors",
+              "title": "Learn Selectors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-1-selectors-lesson-2",
+              "unitId": "html-css-section-2-unit-1-selectors",
+              "title": "Practice Selectors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-1-selectors-lesson-3",
+              "unitId": "html-css-section-2-unit-1-selectors",
+              "title": "Review Selectors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-2-unit-2-specificity",
+          "sectionId": "html-css-section-2",
+          "order": 2,
+          "title": "Specificity",
+          "lessons": [
+            {
+              "id": "html-css-section-2-unit-2-specificity-lesson-1",
+              "unitId": "html-css-section-2-unit-2-specificity",
+              "title": "Learn Specificity",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-2-specificity-lesson-2",
+              "unitId": "html-css-section-2-unit-2-specificity",
+              "title": "Practice Specificity",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-2-specificity-lesson-3",
+              "unitId": "html-css-section-2-unit-2-specificity",
+              "title": "Review Specificity",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-2-unit-3-cascade-order",
+          "sectionId": "html-css-section-2",
+          "order": 3,
+          "title": "Cascade order",
+          "lessons": [
+            {
+              "id": "html-css-section-2-unit-3-cascade-order-lesson-1",
+              "unitId": "html-css-section-2-unit-3-cascade-order",
+              "title": "Learn Cascade order",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-3-cascade-order-lesson-2",
+              "unitId": "html-css-section-2-unit-3-cascade-order",
+              "title": "Practice Cascade order",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-3-cascade-order-lesson-3",
+              "unitId": "html-css-section-2-unit-3-cascade-order",
+              "title": "Review Cascade order",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-2-unit-4-inheritance",
+          "sectionId": "html-css-section-2",
+          "order": 4,
+          "title": "Inheritance",
+          "lessons": [
+            {
+              "id": "html-css-section-2-unit-4-inheritance-lesson-1",
+              "unitId": "html-css-section-2-unit-4-inheritance",
+              "title": "Learn Inheritance",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-4-inheritance-lesson-2",
+              "unitId": "html-css-section-2-unit-4-inheritance",
+              "title": "Practice Inheritance",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-4-inheritance-lesson-3",
+              "unitId": "html-css-section-2-unit-4-inheritance",
+              "title": "Review Inheritance",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-2-unit-5-units-and-values",
+          "sectionId": "html-css-section-2",
+          "order": 5,
+          "title": "Units and values",
+          "lessons": [
+            {
+              "id": "html-css-section-2-unit-5-units-and-values-lesson-1",
+              "unitId": "html-css-section-2-unit-5-units-and-values",
+              "title": "Learn Units and values",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-5-units-and-values-lesson-2",
+              "unitId": "html-css-section-2-unit-5-units-and-values",
+              "title": "Practice Units and values",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-5-units-and-values-lesson-3",
+              "unitId": "html-css-section-2-unit-5-units-and-values",
+              "title": "Review Units and values",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-2-unit-6-colors-and-opacity",
+          "sectionId": "html-css-section-2",
+          "order": 6,
+          "title": "Colors and opacity",
+          "lessons": [
+            {
+              "id": "html-css-section-2-unit-6-colors-and-opacity-lesson-1",
+              "unitId": "html-css-section-2-unit-6-colors-and-opacity",
+              "title": "Learn Colors and opacity",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-6-colors-and-opacity-lesson-2",
+              "unitId": "html-css-section-2-unit-6-colors-and-opacity",
+              "title": "Practice Colors and opacity",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-6-colors-and-opacity-lesson-3",
+              "unitId": "html-css-section-2-unit-6-colors-and-opacity",
+              "title": "Review Colors and opacity",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-2-unit-7-typography-basics",
+          "sectionId": "html-css-section-2",
+          "order": 7,
+          "title": "Typography basics",
+          "lessons": [
+            {
+              "id": "html-css-section-2-unit-7-typography-basics-lesson-1",
+              "unitId": "html-css-section-2-unit-7-typography-basics",
+              "title": "Learn Typography basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-7-typography-basics-lesson-2",
+              "unitId": "html-css-section-2-unit-7-typography-basics",
+              "title": "Practice Typography basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-7-typography-basics-lesson-3",
+              "unitId": "html-css-section-2-unit-7-typography-basics",
+              "title": "Review Typography basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-2-unit-8-custom-properties",
+          "sectionId": "html-css-section-2",
+          "order": 8,
+          "title": "Custom properties",
+          "lessons": [
+            {
+              "id": "html-css-section-2-unit-8-custom-properties-lesson-1",
+              "unitId": "html-css-section-2-unit-8-custom-properties",
+              "title": "Learn Custom properties",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-8-custom-properties-lesson-2",
+              "unitId": "html-css-section-2-unit-8-custom-properties",
+              "title": "Practice Custom properties",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-8-custom-properties-lesson-3",
+              "unitId": "html-css-section-2-unit-8-custom-properties",
+              "title": "Review Custom properties",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-2-unit-9-reset-and-normalize-css",
+          "sectionId": "html-css-section-2",
+          "order": 9,
+          "title": "Reset and normalize CSS",
+          "lessons": [
+            {
+              "id": "html-css-section-2-unit-9-reset-and-normalize-css-lesson-1",
+              "unitId": "html-css-section-2-unit-9-reset-and-normalize-css",
+              "title": "Learn Reset and normalize CSS",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-9-reset-and-normalize-css-lesson-2",
+              "unitId": "html-css-section-2-unit-9-reset-and-normalize-css",
+              "title": "Practice Reset and normalize CSS",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-9-reset-and-normalize-css-lesson-3",
+              "unitId": "html-css-section-2-unit-9-reset-and-normalize-css",
+              "title": "Review Reset and normalize CSS",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-2-unit-10-debugging-styles",
+          "sectionId": "html-css-section-2",
+          "order": 10,
+          "title": "Debugging styles",
+          "lessons": [
+            {
+              "id": "html-css-section-2-unit-10-debugging-styles-lesson-1",
+              "unitId": "html-css-section-2-unit-10-debugging-styles",
+              "title": "Learn Debugging styles",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-10-debugging-styles-lesson-2",
+              "unitId": "html-css-section-2-unit-10-debugging-styles",
+              "title": "Practice Debugging styles",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-2-unit-10-debugging-styles-lesson-3",
+              "unitId": "html-css-section-2-unit-10-debugging-styles",
+              "title": "Review Debugging styles",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "html-css-section-3",
+      "trackId": "html-css",
+      "order": 3,
+      "title": "Section 3: Box Model & Layout",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "html-css-section-3-unit-1-display-modes",
+          "sectionId": "html-css-section-3",
+          "order": 1,
+          "title": "Display modes",
+          "lessons": [
+            {
+              "id": "html-css-section-3-unit-1-display-modes-lesson-1",
+              "unitId": "html-css-section-3-unit-1-display-modes",
+              "title": "Learn Display modes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-1-display-modes-lesson-2",
+              "unitId": "html-css-section-3-unit-1-display-modes",
+              "title": "Practice Display modes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-1-display-modes-lesson-3",
+              "unitId": "html-css-section-3-unit-1-display-modes",
+              "title": "Review Display modes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-3-unit-2-box-sizing",
+          "sectionId": "html-css-section-3",
+          "order": 2,
+          "title": "Box sizing",
+          "lessons": [
+            {
+              "id": "html-css-section-3-unit-2-box-sizing-lesson-1",
+              "unitId": "html-css-section-3-unit-2-box-sizing",
+              "title": "Learn Box sizing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-2-box-sizing-lesson-2",
+              "unitId": "html-css-section-3-unit-2-box-sizing",
+              "title": "Practice Box sizing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-2-box-sizing-lesson-3",
+              "unitId": "html-css-section-3-unit-2-box-sizing",
+              "title": "Review Box sizing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-3-unit-3-margin-and-padding",
+          "sectionId": "html-css-section-3",
+          "order": 3,
+          "title": "Margin and padding",
+          "lessons": [
+            {
+              "id": "html-css-section-3-unit-3-margin-and-padding-lesson-1",
+              "unitId": "html-css-section-3-unit-3-margin-and-padding",
+              "title": "Learn Margin and padding",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-3-margin-and-padding-lesson-2",
+              "unitId": "html-css-section-3-unit-3-margin-and-padding",
+              "title": "Practice Margin and padding",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-3-margin-and-padding-lesson-3",
+              "unitId": "html-css-section-3-unit-3-margin-and-padding",
+              "title": "Review Margin and padding",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-3-unit-4-border-and-outline",
+          "sectionId": "html-css-section-3",
+          "order": 4,
+          "title": "Border and outline",
+          "lessons": [
+            {
+              "id": "html-css-section-3-unit-4-border-and-outline-lesson-1",
+              "unitId": "html-css-section-3-unit-4-border-and-outline",
+              "title": "Learn Border and outline",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-4-border-and-outline-lesson-2",
+              "unitId": "html-css-section-3-unit-4-border-and-outline",
+              "title": "Practice Border and outline",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-4-border-and-outline-lesson-3",
+              "unitId": "html-css-section-3-unit-4-border-and-outline",
+              "title": "Review Border and outline",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-3-unit-5-margin-collapse",
+          "sectionId": "html-css-section-3",
+          "order": 5,
+          "title": "Margin collapse",
+          "lessons": [
+            {
+              "id": "html-css-section-3-unit-5-margin-collapse-lesson-1",
+              "unitId": "html-css-section-3-unit-5-margin-collapse",
+              "title": "Learn Margin collapse",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-5-margin-collapse-lesson-2",
+              "unitId": "html-css-section-3-unit-5-margin-collapse",
+              "title": "Practice Margin collapse",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-5-margin-collapse-lesson-3",
+              "unitId": "html-css-section-3-unit-5-margin-collapse",
+              "title": "Review Margin collapse",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-3-unit-6-positioning-basics",
+          "sectionId": "html-css-section-3",
+          "order": 6,
+          "title": "Positioning basics",
+          "lessons": [
+            {
+              "id": "html-css-section-3-unit-6-positioning-basics-lesson-1",
+              "unitId": "html-css-section-3-unit-6-positioning-basics",
+              "title": "Learn Positioning basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-6-positioning-basics-lesson-2",
+              "unitId": "html-css-section-3-unit-6-positioning-basics",
+              "title": "Practice Positioning basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-6-positioning-basics-lesson-3",
+              "unitId": "html-css-section-3-unit-6-positioning-basics",
+              "title": "Review Positioning basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-3-unit-7-z-index-stacking",
+          "sectionId": "html-css-section-3",
+          "order": 7,
+          "title": "Z-index stacking",
+          "lessons": [
+            {
+              "id": "html-css-section-3-unit-7-z-index-stacking-lesson-1",
+              "unitId": "html-css-section-3-unit-7-z-index-stacking",
+              "title": "Learn Z-index stacking",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-7-z-index-stacking-lesson-2",
+              "unitId": "html-css-section-3-unit-7-z-index-stacking",
+              "title": "Practice Z-index stacking",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-7-z-index-stacking-lesson-3",
+              "unitId": "html-css-section-3-unit-7-z-index-stacking",
+              "title": "Review Z-index stacking",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-3-unit-8-overflow-control",
+          "sectionId": "html-css-section-3",
+          "order": 8,
+          "title": "Overflow control",
+          "lessons": [
+            {
+              "id": "html-css-section-3-unit-8-overflow-control-lesson-1",
+              "unitId": "html-css-section-3-unit-8-overflow-control",
+              "title": "Learn Overflow control",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-8-overflow-control-lesson-2",
+              "unitId": "html-css-section-3-unit-8-overflow-control",
+              "title": "Practice Overflow control",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-8-overflow-control-lesson-3",
+              "unitId": "html-css-section-3-unit-8-overflow-control",
+              "title": "Review Overflow control",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-3-unit-9-intrinsic-sizing",
+          "sectionId": "html-css-section-3",
+          "order": 9,
+          "title": "Intrinsic sizing",
+          "lessons": [
+            {
+              "id": "html-css-section-3-unit-9-intrinsic-sizing-lesson-1",
+              "unitId": "html-css-section-3-unit-9-intrinsic-sizing",
+              "title": "Learn Intrinsic sizing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-9-intrinsic-sizing-lesson-2",
+              "unitId": "html-css-section-3-unit-9-intrinsic-sizing",
+              "title": "Practice Intrinsic sizing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-9-intrinsic-sizing-lesson-3",
+              "unitId": "html-css-section-3-unit-9-intrinsic-sizing",
+              "title": "Review Intrinsic sizing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-3-unit-10-layout-debugging",
+          "sectionId": "html-css-section-3",
+          "order": 10,
+          "title": "Layout debugging",
+          "lessons": [
+            {
+              "id": "html-css-section-3-unit-10-layout-debugging-lesson-1",
+              "unitId": "html-css-section-3-unit-10-layout-debugging",
+              "title": "Learn Layout debugging",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-10-layout-debugging-lesson-2",
+              "unitId": "html-css-section-3-unit-10-layout-debugging",
+              "title": "Practice Layout debugging",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-3-unit-10-layout-debugging-lesson-3",
+              "unitId": "html-css-section-3-unit-10-layout-debugging",
+              "title": "Review Layout debugging",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "html-css-section-4",
+      "trackId": "html-css",
+      "order": 4,
+      "title": "Section 4: Flexbox",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "html-css-section-4-unit-1-flex-containers",
+          "sectionId": "html-css-section-4",
+          "order": 1,
+          "title": "Flex containers",
+          "lessons": [
+            {
+              "id": "html-css-section-4-unit-1-flex-containers-lesson-1",
+              "unitId": "html-css-section-4-unit-1-flex-containers",
+              "title": "Learn Flex containers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-1-flex-containers-lesson-2",
+              "unitId": "html-css-section-4-unit-1-flex-containers",
+              "title": "Practice Flex containers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-1-flex-containers-lesson-3",
+              "unitId": "html-css-section-4-unit-1-flex-containers",
+              "title": "Review Flex containers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-4-unit-2-main-and-cross-axes",
+          "sectionId": "html-css-section-4",
+          "order": 2,
+          "title": "Main and cross axes",
+          "lessons": [
+            {
+              "id": "html-css-section-4-unit-2-main-and-cross-axes-lesson-1",
+              "unitId": "html-css-section-4-unit-2-main-and-cross-axes",
+              "title": "Learn Main and cross axes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-2-main-and-cross-axes-lesson-2",
+              "unitId": "html-css-section-4-unit-2-main-and-cross-axes",
+              "title": "Practice Main and cross axes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-2-main-and-cross-axes-lesson-3",
+              "unitId": "html-css-section-4-unit-2-main-and-cross-axes",
+              "title": "Review Main and cross axes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-4-unit-3-justify-content",
+          "sectionId": "html-css-section-4",
+          "order": 3,
+          "title": "Justify content",
+          "lessons": [
+            {
+              "id": "html-css-section-4-unit-3-justify-content-lesson-1",
+              "unitId": "html-css-section-4-unit-3-justify-content",
+              "title": "Learn Justify content",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-3-justify-content-lesson-2",
+              "unitId": "html-css-section-4-unit-3-justify-content",
+              "title": "Practice Justify content",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-3-justify-content-lesson-3",
+              "unitId": "html-css-section-4-unit-3-justify-content",
+              "title": "Review Justify content",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-4-unit-4-align-items",
+          "sectionId": "html-css-section-4",
+          "order": 4,
+          "title": "Align items",
+          "lessons": [
+            {
+              "id": "html-css-section-4-unit-4-align-items-lesson-1",
+              "unitId": "html-css-section-4-unit-4-align-items",
+              "title": "Learn Align items",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-4-align-items-lesson-2",
+              "unitId": "html-css-section-4-unit-4-align-items",
+              "title": "Practice Align items",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-4-align-items-lesson-3",
+              "unitId": "html-css-section-4-unit-4-align-items",
+              "title": "Review Align items",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-4-unit-5-flex-wrapping",
+          "sectionId": "html-css-section-4",
+          "order": 5,
+          "title": "Flex wrapping",
+          "lessons": [
+            {
+              "id": "html-css-section-4-unit-5-flex-wrapping-lesson-1",
+              "unitId": "html-css-section-4-unit-5-flex-wrapping",
+              "title": "Learn Flex wrapping",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-5-flex-wrapping-lesson-2",
+              "unitId": "html-css-section-4-unit-5-flex-wrapping",
+              "title": "Practice Flex wrapping",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-5-flex-wrapping-lesson-3",
+              "unitId": "html-css-section-4-unit-5-flex-wrapping",
+              "title": "Review Flex wrapping",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-4-unit-6-flex-grow",
+          "sectionId": "html-css-section-4",
+          "order": 6,
+          "title": "Flex grow",
+          "lessons": [
+            {
+              "id": "html-css-section-4-unit-6-flex-grow-lesson-1",
+              "unitId": "html-css-section-4-unit-6-flex-grow",
+              "title": "Learn Flex grow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-6-flex-grow-lesson-2",
+              "unitId": "html-css-section-4-unit-6-flex-grow",
+              "title": "Practice Flex grow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-6-flex-grow-lesson-3",
+              "unitId": "html-css-section-4-unit-6-flex-grow",
+              "title": "Review Flex grow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-4-unit-7-flex-shrink",
+          "sectionId": "html-css-section-4",
+          "order": 7,
+          "title": "Flex shrink",
+          "lessons": [
+            {
+              "id": "html-css-section-4-unit-7-flex-shrink-lesson-1",
+              "unitId": "html-css-section-4-unit-7-flex-shrink",
+              "title": "Learn Flex shrink",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-7-flex-shrink-lesson-2",
+              "unitId": "html-css-section-4-unit-7-flex-shrink",
+              "title": "Practice Flex shrink",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-7-flex-shrink-lesson-3",
+              "unitId": "html-css-section-4-unit-7-flex-shrink",
+              "title": "Review Flex shrink",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-4-unit-8-flex-basis",
+          "sectionId": "html-css-section-4",
+          "order": 8,
+          "title": "Flex basis",
+          "lessons": [
+            {
+              "id": "html-css-section-4-unit-8-flex-basis-lesson-1",
+              "unitId": "html-css-section-4-unit-8-flex-basis",
+              "title": "Learn Flex basis",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-8-flex-basis-lesson-2",
+              "unitId": "html-css-section-4-unit-8-flex-basis",
+              "title": "Practice Flex basis",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-8-flex-basis-lesson-3",
+              "unitId": "html-css-section-4-unit-8-flex-basis",
+              "title": "Review Flex basis",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-4-unit-9-ordering-flex-items",
+          "sectionId": "html-css-section-4",
+          "order": 9,
+          "title": "Ordering flex items",
+          "lessons": [
+            {
+              "id": "html-css-section-4-unit-9-ordering-flex-items-lesson-1",
+              "unitId": "html-css-section-4-unit-9-ordering-flex-items",
+              "title": "Learn Ordering flex items",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-9-ordering-flex-items-lesson-2",
+              "unitId": "html-css-section-4-unit-9-ordering-flex-items",
+              "title": "Practice Ordering flex items",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-9-ordering-flex-items-lesson-3",
+              "unitId": "html-css-section-4-unit-9-ordering-flex-items",
+              "title": "Review Ordering flex items",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-4-unit-10-common-flex-patterns",
+          "sectionId": "html-css-section-4",
+          "order": 10,
+          "title": "Common flex patterns",
+          "lessons": [
+            {
+              "id": "html-css-section-4-unit-10-common-flex-patterns-lesson-1",
+              "unitId": "html-css-section-4-unit-10-common-flex-patterns",
+              "title": "Learn Common flex patterns",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-10-common-flex-patterns-lesson-2",
+              "unitId": "html-css-section-4-unit-10-common-flex-patterns",
+              "title": "Practice Common flex patterns",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-4-unit-10-common-flex-patterns-lesson-3",
+              "unitId": "html-css-section-4-unit-10-common-flex-patterns",
+              "title": "Review Common flex patterns",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "html-css-section-5",
+      "trackId": "html-css",
+      "order": 5,
+      "title": "Section 5: Grid",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "html-css-section-5-unit-1-grid-containers",
+          "sectionId": "html-css-section-5",
+          "order": 1,
+          "title": "Grid containers",
+          "lessons": [
+            {
+              "id": "html-css-section-5-unit-1-grid-containers-lesson-1",
+              "unitId": "html-css-section-5-unit-1-grid-containers",
+              "title": "Learn Grid containers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-1-grid-containers-lesson-2",
+              "unitId": "html-css-section-5-unit-1-grid-containers",
+              "title": "Practice Grid containers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-1-grid-containers-lesson-3",
+              "unitId": "html-css-section-5-unit-1-grid-containers",
+              "title": "Review Grid containers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-5-unit-2-rows-and-columns",
+          "sectionId": "html-css-section-5",
+          "order": 2,
+          "title": "Rows and columns",
+          "lessons": [
+            {
+              "id": "html-css-section-5-unit-2-rows-and-columns-lesson-1",
+              "unitId": "html-css-section-5-unit-2-rows-and-columns",
+              "title": "Learn Rows and columns",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-2-rows-and-columns-lesson-2",
+              "unitId": "html-css-section-5-unit-2-rows-and-columns",
+              "title": "Practice Rows and columns",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-2-rows-and-columns-lesson-3",
+              "unitId": "html-css-section-5-unit-2-rows-and-columns",
+              "title": "Review Rows and columns",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-5-unit-3-grid-gaps",
+          "sectionId": "html-css-section-5",
+          "order": 3,
+          "title": "Grid gaps",
+          "lessons": [
+            {
+              "id": "html-css-section-5-unit-3-grid-gaps-lesson-1",
+              "unitId": "html-css-section-5-unit-3-grid-gaps",
+              "title": "Learn Grid gaps",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-3-grid-gaps-lesson-2",
+              "unitId": "html-css-section-5-unit-3-grid-gaps",
+              "title": "Practice Grid gaps",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-3-grid-gaps-lesson-3",
+              "unitId": "html-css-section-5-unit-3-grid-gaps",
+              "title": "Review Grid gaps",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-5-unit-4-named-grid-areas",
+          "sectionId": "html-css-section-5",
+          "order": 4,
+          "title": "Named grid areas",
+          "lessons": [
+            {
+              "id": "html-css-section-5-unit-4-named-grid-areas-lesson-1",
+              "unitId": "html-css-section-5-unit-4-named-grid-areas",
+              "title": "Learn Named grid areas",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-4-named-grid-areas-lesson-2",
+              "unitId": "html-css-section-5-unit-4-named-grid-areas",
+              "title": "Practice Named grid areas",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-4-named-grid-areas-lesson-3",
+              "unitId": "html-css-section-5-unit-4-named-grid-areas",
+              "title": "Review Named grid areas",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-5-unit-5-manual-placement",
+          "sectionId": "html-css-section-5",
+          "order": 5,
+          "title": "Manual placement",
+          "lessons": [
+            {
+              "id": "html-css-section-5-unit-5-manual-placement-lesson-1",
+              "unitId": "html-css-section-5-unit-5-manual-placement",
+              "title": "Learn Manual placement",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-5-manual-placement-lesson-2",
+              "unitId": "html-css-section-5-unit-5-manual-placement",
+              "title": "Practice Manual placement",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-5-manual-placement-lesson-3",
+              "unitId": "html-css-section-5-unit-5-manual-placement",
+              "title": "Review Manual placement",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-5-unit-6-implicit-grids",
+          "sectionId": "html-css-section-5",
+          "order": 6,
+          "title": "Implicit grids",
+          "lessons": [
+            {
+              "id": "html-css-section-5-unit-6-implicit-grids-lesson-1",
+              "unitId": "html-css-section-5-unit-6-implicit-grids",
+              "title": "Learn Implicit grids",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-6-implicit-grids-lesson-2",
+              "unitId": "html-css-section-5-unit-6-implicit-grids",
+              "title": "Practice Implicit grids",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-6-implicit-grids-lesson-3",
+              "unitId": "html-css-section-5-unit-6-implicit-grids",
+              "title": "Review Implicit grids",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-5-unit-7-auto-fit-and-minmax",
+          "sectionId": "html-css-section-5",
+          "order": 7,
+          "title": "Auto-fit and minmax",
+          "lessons": [
+            {
+              "id": "html-css-section-5-unit-7-auto-fit-and-minmax-lesson-1",
+              "unitId": "html-css-section-5-unit-7-auto-fit-and-minmax",
+              "title": "Learn Auto-fit and minmax",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-7-auto-fit-and-minmax-lesson-2",
+              "unitId": "html-css-section-5-unit-7-auto-fit-and-minmax",
+              "title": "Practice Auto-fit and minmax",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-7-auto-fit-and-minmax-lesson-3",
+              "unitId": "html-css-section-5-unit-7-auto-fit-and-minmax",
+              "title": "Review Auto-fit and minmax",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-5-unit-8-grid-alignment",
+          "sectionId": "html-css-section-5",
+          "order": 8,
+          "title": "Grid alignment",
+          "lessons": [
+            {
+              "id": "html-css-section-5-unit-8-grid-alignment-lesson-1",
+              "unitId": "html-css-section-5-unit-8-grid-alignment",
+              "title": "Learn Grid alignment",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-8-grid-alignment-lesson-2",
+              "unitId": "html-css-section-5-unit-8-grid-alignment",
+              "title": "Practice Grid alignment",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-8-grid-alignment-lesson-3",
+              "unitId": "html-css-section-5-unit-8-grid-alignment",
+              "title": "Review Grid alignment",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-5-unit-9-responsive-grids",
+          "sectionId": "html-css-section-5",
+          "order": 9,
+          "title": "Responsive grids",
+          "lessons": [
+            {
+              "id": "html-css-section-5-unit-9-responsive-grids-lesson-1",
+              "unitId": "html-css-section-5-unit-9-responsive-grids",
+              "title": "Learn Responsive grids",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-9-responsive-grids-lesson-2",
+              "unitId": "html-css-section-5-unit-9-responsive-grids",
+              "title": "Practice Responsive grids",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-9-responsive-grids-lesson-3",
+              "unitId": "html-css-section-5-unit-9-responsive-grids",
+              "title": "Review Responsive grids",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-5-unit-10-dashboard-layouts",
+          "sectionId": "html-css-section-5",
+          "order": 10,
+          "title": "Dashboard layouts",
+          "lessons": [
+            {
+              "id": "html-css-section-5-unit-10-dashboard-layouts-lesson-1",
+              "unitId": "html-css-section-5-unit-10-dashboard-layouts",
+              "title": "Learn Dashboard layouts",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-10-dashboard-layouts-lesson-2",
+              "unitId": "html-css-section-5-unit-10-dashboard-layouts",
+              "title": "Practice Dashboard layouts",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-5-unit-10-dashboard-layouts-lesson-3",
+              "unitId": "html-css-section-5-unit-10-dashboard-layouts",
+              "title": "Review Dashboard layouts",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "html-css-section-6",
+      "trackId": "html-css",
+      "order": 6,
+      "title": "Section 6: Responsive Design",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "html-css-section-6-unit-1-mobile-first-css",
+          "sectionId": "html-css-section-6",
+          "order": 1,
+          "title": "Mobile-first CSS",
+          "lessons": [
+            {
+              "id": "html-css-section-6-unit-1-mobile-first-css-lesson-1",
+              "unitId": "html-css-section-6-unit-1-mobile-first-css",
+              "title": "Learn Mobile-first CSS",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-1-mobile-first-css-lesson-2",
+              "unitId": "html-css-section-6-unit-1-mobile-first-css",
+              "title": "Practice Mobile-first CSS",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-1-mobile-first-css-lesson-3",
+              "unitId": "html-css-section-6-unit-1-mobile-first-css",
+              "title": "Review Mobile-first CSS",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-6-unit-2-media-query-syntax",
+          "sectionId": "html-css-section-6",
+          "order": 2,
+          "title": "Media query syntax",
+          "lessons": [
+            {
+              "id": "html-css-section-6-unit-2-media-query-syntax-lesson-1",
+              "unitId": "html-css-section-6-unit-2-media-query-syntax",
+              "title": "Learn Media query syntax",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-2-media-query-syntax-lesson-2",
+              "unitId": "html-css-section-6-unit-2-media-query-syntax",
+              "title": "Practice Media query syntax",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-2-media-query-syntax-lesson-3",
+              "unitId": "html-css-section-6-unit-2-media-query-syntax",
+              "title": "Review Media query syntax",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-6-unit-3-fluid-widths",
+          "sectionId": "html-css-section-6",
+          "order": 3,
+          "title": "Fluid widths",
+          "lessons": [
+            {
+              "id": "html-css-section-6-unit-3-fluid-widths-lesson-1",
+              "unitId": "html-css-section-6-unit-3-fluid-widths",
+              "title": "Learn Fluid widths",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-3-fluid-widths-lesson-2",
+              "unitId": "html-css-section-6-unit-3-fluid-widths",
+              "title": "Practice Fluid widths",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-3-fluid-widths-lesson-3",
+              "unitId": "html-css-section-6-unit-3-fluid-widths",
+              "title": "Review Fluid widths",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-6-unit-4-responsive-images",
+          "sectionId": "html-css-section-6",
+          "order": 4,
+          "title": "Responsive images",
+          "lessons": [
+            {
+              "id": "html-css-section-6-unit-4-responsive-images-lesson-1",
+              "unitId": "html-css-section-6-unit-4-responsive-images",
+              "title": "Learn Responsive images",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-4-responsive-images-lesson-2",
+              "unitId": "html-css-section-6-unit-4-responsive-images",
+              "title": "Practice Responsive images",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-4-responsive-images-lesson-3",
+              "unitId": "html-css-section-6-unit-4-responsive-images",
+              "title": "Review Responsive images",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-6-unit-5-fluid-typography",
+          "sectionId": "html-css-section-6",
+          "order": 5,
+          "title": "Fluid typography",
+          "lessons": [
+            {
+              "id": "html-css-section-6-unit-5-fluid-typography-lesson-1",
+              "unitId": "html-css-section-6-unit-5-fluid-typography",
+              "title": "Learn Fluid typography",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-5-fluid-typography-lesson-2",
+              "unitId": "html-css-section-6-unit-5-fluid-typography",
+              "title": "Practice Fluid typography",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-5-fluid-typography-lesson-3",
+              "unitId": "html-css-section-6-unit-5-fluid-typography",
+              "title": "Review Fluid typography",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-6-unit-6-viewport-units",
+          "sectionId": "html-css-section-6",
+          "order": 6,
+          "title": "Viewport units",
+          "lessons": [
+            {
+              "id": "html-css-section-6-unit-6-viewport-units-lesson-1",
+              "unitId": "html-css-section-6-unit-6-viewport-units",
+              "title": "Learn Viewport units",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-6-viewport-units-lesson-2",
+              "unitId": "html-css-section-6-unit-6-viewport-units",
+              "title": "Practice Viewport units",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-6-viewport-units-lesson-3",
+              "unitId": "html-css-section-6-unit-6-viewport-units",
+              "title": "Review Viewport units",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-6-unit-7-container-query-basics",
+          "sectionId": "html-css-section-6",
+          "order": 7,
+          "title": "Container query basics",
+          "lessons": [
+            {
+              "id": "html-css-section-6-unit-7-container-query-basics-lesson-1",
+              "unitId": "html-css-section-6-unit-7-container-query-basics",
+              "title": "Learn Container query basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-7-container-query-basics-lesson-2",
+              "unitId": "html-css-section-6-unit-7-container-query-basics",
+              "title": "Practice Container query basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-7-container-query-basics-lesson-3",
+              "unitId": "html-css-section-6-unit-7-container-query-basics",
+              "title": "Review Container query basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-6-unit-8-touch-targets",
+          "sectionId": "html-css-section-6",
+          "order": 8,
+          "title": "Touch targets",
+          "lessons": [
+            {
+              "id": "html-css-section-6-unit-8-touch-targets-lesson-1",
+              "unitId": "html-css-section-6-unit-8-touch-targets",
+              "title": "Learn Touch targets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-8-touch-targets-lesson-2",
+              "unitId": "html-css-section-6-unit-8-touch-targets",
+              "title": "Practice Touch targets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-8-touch-targets-lesson-3",
+              "unitId": "html-css-section-6-unit-8-touch-targets",
+              "title": "Review Touch targets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-6-unit-9-preference-media-queries",
+          "sectionId": "html-css-section-6",
+          "order": 9,
+          "title": "Preference media queries",
+          "lessons": [
+            {
+              "id": "html-css-section-6-unit-9-preference-media-queries-lesson-1",
+              "unitId": "html-css-section-6-unit-9-preference-media-queries",
+              "title": "Learn Preference media queries",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-9-preference-media-queries-lesson-2",
+              "unitId": "html-css-section-6-unit-9-preference-media-queries",
+              "title": "Practice Preference media queries",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-9-preference-media-queries-lesson-3",
+              "unitId": "html-css-section-6-unit-9-preference-media-queries",
+              "title": "Review Preference media queries",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-6-unit-10-responsive-qa",
+          "sectionId": "html-css-section-6",
+          "order": 10,
+          "title": "Responsive QA",
+          "lessons": [
+            {
+              "id": "html-css-section-6-unit-10-responsive-qa-lesson-1",
+              "unitId": "html-css-section-6-unit-10-responsive-qa",
+              "title": "Learn Responsive QA",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-10-responsive-qa-lesson-2",
+              "unitId": "html-css-section-6-unit-10-responsive-qa",
+              "title": "Practice Responsive QA",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-6-unit-10-responsive-qa-lesson-3",
+              "unitId": "html-css-section-6-unit-10-responsive-qa",
+              "title": "Review Responsive QA",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "html-css-section-7",
+      "trackId": "html-css",
+      "order": 7,
+      "title": "Section 7: Animations & Motion",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "html-css-section-7-unit-1-transitions",
+          "sectionId": "html-css-section-7",
+          "order": 1,
+          "title": "Transitions",
+          "lessons": [
+            {
+              "id": "html-css-section-7-unit-1-transitions-lesson-1",
+              "unitId": "html-css-section-7-unit-1-transitions",
+              "title": "Learn Transitions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-1-transitions-lesson-2",
+              "unitId": "html-css-section-7-unit-1-transitions",
+              "title": "Practice Transitions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-1-transitions-lesson-3",
+              "unitId": "html-css-section-7-unit-1-transitions",
+              "title": "Review Transitions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-7-unit-2-transforms",
+          "sectionId": "html-css-section-7",
+          "order": 2,
+          "title": "Transforms",
+          "lessons": [
+            {
+              "id": "html-css-section-7-unit-2-transforms-lesson-1",
+              "unitId": "html-css-section-7-unit-2-transforms",
+              "title": "Learn Transforms",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-2-transforms-lesson-2",
+              "unitId": "html-css-section-7-unit-2-transforms",
+              "title": "Practice Transforms",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-2-transforms-lesson-3",
+              "unitId": "html-css-section-7-unit-2-transforms",
+              "title": "Review Transforms",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-7-unit-3-keyframes",
+          "sectionId": "html-css-section-7",
+          "order": 3,
+          "title": "Keyframes",
+          "lessons": [
+            {
+              "id": "html-css-section-7-unit-3-keyframes-lesson-1",
+              "unitId": "html-css-section-7-unit-3-keyframes",
+              "title": "Learn Keyframes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-3-keyframes-lesson-2",
+              "unitId": "html-css-section-7-unit-3-keyframes",
+              "title": "Practice Keyframes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-3-keyframes-lesson-3",
+              "unitId": "html-css-section-7-unit-3-keyframes",
+              "title": "Review Keyframes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-7-unit-4-timing-functions",
+          "sectionId": "html-css-section-7",
+          "order": 4,
+          "title": "Timing functions",
+          "lessons": [
+            {
+              "id": "html-css-section-7-unit-4-timing-functions-lesson-1",
+              "unitId": "html-css-section-7-unit-4-timing-functions",
+              "title": "Learn Timing functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-4-timing-functions-lesson-2",
+              "unitId": "html-css-section-7-unit-4-timing-functions",
+              "title": "Practice Timing functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-4-timing-functions-lesson-3",
+              "unitId": "html-css-section-7-unit-4-timing-functions",
+              "title": "Review Timing functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-7-unit-5-delay-and-iteration",
+          "sectionId": "html-css-section-7",
+          "order": 5,
+          "title": "Delay and iteration",
+          "lessons": [
+            {
+              "id": "html-css-section-7-unit-5-delay-and-iteration-lesson-1",
+              "unitId": "html-css-section-7-unit-5-delay-and-iteration",
+              "title": "Learn Delay and iteration",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-5-delay-and-iteration-lesson-2",
+              "unitId": "html-css-section-7-unit-5-delay-and-iteration",
+              "title": "Practice Delay and iteration",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-5-delay-and-iteration-lesson-3",
+              "unitId": "html-css-section-7-unit-5-delay-and-iteration",
+              "title": "Review Delay and iteration",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-7-unit-6-performance-friendly-motion",
+          "sectionId": "html-css-section-7",
+          "order": 6,
+          "title": "Performance-friendly motion",
+          "lessons": [
+            {
+              "id": "html-css-section-7-unit-6-performance-friendly-motion-lesson-1",
+              "unitId": "html-css-section-7-unit-6-performance-friendly-motion",
+              "title": "Learn Performance-friendly motion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-6-performance-friendly-motion-lesson-2",
+              "unitId": "html-css-section-7-unit-6-performance-friendly-motion",
+              "title": "Practice Performance-friendly motion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-6-performance-friendly-motion-lesson-3",
+              "unitId": "html-css-section-7-unit-6-performance-friendly-motion",
+              "title": "Review Performance-friendly motion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-7-unit-7-hover-and-active-states",
+          "sectionId": "html-css-section-7",
+          "order": 7,
+          "title": "Hover and active states",
+          "lessons": [
+            {
+              "id": "html-css-section-7-unit-7-hover-and-active-states-lesson-1",
+              "unitId": "html-css-section-7-unit-7-hover-and-active-states",
+              "title": "Learn Hover and active states",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-7-hover-and-active-states-lesson-2",
+              "unitId": "html-css-section-7-unit-7-hover-and-active-states",
+              "title": "Practice Hover and active states",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-7-hover-and-active-states-lesson-3",
+              "unitId": "html-css-section-7-unit-7-hover-and-active-states",
+              "title": "Review Hover and active states",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-7-unit-8-loading-skeletons",
+          "sectionId": "html-css-section-7",
+          "order": 8,
+          "title": "Loading skeletons",
+          "lessons": [
+            {
+              "id": "html-css-section-7-unit-8-loading-skeletons-lesson-1",
+              "unitId": "html-css-section-7-unit-8-loading-skeletons",
+              "title": "Learn Loading skeletons",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-8-loading-skeletons-lesson-2",
+              "unitId": "html-css-section-7-unit-8-loading-skeletons",
+              "title": "Practice Loading skeletons",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-8-loading-skeletons-lesson-3",
+              "unitId": "html-css-section-7-unit-8-loading-skeletons",
+              "title": "Review Loading skeletons",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-7-unit-9-reduced-motion",
+          "sectionId": "html-css-section-7",
+          "order": 9,
+          "title": "Reduced motion",
+          "lessons": [
+            {
+              "id": "html-css-section-7-unit-9-reduced-motion-lesson-1",
+              "unitId": "html-css-section-7-unit-9-reduced-motion",
+              "title": "Learn Reduced motion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-9-reduced-motion-lesson-2",
+              "unitId": "html-css-section-7-unit-9-reduced-motion",
+              "title": "Practice Reduced motion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-9-reduced-motion-lesson-3",
+              "unitId": "html-css-section-7-unit-9-reduced-motion",
+              "title": "Review Reduced motion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-7-unit-10-motion-polish",
+          "sectionId": "html-css-section-7",
+          "order": 10,
+          "title": "Motion polish",
+          "lessons": [
+            {
+              "id": "html-css-section-7-unit-10-motion-polish-lesson-1",
+              "unitId": "html-css-section-7-unit-10-motion-polish",
+              "title": "Learn Motion polish",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-10-motion-polish-lesson-2",
+              "unitId": "html-css-section-7-unit-10-motion-polish",
+              "title": "Practice Motion polish",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-7-unit-10-motion-polish-lesson-3",
+              "unitId": "html-css-section-7-unit-10-motion-polish",
+              "title": "Review Motion polish",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "html-css-section-8",
+      "trackId": "html-css",
+      "order": 8,
+      "title": "Section 8: Forms & Accessibility",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "html-css-section-8-unit-1-labels-and-inputs",
+          "sectionId": "html-css-section-8",
+          "order": 1,
+          "title": "Labels and inputs",
+          "lessons": [
+            {
+              "id": "html-css-section-8-unit-1-labels-and-inputs-lesson-1",
+              "unitId": "html-css-section-8-unit-1-labels-and-inputs",
+              "title": "Learn Labels and inputs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-1-labels-and-inputs-lesson-2",
+              "unitId": "html-css-section-8-unit-1-labels-and-inputs",
+              "title": "Practice Labels and inputs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-1-labels-and-inputs-lesson-3",
+              "unitId": "html-css-section-8-unit-1-labels-and-inputs",
+              "title": "Review Labels and inputs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-8-unit-2-buttons-and-controls",
+          "sectionId": "html-css-section-8",
+          "order": 2,
+          "title": "Buttons and controls",
+          "lessons": [
+            {
+              "id": "html-css-section-8-unit-2-buttons-and-controls-lesson-1",
+              "unitId": "html-css-section-8-unit-2-buttons-and-controls",
+              "title": "Learn Buttons and controls",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-2-buttons-and-controls-lesson-2",
+              "unitId": "html-css-section-8-unit-2-buttons-and-controls",
+              "title": "Practice Buttons and controls",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-2-buttons-and-controls-lesson-3",
+              "unitId": "html-css-section-8-unit-2-buttons-and-controls",
+              "title": "Review Buttons and controls",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-8-unit-3-form-grouping",
+          "sectionId": "html-css-section-8",
+          "order": 3,
+          "title": "Form grouping",
+          "lessons": [
+            {
+              "id": "html-css-section-8-unit-3-form-grouping-lesson-1",
+              "unitId": "html-css-section-8-unit-3-form-grouping",
+              "title": "Learn Form grouping",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-3-form-grouping-lesson-2",
+              "unitId": "html-css-section-8-unit-3-form-grouping",
+              "title": "Practice Form grouping",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-3-form-grouping-lesson-3",
+              "unitId": "html-css-section-8-unit-3-form-grouping",
+              "title": "Review Form grouping",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-8-unit-4-validation-messages",
+          "sectionId": "html-css-section-8",
+          "order": 4,
+          "title": "Validation messages",
+          "lessons": [
+            {
+              "id": "html-css-section-8-unit-4-validation-messages-lesson-1",
+              "unitId": "html-css-section-8-unit-4-validation-messages",
+              "title": "Learn Validation messages",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-4-validation-messages-lesson-2",
+              "unitId": "html-css-section-8-unit-4-validation-messages",
+              "title": "Practice Validation messages",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-4-validation-messages-lesson-3",
+              "unitId": "html-css-section-8-unit-4-validation-messages",
+              "title": "Review Validation messages",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-8-unit-5-keyboard-navigation",
+          "sectionId": "html-css-section-8",
+          "order": 5,
+          "title": "Keyboard navigation",
+          "lessons": [
+            {
+              "id": "html-css-section-8-unit-5-keyboard-navigation-lesson-1",
+              "unitId": "html-css-section-8-unit-5-keyboard-navigation",
+              "title": "Learn Keyboard navigation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-5-keyboard-navigation-lesson-2",
+              "unitId": "html-css-section-8-unit-5-keyboard-navigation",
+              "title": "Practice Keyboard navigation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-5-keyboard-navigation-lesson-3",
+              "unitId": "html-css-section-8-unit-5-keyboard-navigation",
+              "title": "Review Keyboard navigation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-8-unit-6-focus-states",
+          "sectionId": "html-css-section-8",
+          "order": 6,
+          "title": "Focus states",
+          "lessons": [
+            {
+              "id": "html-css-section-8-unit-6-focus-states-lesson-1",
+              "unitId": "html-css-section-8-unit-6-focus-states",
+              "title": "Learn Focus states",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-6-focus-states-lesson-2",
+              "unitId": "html-css-section-8-unit-6-focus-states",
+              "title": "Practice Focus states",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-6-focus-states-lesson-3",
+              "unitId": "html-css-section-8-unit-6-focus-states",
+              "title": "Review Focus states",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-8-unit-7-aria-basics",
+          "sectionId": "html-css-section-8",
+          "order": 7,
+          "title": "ARIA basics",
+          "lessons": [
+            {
+              "id": "html-css-section-8-unit-7-aria-basics-lesson-1",
+              "unitId": "html-css-section-8-unit-7-aria-basics",
+              "title": "Learn ARIA basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-7-aria-basics-lesson-2",
+              "unitId": "html-css-section-8-unit-7-aria-basics",
+              "title": "Practice ARIA basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-7-aria-basics-lesson-3",
+              "unitId": "html-css-section-8-unit-7-aria-basics",
+              "title": "Review ARIA basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-8-unit-8-color-contrast",
+          "sectionId": "html-css-section-8",
+          "order": 8,
+          "title": "Color contrast",
+          "lessons": [
+            {
+              "id": "html-css-section-8-unit-8-color-contrast-lesson-1",
+              "unitId": "html-css-section-8-unit-8-color-contrast",
+              "title": "Learn Color contrast",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-8-color-contrast-lesson-2",
+              "unitId": "html-css-section-8-unit-8-color-contrast",
+              "title": "Practice Color contrast",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-8-color-contrast-lesson-3",
+              "unitId": "html-css-section-8-unit-8-color-contrast",
+              "title": "Review Color contrast",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-8-unit-9-screen-reader-text",
+          "sectionId": "html-css-section-8",
+          "order": 9,
+          "title": "Screen reader text",
+          "lessons": [
+            {
+              "id": "html-css-section-8-unit-9-screen-reader-text-lesson-1",
+              "unitId": "html-css-section-8-unit-9-screen-reader-text",
+              "title": "Learn Screen reader text",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-9-screen-reader-text-lesson-2",
+              "unitId": "html-css-section-8-unit-9-screen-reader-text",
+              "title": "Practice Screen reader text",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-9-screen-reader-text-lesson-3",
+              "unitId": "html-css-section-8-unit-9-screen-reader-text",
+              "title": "Review Screen reader text",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-8-unit-10-accessible-form-flow",
+          "sectionId": "html-css-section-8",
+          "order": 10,
+          "title": "Accessible form flow",
+          "lessons": [
+            {
+              "id": "html-css-section-8-unit-10-accessible-form-flow-lesson-1",
+              "unitId": "html-css-section-8-unit-10-accessible-form-flow",
+              "title": "Learn Accessible form flow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-10-accessible-form-flow-lesson-2",
+              "unitId": "html-css-section-8-unit-10-accessible-form-flow",
+              "title": "Practice Accessible form flow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-8-unit-10-accessible-form-flow-lesson-3",
+              "unitId": "html-css-section-8-unit-10-accessible-form-flow",
+              "title": "Review Accessible form flow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "html-css-section-9",
+      "trackId": "html-css",
+      "order": 9,
+      "title": "Section 9: CSS Architecture",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "html-css-section-9-unit-1-class-naming",
+          "sectionId": "html-css-section-9",
+          "order": 1,
+          "title": "Class naming",
+          "lessons": [
+            {
+              "id": "html-css-section-9-unit-1-class-naming-lesson-1",
+              "unitId": "html-css-section-9-unit-1-class-naming",
+              "title": "Learn Class naming",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-1-class-naming-lesson-2",
+              "unitId": "html-css-section-9-unit-1-class-naming",
+              "title": "Practice Class naming",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-1-class-naming-lesson-3",
+              "unitId": "html-css-section-9-unit-1-class-naming",
+              "title": "Review Class naming",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-9-unit-2-component-css",
+          "sectionId": "html-css-section-9",
+          "order": 2,
+          "title": "Component CSS",
+          "lessons": [
+            {
+              "id": "html-css-section-9-unit-2-component-css-lesson-1",
+              "unitId": "html-css-section-9-unit-2-component-css",
+              "title": "Learn Component CSS",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-2-component-css-lesson-2",
+              "unitId": "html-css-section-9-unit-2-component-css",
+              "title": "Practice Component CSS",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-2-component-css-lesson-3",
+              "unitId": "html-css-section-9-unit-2-component-css",
+              "title": "Review Component CSS",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-9-unit-3-utility-css",
+          "sectionId": "html-css-section-9",
+          "order": 3,
+          "title": "Utility CSS",
+          "lessons": [
+            {
+              "id": "html-css-section-9-unit-3-utility-css-lesson-1",
+              "unitId": "html-css-section-9-unit-3-utility-css",
+              "title": "Learn Utility CSS",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-3-utility-css-lesson-2",
+              "unitId": "html-css-section-9-unit-3-utility-css",
+              "title": "Practice Utility CSS",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-3-utility-css-lesson-3",
+              "unitId": "html-css-section-9-unit-3-utility-css",
+              "title": "Review Utility CSS",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-9-unit-4-css-modules",
+          "sectionId": "html-css-section-9",
+          "order": 4,
+          "title": "CSS modules",
+          "lessons": [
+            {
+              "id": "html-css-section-9-unit-4-css-modules-lesson-1",
+              "unitId": "html-css-section-9-unit-4-css-modules",
+              "title": "Learn CSS modules",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-4-css-modules-lesson-2",
+              "unitId": "html-css-section-9-unit-4-css-modules",
+              "title": "Practice CSS modules",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-4-css-modules-lesson-3",
+              "unitId": "html-css-section-9-unit-4-css-modules",
+              "title": "Review CSS modules",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-9-unit-5-cascade-layers",
+          "sectionId": "html-css-section-9",
+          "order": 5,
+          "title": "Cascade layers",
+          "lessons": [
+            {
+              "id": "html-css-section-9-unit-5-cascade-layers-lesson-1",
+              "unitId": "html-css-section-9-unit-5-cascade-layers",
+              "title": "Learn Cascade layers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-5-cascade-layers-lesson-2",
+              "unitId": "html-css-section-9-unit-5-cascade-layers",
+              "title": "Practice Cascade layers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-5-cascade-layers-lesson-3",
+              "unitId": "html-css-section-9-unit-5-cascade-layers",
+              "title": "Review Cascade layers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-9-unit-6-design-tokens",
+          "sectionId": "html-css-section-9",
+          "order": 6,
+          "title": "Design tokens",
+          "lessons": [
+            {
+              "id": "html-css-section-9-unit-6-design-tokens-lesson-1",
+              "unitId": "html-css-section-9-unit-6-design-tokens",
+              "title": "Learn Design tokens",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-6-design-tokens-lesson-2",
+              "unitId": "html-css-section-9-unit-6-design-tokens",
+              "title": "Practice Design tokens",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-6-design-tokens-lesson-3",
+              "unitId": "html-css-section-9-unit-6-design-tokens",
+              "title": "Review Design tokens",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-9-unit-7-theming",
+          "sectionId": "html-css-section-9",
+          "order": 7,
+          "title": "Theming",
+          "lessons": [
+            {
+              "id": "html-css-section-9-unit-7-theming-lesson-1",
+              "unitId": "html-css-section-9-unit-7-theming",
+              "title": "Learn Theming",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-7-theming-lesson-2",
+              "unitId": "html-css-section-9-unit-7-theming",
+              "title": "Practice Theming",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-7-theming-lesson-3",
+              "unitId": "html-css-section-9-unit-7-theming",
+              "title": "Review Theming",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-9-unit-8-dark-mode",
+          "sectionId": "html-css-section-9",
+          "order": 8,
+          "title": "Dark mode",
+          "lessons": [
+            {
+              "id": "html-css-section-9-unit-8-dark-mode-lesson-1",
+              "unitId": "html-css-section-9-unit-8-dark-mode",
+              "title": "Learn Dark mode",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-8-dark-mode-lesson-2",
+              "unitId": "html-css-section-9-unit-8-dark-mode",
+              "title": "Practice Dark mode",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-8-dark-mode-lesson-3",
+              "unitId": "html-css-section-9-unit-8-dark-mode",
+              "title": "Review Dark mode",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-9-unit-9-print-styles",
+          "sectionId": "html-css-section-9",
+          "order": 9,
+          "title": "Print styles",
+          "lessons": [
+            {
+              "id": "html-css-section-9-unit-9-print-styles-lesson-1",
+              "unitId": "html-css-section-9-unit-9-print-styles",
+              "title": "Learn Print styles",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-9-print-styles-lesson-2",
+              "unitId": "html-css-section-9-unit-9-print-styles",
+              "title": "Practice Print styles",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-9-print-styles-lesson-3",
+              "unitId": "html-css-section-9-unit-9-print-styles",
+              "title": "Review Print styles",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-9-unit-10-style-quality-checks",
+          "sectionId": "html-css-section-9",
+          "order": 10,
+          "title": "Style quality checks",
+          "lessons": [
+            {
+              "id": "html-css-section-9-unit-10-style-quality-checks-lesson-1",
+              "unitId": "html-css-section-9-unit-10-style-quality-checks",
+              "title": "Learn Style quality checks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-10-style-quality-checks-lesson-2",
+              "unitId": "html-css-section-9-unit-10-style-quality-checks",
+              "title": "Practice Style quality checks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-9-unit-10-style-quality-checks-lesson-3",
+              "unitId": "html-css-section-9-unit-10-style-quality-checks",
+              "title": "Review Style quality checks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "html-css-section-10",
+      "trackId": "html-css",
+      "order": 10,
+      "title": "Section 10: Interface Capstones",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "html-css-section-10-unit-1-landing-page",
+          "sectionId": "html-css-section-10",
+          "order": 1,
+          "title": "Landing page",
+          "lessons": [
+            {
+              "id": "html-css-section-10-unit-1-landing-page-lesson-1",
+              "unitId": "html-css-section-10-unit-1-landing-page",
+              "title": "Learn Landing page",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-1-landing-page-lesson-2",
+              "unitId": "html-css-section-10-unit-1-landing-page",
+              "title": "Practice Landing page",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-1-landing-page-lesson-3",
+              "unitId": "html-css-section-10-unit-1-landing-page",
+              "title": "Review Landing page",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-10-unit-2-responsive-navigation",
+          "sectionId": "html-css-section-10",
+          "order": 2,
+          "title": "Responsive navigation",
+          "lessons": [
+            {
+              "id": "html-css-section-10-unit-2-responsive-navigation-lesson-1",
+              "unitId": "html-css-section-10-unit-2-responsive-navigation",
+              "title": "Learn Responsive navigation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-2-responsive-navigation-lesson-2",
+              "unitId": "html-css-section-10-unit-2-responsive-navigation",
+              "title": "Practice Responsive navigation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-2-responsive-navigation-lesson-3",
+              "unitId": "html-css-section-10-unit-2-responsive-navigation",
+              "title": "Review Responsive navigation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-10-unit-3-pricing-section",
+          "sectionId": "html-css-section-10",
+          "order": 3,
+          "title": "Pricing section",
+          "lessons": [
+            {
+              "id": "html-css-section-10-unit-3-pricing-section-lesson-1",
+              "unitId": "html-css-section-10-unit-3-pricing-section",
+              "title": "Learn Pricing section",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-3-pricing-section-lesson-2",
+              "unitId": "html-css-section-10-unit-3-pricing-section",
+              "title": "Practice Pricing section",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-3-pricing-section-lesson-3",
+              "unitId": "html-css-section-10-unit-3-pricing-section",
+              "title": "Review Pricing section",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-10-unit-4-profile-card",
+          "sectionId": "html-css-section-10",
+          "order": 4,
+          "title": "Profile card",
+          "lessons": [
+            {
+              "id": "html-css-section-10-unit-4-profile-card-lesson-1",
+              "unitId": "html-css-section-10-unit-4-profile-card",
+              "title": "Learn Profile card",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-4-profile-card-lesson-2",
+              "unitId": "html-css-section-10-unit-4-profile-card",
+              "title": "Practice Profile card",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-4-profile-card-lesson-3",
+              "unitId": "html-css-section-10-unit-4-profile-card",
+              "title": "Review Profile card",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-10-unit-5-settings-form",
+          "sectionId": "html-css-section-10",
+          "order": 5,
+          "title": "Settings form",
+          "lessons": [
+            {
+              "id": "html-css-section-10-unit-5-settings-form-lesson-1",
+              "unitId": "html-css-section-10-unit-5-settings-form",
+              "title": "Learn Settings form",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-5-settings-form-lesson-2",
+              "unitId": "html-css-section-10-unit-5-settings-form",
+              "title": "Practice Settings form",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-5-settings-form-lesson-3",
+              "unitId": "html-css-section-10-unit-5-settings-form",
+              "title": "Review Settings form",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-10-unit-6-accessible-modal",
+          "sectionId": "html-css-section-10",
+          "order": 6,
+          "title": "Accessible modal",
+          "lessons": [
+            {
+              "id": "html-css-section-10-unit-6-accessible-modal-lesson-1",
+              "unitId": "html-css-section-10-unit-6-accessible-modal",
+              "title": "Learn Accessible modal",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-6-accessible-modal-lesson-2",
+              "unitId": "html-css-section-10-unit-6-accessible-modal",
+              "title": "Practice Accessible modal",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-6-accessible-modal-lesson-3",
+              "unitId": "html-css-section-10-unit-6-accessible-modal",
+              "title": "Review Accessible modal",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-10-unit-7-animated-feedback",
+          "sectionId": "html-css-section-10",
+          "order": 7,
+          "title": "Animated feedback",
+          "lessons": [
+            {
+              "id": "html-css-section-10-unit-7-animated-feedback-lesson-1",
+              "unitId": "html-css-section-10-unit-7-animated-feedback",
+              "title": "Learn Animated feedback",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-7-animated-feedback-lesson-2",
+              "unitId": "html-css-section-10-unit-7-animated-feedback",
+              "title": "Practice Animated feedback",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-7-animated-feedback-lesson-3",
+              "unitId": "html-css-section-10-unit-7-animated-feedback",
+              "title": "Review Animated feedback",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-10-unit-8-browser-testing",
+          "sectionId": "html-css-section-10",
+          "order": 8,
+          "title": "Browser testing",
+          "lessons": [
+            {
+              "id": "html-css-section-10-unit-8-browser-testing-lesson-1",
+              "unitId": "html-css-section-10-unit-8-browser-testing",
+              "title": "Learn Browser testing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-8-browser-testing-lesson-2",
+              "unitId": "html-css-section-10-unit-8-browser-testing",
+              "title": "Practice Browser testing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-8-browser-testing-lesson-3",
+              "unitId": "html-css-section-10-unit-8-browser-testing",
+              "title": "Review Browser testing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-10-unit-9-performance-pass",
+          "sectionId": "html-css-section-10",
+          "order": 9,
+          "title": "Performance pass",
+          "lessons": [
+            {
+              "id": "html-css-section-10-unit-9-performance-pass-lesson-1",
+              "unitId": "html-css-section-10-unit-9-performance-pass",
+              "title": "Learn Performance pass",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-9-performance-pass-lesson-2",
+              "unitId": "html-css-section-10-unit-9-performance-pass",
+              "title": "Practice Performance pass",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-9-performance-pass-lesson-3",
+              "unitId": "html-css-section-10-unit-9-performance-pass",
+              "title": "Review Performance pass",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "html-css-section-10-unit-10-final-interface-project",
+          "sectionId": "html-css-section-10",
+          "order": 10,
+          "title": "Final interface project",
+          "lessons": [
+            {
+              "id": "html-css-section-10-unit-10-final-interface-project-lesson-1",
+              "unitId": "html-css-section-10-unit-10-final-interface-project",
+              "title": "Learn Final interface project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-10-final-interface-project-lesson-2",
+              "unitId": "html-css-section-10-unit-10-final-interface-project",
+              "title": "Practice Final interface project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "html-css-section-10-unit-10-final-interface-project-lesson-3",
+              "unitId": "html-css-section-10-unit-10-final-interface-project",
+              "title": "Review Final interface project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

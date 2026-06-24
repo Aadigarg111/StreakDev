@@ -1,0 +1,34 @@
+[
+  {
+    "id": "placement-generic-1",
+    "trackId": "generic",
+    "sectionOrder": 1,
+    "type": "multiple_choice",
+    "prompt": "What should you do first when learning a new technical topic?",
+    "options": [
+      "Memorize random facts",
+      "Understand the core vocabulary",
+      "Skip examples",
+      "Ignore errors"
+    ],
+    "correctAnswer": "Understand the core vocabulary",
+    "explanation": "Vocabulary gives you handles for the ideas you will practice in later units.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "placement-generic-2",
+    "trackId": "generic",
+    "sectionOrder": 2,
+    "type": "multiple_choice",
+    "prompt": "What is the best sign that a concept is ready for harder practice?",
+    "options": [
+      "You can explain and apply it",
+      "You saw it once",
+      "It has a short name",
+      "It appears in a table"
+    ],
+    "correctAnswer": "You can explain and apply it",
+    "explanation": "Placement should reward applied understanding, not just recognition.",
+    "difficulty": "medium"
+  }
+]

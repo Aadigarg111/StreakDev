@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --duo-green: #58cc02;
+  --duo-green-dark: #4caa00;
+  --duo-blue: #1cb0f6;
+  --duo-blue-dark: #1899d6;
+  --duo-red: #ff4b4b;
+  --duo-red-dark: #ea2b2b;
+  --duo-yellow: #ffc800;
+  --duo-yellow-dark: #e6b400;
+  --duo-purple: #ce82ff;
+  --duo-grey-bg: #ffffff;
+  --duo-grey-panel: #f7f7f7;
+  --duo-grey-border: #e5e5e5;
+  --duo-grey-text: #4b4b4b;
+  --duo-grey-disabled: #afafaf;
+  --duo-eel: #4b4b4b;
+  --duo-swan: #e5e5e5;
+  --duo-snow: #ffffff;
+  --background: var(--duo-grey-bg);
+  --foreground: var(--duo-eel);
+  --safe-top: env(safe-area-inset-top);
+  --safe-bottom: env(safe-area-inset-bottom);
+}
+
+html {
+  min-height: 100%;
+  overflow-x: hidden;
+  background: var(--background);
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-rounded), Nunito, system-ui, sans-serif;
+  min-height: 100dvh;
+  overflow-x: hidden;
+}
+
+body.is-immersive-session {
+  overscroll-behavior-x: none;
+  overscroll-behavior-y: contain;
+}
+
+button,
+a,
+input,
+textarea,
+select {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background: rgb(88 204 2 / 0.24);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .min-h-dvh {
+    min-height: 100dvh;
+  }
+
+  .h-dvh {
+    height: 100dvh;
+  }
+
+  .pt-safe {
+    padding-top: max(0.75rem, env(safe-area-inset-top));
+  }
+
+  .pb-safe {
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+
+  .safe-bottom {
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+
+  .safe-x {
+    padding-left: max(0.75rem, env(safe-area-inset-left));
+    padding-right: max(0.75rem, env(safe-area-inset-right));
+  }
+
+  .touch-target {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  .no-select-interactive {
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  .immersive-session {
+    min-height: 100dvh;
+    overscroll-behavior-x: none;
+    overscroll-behavior-y: contain;
+  }
+
+  .mobile-landscape-guard {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) and (orientation: landscape) {
+  .mobile-landscape-guard {
+    display: grid;
+  }
+
+  .mobile-landscape-content {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

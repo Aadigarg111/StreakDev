@@ -1,0 +1,3006 @@
+{
+  "id": "big-o",
+  "title": "Big-O & Complexity Analysis",
+  "category": "core-cs",
+  "icon": "sigma",
+  "color": "#FFC800",
+  "description": "Estimate runtime and memory with confidence across common code patterns.",
+  "sections": [
+    {
+      "id": "big-o-section-1",
+      "trackId": "big-o",
+      "order": 1,
+      "title": "Section 1: Complexity Foundations",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "big-o-section-1-unit-1-why-complexity-matters",
+          "sectionId": "big-o-section-1",
+          "order": 1,
+          "title": "Why complexity matters",
+          "lessons": [
+            {
+              "id": "big-o-section-1-unit-1-why-complexity-matters-lesson-1",
+              "unitId": "big-o-section-1-unit-1-why-complexity-matters",
+              "title": "Learn Why complexity matters",
+              "order": 1,
+              "exerciseIds": [
+                "big-o-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "big-o-section-1-unit-1-why-complexity-matters-lesson-2",
+              "unitId": "big-o-section-1-unit-1-why-complexity-matters",
+              "title": "Practice Why complexity matters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-1-why-complexity-matters-lesson-3",
+              "unitId": "big-o-section-1-unit-1-why-complexity-matters",
+              "title": "Review Why complexity matters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-1-unit-2-counting-operations",
+          "sectionId": "big-o-section-1",
+          "order": 2,
+          "title": "Counting operations",
+          "lessons": [
+            {
+              "id": "big-o-section-1-unit-2-counting-operations-lesson-1",
+              "unitId": "big-o-section-1-unit-2-counting-operations",
+              "title": "Learn Counting operations",
+              "order": 1,
+              "exerciseIds": [
+                "big-o-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "big-o-section-1-unit-2-counting-operations-lesson-2",
+              "unitId": "big-o-section-1-unit-2-counting-operations",
+              "title": "Practice Counting operations",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-2-counting-operations-lesson-3",
+              "unitId": "big-o-section-1-unit-2-counting-operations",
+              "title": "Review Counting operations",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-1-unit-3-input-size",
+          "sectionId": "big-o-section-1",
+          "order": 3,
+          "title": "Input size",
+          "lessons": [
+            {
+              "id": "big-o-section-1-unit-3-input-size-lesson-1",
+              "unitId": "big-o-section-1-unit-3-input-size",
+              "title": "Learn Input size",
+              "order": 1,
+              "exerciseIds": [
+                "big-o-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "big-o-section-1-unit-3-input-size-lesson-2",
+              "unitId": "big-o-section-1-unit-3-input-size",
+              "title": "Practice Input size",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-3-input-size-lesson-3",
+              "unitId": "big-o-section-1-unit-3-input-size",
+              "title": "Review Input size",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-1-unit-4-constants",
+          "sectionId": "big-o-section-1",
+          "order": 4,
+          "title": "Constants",
+          "lessons": [
+            {
+              "id": "big-o-section-1-unit-4-constants-lesson-1",
+              "unitId": "big-o-section-1-unit-4-constants",
+              "title": "Learn Constants",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-4-constants-lesson-2",
+              "unitId": "big-o-section-1-unit-4-constants",
+              "title": "Practice Constants",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-4-constants-lesson-3",
+              "unitId": "big-o-section-1-unit-4-constants",
+              "title": "Review Constants",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-1-unit-5-dominant-terms",
+          "sectionId": "big-o-section-1",
+          "order": 5,
+          "title": "Dominant terms",
+          "lessons": [
+            {
+              "id": "big-o-section-1-unit-5-dominant-terms-lesson-1",
+              "unitId": "big-o-section-1-unit-5-dominant-terms",
+              "title": "Learn Dominant terms",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-5-dominant-terms-lesson-2",
+              "unitId": "big-o-section-1-unit-5-dominant-terms",
+              "title": "Practice Dominant terms",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-5-dominant-terms-lesson-3",
+              "unitId": "big-o-section-1-unit-5-dominant-terms",
+              "title": "Review Dominant terms",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-1-unit-6-big-o-notation",
+          "sectionId": "big-o-section-1",
+          "order": 6,
+          "title": "Big-O notation",
+          "lessons": [
+            {
+              "id": "big-o-section-1-unit-6-big-o-notation-lesson-1",
+              "unitId": "big-o-section-1-unit-6-big-o-notation",
+              "title": "Learn Big-O notation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-6-big-o-notation-lesson-2",
+              "unitId": "big-o-section-1-unit-6-big-o-notation",
+              "title": "Practice Big-O notation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-6-big-o-notation-lesson-3",
+              "unitId": "big-o-section-1-unit-6-big-o-notation",
+              "title": "Review Big-O notation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-1-unit-7-big-omega",
+          "sectionId": "big-o-section-1",
+          "order": 7,
+          "title": "Big Omega",
+          "lessons": [
+            {
+              "id": "big-o-section-1-unit-7-big-omega-lesson-1",
+              "unitId": "big-o-section-1-unit-7-big-omega",
+              "title": "Learn Big Omega",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-7-big-omega-lesson-2",
+              "unitId": "big-o-section-1-unit-7-big-omega",
+              "title": "Practice Big Omega",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-7-big-omega-lesson-3",
+              "unitId": "big-o-section-1-unit-7-big-omega",
+              "title": "Review Big Omega",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-1-unit-8-big-theta",
+          "sectionId": "big-o-section-1",
+          "order": 8,
+          "title": "Big Theta",
+          "lessons": [
+            {
+              "id": "big-o-section-1-unit-8-big-theta-lesson-1",
+              "unitId": "big-o-section-1-unit-8-big-theta",
+              "title": "Learn Big Theta",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-8-big-theta-lesson-2",
+              "unitId": "big-o-section-1-unit-8-big-theta",
+              "title": "Practice Big Theta",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-8-big-theta-lesson-3",
+              "unitId": "big-o-section-1-unit-8-big-theta",
+              "title": "Review Big Theta",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-1-unit-9-comparing-growth",
+          "sectionId": "big-o-section-1",
+          "order": 9,
+          "title": "Comparing growth",
+          "lessons": [
+            {
+              "id": "big-o-section-1-unit-9-comparing-growth-lesson-1",
+              "unitId": "big-o-section-1-unit-9-comparing-growth",
+              "title": "Learn Comparing growth",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-9-comparing-growth-lesson-2",
+              "unitId": "big-o-section-1-unit-9-comparing-growth",
+              "title": "Practice Comparing growth",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-9-comparing-growth-lesson-3",
+              "unitId": "big-o-section-1-unit-9-comparing-growth",
+              "title": "Review Comparing growth",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-1-unit-10-complexity-drills",
+          "sectionId": "big-o-section-1",
+          "order": 10,
+          "title": "Complexity drills",
+          "lessons": [
+            {
+              "id": "big-o-section-1-unit-10-complexity-drills-lesson-1",
+              "unitId": "big-o-section-1-unit-10-complexity-drills",
+              "title": "Learn Complexity drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-10-complexity-drills-lesson-2",
+              "unitId": "big-o-section-1-unit-10-complexity-drills",
+              "title": "Practice Complexity drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-1-unit-10-complexity-drills-lesson-3",
+              "unitId": "big-o-section-1-unit-10-complexity-drills",
+              "title": "Review Complexity drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "big-o-section-2",
+      "trackId": "big-o",
+      "order": 2,
+      "title": "Section 2: Common Time Classes",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "big-o-section-2-unit-1-o-1",
+          "sectionId": "big-o-section-2",
+          "order": 1,
+          "title": "O(1)",
+          "lessons": [
+            {
+              "id": "big-o-section-2-unit-1-o-1-lesson-1",
+              "unitId": "big-o-section-2-unit-1-o-1",
+              "title": "Learn O(1)",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-1-o-1-lesson-2",
+              "unitId": "big-o-section-2-unit-1-o-1",
+              "title": "Practice O(1)",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-1-o-1-lesson-3",
+              "unitId": "big-o-section-2-unit-1-o-1",
+              "title": "Review O(1)",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-2-unit-2-o-log-n",
+          "sectionId": "big-o-section-2",
+          "order": 2,
+          "title": "O(log n)",
+          "lessons": [
+            {
+              "id": "big-o-section-2-unit-2-o-log-n-lesson-1",
+              "unitId": "big-o-section-2-unit-2-o-log-n",
+              "title": "Learn O(log n)",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-2-o-log-n-lesson-2",
+              "unitId": "big-o-section-2-unit-2-o-log-n",
+              "title": "Practice O(log n)",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-2-o-log-n-lesson-3",
+              "unitId": "big-o-section-2-unit-2-o-log-n",
+              "title": "Review O(log n)",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-2-unit-3-o-n",
+          "sectionId": "big-o-section-2",
+          "order": 3,
+          "title": "O(n)",
+          "lessons": [
+            {
+              "id": "big-o-section-2-unit-3-o-n-lesson-1",
+              "unitId": "big-o-section-2-unit-3-o-n",
+              "title": "Learn O(n)",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-3-o-n-lesson-2",
+              "unitId": "big-o-section-2-unit-3-o-n",
+              "title": "Practice O(n)",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-3-o-n-lesson-3",
+              "unitId": "big-o-section-2-unit-3-o-n",
+              "title": "Review O(n)",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-2-unit-4-o-n-log-n",
+          "sectionId": "big-o-section-2",
+          "order": 4,
+          "title": "O(n log n)",
+          "lessons": [
+            {
+              "id": "big-o-section-2-unit-4-o-n-log-n-lesson-1",
+              "unitId": "big-o-section-2-unit-4-o-n-log-n",
+              "title": "Learn O(n log n)",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-4-o-n-log-n-lesson-2",
+              "unitId": "big-o-section-2-unit-4-o-n-log-n",
+              "title": "Practice O(n log n)",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-4-o-n-log-n-lesson-3",
+              "unitId": "big-o-section-2-unit-4-o-n-log-n",
+              "title": "Review O(n log n)",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-2-unit-5-o-n-2",
+          "sectionId": "big-o-section-2",
+          "order": 5,
+          "title": "O(n^2)",
+          "lessons": [
+            {
+              "id": "big-o-section-2-unit-5-o-n-2-lesson-1",
+              "unitId": "big-o-section-2-unit-5-o-n-2",
+              "title": "Learn O(n^2)",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-5-o-n-2-lesson-2",
+              "unitId": "big-o-section-2-unit-5-o-n-2",
+              "title": "Practice O(n^2)",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-5-o-n-2-lesson-3",
+              "unitId": "big-o-section-2-unit-5-o-n-2",
+              "title": "Review O(n^2)",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-2-unit-6-o-n-3",
+          "sectionId": "big-o-section-2",
+          "order": 6,
+          "title": "O(n^3)",
+          "lessons": [
+            {
+              "id": "big-o-section-2-unit-6-o-n-3-lesson-1",
+              "unitId": "big-o-section-2-unit-6-o-n-3",
+              "title": "Learn O(n^3)",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-6-o-n-3-lesson-2",
+              "unitId": "big-o-section-2-unit-6-o-n-3",
+              "title": "Practice O(n^3)",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-6-o-n-3-lesson-3",
+              "unitId": "big-o-section-2-unit-6-o-n-3",
+              "title": "Review O(n^3)",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-2-unit-7-o-2-n",
+          "sectionId": "big-o-section-2",
+          "order": 7,
+          "title": "O(2^n)",
+          "lessons": [
+            {
+              "id": "big-o-section-2-unit-7-o-2-n-lesson-1",
+              "unitId": "big-o-section-2-unit-7-o-2-n",
+              "title": "Learn O(2^n)",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-7-o-2-n-lesson-2",
+              "unitId": "big-o-section-2-unit-7-o-2-n",
+              "title": "Practice O(2^n)",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-7-o-2-n-lesson-3",
+              "unitId": "big-o-section-2-unit-7-o-2-n",
+              "title": "Review O(2^n)",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-2-unit-8-o-n",
+          "sectionId": "big-o-section-2",
+          "order": 8,
+          "title": "O(n!)",
+          "lessons": [
+            {
+              "id": "big-o-section-2-unit-8-o-n-lesson-1",
+              "unitId": "big-o-section-2-unit-8-o-n",
+              "title": "Learn O(n!)",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-8-o-n-lesson-2",
+              "unitId": "big-o-section-2-unit-8-o-n",
+              "title": "Practice O(n!)",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-8-o-n-lesson-3",
+              "unitId": "big-o-section-2-unit-8-o-n",
+              "title": "Review O(n!)",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-2-unit-9-mixed-terms",
+          "sectionId": "big-o-section-2",
+          "order": 9,
+          "title": "Mixed terms",
+          "lessons": [
+            {
+              "id": "big-o-section-2-unit-9-mixed-terms-lesson-1",
+              "unitId": "big-o-section-2-unit-9-mixed-terms",
+              "title": "Learn Mixed terms",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-9-mixed-terms-lesson-2",
+              "unitId": "big-o-section-2-unit-9-mixed-terms",
+              "title": "Practice Mixed terms",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-9-mixed-terms-lesson-3",
+              "unitId": "big-o-section-2-unit-9-mixed-terms",
+              "title": "Review Mixed terms",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-2-unit-10-growth-ordering",
+          "sectionId": "big-o-section-2",
+          "order": 10,
+          "title": "Growth ordering",
+          "lessons": [
+            {
+              "id": "big-o-section-2-unit-10-growth-ordering-lesson-1",
+              "unitId": "big-o-section-2-unit-10-growth-ordering",
+              "title": "Learn Growth ordering",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-10-growth-ordering-lesson-2",
+              "unitId": "big-o-section-2-unit-10-growth-ordering",
+              "title": "Practice Growth ordering",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-2-unit-10-growth-ordering-lesson-3",
+              "unitId": "big-o-section-2-unit-10-growth-ordering",
+              "title": "Review Growth ordering",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "big-o-section-3",
+      "trackId": "big-o",
+      "order": 3,
+      "title": "Section 3: Loop Analysis",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "big-o-section-3-unit-1-single-loops",
+          "sectionId": "big-o-section-3",
+          "order": 1,
+          "title": "Single loops",
+          "lessons": [
+            {
+              "id": "big-o-section-3-unit-1-single-loops-lesson-1",
+              "unitId": "big-o-section-3-unit-1-single-loops",
+              "title": "Learn Single loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-1-single-loops-lesson-2",
+              "unitId": "big-o-section-3-unit-1-single-loops",
+              "title": "Practice Single loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-1-single-loops-lesson-3",
+              "unitId": "big-o-section-3-unit-1-single-loops",
+              "title": "Review Single loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-3-unit-2-nested-loops",
+          "sectionId": "big-o-section-3",
+          "order": 2,
+          "title": "Nested loops",
+          "lessons": [
+            {
+              "id": "big-o-section-3-unit-2-nested-loops-lesson-1",
+              "unitId": "big-o-section-3-unit-2-nested-loops",
+              "title": "Learn Nested loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-2-nested-loops-lesson-2",
+              "unitId": "big-o-section-3-unit-2-nested-loops",
+              "title": "Practice Nested loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-2-nested-loops-lesson-3",
+              "unitId": "big-o-section-3-unit-2-nested-loops",
+              "title": "Review Nested loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-3-unit-3-sequential-loops",
+          "sectionId": "big-o-section-3",
+          "order": 3,
+          "title": "Sequential loops",
+          "lessons": [
+            {
+              "id": "big-o-section-3-unit-3-sequential-loops-lesson-1",
+              "unitId": "big-o-section-3-unit-3-sequential-loops",
+              "title": "Learn Sequential loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-3-sequential-loops-lesson-2",
+              "unitId": "big-o-section-3-unit-3-sequential-loops",
+              "title": "Practice Sequential loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-3-sequential-loops-lesson-3",
+              "unitId": "big-o-section-3-unit-3-sequential-loops",
+              "title": "Review Sequential loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-3-unit-4-dependent-loops",
+          "sectionId": "big-o-section-3",
+          "order": 4,
+          "title": "Dependent loops",
+          "lessons": [
+            {
+              "id": "big-o-section-3-unit-4-dependent-loops-lesson-1",
+              "unitId": "big-o-section-3-unit-4-dependent-loops",
+              "title": "Learn Dependent loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-4-dependent-loops-lesson-2",
+              "unitId": "big-o-section-3-unit-4-dependent-loops",
+              "title": "Practice Dependent loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-4-dependent-loops-lesson-3",
+              "unitId": "big-o-section-3-unit-4-dependent-loops",
+              "title": "Review Dependent loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-3-unit-5-halving-loops",
+          "sectionId": "big-o-section-3",
+          "order": 5,
+          "title": "Halving loops",
+          "lessons": [
+            {
+              "id": "big-o-section-3-unit-5-halving-loops-lesson-1",
+              "unitId": "big-o-section-3-unit-5-halving-loops",
+              "title": "Learn Halving loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-5-halving-loops-lesson-2",
+              "unitId": "big-o-section-3-unit-5-halving-loops",
+              "title": "Practice Halving loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-5-halving-loops-lesson-3",
+              "unitId": "big-o-section-3-unit-5-halving-loops",
+              "title": "Review Halving loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-3-unit-6-early-exits",
+          "sectionId": "big-o-section-3",
+          "order": 6,
+          "title": "Early exits",
+          "lessons": [
+            {
+              "id": "big-o-section-3-unit-6-early-exits-lesson-1",
+              "unitId": "big-o-section-3-unit-6-early-exits",
+              "title": "Learn Early exits",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-6-early-exits-lesson-2",
+              "unitId": "big-o-section-3-unit-6-early-exits",
+              "title": "Practice Early exits",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-6-early-exits-lesson-3",
+              "unitId": "big-o-section-3-unit-6-early-exits",
+              "title": "Review Early exits",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-3-unit-7-amortized-loops",
+          "sectionId": "big-o-section-3",
+          "order": 7,
+          "title": "Amortized loops",
+          "lessons": [
+            {
+              "id": "big-o-section-3-unit-7-amortized-loops-lesson-1",
+              "unitId": "big-o-section-3-unit-7-amortized-loops",
+              "title": "Learn Amortized loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-7-amortized-loops-lesson-2",
+              "unitId": "big-o-section-3-unit-7-amortized-loops",
+              "title": "Practice Amortized loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-7-amortized-loops-lesson-3",
+              "unitId": "big-o-section-3-unit-7-amortized-loops",
+              "title": "Review Amortized loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-3-unit-8-loop-invariants",
+          "sectionId": "big-o-section-3",
+          "order": 8,
+          "title": "Loop invariants",
+          "lessons": [
+            {
+              "id": "big-o-section-3-unit-8-loop-invariants-lesson-1",
+              "unitId": "big-o-section-3-unit-8-loop-invariants",
+              "title": "Learn Loop invariants",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-8-loop-invariants-lesson-2",
+              "unitId": "big-o-section-3-unit-8-loop-invariants",
+              "title": "Practice Loop invariants",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-8-loop-invariants-lesson-3",
+              "unitId": "big-o-section-3-unit-8-loop-invariants",
+              "title": "Review Loop invariants",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-3-unit-9-loop-pitfalls",
+          "sectionId": "big-o-section-3",
+          "order": 9,
+          "title": "Loop pitfalls",
+          "lessons": [
+            {
+              "id": "big-o-section-3-unit-9-loop-pitfalls-lesson-1",
+              "unitId": "big-o-section-3-unit-9-loop-pitfalls",
+              "title": "Learn Loop pitfalls",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-9-loop-pitfalls-lesson-2",
+              "unitId": "big-o-section-3-unit-9-loop-pitfalls",
+              "title": "Practice Loop pitfalls",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-9-loop-pitfalls-lesson-3",
+              "unitId": "big-o-section-3-unit-9-loop-pitfalls",
+              "title": "Review Loop pitfalls",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-3-unit-10-loop-analysis-project",
+          "sectionId": "big-o-section-3",
+          "order": 10,
+          "title": "Loop analysis project",
+          "lessons": [
+            {
+              "id": "big-o-section-3-unit-10-loop-analysis-project-lesson-1",
+              "unitId": "big-o-section-3-unit-10-loop-analysis-project",
+              "title": "Learn Loop analysis project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-10-loop-analysis-project-lesson-2",
+              "unitId": "big-o-section-3-unit-10-loop-analysis-project",
+              "title": "Practice Loop analysis project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-3-unit-10-loop-analysis-project-lesson-3",
+              "unitId": "big-o-section-3-unit-10-loop-analysis-project",
+              "title": "Review Loop analysis project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "big-o-section-4",
+      "trackId": "big-o",
+      "order": 4,
+      "title": "Section 4: Recursion Analysis",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "big-o-section-4-unit-1-recursive-calls",
+          "sectionId": "big-o-section-4",
+          "order": 1,
+          "title": "Recursive calls",
+          "lessons": [
+            {
+              "id": "big-o-section-4-unit-1-recursive-calls-lesson-1",
+              "unitId": "big-o-section-4-unit-1-recursive-calls",
+              "title": "Learn Recursive calls",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-1-recursive-calls-lesson-2",
+              "unitId": "big-o-section-4-unit-1-recursive-calls",
+              "title": "Practice Recursive calls",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-1-recursive-calls-lesson-3",
+              "unitId": "big-o-section-4-unit-1-recursive-calls",
+              "title": "Review Recursive calls",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-4-unit-2-recurrence-basics",
+          "sectionId": "big-o-section-4",
+          "order": 2,
+          "title": "Recurrence basics",
+          "lessons": [
+            {
+              "id": "big-o-section-4-unit-2-recurrence-basics-lesson-1",
+              "unitId": "big-o-section-4-unit-2-recurrence-basics",
+              "title": "Learn Recurrence basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-2-recurrence-basics-lesson-2",
+              "unitId": "big-o-section-4-unit-2-recurrence-basics",
+              "title": "Practice Recurrence basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-2-recurrence-basics-lesson-3",
+              "unitId": "big-o-section-4-unit-2-recurrence-basics",
+              "title": "Review Recurrence basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-4-unit-3-call-trees",
+          "sectionId": "big-o-section-4",
+          "order": 3,
+          "title": "Call trees",
+          "lessons": [
+            {
+              "id": "big-o-section-4-unit-3-call-trees-lesson-1",
+              "unitId": "big-o-section-4-unit-3-call-trees",
+              "title": "Learn Call trees",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-3-call-trees-lesson-2",
+              "unitId": "big-o-section-4-unit-3-call-trees",
+              "title": "Practice Call trees",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-3-call-trees-lesson-3",
+              "unitId": "big-o-section-4-unit-3-call-trees",
+              "title": "Review Call trees",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-4-unit-4-divide-and-conquer",
+          "sectionId": "big-o-section-4",
+          "order": 4,
+          "title": "Divide and conquer",
+          "lessons": [
+            {
+              "id": "big-o-section-4-unit-4-divide-and-conquer-lesson-1",
+              "unitId": "big-o-section-4-unit-4-divide-and-conquer",
+              "title": "Learn Divide and conquer",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-4-divide-and-conquer-lesson-2",
+              "unitId": "big-o-section-4-unit-4-divide-and-conquer",
+              "title": "Practice Divide and conquer",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-4-divide-and-conquer-lesson-3",
+              "unitId": "big-o-section-4-unit-4-divide-and-conquer",
+              "title": "Review Divide and conquer",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-4-unit-5-master-theorem-intro",
+          "sectionId": "big-o-section-4",
+          "order": 5,
+          "title": "Master theorem intro",
+          "lessons": [
+            {
+              "id": "big-o-section-4-unit-5-master-theorem-intro-lesson-1",
+              "unitId": "big-o-section-4-unit-5-master-theorem-intro",
+              "title": "Learn Master theorem intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-5-master-theorem-intro-lesson-2",
+              "unitId": "big-o-section-4-unit-5-master-theorem-intro",
+              "title": "Practice Master theorem intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-5-master-theorem-intro-lesson-3",
+              "unitId": "big-o-section-4-unit-5-master-theorem-intro",
+              "title": "Review Master theorem intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-4-unit-6-tail-recursion",
+          "sectionId": "big-o-section-4",
+          "order": 6,
+          "title": "Tail recursion",
+          "lessons": [
+            {
+              "id": "big-o-section-4-unit-6-tail-recursion-lesson-1",
+              "unitId": "big-o-section-4-unit-6-tail-recursion",
+              "title": "Learn Tail recursion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-6-tail-recursion-lesson-2",
+              "unitId": "big-o-section-4-unit-6-tail-recursion",
+              "title": "Practice Tail recursion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-6-tail-recursion-lesson-3",
+              "unitId": "big-o-section-4-unit-6-tail-recursion",
+              "title": "Review Tail recursion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-4-unit-7-branching-recursion",
+          "sectionId": "big-o-section-4",
+          "order": 7,
+          "title": "Branching recursion",
+          "lessons": [
+            {
+              "id": "big-o-section-4-unit-7-branching-recursion-lesson-1",
+              "unitId": "big-o-section-4-unit-7-branching-recursion",
+              "title": "Learn Branching recursion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-7-branching-recursion-lesson-2",
+              "unitId": "big-o-section-4-unit-7-branching-recursion",
+              "title": "Practice Branching recursion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-7-branching-recursion-lesson-3",
+              "unitId": "big-o-section-4-unit-7-branching-recursion",
+              "title": "Review Branching recursion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-4-unit-8-memoized-recursion",
+          "sectionId": "big-o-section-4",
+          "order": 8,
+          "title": "Memoized recursion",
+          "lessons": [
+            {
+              "id": "big-o-section-4-unit-8-memoized-recursion-lesson-1",
+              "unitId": "big-o-section-4-unit-8-memoized-recursion",
+              "title": "Learn Memoized recursion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-8-memoized-recursion-lesson-2",
+              "unitId": "big-o-section-4-unit-8-memoized-recursion",
+              "title": "Practice Memoized recursion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-8-memoized-recursion-lesson-3",
+              "unitId": "big-o-section-4-unit-8-memoized-recursion",
+              "title": "Review Memoized recursion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-4-unit-9-stack-depth",
+          "sectionId": "big-o-section-4",
+          "order": 9,
+          "title": "Stack depth",
+          "lessons": [
+            {
+              "id": "big-o-section-4-unit-9-stack-depth-lesson-1",
+              "unitId": "big-o-section-4-unit-9-stack-depth",
+              "title": "Learn Stack depth",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-9-stack-depth-lesson-2",
+              "unitId": "big-o-section-4-unit-9-stack-depth",
+              "title": "Practice Stack depth",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-9-stack-depth-lesson-3",
+              "unitId": "big-o-section-4-unit-9-stack-depth",
+              "title": "Review Stack depth",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-4-unit-10-recursion-drills",
+          "sectionId": "big-o-section-4",
+          "order": 10,
+          "title": "Recursion drills",
+          "lessons": [
+            {
+              "id": "big-o-section-4-unit-10-recursion-drills-lesson-1",
+              "unitId": "big-o-section-4-unit-10-recursion-drills",
+              "title": "Learn Recursion drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-10-recursion-drills-lesson-2",
+              "unitId": "big-o-section-4-unit-10-recursion-drills",
+              "title": "Practice Recursion drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-4-unit-10-recursion-drills-lesson-3",
+              "unitId": "big-o-section-4-unit-10-recursion-drills",
+              "title": "Review Recursion drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "big-o-section-5",
+      "trackId": "big-o",
+      "order": 5,
+      "title": "Section 5: Space Complexity",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "big-o-section-5-unit-1-auxiliary-space",
+          "sectionId": "big-o-section-5",
+          "order": 1,
+          "title": "Auxiliary space",
+          "lessons": [
+            {
+              "id": "big-o-section-5-unit-1-auxiliary-space-lesson-1",
+              "unitId": "big-o-section-5-unit-1-auxiliary-space",
+              "title": "Learn Auxiliary space",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-1-auxiliary-space-lesson-2",
+              "unitId": "big-o-section-5-unit-1-auxiliary-space",
+              "title": "Practice Auxiliary space",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-1-auxiliary-space-lesson-3",
+              "unitId": "big-o-section-5-unit-1-auxiliary-space",
+              "title": "Review Auxiliary space",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-5-unit-2-input-space",
+          "sectionId": "big-o-section-5",
+          "order": 2,
+          "title": "Input space",
+          "lessons": [
+            {
+              "id": "big-o-section-5-unit-2-input-space-lesson-1",
+              "unitId": "big-o-section-5-unit-2-input-space",
+              "title": "Learn Input space",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-2-input-space-lesson-2",
+              "unitId": "big-o-section-5-unit-2-input-space",
+              "title": "Practice Input space",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-2-input-space-lesson-3",
+              "unitId": "big-o-section-5-unit-2-input-space",
+              "title": "Review Input space",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-5-unit-3-stack-space",
+          "sectionId": "big-o-section-5",
+          "order": 3,
+          "title": "Stack space",
+          "lessons": [
+            {
+              "id": "big-o-section-5-unit-3-stack-space-lesson-1",
+              "unitId": "big-o-section-5-unit-3-stack-space",
+              "title": "Learn Stack space",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-3-stack-space-lesson-2",
+              "unitId": "big-o-section-5-unit-3-stack-space",
+              "title": "Practice Stack space",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-3-stack-space-lesson-3",
+              "unitId": "big-o-section-5-unit-3-stack-space",
+              "title": "Review Stack space",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-5-unit-4-arrays-and-copies",
+          "sectionId": "big-o-section-5",
+          "order": 4,
+          "title": "Arrays and copies",
+          "lessons": [
+            {
+              "id": "big-o-section-5-unit-4-arrays-and-copies-lesson-1",
+              "unitId": "big-o-section-5-unit-4-arrays-and-copies",
+              "title": "Learn Arrays and copies",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-4-arrays-and-copies-lesson-2",
+              "unitId": "big-o-section-5-unit-4-arrays-and-copies",
+              "title": "Practice Arrays and copies",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-4-arrays-and-copies-lesson-3",
+              "unitId": "big-o-section-5-unit-4-arrays-and-copies",
+              "title": "Review Arrays and copies",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-5-unit-5-hash-map-space",
+          "sectionId": "big-o-section-5",
+          "order": 5,
+          "title": "Hash map space",
+          "lessons": [
+            {
+              "id": "big-o-section-5-unit-5-hash-map-space-lesson-1",
+              "unitId": "big-o-section-5-unit-5-hash-map-space",
+              "title": "Learn Hash map space",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-5-hash-map-space-lesson-2",
+              "unitId": "big-o-section-5-unit-5-hash-map-space",
+              "title": "Practice Hash map space",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-5-hash-map-space-lesson-3",
+              "unitId": "big-o-section-5-unit-5-hash-map-space",
+              "title": "Review Hash map space",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-5-unit-6-recursion-space",
+          "sectionId": "big-o-section-5",
+          "order": 6,
+          "title": "Recursion space",
+          "lessons": [
+            {
+              "id": "big-o-section-5-unit-6-recursion-space-lesson-1",
+              "unitId": "big-o-section-5-unit-6-recursion-space",
+              "title": "Learn Recursion space",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-6-recursion-space-lesson-2",
+              "unitId": "big-o-section-5-unit-6-recursion-space",
+              "title": "Practice Recursion space",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-6-recursion-space-lesson-3",
+              "unitId": "big-o-section-5-unit-6-recursion-space",
+              "title": "Review Recursion space",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-5-unit-7-in-place-algorithms",
+          "sectionId": "big-o-section-5",
+          "order": 7,
+          "title": "In-place algorithms",
+          "lessons": [
+            {
+              "id": "big-o-section-5-unit-7-in-place-algorithms-lesson-1",
+              "unitId": "big-o-section-5-unit-7-in-place-algorithms",
+              "title": "Learn In-place algorithms",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-7-in-place-algorithms-lesson-2",
+              "unitId": "big-o-section-5-unit-7-in-place-algorithms",
+              "title": "Practice In-place algorithms",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-7-in-place-algorithms-lesson-3",
+              "unitId": "big-o-section-5-unit-7-in-place-algorithms",
+              "title": "Review In-place algorithms",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-5-unit-8-output-space",
+          "sectionId": "big-o-section-5",
+          "order": 8,
+          "title": "Output space",
+          "lessons": [
+            {
+              "id": "big-o-section-5-unit-8-output-space-lesson-1",
+              "unitId": "big-o-section-5-unit-8-output-space",
+              "title": "Learn Output space",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-8-output-space-lesson-2",
+              "unitId": "big-o-section-5-unit-8-output-space",
+              "title": "Practice Output space",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-8-output-space-lesson-3",
+              "unitId": "big-o-section-5-unit-8-output-space",
+              "title": "Review Output space",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-5-unit-9-memory-tradeoffs",
+          "sectionId": "big-o-section-5",
+          "order": 9,
+          "title": "Memory tradeoffs",
+          "lessons": [
+            {
+              "id": "big-o-section-5-unit-9-memory-tradeoffs-lesson-1",
+              "unitId": "big-o-section-5-unit-9-memory-tradeoffs",
+              "title": "Learn Memory tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-9-memory-tradeoffs-lesson-2",
+              "unitId": "big-o-section-5-unit-9-memory-tradeoffs",
+              "title": "Practice Memory tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-9-memory-tradeoffs-lesson-3",
+              "unitId": "big-o-section-5-unit-9-memory-tradeoffs",
+              "title": "Review Memory tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-5-unit-10-space-drills",
+          "sectionId": "big-o-section-5",
+          "order": 10,
+          "title": "Space drills",
+          "lessons": [
+            {
+              "id": "big-o-section-5-unit-10-space-drills-lesson-1",
+              "unitId": "big-o-section-5-unit-10-space-drills",
+              "title": "Learn Space drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-10-space-drills-lesson-2",
+              "unitId": "big-o-section-5-unit-10-space-drills",
+              "title": "Practice Space drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-5-unit-10-space-drills-lesson-3",
+              "unitId": "big-o-section-5-unit-10-space-drills",
+              "title": "Review Space drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "big-o-section-6",
+      "trackId": "big-o",
+      "order": 6,
+      "title": "Section 6: Data Structure Costs",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "big-o-section-6-unit-1-array-costs",
+          "sectionId": "big-o-section-6",
+          "order": 1,
+          "title": "Array costs",
+          "lessons": [
+            {
+              "id": "big-o-section-6-unit-1-array-costs-lesson-1",
+              "unitId": "big-o-section-6-unit-1-array-costs",
+              "title": "Learn Array costs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-1-array-costs-lesson-2",
+              "unitId": "big-o-section-6-unit-1-array-costs",
+              "title": "Practice Array costs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-1-array-costs-lesson-3",
+              "unitId": "big-o-section-6-unit-1-array-costs",
+              "title": "Review Array costs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-6-unit-2-linked-list-costs",
+          "sectionId": "big-o-section-6",
+          "order": 2,
+          "title": "Linked list costs",
+          "lessons": [
+            {
+              "id": "big-o-section-6-unit-2-linked-list-costs-lesson-1",
+              "unitId": "big-o-section-6-unit-2-linked-list-costs",
+              "title": "Learn Linked list costs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-2-linked-list-costs-lesson-2",
+              "unitId": "big-o-section-6-unit-2-linked-list-costs",
+              "title": "Practice Linked list costs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-2-linked-list-costs-lesson-3",
+              "unitId": "big-o-section-6-unit-2-linked-list-costs",
+              "title": "Review Linked list costs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-6-unit-3-hash-table-costs",
+          "sectionId": "big-o-section-6",
+          "order": 3,
+          "title": "Hash table costs",
+          "lessons": [
+            {
+              "id": "big-o-section-6-unit-3-hash-table-costs-lesson-1",
+              "unitId": "big-o-section-6-unit-3-hash-table-costs",
+              "title": "Learn Hash table costs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-3-hash-table-costs-lesson-2",
+              "unitId": "big-o-section-6-unit-3-hash-table-costs",
+              "title": "Practice Hash table costs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-3-hash-table-costs-lesson-3",
+              "unitId": "big-o-section-6-unit-3-hash-table-costs",
+              "title": "Review Hash table costs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-6-unit-4-tree-costs",
+          "sectionId": "big-o-section-6",
+          "order": 4,
+          "title": "Tree costs",
+          "lessons": [
+            {
+              "id": "big-o-section-6-unit-4-tree-costs-lesson-1",
+              "unitId": "big-o-section-6-unit-4-tree-costs",
+              "title": "Learn Tree costs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-4-tree-costs-lesson-2",
+              "unitId": "big-o-section-6-unit-4-tree-costs",
+              "title": "Practice Tree costs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-4-tree-costs-lesson-3",
+              "unitId": "big-o-section-6-unit-4-tree-costs",
+              "title": "Review Tree costs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-6-unit-5-heap-costs",
+          "sectionId": "big-o-section-6",
+          "order": 5,
+          "title": "Heap costs",
+          "lessons": [
+            {
+              "id": "big-o-section-6-unit-5-heap-costs-lesson-1",
+              "unitId": "big-o-section-6-unit-5-heap-costs",
+              "title": "Learn Heap costs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-5-heap-costs-lesson-2",
+              "unitId": "big-o-section-6-unit-5-heap-costs",
+              "title": "Practice Heap costs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-5-heap-costs-lesson-3",
+              "unitId": "big-o-section-6-unit-5-heap-costs",
+              "title": "Review Heap costs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-6-unit-6-graph-costs",
+          "sectionId": "big-o-section-6",
+          "order": 6,
+          "title": "Graph costs",
+          "lessons": [
+            {
+              "id": "big-o-section-6-unit-6-graph-costs-lesson-1",
+              "unitId": "big-o-section-6-unit-6-graph-costs",
+              "title": "Learn Graph costs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-6-graph-costs-lesson-2",
+              "unitId": "big-o-section-6-unit-6-graph-costs",
+              "title": "Practice Graph costs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-6-graph-costs-lesson-3",
+              "unitId": "big-o-section-6-unit-6-graph-costs",
+              "title": "Review Graph costs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-6-unit-7-string-costs",
+          "sectionId": "big-o-section-6",
+          "order": 7,
+          "title": "String costs",
+          "lessons": [
+            {
+              "id": "big-o-section-6-unit-7-string-costs-lesson-1",
+              "unitId": "big-o-section-6-unit-7-string-costs",
+              "title": "Learn String costs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-7-string-costs-lesson-2",
+              "unitId": "big-o-section-6-unit-7-string-costs",
+              "title": "Practice String costs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-7-string-costs-lesson-3",
+              "unitId": "big-o-section-6-unit-7-string-costs",
+              "title": "Review String costs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-6-unit-8-queue-costs",
+          "sectionId": "big-o-section-6",
+          "order": 8,
+          "title": "Queue costs",
+          "lessons": [
+            {
+              "id": "big-o-section-6-unit-8-queue-costs-lesson-1",
+              "unitId": "big-o-section-6-unit-8-queue-costs",
+              "title": "Learn Queue costs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-8-queue-costs-lesson-2",
+              "unitId": "big-o-section-6-unit-8-queue-costs",
+              "title": "Practice Queue costs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-8-queue-costs-lesson-3",
+              "unitId": "big-o-section-6-unit-8-queue-costs",
+              "title": "Review Queue costs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-6-unit-9-set-costs",
+          "sectionId": "big-o-section-6",
+          "order": 9,
+          "title": "Set costs",
+          "lessons": [
+            {
+              "id": "big-o-section-6-unit-9-set-costs-lesson-1",
+              "unitId": "big-o-section-6-unit-9-set-costs",
+              "title": "Learn Set costs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-9-set-costs-lesson-2",
+              "unitId": "big-o-section-6-unit-9-set-costs",
+              "title": "Practice Set costs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-9-set-costs-lesson-3",
+              "unitId": "big-o-section-6-unit-9-set-costs",
+              "title": "Review Set costs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-6-unit-10-cost-comparison",
+          "sectionId": "big-o-section-6",
+          "order": 10,
+          "title": "Cost comparison",
+          "lessons": [
+            {
+              "id": "big-o-section-6-unit-10-cost-comparison-lesson-1",
+              "unitId": "big-o-section-6-unit-10-cost-comparison",
+              "title": "Learn Cost comparison",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-10-cost-comparison-lesson-2",
+              "unitId": "big-o-section-6-unit-10-cost-comparison",
+              "title": "Practice Cost comparison",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-6-unit-10-cost-comparison-lesson-3",
+              "unitId": "big-o-section-6-unit-10-cost-comparison",
+              "title": "Review Cost comparison",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "big-o-section-7",
+      "trackId": "big-o",
+      "order": 7,
+      "title": "Section 7: Best Worst Average",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "big-o-section-7-unit-1-case-definitions",
+          "sectionId": "big-o-section-7",
+          "order": 1,
+          "title": "Case definitions",
+          "lessons": [
+            {
+              "id": "big-o-section-7-unit-1-case-definitions-lesson-1",
+              "unitId": "big-o-section-7-unit-1-case-definitions",
+              "title": "Learn Case definitions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-1-case-definitions-lesson-2",
+              "unitId": "big-o-section-7-unit-1-case-definitions",
+              "title": "Practice Case definitions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-1-case-definitions-lesson-3",
+              "unitId": "big-o-section-7-unit-1-case-definitions",
+              "title": "Review Case definitions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-7-unit-2-best-case",
+          "sectionId": "big-o-section-7",
+          "order": 2,
+          "title": "Best case",
+          "lessons": [
+            {
+              "id": "big-o-section-7-unit-2-best-case-lesson-1",
+              "unitId": "big-o-section-7-unit-2-best-case",
+              "title": "Learn Best case",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-2-best-case-lesson-2",
+              "unitId": "big-o-section-7-unit-2-best-case",
+              "title": "Practice Best case",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-2-best-case-lesson-3",
+              "unitId": "big-o-section-7-unit-2-best-case",
+              "title": "Review Best case",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-7-unit-3-worst-case",
+          "sectionId": "big-o-section-7",
+          "order": 3,
+          "title": "Worst case",
+          "lessons": [
+            {
+              "id": "big-o-section-7-unit-3-worst-case-lesson-1",
+              "unitId": "big-o-section-7-unit-3-worst-case",
+              "title": "Learn Worst case",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-3-worst-case-lesson-2",
+              "unitId": "big-o-section-7-unit-3-worst-case",
+              "title": "Practice Worst case",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-3-worst-case-lesson-3",
+              "unitId": "big-o-section-7-unit-3-worst-case",
+              "title": "Review Worst case",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-7-unit-4-average-case",
+          "sectionId": "big-o-section-7",
+          "order": 4,
+          "title": "Average case",
+          "lessons": [
+            {
+              "id": "big-o-section-7-unit-4-average-case-lesson-1",
+              "unitId": "big-o-section-7-unit-4-average-case",
+              "title": "Learn Average case",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-4-average-case-lesson-2",
+              "unitId": "big-o-section-7-unit-4-average-case",
+              "title": "Practice Average case",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-4-average-case-lesson-3",
+              "unitId": "big-o-section-7-unit-4-average-case",
+              "title": "Review Average case",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-7-unit-5-probabilistic-inputs",
+          "sectionId": "big-o-section-7",
+          "order": 5,
+          "title": "Probabilistic inputs",
+          "lessons": [
+            {
+              "id": "big-o-section-7-unit-5-probabilistic-inputs-lesson-1",
+              "unitId": "big-o-section-7-unit-5-probabilistic-inputs",
+              "title": "Learn Probabilistic inputs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-5-probabilistic-inputs-lesson-2",
+              "unitId": "big-o-section-7-unit-5-probabilistic-inputs",
+              "title": "Practice Probabilistic inputs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-5-probabilistic-inputs-lesson-3",
+              "unitId": "big-o-section-7-unit-5-probabilistic-inputs",
+              "title": "Review Probabilistic inputs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-7-unit-6-sorting-cases",
+          "sectionId": "big-o-section-7",
+          "order": 6,
+          "title": "Sorting cases",
+          "lessons": [
+            {
+              "id": "big-o-section-7-unit-6-sorting-cases-lesson-1",
+              "unitId": "big-o-section-7-unit-6-sorting-cases",
+              "title": "Learn Sorting cases",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-6-sorting-cases-lesson-2",
+              "unitId": "big-o-section-7-unit-6-sorting-cases",
+              "title": "Practice Sorting cases",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-6-sorting-cases-lesson-3",
+              "unitId": "big-o-section-7-unit-6-sorting-cases",
+              "title": "Review Sorting cases",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-7-unit-7-search-cases",
+          "sectionId": "big-o-section-7",
+          "order": 7,
+          "title": "Search cases",
+          "lessons": [
+            {
+              "id": "big-o-section-7-unit-7-search-cases-lesson-1",
+              "unitId": "big-o-section-7-unit-7-search-cases",
+              "title": "Learn Search cases",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-7-search-cases-lesson-2",
+              "unitId": "big-o-section-7-unit-7-search-cases",
+              "title": "Practice Search cases",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-7-search-cases-lesson-3",
+              "unitId": "big-o-section-7-unit-7-search-cases",
+              "title": "Review Search cases",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-7-unit-8-hash-cases",
+          "sectionId": "big-o-section-7",
+          "order": 8,
+          "title": "Hash cases",
+          "lessons": [
+            {
+              "id": "big-o-section-7-unit-8-hash-cases-lesson-1",
+              "unitId": "big-o-section-7-unit-8-hash-cases",
+              "title": "Learn Hash cases",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-8-hash-cases-lesson-2",
+              "unitId": "big-o-section-7-unit-8-hash-cases",
+              "title": "Practice Hash cases",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-8-hash-cases-lesson-3",
+              "unitId": "big-o-section-7-unit-8-hash-cases",
+              "title": "Review Hash cases",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-7-unit-9-communicating-cases",
+          "sectionId": "big-o-section-7",
+          "order": 9,
+          "title": "Communicating cases",
+          "lessons": [
+            {
+              "id": "big-o-section-7-unit-9-communicating-cases-lesson-1",
+              "unitId": "big-o-section-7-unit-9-communicating-cases",
+              "title": "Learn Communicating cases",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-9-communicating-cases-lesson-2",
+              "unitId": "big-o-section-7-unit-9-communicating-cases",
+              "title": "Practice Communicating cases",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-9-communicating-cases-lesson-3",
+              "unitId": "big-o-section-7-unit-9-communicating-cases",
+              "title": "Review Communicating cases",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-7-unit-10-case-drills",
+          "sectionId": "big-o-section-7",
+          "order": 10,
+          "title": "Case drills",
+          "lessons": [
+            {
+              "id": "big-o-section-7-unit-10-case-drills-lesson-1",
+              "unitId": "big-o-section-7-unit-10-case-drills",
+              "title": "Learn Case drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-10-case-drills-lesson-2",
+              "unitId": "big-o-section-7-unit-10-case-drills",
+              "title": "Practice Case drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-7-unit-10-case-drills-lesson-3",
+              "unitId": "big-o-section-7-unit-10-case-drills",
+              "title": "Review Case drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "big-o-section-8",
+      "trackId": "big-o",
+      "order": 8,
+      "title": "Section 8: Pattern Recognition",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "big-o-section-8-unit-1-two-pointers",
+          "sectionId": "big-o-section-8",
+          "order": 1,
+          "title": "Two pointers",
+          "lessons": [
+            {
+              "id": "big-o-section-8-unit-1-two-pointers-lesson-1",
+              "unitId": "big-o-section-8-unit-1-two-pointers",
+              "title": "Learn Two pointers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-1-two-pointers-lesson-2",
+              "unitId": "big-o-section-8-unit-1-two-pointers",
+              "title": "Practice Two pointers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-1-two-pointers-lesson-3",
+              "unitId": "big-o-section-8-unit-1-two-pointers",
+              "title": "Review Two pointers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-8-unit-2-sliding-window",
+          "sectionId": "big-o-section-8",
+          "order": 2,
+          "title": "Sliding window",
+          "lessons": [
+            {
+              "id": "big-o-section-8-unit-2-sliding-window-lesson-1",
+              "unitId": "big-o-section-8-unit-2-sliding-window",
+              "title": "Learn Sliding window",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-2-sliding-window-lesson-2",
+              "unitId": "big-o-section-8-unit-2-sliding-window",
+              "title": "Practice Sliding window",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-2-sliding-window-lesson-3",
+              "unitId": "big-o-section-8-unit-2-sliding-window",
+              "title": "Review Sliding window",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-8-unit-3-binary-search",
+          "sectionId": "big-o-section-8",
+          "order": 3,
+          "title": "Binary search",
+          "lessons": [
+            {
+              "id": "big-o-section-8-unit-3-binary-search-lesson-1",
+              "unitId": "big-o-section-8-unit-3-binary-search",
+              "title": "Learn Binary search",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-3-binary-search-lesson-2",
+              "unitId": "big-o-section-8-unit-3-binary-search",
+              "title": "Practice Binary search",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-3-binary-search-lesson-3",
+              "unitId": "big-o-section-8-unit-3-binary-search",
+              "title": "Review Binary search",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-8-unit-4-dfs",
+          "sectionId": "big-o-section-8",
+          "order": 4,
+          "title": "DFS",
+          "lessons": [
+            {
+              "id": "big-o-section-8-unit-4-dfs-lesson-1",
+              "unitId": "big-o-section-8-unit-4-dfs",
+              "title": "Learn DFS",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-4-dfs-lesson-2",
+              "unitId": "big-o-section-8-unit-4-dfs",
+              "title": "Practice DFS",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-4-dfs-lesson-3",
+              "unitId": "big-o-section-8-unit-4-dfs",
+              "title": "Review DFS",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-8-unit-5-bfs",
+          "sectionId": "big-o-section-8",
+          "order": 5,
+          "title": "BFS",
+          "lessons": [
+            {
+              "id": "big-o-section-8-unit-5-bfs-lesson-1",
+              "unitId": "big-o-section-8-unit-5-bfs",
+              "title": "Learn BFS",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-5-bfs-lesson-2",
+              "unitId": "big-o-section-8-unit-5-bfs",
+              "title": "Practice BFS",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-5-bfs-lesson-3",
+              "unitId": "big-o-section-8-unit-5-bfs",
+              "title": "Review BFS",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-8-unit-6-sorting-first",
+          "sectionId": "big-o-section-8",
+          "order": 6,
+          "title": "Sorting first",
+          "lessons": [
+            {
+              "id": "big-o-section-8-unit-6-sorting-first-lesson-1",
+              "unitId": "big-o-section-8-unit-6-sorting-first",
+              "title": "Learn Sorting first",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-6-sorting-first-lesson-2",
+              "unitId": "big-o-section-8-unit-6-sorting-first",
+              "title": "Practice Sorting first",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-6-sorting-first-lesson-3",
+              "unitId": "big-o-section-8-unit-6-sorting-first",
+              "title": "Review Sorting first",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-8-unit-7-heap-top-k",
+          "sectionId": "big-o-section-8",
+          "order": 7,
+          "title": "Heap top K",
+          "lessons": [
+            {
+              "id": "big-o-section-8-unit-7-heap-top-k-lesson-1",
+              "unitId": "big-o-section-8-unit-7-heap-top-k",
+              "title": "Learn Heap top K",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-7-heap-top-k-lesson-2",
+              "unitId": "big-o-section-8-unit-7-heap-top-k",
+              "title": "Practice Heap top K",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-7-heap-top-k-lesson-3",
+              "unitId": "big-o-section-8-unit-7-heap-top-k",
+              "title": "Review Heap top K",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-8-unit-8-dp-states",
+          "sectionId": "big-o-section-8",
+          "order": 8,
+          "title": "DP states",
+          "lessons": [
+            {
+              "id": "big-o-section-8-unit-8-dp-states-lesson-1",
+              "unitId": "big-o-section-8-unit-8-dp-states",
+              "title": "Learn DP states",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-8-dp-states-lesson-2",
+              "unitId": "big-o-section-8-unit-8-dp-states",
+              "title": "Practice DP states",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-8-dp-states-lesson-3",
+              "unitId": "big-o-section-8-unit-8-dp-states",
+              "title": "Review DP states",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-8-unit-9-backtracking-branching",
+          "sectionId": "big-o-section-8",
+          "order": 9,
+          "title": "Backtracking branching",
+          "lessons": [
+            {
+              "id": "big-o-section-8-unit-9-backtracking-branching-lesson-1",
+              "unitId": "big-o-section-8-unit-9-backtracking-branching",
+              "title": "Learn Backtracking branching",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-9-backtracking-branching-lesson-2",
+              "unitId": "big-o-section-8-unit-9-backtracking-branching",
+              "title": "Practice Backtracking branching",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-9-backtracking-branching-lesson-3",
+              "unitId": "big-o-section-8-unit-9-backtracking-branching",
+              "title": "Review Backtracking branching",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-8-unit-10-pattern-drills",
+          "sectionId": "big-o-section-8",
+          "order": 10,
+          "title": "Pattern drills",
+          "lessons": [
+            {
+              "id": "big-o-section-8-unit-10-pattern-drills-lesson-1",
+              "unitId": "big-o-section-8-unit-10-pattern-drills",
+              "title": "Learn Pattern drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-10-pattern-drills-lesson-2",
+              "unitId": "big-o-section-8-unit-10-pattern-drills",
+              "title": "Practice Pattern drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-8-unit-10-pattern-drills-lesson-3",
+              "unitId": "big-o-section-8-unit-10-pattern-drills",
+              "title": "Review Pattern drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "big-o-section-9",
+      "trackId": "big-o",
+      "order": 9,
+      "title": "Section 9: Tradeoffs",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "big-o-section-9-unit-1-time-vs-space",
+          "sectionId": "big-o-section-9",
+          "order": 1,
+          "title": "Time vs space",
+          "lessons": [
+            {
+              "id": "big-o-section-9-unit-1-time-vs-space-lesson-1",
+              "unitId": "big-o-section-9-unit-1-time-vs-space",
+              "title": "Learn Time vs space",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-1-time-vs-space-lesson-2",
+              "unitId": "big-o-section-9-unit-1-time-vs-space",
+              "title": "Practice Time vs space",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-1-time-vs-space-lesson-3",
+              "unitId": "big-o-section-9-unit-1-time-vs-space",
+              "title": "Review Time vs space",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-9-unit-2-precomputation",
+          "sectionId": "big-o-section-9",
+          "order": 2,
+          "title": "Precomputation",
+          "lessons": [
+            {
+              "id": "big-o-section-9-unit-2-precomputation-lesson-1",
+              "unitId": "big-o-section-9-unit-2-precomputation",
+              "title": "Learn Precomputation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-2-precomputation-lesson-2",
+              "unitId": "big-o-section-9-unit-2-precomputation",
+              "title": "Practice Precomputation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-2-precomputation-lesson-3",
+              "unitId": "big-o-section-9-unit-2-precomputation",
+              "title": "Review Precomputation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-9-unit-3-caching",
+          "sectionId": "big-o-section-9",
+          "order": 3,
+          "title": "Caching",
+          "lessons": [
+            {
+              "id": "big-o-section-9-unit-3-caching-lesson-1",
+              "unitId": "big-o-section-9-unit-3-caching",
+              "title": "Learn Caching",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-3-caching-lesson-2",
+              "unitId": "big-o-section-9-unit-3-caching",
+              "title": "Practice Caching",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-3-caching-lesson-3",
+              "unitId": "big-o-section-9-unit-3-caching",
+              "title": "Review Caching",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-9-unit-4-indexing",
+          "sectionId": "big-o-section-9",
+          "order": 4,
+          "title": "Indexing",
+          "lessons": [
+            {
+              "id": "big-o-section-9-unit-4-indexing-lesson-1",
+              "unitId": "big-o-section-9-unit-4-indexing",
+              "title": "Learn Indexing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-4-indexing-lesson-2",
+              "unitId": "big-o-section-9-unit-4-indexing",
+              "title": "Practice Indexing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-4-indexing-lesson-3",
+              "unitId": "big-o-section-9-unit-4-indexing",
+              "title": "Review Indexing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-9-unit-5-approximation",
+          "sectionId": "big-o-section-9",
+          "order": 5,
+          "title": "Approximation",
+          "lessons": [
+            {
+              "id": "big-o-section-9-unit-5-approximation-lesson-1",
+              "unitId": "big-o-section-9-unit-5-approximation",
+              "title": "Learn Approximation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-5-approximation-lesson-2",
+              "unitId": "big-o-section-9-unit-5-approximation",
+              "title": "Practice Approximation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-5-approximation-lesson-3",
+              "unitId": "big-o-section-9-unit-5-approximation",
+              "title": "Review Approximation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-9-unit-6-batch-processing",
+          "sectionId": "big-o-section-9",
+          "order": 6,
+          "title": "Batch processing",
+          "lessons": [
+            {
+              "id": "big-o-section-9-unit-6-batch-processing-lesson-1",
+              "unitId": "big-o-section-9-unit-6-batch-processing",
+              "title": "Learn Batch processing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-6-batch-processing-lesson-2",
+              "unitId": "big-o-section-9-unit-6-batch-processing",
+              "title": "Practice Batch processing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-6-batch-processing-lesson-3",
+              "unitId": "big-o-section-9-unit-6-batch-processing",
+              "title": "Review Batch processing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-9-unit-7-parallelism-concept",
+          "sectionId": "big-o-section-9",
+          "order": 7,
+          "title": "Parallelism concept",
+          "lessons": [
+            {
+              "id": "big-o-section-9-unit-7-parallelism-concept-lesson-1",
+              "unitId": "big-o-section-9-unit-7-parallelism-concept",
+              "title": "Learn Parallelism concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-7-parallelism-concept-lesson-2",
+              "unitId": "big-o-section-9-unit-7-parallelism-concept",
+              "title": "Practice Parallelism concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-7-parallelism-concept-lesson-3",
+              "unitId": "big-o-section-9-unit-7-parallelism-concept",
+              "title": "Review Parallelism concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-9-unit-8-readability-tradeoffs",
+          "sectionId": "big-o-section-9",
+          "order": 8,
+          "title": "Readability tradeoffs",
+          "lessons": [
+            {
+              "id": "big-o-section-9-unit-8-readability-tradeoffs-lesson-1",
+              "unitId": "big-o-section-9-unit-8-readability-tradeoffs",
+              "title": "Learn Readability tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-8-readability-tradeoffs-lesson-2",
+              "unitId": "big-o-section-9-unit-8-readability-tradeoffs",
+              "title": "Practice Readability tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-8-readability-tradeoffs-lesson-3",
+              "unitId": "big-o-section-9-unit-8-readability-tradeoffs",
+              "title": "Review Readability tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-9-unit-9-optimization-timing",
+          "sectionId": "big-o-section-9",
+          "order": 9,
+          "title": "Optimization timing",
+          "lessons": [
+            {
+              "id": "big-o-section-9-unit-9-optimization-timing-lesson-1",
+              "unitId": "big-o-section-9-unit-9-optimization-timing",
+              "title": "Learn Optimization timing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-9-optimization-timing-lesson-2",
+              "unitId": "big-o-section-9-unit-9-optimization-timing",
+              "title": "Practice Optimization timing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-9-optimization-timing-lesson-3",
+              "unitId": "big-o-section-9-unit-9-optimization-timing",
+              "title": "Review Optimization timing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-9-unit-10-tradeoff-project",
+          "sectionId": "big-o-section-9",
+          "order": 10,
+          "title": "Tradeoff project",
+          "lessons": [
+            {
+              "id": "big-o-section-9-unit-10-tradeoff-project-lesson-1",
+              "unitId": "big-o-section-9-unit-10-tradeoff-project",
+              "title": "Learn Tradeoff project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-10-tradeoff-project-lesson-2",
+              "unitId": "big-o-section-9-unit-10-tradeoff-project",
+              "title": "Practice Tradeoff project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-9-unit-10-tradeoff-project-lesson-3",
+              "unitId": "big-o-section-9-unit-10-tradeoff-project",
+              "title": "Review Tradeoff project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "big-o-section-10",
+      "trackId": "big-o",
+      "order": 10,
+      "title": "Section 10: Complexity Capstones",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "big-o-section-10-unit-1-analyze-snippets",
+          "sectionId": "big-o-section-10",
+          "order": 1,
+          "title": "Analyze snippets",
+          "lessons": [
+            {
+              "id": "big-o-section-10-unit-1-analyze-snippets-lesson-1",
+              "unitId": "big-o-section-10-unit-1-analyze-snippets",
+              "title": "Learn Analyze snippets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-1-analyze-snippets-lesson-2",
+              "unitId": "big-o-section-10-unit-1-analyze-snippets",
+              "title": "Practice Analyze snippets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-1-analyze-snippets-lesson-3",
+              "unitId": "big-o-section-10-unit-1-analyze-snippets",
+              "title": "Review Analyze snippets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-10-unit-2-compare-solutions",
+          "sectionId": "big-o-section-10",
+          "order": 2,
+          "title": "Compare solutions",
+          "lessons": [
+            {
+              "id": "big-o-section-10-unit-2-compare-solutions-lesson-1",
+              "unitId": "big-o-section-10-unit-2-compare-solutions",
+              "title": "Learn Compare solutions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-2-compare-solutions-lesson-2",
+              "unitId": "big-o-section-10-unit-2-compare-solutions",
+              "title": "Practice Compare solutions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-2-compare-solutions-lesson-3",
+              "unitId": "big-o-section-10-unit-2-compare-solutions",
+              "title": "Review Compare solutions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-10-unit-3-refactor-nested-loops",
+          "sectionId": "big-o-section-10",
+          "order": 3,
+          "title": "Refactor nested loops",
+          "lessons": [
+            {
+              "id": "big-o-section-10-unit-3-refactor-nested-loops-lesson-1",
+              "unitId": "big-o-section-10-unit-3-refactor-nested-loops",
+              "title": "Learn Refactor nested loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-3-refactor-nested-loops-lesson-2",
+              "unitId": "big-o-section-10-unit-3-refactor-nested-loops",
+              "title": "Practice Refactor nested loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-3-refactor-nested-loops-lesson-3",
+              "unitId": "big-o-section-10-unit-3-refactor-nested-loops",
+              "title": "Review Refactor nested loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-10-unit-4-optimize-searches",
+          "sectionId": "big-o-section-10",
+          "order": 4,
+          "title": "Optimize searches",
+          "lessons": [
+            {
+              "id": "big-o-section-10-unit-4-optimize-searches-lesson-1",
+              "unitId": "big-o-section-10-unit-4-optimize-searches",
+              "title": "Learn Optimize searches",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-4-optimize-searches-lesson-2",
+              "unitId": "big-o-section-10-unit-4-optimize-searches",
+              "title": "Practice Optimize searches",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-4-optimize-searches-lesson-3",
+              "unitId": "big-o-section-10-unit-4-optimize-searches",
+              "title": "Review Optimize searches",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-10-unit-5-memory-audit",
+          "sectionId": "big-o-section-10",
+          "order": 5,
+          "title": "Memory audit",
+          "lessons": [
+            {
+              "id": "big-o-section-10-unit-5-memory-audit-lesson-1",
+              "unitId": "big-o-section-10-unit-5-memory-audit",
+              "title": "Learn Memory audit",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-5-memory-audit-lesson-2",
+              "unitId": "big-o-section-10-unit-5-memory-audit",
+              "title": "Practice Memory audit",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-5-memory-audit-lesson-3",
+              "unitId": "big-o-section-10-unit-5-memory-audit",
+              "title": "Review Memory audit",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-10-unit-6-recurrence-challenge",
+          "sectionId": "big-o-section-10",
+          "order": 6,
+          "title": "Recurrence challenge",
+          "lessons": [
+            {
+              "id": "big-o-section-10-unit-6-recurrence-challenge-lesson-1",
+              "unitId": "big-o-section-10-unit-6-recurrence-challenge",
+              "title": "Learn Recurrence challenge",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-6-recurrence-challenge-lesson-2",
+              "unitId": "big-o-section-10-unit-6-recurrence-challenge",
+              "title": "Practice Recurrence challenge",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-6-recurrence-challenge-lesson-3",
+              "unitId": "big-o-section-10-unit-6-recurrence-challenge",
+              "title": "Review Recurrence challenge",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-10-unit-7-interview-explanations",
+          "sectionId": "big-o-section-10",
+          "order": 7,
+          "title": "Interview explanations",
+          "lessons": [
+            {
+              "id": "big-o-section-10-unit-7-interview-explanations-lesson-1",
+              "unitId": "big-o-section-10-unit-7-interview-explanations",
+              "title": "Learn Interview explanations",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-7-interview-explanations-lesson-2",
+              "unitId": "big-o-section-10-unit-7-interview-explanations",
+              "title": "Practice Interview explanations",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-7-interview-explanations-lesson-3",
+              "unitId": "big-o-section-10-unit-7-interview-explanations",
+              "title": "Review Interview explanations",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-10-unit-8-benchmark-sanity-check",
+          "sectionId": "big-o-section-10",
+          "order": 8,
+          "title": "Benchmark sanity check",
+          "lessons": [
+            {
+              "id": "big-o-section-10-unit-8-benchmark-sanity-check-lesson-1",
+              "unitId": "big-o-section-10-unit-8-benchmark-sanity-check",
+              "title": "Learn Benchmark sanity check",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-8-benchmark-sanity-check-lesson-2",
+              "unitId": "big-o-section-10-unit-8-benchmark-sanity-check",
+              "title": "Practice Benchmark sanity check",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-8-benchmark-sanity-check-lesson-3",
+              "unitId": "big-o-section-10-unit-8-benchmark-sanity-check",
+              "title": "Review Benchmark sanity check",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-10-unit-9-complexity-report",
+          "sectionId": "big-o-section-10",
+          "order": 9,
+          "title": "Complexity report",
+          "lessons": [
+            {
+              "id": "big-o-section-10-unit-9-complexity-report-lesson-1",
+              "unitId": "big-o-section-10-unit-9-complexity-report",
+              "title": "Learn Complexity report",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-9-complexity-report-lesson-2",
+              "unitId": "big-o-section-10-unit-9-complexity-report",
+              "title": "Practice Complexity report",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-9-complexity-report-lesson-3",
+              "unitId": "big-o-section-10-unit-9-complexity-report",
+              "title": "Review Complexity report",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "big-o-section-10-unit-10-final-complexity-project",
+          "sectionId": "big-o-section-10",
+          "order": 10,
+          "title": "Final complexity project",
+          "lessons": [
+            {
+              "id": "big-o-section-10-unit-10-final-complexity-project-lesson-1",
+              "unitId": "big-o-section-10-unit-10-final-complexity-project",
+              "title": "Learn Final complexity project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-10-final-complexity-project-lesson-2",
+              "unitId": "big-o-section-10-unit-10-final-complexity-project",
+              "title": "Practice Final complexity project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "big-o-section-10-unit-10-final-complexity-project-lesson-3",
+              "unitId": "big-o-section-10-unit-10-final-complexity-project",
+              "title": "Review Final complexity project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3006 @@
+{
+  "id": "operating-systems",
+  "title": "Operating Systems",
+  "category": "core-cs",
+  "icon": "cpu",
+  "color": "#1CB0F6",
+  "description": "Understand processes, threads, memory, scheduling, files, and concurrency.",
+  "sections": [
+    {
+      "id": "operating-systems-section-1",
+      "trackId": "operating-systems",
+      "order": 1,
+      "title": "Section 1: OS Foundations",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "operating-systems-section-1-unit-1-what-an-os-does",
+          "sectionId": "operating-systems-section-1",
+          "order": 1,
+          "title": "What an OS does",
+          "lessons": [
+            {
+              "id": "operating-systems-section-1-unit-1-what-an-os-does-lesson-1",
+              "unitId": "operating-systems-section-1-unit-1-what-an-os-does",
+              "title": "Learn What an OS does",
+              "order": 1,
+              "exerciseIds": [
+                "operating-systems-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "operating-systems-section-1-unit-1-what-an-os-does-lesson-2",
+              "unitId": "operating-systems-section-1-unit-1-what-an-os-does",
+              "title": "Practice What an OS does",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-1-what-an-os-does-lesson-3",
+              "unitId": "operating-systems-section-1-unit-1-what-an-os-does",
+              "title": "Review What an OS does",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-1-unit-2-kernel-vs-user-space",
+          "sectionId": "operating-systems-section-1",
+          "order": 2,
+          "title": "Kernel vs user space",
+          "lessons": [
+            {
+              "id": "operating-systems-section-1-unit-2-kernel-vs-user-space-lesson-1",
+              "unitId": "operating-systems-section-1-unit-2-kernel-vs-user-space",
+              "title": "Learn Kernel vs user space",
+              "order": 1,
+              "exerciseIds": [
+                "operating-systems-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "operating-systems-section-1-unit-2-kernel-vs-user-space-lesson-2",
+              "unitId": "operating-systems-section-1-unit-2-kernel-vs-user-space",
+              "title": "Practice Kernel vs user space",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-2-kernel-vs-user-space-lesson-3",
+              "unitId": "operating-systems-section-1-unit-2-kernel-vs-user-space",
+              "title": "Review Kernel vs user space",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-1-unit-3-system-calls",
+          "sectionId": "operating-systems-section-1",
+          "order": 3,
+          "title": "System calls",
+          "lessons": [
+            {
+              "id": "operating-systems-section-1-unit-3-system-calls-lesson-1",
+              "unitId": "operating-systems-section-1-unit-3-system-calls",
+              "title": "Learn System calls",
+              "order": 1,
+              "exerciseIds": [
+                "operating-systems-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "operating-systems-section-1-unit-3-system-calls-lesson-2",
+              "unitId": "operating-systems-section-1-unit-3-system-calls",
+              "title": "Practice System calls",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-3-system-calls-lesson-3",
+              "unitId": "operating-systems-section-1-unit-3-system-calls",
+              "title": "Review System calls",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-1-unit-4-boot-process-concept",
+          "sectionId": "operating-systems-section-1",
+          "order": 4,
+          "title": "Boot process concept",
+          "lessons": [
+            {
+              "id": "operating-systems-section-1-unit-4-boot-process-concept-lesson-1",
+              "unitId": "operating-systems-section-1-unit-4-boot-process-concept",
+              "title": "Learn Boot process concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-4-boot-process-concept-lesson-2",
+              "unitId": "operating-systems-section-1-unit-4-boot-process-concept",
+              "title": "Practice Boot process concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-4-boot-process-concept-lesson-3",
+              "unitId": "operating-systems-section-1-unit-4-boot-process-concept",
+              "title": "Review Boot process concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-1-unit-5-processes",
+          "sectionId": "operating-systems-section-1",
+          "order": 5,
+          "title": "Processes",
+          "lessons": [
+            {
+              "id": "operating-systems-section-1-unit-5-processes-lesson-1",
+              "unitId": "operating-systems-section-1-unit-5-processes",
+              "title": "Learn Processes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-5-processes-lesson-2",
+              "unitId": "operating-systems-section-1-unit-5-processes",
+              "title": "Practice Processes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-5-processes-lesson-3",
+              "unitId": "operating-systems-section-1-unit-5-processes",
+              "title": "Review Processes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-1-unit-6-threads",
+          "sectionId": "operating-systems-section-1",
+          "order": 6,
+          "title": "Threads",
+          "lessons": [
+            {
+              "id": "operating-systems-section-1-unit-6-threads-lesson-1",
+              "unitId": "operating-systems-section-1-unit-6-threads",
+              "title": "Learn Threads",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-6-threads-lesson-2",
+              "unitId": "operating-systems-section-1-unit-6-threads",
+              "title": "Practice Threads",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-6-threads-lesson-3",
+              "unitId": "operating-systems-section-1-unit-6-threads",
+              "title": "Review Threads",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-1-unit-7-context-switching",
+          "sectionId": "operating-systems-section-1",
+          "order": 7,
+          "title": "Context switching",
+          "lessons": [
+            {
+              "id": "operating-systems-section-1-unit-7-context-switching-lesson-1",
+              "unitId": "operating-systems-section-1-unit-7-context-switching",
+              "title": "Learn Context switching",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-7-context-switching-lesson-2",
+              "unitId": "operating-systems-section-1-unit-7-context-switching",
+              "title": "Practice Context switching",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-7-context-switching-lesson-3",
+              "unitId": "operating-systems-section-1-unit-7-context-switching",
+              "title": "Review Context switching",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-1-unit-8-interrupts",
+          "sectionId": "operating-systems-section-1",
+          "order": 8,
+          "title": "Interrupts",
+          "lessons": [
+            {
+              "id": "operating-systems-section-1-unit-8-interrupts-lesson-1",
+              "unitId": "operating-systems-section-1-unit-8-interrupts",
+              "title": "Learn Interrupts",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-8-interrupts-lesson-2",
+              "unitId": "operating-systems-section-1-unit-8-interrupts",
+              "title": "Practice Interrupts",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-8-interrupts-lesson-3",
+              "unitId": "operating-systems-section-1-unit-8-interrupts",
+              "title": "Review Interrupts",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-1-unit-9-privilege-levels",
+          "sectionId": "operating-systems-section-1",
+          "order": 9,
+          "title": "Privilege levels",
+          "lessons": [
+            {
+              "id": "operating-systems-section-1-unit-9-privilege-levels-lesson-1",
+              "unitId": "operating-systems-section-1-unit-9-privilege-levels",
+              "title": "Learn Privilege levels",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-9-privilege-levels-lesson-2",
+              "unitId": "operating-systems-section-1-unit-9-privilege-levels",
+              "title": "Practice Privilege levels",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-9-privilege-levels-lesson-3",
+              "unitId": "operating-systems-section-1-unit-9-privilege-levels",
+              "title": "Review Privilege levels",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-1-unit-10-os-vocabulary",
+          "sectionId": "operating-systems-section-1",
+          "order": 10,
+          "title": "OS vocabulary",
+          "lessons": [
+            {
+              "id": "operating-systems-section-1-unit-10-os-vocabulary-lesson-1",
+              "unitId": "operating-systems-section-1-unit-10-os-vocabulary",
+              "title": "Learn OS vocabulary",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-10-os-vocabulary-lesson-2",
+              "unitId": "operating-systems-section-1-unit-10-os-vocabulary",
+              "title": "Practice OS vocabulary",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-1-unit-10-os-vocabulary-lesson-3",
+              "unitId": "operating-systems-section-1-unit-10-os-vocabulary",
+              "title": "Review OS vocabulary",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "operating-systems-section-2",
+      "trackId": "operating-systems",
+      "order": 2,
+      "title": "Section 2: Processes",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "operating-systems-section-2-unit-1-process-states",
+          "sectionId": "operating-systems-section-2",
+          "order": 1,
+          "title": "Process states",
+          "lessons": [
+            {
+              "id": "operating-systems-section-2-unit-1-process-states-lesson-1",
+              "unitId": "operating-systems-section-2-unit-1-process-states",
+              "title": "Learn Process states",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-1-process-states-lesson-2",
+              "unitId": "operating-systems-section-2-unit-1-process-states",
+              "title": "Practice Process states",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-1-process-states-lesson-3",
+              "unitId": "operating-systems-section-2-unit-1-process-states",
+              "title": "Review Process states",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-2-unit-2-pcb-concept",
+          "sectionId": "operating-systems-section-2",
+          "order": 2,
+          "title": "PCB concept",
+          "lessons": [
+            {
+              "id": "operating-systems-section-2-unit-2-pcb-concept-lesson-1",
+              "unitId": "operating-systems-section-2-unit-2-pcb-concept",
+              "title": "Learn PCB concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-2-pcb-concept-lesson-2",
+              "unitId": "operating-systems-section-2-unit-2-pcb-concept",
+              "title": "Practice PCB concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-2-pcb-concept-lesson-3",
+              "unitId": "operating-systems-section-2-unit-2-pcb-concept",
+              "title": "Review PCB concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-2-unit-3-process-creation",
+          "sectionId": "operating-systems-section-2",
+          "order": 3,
+          "title": "Process creation",
+          "lessons": [
+            {
+              "id": "operating-systems-section-2-unit-3-process-creation-lesson-1",
+              "unitId": "operating-systems-section-2-unit-3-process-creation",
+              "title": "Learn Process creation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-3-process-creation-lesson-2",
+              "unitId": "operating-systems-section-2-unit-3-process-creation",
+              "title": "Practice Process creation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-3-process-creation-lesson-3",
+              "unitId": "operating-systems-section-2-unit-3-process-creation",
+              "title": "Review Process creation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-2-unit-4-fork-concept",
+          "sectionId": "operating-systems-section-2",
+          "order": 4,
+          "title": "fork concept",
+          "lessons": [
+            {
+              "id": "operating-systems-section-2-unit-4-fork-concept-lesson-1",
+              "unitId": "operating-systems-section-2-unit-4-fork-concept",
+              "title": "Learn fork concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-4-fork-concept-lesson-2",
+              "unitId": "operating-systems-section-2-unit-4-fork-concept",
+              "title": "Practice fork concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-4-fork-concept-lesson-3",
+              "unitId": "operating-systems-section-2-unit-4-fork-concept",
+              "title": "Review fork concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-2-unit-5-exec-concept",
+          "sectionId": "operating-systems-section-2",
+          "order": 5,
+          "title": "exec concept",
+          "lessons": [
+            {
+              "id": "operating-systems-section-2-unit-5-exec-concept-lesson-1",
+              "unitId": "operating-systems-section-2-unit-5-exec-concept",
+              "title": "Learn exec concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-5-exec-concept-lesson-2",
+              "unitId": "operating-systems-section-2-unit-5-exec-concept",
+              "title": "Practice exec concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-5-exec-concept-lesson-3",
+              "unitId": "operating-systems-section-2-unit-5-exec-concept",
+              "title": "Review exec concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-2-unit-6-ipc-basics",
+          "sectionId": "operating-systems-section-2",
+          "order": 6,
+          "title": "IPC basics",
+          "lessons": [
+            {
+              "id": "operating-systems-section-2-unit-6-ipc-basics-lesson-1",
+              "unitId": "operating-systems-section-2-unit-6-ipc-basics",
+              "title": "Learn IPC basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-6-ipc-basics-lesson-2",
+              "unitId": "operating-systems-section-2-unit-6-ipc-basics",
+              "title": "Practice IPC basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-6-ipc-basics-lesson-3",
+              "unitId": "operating-systems-section-2-unit-6-ipc-basics",
+              "title": "Review IPC basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-2-unit-7-pipes",
+          "sectionId": "operating-systems-section-2",
+          "order": 7,
+          "title": "Pipes",
+          "lessons": [
+            {
+              "id": "operating-systems-section-2-unit-7-pipes-lesson-1",
+              "unitId": "operating-systems-section-2-unit-7-pipes",
+              "title": "Learn Pipes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-7-pipes-lesson-2",
+              "unitId": "operating-systems-section-2-unit-7-pipes",
+              "title": "Practice Pipes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-7-pipes-lesson-3",
+              "unitId": "operating-systems-section-2-unit-7-pipes",
+              "title": "Review Pipes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-2-unit-8-signals",
+          "sectionId": "operating-systems-section-2",
+          "order": 8,
+          "title": "Signals",
+          "lessons": [
+            {
+              "id": "operating-systems-section-2-unit-8-signals-lesson-1",
+              "unitId": "operating-systems-section-2-unit-8-signals",
+              "title": "Learn Signals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-8-signals-lesson-2",
+              "unitId": "operating-systems-section-2-unit-8-signals",
+              "title": "Practice Signals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-8-signals-lesson-3",
+              "unitId": "operating-systems-section-2-unit-8-signals",
+              "title": "Review Signals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-2-unit-9-process-termination",
+          "sectionId": "operating-systems-section-2",
+          "order": 9,
+          "title": "Process termination",
+          "lessons": [
+            {
+              "id": "operating-systems-section-2-unit-9-process-termination-lesson-1",
+              "unitId": "operating-systems-section-2-unit-9-process-termination",
+              "title": "Learn Process termination",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-9-process-termination-lesson-2",
+              "unitId": "operating-systems-section-2-unit-9-process-termination",
+              "title": "Practice Process termination",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-9-process-termination-lesson-3",
+              "unitId": "operating-systems-section-2-unit-9-process-termination",
+              "title": "Review Process termination",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-2-unit-10-process-drills",
+          "sectionId": "operating-systems-section-2",
+          "order": 10,
+          "title": "Process drills",
+          "lessons": [
+            {
+              "id": "operating-systems-section-2-unit-10-process-drills-lesson-1",
+              "unitId": "operating-systems-section-2-unit-10-process-drills",
+              "title": "Learn Process drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-10-process-drills-lesson-2",
+              "unitId": "operating-systems-section-2-unit-10-process-drills",
+              "title": "Practice Process drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-2-unit-10-process-drills-lesson-3",
+              "unitId": "operating-systems-section-2-unit-10-process-drills",
+              "title": "Review Process drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "operating-systems-section-3",
+      "trackId": "operating-systems",
+      "order": 3,
+      "title": "Section 3: Threads",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "operating-systems-section-3-unit-1-thread-model",
+          "sectionId": "operating-systems-section-3",
+          "order": 1,
+          "title": "Thread model",
+          "lessons": [
+            {
+              "id": "operating-systems-section-3-unit-1-thread-model-lesson-1",
+              "unitId": "operating-systems-section-3-unit-1-thread-model",
+              "title": "Learn Thread model",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-1-thread-model-lesson-2",
+              "unitId": "operating-systems-section-3-unit-1-thread-model",
+              "title": "Practice Thread model",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-1-thread-model-lesson-3",
+              "unitId": "operating-systems-section-3-unit-1-thread-model",
+              "title": "Review Thread model",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-3-unit-2-user-vs-kernel-threads",
+          "sectionId": "operating-systems-section-3",
+          "order": 2,
+          "title": "User vs kernel threads",
+          "lessons": [
+            {
+              "id": "operating-systems-section-3-unit-2-user-vs-kernel-threads-lesson-1",
+              "unitId": "operating-systems-section-3-unit-2-user-vs-kernel-threads",
+              "title": "Learn User vs kernel threads",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-2-user-vs-kernel-threads-lesson-2",
+              "unitId": "operating-systems-section-3-unit-2-user-vs-kernel-threads",
+              "title": "Practice User vs kernel threads",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-2-user-vs-kernel-threads-lesson-3",
+              "unitId": "operating-systems-section-3-unit-2-user-vs-kernel-threads",
+              "title": "Review User vs kernel threads",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-3-unit-3-shared-memory",
+          "sectionId": "operating-systems-section-3",
+          "order": 3,
+          "title": "Shared memory",
+          "lessons": [
+            {
+              "id": "operating-systems-section-3-unit-3-shared-memory-lesson-1",
+              "unitId": "operating-systems-section-3-unit-3-shared-memory",
+              "title": "Learn Shared memory",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-3-shared-memory-lesson-2",
+              "unitId": "operating-systems-section-3-unit-3-shared-memory",
+              "title": "Practice Shared memory",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-3-shared-memory-lesson-3",
+              "unitId": "operating-systems-section-3-unit-3-shared-memory",
+              "title": "Review Shared memory",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-3-unit-4-race-conditions",
+          "sectionId": "operating-systems-section-3",
+          "order": 4,
+          "title": "Race conditions",
+          "lessons": [
+            {
+              "id": "operating-systems-section-3-unit-4-race-conditions-lesson-1",
+              "unitId": "operating-systems-section-3-unit-4-race-conditions",
+              "title": "Learn Race conditions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-4-race-conditions-lesson-2",
+              "unitId": "operating-systems-section-3-unit-4-race-conditions",
+              "title": "Practice Race conditions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-4-race-conditions-lesson-3",
+              "unitId": "operating-systems-section-3-unit-4-race-conditions",
+              "title": "Review Race conditions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-3-unit-5-critical-sections",
+          "sectionId": "operating-systems-section-3",
+          "order": 5,
+          "title": "Critical sections",
+          "lessons": [
+            {
+              "id": "operating-systems-section-3-unit-5-critical-sections-lesson-1",
+              "unitId": "operating-systems-section-3-unit-5-critical-sections",
+              "title": "Learn Critical sections",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-5-critical-sections-lesson-2",
+              "unitId": "operating-systems-section-3-unit-5-critical-sections",
+              "title": "Practice Critical sections",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-5-critical-sections-lesson-3",
+              "unitId": "operating-systems-section-3-unit-5-critical-sections",
+              "title": "Review Critical sections",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-3-unit-6-mutexes",
+          "sectionId": "operating-systems-section-3",
+          "order": 6,
+          "title": "Mutexes",
+          "lessons": [
+            {
+              "id": "operating-systems-section-3-unit-6-mutexes-lesson-1",
+              "unitId": "operating-systems-section-3-unit-6-mutexes",
+              "title": "Learn Mutexes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-6-mutexes-lesson-2",
+              "unitId": "operating-systems-section-3-unit-6-mutexes",
+              "title": "Practice Mutexes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-6-mutexes-lesson-3",
+              "unitId": "operating-systems-section-3-unit-6-mutexes",
+              "title": "Review Mutexes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-3-unit-7-semaphores",
+          "sectionId": "operating-systems-section-3",
+          "order": 7,
+          "title": "Semaphores",
+          "lessons": [
+            {
+              "id": "operating-systems-section-3-unit-7-semaphores-lesson-1",
+              "unitId": "operating-systems-section-3-unit-7-semaphores",
+              "title": "Learn Semaphores",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-7-semaphores-lesson-2",
+              "unitId": "operating-systems-section-3-unit-7-semaphores",
+              "title": "Practice Semaphores",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-7-semaphores-lesson-3",
+              "unitId": "operating-systems-section-3-unit-7-semaphores",
+              "title": "Review Semaphores",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-3-unit-8-condition-variables",
+          "sectionId": "operating-systems-section-3",
+          "order": 8,
+          "title": "Condition variables",
+          "lessons": [
+            {
+              "id": "operating-systems-section-3-unit-8-condition-variables-lesson-1",
+              "unitId": "operating-systems-section-3-unit-8-condition-variables",
+              "title": "Learn Condition variables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-8-condition-variables-lesson-2",
+              "unitId": "operating-systems-section-3-unit-8-condition-variables",
+              "title": "Practice Condition variables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-8-condition-variables-lesson-3",
+              "unitId": "operating-systems-section-3-unit-8-condition-variables",
+              "title": "Review Condition variables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-3-unit-9-thread-pools",
+          "sectionId": "operating-systems-section-3",
+          "order": 9,
+          "title": "Thread pools",
+          "lessons": [
+            {
+              "id": "operating-systems-section-3-unit-9-thread-pools-lesson-1",
+              "unitId": "operating-systems-section-3-unit-9-thread-pools",
+              "title": "Learn Thread pools",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-9-thread-pools-lesson-2",
+              "unitId": "operating-systems-section-3-unit-9-thread-pools",
+              "title": "Practice Thread pools",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-9-thread-pools-lesson-3",
+              "unitId": "operating-systems-section-3-unit-9-thread-pools",
+              "title": "Review Thread pools",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-3-unit-10-thread-drills",
+          "sectionId": "operating-systems-section-3",
+          "order": 10,
+          "title": "Thread drills",
+          "lessons": [
+            {
+              "id": "operating-systems-section-3-unit-10-thread-drills-lesson-1",
+              "unitId": "operating-systems-section-3-unit-10-thread-drills",
+              "title": "Learn Thread drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-10-thread-drills-lesson-2",
+              "unitId": "operating-systems-section-3-unit-10-thread-drills",
+              "title": "Practice Thread drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-3-unit-10-thread-drills-lesson-3",
+              "unitId": "operating-systems-section-3-unit-10-thread-drills",
+              "title": "Review Thread drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "operating-systems-section-4",
+      "trackId": "operating-systems",
+      "order": 4,
+      "title": "Section 4: Scheduling",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "operating-systems-section-4-unit-1-scheduling-goals",
+          "sectionId": "operating-systems-section-4",
+          "order": 1,
+          "title": "Scheduling goals",
+          "lessons": [
+            {
+              "id": "operating-systems-section-4-unit-1-scheduling-goals-lesson-1",
+              "unitId": "operating-systems-section-4-unit-1-scheduling-goals",
+              "title": "Learn Scheduling goals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-1-scheduling-goals-lesson-2",
+              "unitId": "operating-systems-section-4-unit-1-scheduling-goals",
+              "title": "Practice Scheduling goals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-1-scheduling-goals-lesson-3",
+              "unitId": "operating-systems-section-4-unit-1-scheduling-goals",
+              "title": "Review Scheduling goals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-4-unit-2-fcfs",
+          "sectionId": "operating-systems-section-4",
+          "order": 2,
+          "title": "FCFS",
+          "lessons": [
+            {
+              "id": "operating-systems-section-4-unit-2-fcfs-lesson-1",
+              "unitId": "operating-systems-section-4-unit-2-fcfs",
+              "title": "Learn FCFS",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-2-fcfs-lesson-2",
+              "unitId": "operating-systems-section-4-unit-2-fcfs",
+              "title": "Practice FCFS",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-2-fcfs-lesson-3",
+              "unitId": "operating-systems-section-4-unit-2-fcfs",
+              "title": "Review FCFS",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-4-unit-3-sjf",
+          "sectionId": "operating-systems-section-4",
+          "order": 3,
+          "title": "SJF",
+          "lessons": [
+            {
+              "id": "operating-systems-section-4-unit-3-sjf-lesson-1",
+              "unitId": "operating-systems-section-4-unit-3-sjf",
+              "title": "Learn SJF",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-3-sjf-lesson-2",
+              "unitId": "operating-systems-section-4-unit-3-sjf",
+              "title": "Practice SJF",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-3-sjf-lesson-3",
+              "unitId": "operating-systems-section-4-unit-3-sjf",
+              "title": "Review SJF",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-4-unit-4-round-robin",
+          "sectionId": "operating-systems-section-4",
+          "order": 4,
+          "title": "Round robin",
+          "lessons": [
+            {
+              "id": "operating-systems-section-4-unit-4-round-robin-lesson-1",
+              "unitId": "operating-systems-section-4-unit-4-round-robin",
+              "title": "Learn Round robin",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-4-round-robin-lesson-2",
+              "unitId": "operating-systems-section-4-unit-4-round-robin",
+              "title": "Practice Round robin",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-4-round-robin-lesson-3",
+              "unitId": "operating-systems-section-4-unit-4-round-robin",
+              "title": "Review Round robin",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-4-unit-5-priority-scheduling",
+          "sectionId": "operating-systems-section-4",
+          "order": 5,
+          "title": "Priority scheduling",
+          "lessons": [
+            {
+              "id": "operating-systems-section-4-unit-5-priority-scheduling-lesson-1",
+              "unitId": "operating-systems-section-4-unit-5-priority-scheduling",
+              "title": "Learn Priority scheduling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-5-priority-scheduling-lesson-2",
+              "unitId": "operating-systems-section-4-unit-5-priority-scheduling",
+              "title": "Practice Priority scheduling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-5-priority-scheduling-lesson-3",
+              "unitId": "operating-systems-section-4-unit-5-priority-scheduling",
+              "title": "Review Priority scheduling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-4-unit-6-multilevel-queues",
+          "sectionId": "operating-systems-section-4",
+          "order": 6,
+          "title": "Multilevel queues",
+          "lessons": [
+            {
+              "id": "operating-systems-section-4-unit-6-multilevel-queues-lesson-1",
+              "unitId": "operating-systems-section-4-unit-6-multilevel-queues",
+              "title": "Learn Multilevel queues",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-6-multilevel-queues-lesson-2",
+              "unitId": "operating-systems-section-4-unit-6-multilevel-queues",
+              "title": "Practice Multilevel queues",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-6-multilevel-queues-lesson-3",
+              "unitId": "operating-systems-section-4-unit-6-multilevel-queues",
+              "title": "Review Multilevel queues",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-4-unit-7-starvation",
+          "sectionId": "operating-systems-section-4",
+          "order": 7,
+          "title": "Starvation",
+          "lessons": [
+            {
+              "id": "operating-systems-section-4-unit-7-starvation-lesson-1",
+              "unitId": "operating-systems-section-4-unit-7-starvation",
+              "title": "Learn Starvation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-7-starvation-lesson-2",
+              "unitId": "operating-systems-section-4-unit-7-starvation",
+              "title": "Practice Starvation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-7-starvation-lesson-3",
+              "unitId": "operating-systems-section-4-unit-7-starvation",
+              "title": "Review Starvation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-4-unit-8-aging",
+          "sectionId": "operating-systems-section-4",
+          "order": 8,
+          "title": "Aging",
+          "lessons": [
+            {
+              "id": "operating-systems-section-4-unit-8-aging-lesson-1",
+              "unitId": "operating-systems-section-4-unit-8-aging",
+              "title": "Learn Aging",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-8-aging-lesson-2",
+              "unitId": "operating-systems-section-4-unit-8-aging",
+              "title": "Practice Aging",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-8-aging-lesson-3",
+              "unitId": "operating-systems-section-4-unit-8-aging",
+              "title": "Review Aging",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-4-unit-9-realtime-scheduling",
+          "sectionId": "operating-systems-section-4",
+          "order": 9,
+          "title": "Realtime scheduling",
+          "lessons": [
+            {
+              "id": "operating-systems-section-4-unit-9-realtime-scheduling-lesson-1",
+              "unitId": "operating-systems-section-4-unit-9-realtime-scheduling",
+              "title": "Learn Realtime scheduling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-9-realtime-scheduling-lesson-2",
+              "unitId": "operating-systems-section-4-unit-9-realtime-scheduling",
+              "title": "Practice Realtime scheduling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-9-realtime-scheduling-lesson-3",
+              "unitId": "operating-systems-section-4-unit-9-realtime-scheduling",
+              "title": "Review Realtime scheduling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-4-unit-10-scheduling-comparison",
+          "sectionId": "operating-systems-section-4",
+          "order": 10,
+          "title": "Scheduling comparison",
+          "lessons": [
+            {
+              "id": "operating-systems-section-4-unit-10-scheduling-comparison-lesson-1",
+              "unitId": "operating-systems-section-4-unit-10-scheduling-comparison",
+              "title": "Learn Scheduling comparison",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-10-scheduling-comparison-lesson-2",
+              "unitId": "operating-systems-section-4-unit-10-scheduling-comparison",
+              "title": "Practice Scheduling comparison",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-4-unit-10-scheduling-comparison-lesson-3",
+              "unitId": "operating-systems-section-4-unit-10-scheduling-comparison",
+              "title": "Review Scheduling comparison",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "operating-systems-section-5",
+      "trackId": "operating-systems",
+      "order": 5,
+      "title": "Section 5: Memory Management",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "operating-systems-section-5-unit-1-address-spaces",
+          "sectionId": "operating-systems-section-5",
+          "order": 1,
+          "title": "Address spaces",
+          "lessons": [
+            {
+              "id": "operating-systems-section-5-unit-1-address-spaces-lesson-1",
+              "unitId": "operating-systems-section-5-unit-1-address-spaces",
+              "title": "Learn Address spaces",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-1-address-spaces-lesson-2",
+              "unitId": "operating-systems-section-5-unit-1-address-spaces",
+              "title": "Practice Address spaces",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-1-address-spaces-lesson-3",
+              "unitId": "operating-systems-section-5-unit-1-address-spaces",
+              "title": "Review Address spaces",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-5-unit-2-stack-and-heap",
+          "sectionId": "operating-systems-section-5",
+          "order": 2,
+          "title": "Stack and heap",
+          "lessons": [
+            {
+              "id": "operating-systems-section-5-unit-2-stack-and-heap-lesson-1",
+              "unitId": "operating-systems-section-5-unit-2-stack-and-heap",
+              "title": "Learn Stack and heap",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-2-stack-and-heap-lesson-2",
+              "unitId": "operating-systems-section-5-unit-2-stack-and-heap",
+              "title": "Practice Stack and heap",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-2-stack-and-heap-lesson-3",
+              "unitId": "operating-systems-section-5-unit-2-stack-and-heap",
+              "title": "Review Stack and heap",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-5-unit-3-paging",
+          "sectionId": "operating-systems-section-5",
+          "order": 3,
+          "title": "Paging",
+          "lessons": [
+            {
+              "id": "operating-systems-section-5-unit-3-paging-lesson-1",
+              "unitId": "operating-systems-section-5-unit-3-paging",
+              "title": "Learn Paging",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-3-paging-lesson-2",
+              "unitId": "operating-systems-section-5-unit-3-paging",
+              "title": "Practice Paging",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-3-paging-lesson-3",
+              "unitId": "operating-systems-section-5-unit-3-paging",
+              "title": "Review Paging",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-5-unit-4-page-tables",
+          "sectionId": "operating-systems-section-5",
+          "order": 4,
+          "title": "Page tables",
+          "lessons": [
+            {
+              "id": "operating-systems-section-5-unit-4-page-tables-lesson-1",
+              "unitId": "operating-systems-section-5-unit-4-page-tables",
+              "title": "Learn Page tables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-4-page-tables-lesson-2",
+              "unitId": "operating-systems-section-5-unit-4-page-tables",
+              "title": "Practice Page tables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-4-page-tables-lesson-3",
+              "unitId": "operating-systems-section-5-unit-4-page-tables",
+              "title": "Review Page tables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-5-unit-5-tlb-concept",
+          "sectionId": "operating-systems-section-5",
+          "order": 5,
+          "title": "TLB concept",
+          "lessons": [
+            {
+              "id": "operating-systems-section-5-unit-5-tlb-concept-lesson-1",
+              "unitId": "operating-systems-section-5-unit-5-tlb-concept",
+              "title": "Learn TLB concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-5-tlb-concept-lesson-2",
+              "unitId": "operating-systems-section-5-unit-5-tlb-concept",
+              "title": "Practice TLB concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-5-tlb-concept-lesson-3",
+              "unitId": "operating-systems-section-5-unit-5-tlb-concept",
+              "title": "Review TLB concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-5-unit-6-segmentation-concept",
+          "sectionId": "operating-systems-section-5",
+          "order": 6,
+          "title": "Segmentation concept",
+          "lessons": [
+            {
+              "id": "operating-systems-section-5-unit-6-segmentation-concept-lesson-1",
+              "unitId": "operating-systems-section-5-unit-6-segmentation-concept",
+              "title": "Learn Segmentation concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-6-segmentation-concept-lesson-2",
+              "unitId": "operating-systems-section-5-unit-6-segmentation-concept",
+              "title": "Practice Segmentation concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-6-segmentation-concept-lesson-3",
+              "unitId": "operating-systems-section-5-unit-6-segmentation-concept",
+              "title": "Review Segmentation concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-5-unit-7-virtual-memory",
+          "sectionId": "operating-systems-section-5",
+          "order": 7,
+          "title": "Virtual memory",
+          "lessons": [
+            {
+              "id": "operating-systems-section-5-unit-7-virtual-memory-lesson-1",
+              "unitId": "operating-systems-section-5-unit-7-virtual-memory",
+              "title": "Learn Virtual memory",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-7-virtual-memory-lesson-2",
+              "unitId": "operating-systems-section-5-unit-7-virtual-memory",
+              "title": "Practice Virtual memory",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-7-virtual-memory-lesson-3",
+              "unitId": "operating-systems-section-5-unit-7-virtual-memory",
+              "title": "Review Virtual memory",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-5-unit-8-page-faults",
+          "sectionId": "operating-systems-section-5",
+          "order": 8,
+          "title": "Page faults",
+          "lessons": [
+            {
+              "id": "operating-systems-section-5-unit-8-page-faults-lesson-1",
+              "unitId": "operating-systems-section-5-unit-8-page-faults",
+              "title": "Learn Page faults",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-8-page-faults-lesson-2",
+              "unitId": "operating-systems-section-5-unit-8-page-faults",
+              "title": "Practice Page faults",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-8-page-faults-lesson-3",
+              "unitId": "operating-systems-section-5-unit-8-page-faults",
+              "title": "Review Page faults",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-5-unit-9-replacement-policies",
+          "sectionId": "operating-systems-section-5",
+          "order": 9,
+          "title": "Replacement policies",
+          "lessons": [
+            {
+              "id": "operating-systems-section-5-unit-9-replacement-policies-lesson-1",
+              "unitId": "operating-systems-section-5-unit-9-replacement-policies",
+              "title": "Learn Replacement policies",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-9-replacement-policies-lesson-2",
+              "unitId": "operating-systems-section-5-unit-9-replacement-policies",
+              "title": "Practice Replacement policies",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-9-replacement-policies-lesson-3",
+              "unitId": "operating-systems-section-5-unit-9-replacement-policies",
+              "title": "Review Replacement policies",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-5-unit-10-memory-drills",
+          "sectionId": "operating-systems-section-5",
+          "order": 10,
+          "title": "Memory drills",
+          "lessons": [
+            {
+              "id": "operating-systems-section-5-unit-10-memory-drills-lesson-1",
+              "unitId": "operating-systems-section-5-unit-10-memory-drills",
+              "title": "Learn Memory drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-10-memory-drills-lesson-2",
+              "unitId": "operating-systems-section-5-unit-10-memory-drills",
+              "title": "Practice Memory drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-5-unit-10-memory-drills-lesson-3",
+              "unitId": "operating-systems-section-5-unit-10-memory-drills",
+              "title": "Review Memory drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "operating-systems-section-6",
+      "trackId": "operating-systems",
+      "order": 6,
+      "title": "Section 6: Deadlocks",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "operating-systems-section-6-unit-1-deadlock-definition",
+          "sectionId": "operating-systems-section-6",
+          "order": 1,
+          "title": "Deadlock definition",
+          "lessons": [
+            {
+              "id": "operating-systems-section-6-unit-1-deadlock-definition-lesson-1",
+              "unitId": "operating-systems-section-6-unit-1-deadlock-definition",
+              "title": "Learn Deadlock definition",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-1-deadlock-definition-lesson-2",
+              "unitId": "operating-systems-section-6-unit-1-deadlock-definition",
+              "title": "Practice Deadlock definition",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-1-deadlock-definition-lesson-3",
+              "unitId": "operating-systems-section-6-unit-1-deadlock-definition",
+              "title": "Review Deadlock definition",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-6-unit-2-necessary-conditions",
+          "sectionId": "operating-systems-section-6",
+          "order": 2,
+          "title": "Necessary conditions",
+          "lessons": [
+            {
+              "id": "operating-systems-section-6-unit-2-necessary-conditions-lesson-1",
+              "unitId": "operating-systems-section-6-unit-2-necessary-conditions",
+              "title": "Learn Necessary conditions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-2-necessary-conditions-lesson-2",
+              "unitId": "operating-systems-section-6-unit-2-necessary-conditions",
+              "title": "Practice Necessary conditions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-2-necessary-conditions-lesson-3",
+              "unitId": "operating-systems-section-6-unit-2-necessary-conditions",
+              "title": "Review Necessary conditions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-6-unit-3-resource-allocation-graph",
+          "sectionId": "operating-systems-section-6",
+          "order": 3,
+          "title": "Resource allocation graph",
+          "lessons": [
+            {
+              "id": "operating-systems-section-6-unit-3-resource-allocation-graph-lesson-1",
+              "unitId": "operating-systems-section-6-unit-3-resource-allocation-graph",
+              "title": "Learn Resource allocation graph",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-3-resource-allocation-graph-lesson-2",
+              "unitId": "operating-systems-section-6-unit-3-resource-allocation-graph",
+              "title": "Practice Resource allocation graph",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-3-resource-allocation-graph-lesson-3",
+              "unitId": "operating-systems-section-6-unit-3-resource-allocation-graph",
+              "title": "Review Resource allocation graph",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-6-unit-4-deadlock-prevention",
+          "sectionId": "operating-systems-section-6",
+          "order": 4,
+          "title": "Deadlock prevention",
+          "lessons": [
+            {
+              "id": "operating-systems-section-6-unit-4-deadlock-prevention-lesson-1",
+              "unitId": "operating-systems-section-6-unit-4-deadlock-prevention",
+              "title": "Learn Deadlock prevention",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-4-deadlock-prevention-lesson-2",
+              "unitId": "operating-systems-section-6-unit-4-deadlock-prevention",
+              "title": "Practice Deadlock prevention",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-4-deadlock-prevention-lesson-3",
+              "unitId": "operating-systems-section-6-unit-4-deadlock-prevention",
+              "title": "Review Deadlock prevention",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-6-unit-5-deadlock-avoidance",
+          "sectionId": "operating-systems-section-6",
+          "order": 5,
+          "title": "Deadlock avoidance",
+          "lessons": [
+            {
+              "id": "operating-systems-section-6-unit-5-deadlock-avoidance-lesson-1",
+              "unitId": "operating-systems-section-6-unit-5-deadlock-avoidance",
+              "title": "Learn Deadlock avoidance",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-5-deadlock-avoidance-lesson-2",
+              "unitId": "operating-systems-section-6-unit-5-deadlock-avoidance",
+              "title": "Practice Deadlock avoidance",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-5-deadlock-avoidance-lesson-3",
+              "unitId": "operating-systems-section-6-unit-5-deadlock-avoidance",
+              "title": "Review Deadlock avoidance",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-6-unit-6-banker-s-algorithm-concept",
+          "sectionId": "operating-systems-section-6",
+          "order": 6,
+          "title": "Banker's algorithm concept",
+          "lessons": [
+            {
+              "id": "operating-systems-section-6-unit-6-banker-s-algorithm-concept-lesson-1",
+              "unitId": "operating-systems-section-6-unit-6-banker-s-algorithm-concept",
+              "title": "Learn Banker's algorithm concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-6-banker-s-algorithm-concept-lesson-2",
+              "unitId": "operating-systems-section-6-unit-6-banker-s-algorithm-concept",
+              "title": "Practice Banker's algorithm concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-6-banker-s-algorithm-concept-lesson-3",
+              "unitId": "operating-systems-section-6-unit-6-banker-s-algorithm-concept",
+              "title": "Review Banker's algorithm concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-6-unit-7-deadlock-detection",
+          "sectionId": "operating-systems-section-6",
+          "order": 7,
+          "title": "Deadlock detection",
+          "lessons": [
+            {
+              "id": "operating-systems-section-6-unit-7-deadlock-detection-lesson-1",
+              "unitId": "operating-systems-section-6-unit-7-deadlock-detection",
+              "title": "Learn Deadlock detection",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-7-deadlock-detection-lesson-2",
+              "unitId": "operating-systems-section-6-unit-7-deadlock-detection",
+              "title": "Practice Deadlock detection",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-7-deadlock-detection-lesson-3",
+              "unitId": "operating-systems-section-6-unit-7-deadlock-detection",
+              "title": "Review Deadlock detection",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-6-unit-8-recovery",
+          "sectionId": "operating-systems-section-6",
+          "order": 8,
+          "title": "Recovery",
+          "lessons": [
+            {
+              "id": "operating-systems-section-6-unit-8-recovery-lesson-1",
+              "unitId": "operating-systems-section-6-unit-8-recovery",
+              "title": "Learn Recovery",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-8-recovery-lesson-2",
+              "unitId": "operating-systems-section-6-unit-8-recovery",
+              "title": "Practice Recovery",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-8-recovery-lesson-3",
+              "unitId": "operating-systems-section-6-unit-8-recovery",
+              "title": "Review Recovery",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-6-unit-9-livelock",
+          "sectionId": "operating-systems-section-6",
+          "order": 9,
+          "title": "Livelock",
+          "lessons": [
+            {
+              "id": "operating-systems-section-6-unit-9-livelock-lesson-1",
+              "unitId": "operating-systems-section-6-unit-9-livelock",
+              "title": "Learn Livelock",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-9-livelock-lesson-2",
+              "unitId": "operating-systems-section-6-unit-9-livelock",
+              "title": "Practice Livelock",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-9-livelock-lesson-3",
+              "unitId": "operating-systems-section-6-unit-9-livelock",
+              "title": "Review Livelock",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-6-unit-10-deadlock-drills",
+          "sectionId": "operating-systems-section-6",
+          "order": 10,
+          "title": "Deadlock drills",
+          "lessons": [
+            {
+              "id": "operating-systems-section-6-unit-10-deadlock-drills-lesson-1",
+              "unitId": "operating-systems-section-6-unit-10-deadlock-drills",
+              "title": "Learn Deadlock drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-10-deadlock-drills-lesson-2",
+              "unitId": "operating-systems-section-6-unit-10-deadlock-drills",
+              "title": "Practice Deadlock drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-6-unit-10-deadlock-drills-lesson-3",
+              "unitId": "operating-systems-section-6-unit-10-deadlock-drills",
+              "title": "Review Deadlock drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "operating-systems-section-7",
+      "trackId": "operating-systems",
+      "order": 7,
+      "title": "Section 7: File Systems",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "operating-systems-section-7-unit-1-files-and-directories",
+          "sectionId": "operating-systems-section-7",
+          "order": 1,
+          "title": "Files and directories",
+          "lessons": [
+            {
+              "id": "operating-systems-section-7-unit-1-files-and-directories-lesson-1",
+              "unitId": "operating-systems-section-7-unit-1-files-and-directories",
+              "title": "Learn Files and directories",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-1-files-and-directories-lesson-2",
+              "unitId": "operating-systems-section-7-unit-1-files-and-directories",
+              "title": "Practice Files and directories",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-1-files-and-directories-lesson-3",
+              "unitId": "operating-systems-section-7-unit-1-files-and-directories",
+              "title": "Review Files and directories",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-7-unit-2-inodes-concept",
+          "sectionId": "operating-systems-section-7",
+          "order": 2,
+          "title": "Inodes concept",
+          "lessons": [
+            {
+              "id": "operating-systems-section-7-unit-2-inodes-concept-lesson-1",
+              "unitId": "operating-systems-section-7-unit-2-inodes-concept",
+              "title": "Learn Inodes concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-2-inodes-concept-lesson-2",
+              "unitId": "operating-systems-section-7-unit-2-inodes-concept",
+              "title": "Practice Inodes concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-2-inodes-concept-lesson-3",
+              "unitId": "operating-systems-section-7-unit-2-inodes-concept",
+              "title": "Review Inodes concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-7-unit-3-blocks",
+          "sectionId": "operating-systems-section-7",
+          "order": 3,
+          "title": "Blocks",
+          "lessons": [
+            {
+              "id": "operating-systems-section-7-unit-3-blocks-lesson-1",
+              "unitId": "operating-systems-section-7-unit-3-blocks",
+              "title": "Learn Blocks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-3-blocks-lesson-2",
+              "unitId": "operating-systems-section-7-unit-3-blocks",
+              "title": "Practice Blocks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-3-blocks-lesson-3",
+              "unitId": "operating-systems-section-7-unit-3-blocks",
+              "title": "Review Blocks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-7-unit-4-permissions",
+          "sectionId": "operating-systems-section-7",
+          "order": 4,
+          "title": "Permissions",
+          "lessons": [
+            {
+              "id": "operating-systems-section-7-unit-4-permissions-lesson-1",
+              "unitId": "operating-systems-section-7-unit-4-permissions",
+              "title": "Learn Permissions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-4-permissions-lesson-2",
+              "unitId": "operating-systems-section-7-unit-4-permissions",
+              "title": "Practice Permissions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-4-permissions-lesson-3",
+              "unitId": "operating-systems-section-7-unit-4-permissions",
+              "title": "Review Permissions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-7-unit-5-links",
+          "sectionId": "operating-systems-section-7",
+          "order": 5,
+          "title": "Links",
+          "lessons": [
+            {
+              "id": "operating-systems-section-7-unit-5-links-lesson-1",
+              "unitId": "operating-systems-section-7-unit-5-links",
+              "title": "Learn Links",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-5-links-lesson-2",
+              "unitId": "operating-systems-section-7-unit-5-links",
+              "title": "Practice Links",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-5-links-lesson-3",
+              "unitId": "operating-systems-section-7-unit-5-links",
+              "title": "Review Links",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-7-unit-6-mounting",
+          "sectionId": "operating-systems-section-7",
+          "order": 6,
+          "title": "Mounting",
+          "lessons": [
+            {
+              "id": "operating-systems-section-7-unit-6-mounting-lesson-1",
+              "unitId": "operating-systems-section-7-unit-6-mounting",
+              "title": "Learn Mounting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-6-mounting-lesson-2",
+              "unitId": "operating-systems-section-7-unit-6-mounting",
+              "title": "Practice Mounting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-6-mounting-lesson-3",
+              "unitId": "operating-systems-section-7-unit-6-mounting",
+              "title": "Review Mounting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-7-unit-7-journaling",
+          "sectionId": "operating-systems-section-7",
+          "order": 7,
+          "title": "Journaling",
+          "lessons": [
+            {
+              "id": "operating-systems-section-7-unit-7-journaling-lesson-1",
+              "unitId": "operating-systems-section-7-unit-7-journaling",
+              "title": "Learn Journaling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-7-journaling-lesson-2",
+              "unitId": "operating-systems-section-7-unit-7-journaling",
+              "title": "Practice Journaling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-7-journaling-lesson-3",
+              "unitId": "operating-systems-section-7-unit-7-journaling",
+              "title": "Review Journaling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-7-unit-8-caching",
+          "sectionId": "operating-systems-section-7",
+          "order": 8,
+          "title": "Caching",
+          "lessons": [
+            {
+              "id": "operating-systems-section-7-unit-8-caching-lesson-1",
+              "unitId": "operating-systems-section-7-unit-8-caching",
+              "title": "Learn Caching",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-8-caching-lesson-2",
+              "unitId": "operating-systems-section-7-unit-8-caching",
+              "title": "Practice Caching",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-8-caching-lesson-3",
+              "unitId": "operating-systems-section-7-unit-8-caching",
+              "title": "Review Caching",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-7-unit-9-path-resolution",
+          "sectionId": "operating-systems-section-7",
+          "order": 9,
+          "title": "Path resolution",
+          "lessons": [
+            {
+              "id": "operating-systems-section-7-unit-9-path-resolution-lesson-1",
+              "unitId": "operating-systems-section-7-unit-9-path-resolution",
+              "title": "Learn Path resolution",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-9-path-resolution-lesson-2",
+              "unitId": "operating-systems-section-7-unit-9-path-resolution",
+              "title": "Practice Path resolution",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-9-path-resolution-lesson-3",
+              "unitId": "operating-systems-section-7-unit-9-path-resolution",
+              "title": "Review Path resolution",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-7-unit-10-file-system-drills",
+          "sectionId": "operating-systems-section-7",
+          "order": 10,
+          "title": "File system drills",
+          "lessons": [
+            {
+              "id": "operating-systems-section-7-unit-10-file-system-drills-lesson-1",
+              "unitId": "operating-systems-section-7-unit-10-file-system-drills",
+              "title": "Learn File system drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-10-file-system-drills-lesson-2",
+              "unitId": "operating-systems-section-7-unit-10-file-system-drills",
+              "title": "Practice File system drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-7-unit-10-file-system-drills-lesson-3",
+              "unitId": "operating-systems-section-7-unit-10-file-system-drills",
+              "title": "Review File system drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "operating-systems-section-8",
+      "trackId": "operating-systems",
+      "order": 8,
+      "title": "Section 8: I/O & Devices",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "operating-systems-section-8-unit-1-device-drivers",
+          "sectionId": "operating-systems-section-8",
+          "order": 1,
+          "title": "Device drivers",
+          "lessons": [
+            {
+              "id": "operating-systems-section-8-unit-1-device-drivers-lesson-1",
+              "unitId": "operating-systems-section-8-unit-1-device-drivers",
+              "title": "Learn Device drivers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-1-device-drivers-lesson-2",
+              "unitId": "operating-systems-section-8-unit-1-device-drivers",
+              "title": "Practice Device drivers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-1-device-drivers-lesson-3",
+              "unitId": "operating-systems-section-8-unit-1-device-drivers",
+              "title": "Review Device drivers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-8-unit-2-polling-vs-interrupts",
+          "sectionId": "operating-systems-section-8",
+          "order": 2,
+          "title": "Polling vs interrupts",
+          "lessons": [
+            {
+              "id": "operating-systems-section-8-unit-2-polling-vs-interrupts-lesson-1",
+              "unitId": "operating-systems-section-8-unit-2-polling-vs-interrupts",
+              "title": "Learn Polling vs interrupts",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-2-polling-vs-interrupts-lesson-2",
+              "unitId": "operating-systems-section-8-unit-2-polling-vs-interrupts",
+              "title": "Practice Polling vs interrupts",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-2-polling-vs-interrupts-lesson-3",
+              "unitId": "operating-systems-section-8-unit-2-polling-vs-interrupts",
+              "title": "Review Polling vs interrupts",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-8-unit-3-dma-concept",
+          "sectionId": "operating-systems-section-8",
+          "order": 3,
+          "title": "DMA concept",
+          "lessons": [
+            {
+              "id": "operating-systems-section-8-unit-3-dma-concept-lesson-1",
+              "unitId": "operating-systems-section-8-unit-3-dma-concept",
+              "title": "Learn DMA concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-3-dma-concept-lesson-2",
+              "unitId": "operating-systems-section-8-unit-3-dma-concept",
+              "title": "Practice DMA concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-3-dma-concept-lesson-3",
+              "unitId": "operating-systems-section-8-unit-3-dma-concept",
+              "title": "Review DMA concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-8-unit-4-disk-scheduling",
+          "sectionId": "operating-systems-section-8",
+          "order": 4,
+          "title": "Disk scheduling",
+          "lessons": [
+            {
+              "id": "operating-systems-section-8-unit-4-disk-scheduling-lesson-1",
+              "unitId": "operating-systems-section-8-unit-4-disk-scheduling",
+              "title": "Learn Disk scheduling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-4-disk-scheduling-lesson-2",
+              "unitId": "operating-systems-section-8-unit-4-disk-scheduling",
+              "title": "Practice Disk scheduling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-4-disk-scheduling-lesson-3",
+              "unitId": "operating-systems-section-8-unit-4-disk-scheduling",
+              "title": "Review Disk scheduling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-8-unit-5-buffering",
+          "sectionId": "operating-systems-section-8",
+          "order": 5,
+          "title": "Buffering",
+          "lessons": [
+            {
+              "id": "operating-systems-section-8-unit-5-buffering-lesson-1",
+              "unitId": "operating-systems-section-8-unit-5-buffering",
+              "title": "Learn Buffering",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-5-buffering-lesson-2",
+              "unitId": "operating-systems-section-8-unit-5-buffering",
+              "title": "Practice Buffering",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-5-buffering-lesson-3",
+              "unitId": "operating-systems-section-8-unit-5-buffering",
+              "title": "Review Buffering",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-8-unit-6-spooling",
+          "sectionId": "operating-systems-section-8",
+          "order": 6,
+          "title": "Spooling",
+          "lessons": [
+            {
+              "id": "operating-systems-section-8-unit-6-spooling-lesson-1",
+              "unitId": "operating-systems-section-8-unit-6-spooling",
+              "title": "Learn Spooling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-6-spooling-lesson-2",
+              "unitId": "operating-systems-section-8-unit-6-spooling",
+              "title": "Practice Spooling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-6-spooling-lesson-3",
+              "unitId": "operating-systems-section-8-unit-6-spooling",
+              "title": "Review Spooling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-8-unit-7-terminal-io",
+          "sectionId": "operating-systems-section-8",
+          "order": 7,
+          "title": "Terminal IO",
+          "lessons": [
+            {
+              "id": "operating-systems-section-8-unit-7-terminal-io-lesson-1",
+              "unitId": "operating-systems-section-8-unit-7-terminal-io",
+              "title": "Learn Terminal IO",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-7-terminal-io-lesson-2",
+              "unitId": "operating-systems-section-8-unit-7-terminal-io",
+              "title": "Practice Terminal IO",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-7-terminal-io-lesson-3",
+              "unitId": "operating-systems-section-8-unit-7-terminal-io",
+              "title": "Review Terminal IO",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-8-unit-8-network-io",
+          "sectionId": "operating-systems-section-8",
+          "order": 8,
+          "title": "Network IO",
+          "lessons": [
+            {
+              "id": "operating-systems-section-8-unit-8-network-io-lesson-1",
+              "unitId": "operating-systems-section-8-unit-8-network-io",
+              "title": "Learn Network IO",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-8-network-io-lesson-2",
+              "unitId": "operating-systems-section-8-unit-8-network-io",
+              "title": "Practice Network IO",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-8-network-io-lesson-3",
+              "unitId": "operating-systems-section-8-unit-8-network-io",
+              "title": "Review Network IO",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-8-unit-9-device-files",
+          "sectionId": "operating-systems-section-8",
+          "order": 9,
+          "title": "Device files",
+          "lessons": [
+            {
+              "id": "operating-systems-section-8-unit-9-device-files-lesson-1",
+              "unitId": "operating-systems-section-8-unit-9-device-files",
+              "title": "Learn Device files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-9-device-files-lesson-2",
+              "unitId": "operating-systems-section-8-unit-9-device-files",
+              "title": "Practice Device files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-9-device-files-lesson-3",
+              "unitId": "operating-systems-section-8-unit-9-device-files",
+              "title": "Review Device files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-8-unit-10-i-o-project",
+          "sectionId": "operating-systems-section-8",
+          "order": 10,
+          "title": "I/O project",
+          "lessons": [
+            {
+              "id": "operating-systems-section-8-unit-10-i-o-project-lesson-1",
+              "unitId": "operating-systems-section-8-unit-10-i-o-project",
+              "title": "Learn I/O project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-10-i-o-project-lesson-2",
+              "unitId": "operating-systems-section-8-unit-10-i-o-project",
+              "title": "Practice I/O project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-8-unit-10-i-o-project-lesson-3",
+              "unitId": "operating-systems-section-8-unit-10-i-o-project",
+              "title": "Review I/O project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "operating-systems-section-9",
+      "trackId": "operating-systems",
+      "order": 9,
+      "title": "Section 9: Security & Protection",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "operating-systems-section-9-unit-1-access-control",
+          "sectionId": "operating-systems-section-9",
+          "order": 1,
+          "title": "Access control",
+          "lessons": [
+            {
+              "id": "operating-systems-section-9-unit-1-access-control-lesson-1",
+              "unitId": "operating-systems-section-9-unit-1-access-control",
+              "title": "Learn Access control",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-1-access-control-lesson-2",
+              "unitId": "operating-systems-section-9-unit-1-access-control",
+              "title": "Practice Access control",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-1-access-control-lesson-3",
+              "unitId": "operating-systems-section-9-unit-1-access-control",
+              "title": "Review Access control",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-9-unit-2-users-and-groups",
+          "sectionId": "operating-systems-section-9",
+          "order": 2,
+          "title": "Users and groups",
+          "lessons": [
+            {
+              "id": "operating-systems-section-9-unit-2-users-and-groups-lesson-1",
+              "unitId": "operating-systems-section-9-unit-2-users-and-groups",
+              "title": "Learn Users and groups",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-2-users-and-groups-lesson-2",
+              "unitId": "operating-systems-section-9-unit-2-users-and-groups",
+              "title": "Practice Users and groups",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-2-users-and-groups-lesson-3",
+              "unitId": "operating-systems-section-9-unit-2-users-and-groups",
+              "title": "Review Users and groups",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-9-unit-3-permissions-model",
+          "sectionId": "operating-systems-section-9",
+          "order": 3,
+          "title": "Permissions model",
+          "lessons": [
+            {
+              "id": "operating-systems-section-9-unit-3-permissions-model-lesson-1",
+              "unitId": "operating-systems-section-9-unit-3-permissions-model",
+              "title": "Learn Permissions model",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-3-permissions-model-lesson-2",
+              "unitId": "operating-systems-section-9-unit-3-permissions-model",
+              "title": "Practice Permissions model",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-3-permissions-model-lesson-3",
+              "unitId": "operating-systems-section-9-unit-3-permissions-model",
+              "title": "Review Permissions model",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-9-unit-4-capabilities-concept",
+          "sectionId": "operating-systems-section-9",
+          "order": 4,
+          "title": "Capabilities concept",
+          "lessons": [
+            {
+              "id": "operating-systems-section-9-unit-4-capabilities-concept-lesson-1",
+              "unitId": "operating-systems-section-9-unit-4-capabilities-concept",
+              "title": "Learn Capabilities concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-4-capabilities-concept-lesson-2",
+              "unitId": "operating-systems-section-9-unit-4-capabilities-concept",
+              "title": "Practice Capabilities concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-4-capabilities-concept-lesson-3",
+              "unitId": "operating-systems-section-9-unit-4-capabilities-concept",
+              "title": "Review Capabilities concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-9-unit-5-sandboxing",
+          "sectionId": "operating-systems-section-9",
+          "order": 5,
+          "title": "Sandboxing",
+          "lessons": [
+            {
+              "id": "operating-systems-section-9-unit-5-sandboxing-lesson-1",
+              "unitId": "operating-systems-section-9-unit-5-sandboxing",
+              "title": "Learn Sandboxing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-5-sandboxing-lesson-2",
+              "unitId": "operating-systems-section-9-unit-5-sandboxing",
+              "title": "Practice Sandboxing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-5-sandboxing-lesson-3",
+              "unitId": "operating-systems-section-9-unit-5-sandboxing",
+              "title": "Review Sandboxing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-9-unit-6-process-isolation",
+          "sectionId": "operating-systems-section-9",
+          "order": 6,
+          "title": "Process isolation",
+          "lessons": [
+            {
+              "id": "operating-systems-section-9-unit-6-process-isolation-lesson-1",
+              "unitId": "operating-systems-section-9-unit-6-process-isolation",
+              "title": "Learn Process isolation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-6-process-isolation-lesson-2",
+              "unitId": "operating-systems-section-9-unit-6-process-isolation",
+              "title": "Practice Process isolation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-6-process-isolation-lesson-3",
+              "unitId": "operating-systems-section-9-unit-6-process-isolation",
+              "title": "Review Process isolation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-9-unit-7-memory-protection",
+          "sectionId": "operating-systems-section-9",
+          "order": 7,
+          "title": "Memory protection",
+          "lessons": [
+            {
+              "id": "operating-systems-section-9-unit-7-memory-protection-lesson-1",
+              "unitId": "operating-systems-section-9-unit-7-memory-protection",
+              "title": "Learn Memory protection",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-7-memory-protection-lesson-2",
+              "unitId": "operating-systems-section-9-unit-7-memory-protection",
+              "title": "Practice Memory protection",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-7-memory-protection-lesson-3",
+              "unitId": "operating-systems-section-9-unit-7-memory-protection",
+              "title": "Review Memory protection",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-9-unit-8-audit-logs",
+          "sectionId": "operating-systems-section-9",
+          "order": 8,
+          "title": "Audit logs",
+          "lessons": [
+            {
+              "id": "operating-systems-section-9-unit-8-audit-logs-lesson-1",
+              "unitId": "operating-systems-section-9-unit-8-audit-logs",
+              "title": "Learn Audit logs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-8-audit-logs-lesson-2",
+              "unitId": "operating-systems-section-9-unit-8-audit-logs",
+              "title": "Practice Audit logs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-8-audit-logs-lesson-3",
+              "unitId": "operating-systems-section-9-unit-8-audit-logs",
+              "title": "Review Audit logs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-9-unit-9-common-attacks",
+          "sectionId": "operating-systems-section-9",
+          "order": 9,
+          "title": "Common attacks",
+          "lessons": [
+            {
+              "id": "operating-systems-section-9-unit-9-common-attacks-lesson-1",
+              "unitId": "operating-systems-section-9-unit-9-common-attacks",
+              "title": "Learn Common attacks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-9-common-attacks-lesson-2",
+              "unitId": "operating-systems-section-9-unit-9-common-attacks",
+              "title": "Practice Common attacks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-9-common-attacks-lesson-3",
+              "unitId": "operating-systems-section-9-unit-9-common-attacks",
+              "title": "Review Common attacks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-9-unit-10-security-drills",
+          "sectionId": "operating-systems-section-9",
+          "order": 10,
+          "title": "Security drills",
+          "lessons": [
+            {
+              "id": "operating-systems-section-9-unit-10-security-drills-lesson-1",
+              "unitId": "operating-systems-section-9-unit-10-security-drills",
+              "title": "Learn Security drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-10-security-drills-lesson-2",
+              "unitId": "operating-systems-section-9-unit-10-security-drills",
+              "title": "Practice Security drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-9-unit-10-security-drills-lesson-3",
+              "unitId": "operating-systems-section-9-unit-10-security-drills",
+              "title": "Review Security drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "operating-systems-section-10",
+      "trackId": "operating-systems",
+      "order": 10,
+      "title": "Section 10: OS Capstones",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "operating-systems-section-10-unit-1-scheduling-simulator",
+          "sectionId": "operating-systems-section-10",
+          "order": 1,
+          "title": "Scheduling simulator",
+          "lessons": [
+            {
+              "id": "operating-systems-section-10-unit-1-scheduling-simulator-lesson-1",
+              "unitId": "operating-systems-section-10-unit-1-scheduling-simulator",
+              "title": "Learn Scheduling simulator",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-1-scheduling-simulator-lesson-2",
+              "unitId": "operating-systems-section-10-unit-1-scheduling-simulator",
+              "title": "Practice Scheduling simulator",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-1-scheduling-simulator-lesson-3",
+              "unitId": "operating-systems-section-10-unit-1-scheduling-simulator",
+              "title": "Review Scheduling simulator",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-10-unit-2-memory-trace-analysis",
+          "sectionId": "operating-systems-section-10",
+          "order": 2,
+          "title": "Memory trace analysis",
+          "lessons": [
+            {
+              "id": "operating-systems-section-10-unit-2-memory-trace-analysis-lesson-1",
+              "unitId": "operating-systems-section-10-unit-2-memory-trace-analysis",
+              "title": "Learn Memory trace analysis",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-2-memory-trace-analysis-lesson-2",
+              "unitId": "operating-systems-section-10-unit-2-memory-trace-analysis",
+              "title": "Practice Memory trace analysis",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-2-memory-trace-analysis-lesson-3",
+              "unitId": "operating-systems-section-10-unit-2-memory-trace-analysis",
+              "title": "Review Memory trace analysis",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-10-unit-3-deadlock-detection",
+          "sectionId": "operating-systems-section-10",
+          "order": 3,
+          "title": "Deadlock detection",
+          "lessons": [
+            {
+              "id": "operating-systems-section-10-unit-3-deadlock-detection-lesson-1",
+              "unitId": "operating-systems-section-10-unit-3-deadlock-detection",
+              "title": "Learn Deadlock detection",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-3-deadlock-detection-lesson-2",
+              "unitId": "operating-systems-section-10-unit-3-deadlock-detection",
+              "title": "Practice Deadlock detection",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-3-deadlock-detection-lesson-3",
+              "unitId": "operating-systems-section-10-unit-3-deadlock-detection",
+              "title": "Review Deadlock detection",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-10-unit-4-file-permission-audit",
+          "sectionId": "operating-systems-section-10",
+          "order": 4,
+          "title": "File permission audit",
+          "lessons": [
+            {
+              "id": "operating-systems-section-10-unit-4-file-permission-audit-lesson-1",
+              "unitId": "operating-systems-section-10-unit-4-file-permission-audit",
+              "title": "Learn File permission audit",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-4-file-permission-audit-lesson-2",
+              "unitId": "operating-systems-section-10-unit-4-file-permission-audit",
+              "title": "Practice File permission audit",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-4-file-permission-audit-lesson-3",
+              "unitId": "operating-systems-section-10-unit-4-file-permission-audit",
+              "title": "Review File permission audit",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-10-unit-5-thread-race-demo",
+          "sectionId": "operating-systems-section-10",
+          "order": 5,
+          "title": "Thread race demo",
+          "lessons": [
+            {
+              "id": "operating-systems-section-10-unit-5-thread-race-demo-lesson-1",
+              "unitId": "operating-systems-section-10-unit-5-thread-race-demo",
+              "title": "Learn Thread race demo",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-5-thread-race-demo-lesson-2",
+              "unitId": "operating-systems-section-10-unit-5-thread-race-demo",
+              "title": "Practice Thread race demo",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-5-thread-race-demo-lesson-3",
+              "unitId": "operating-systems-section-10-unit-5-thread-race-demo",
+              "title": "Review Thread race demo",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-10-unit-6-ipc-design",
+          "sectionId": "operating-systems-section-10",
+          "order": 6,
+          "title": "IPC design",
+          "lessons": [
+            {
+              "id": "operating-systems-section-10-unit-6-ipc-design-lesson-1",
+              "unitId": "operating-systems-section-10-unit-6-ipc-design",
+              "title": "Learn IPC design",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-6-ipc-design-lesson-2",
+              "unitId": "operating-systems-section-10-unit-6-ipc-design",
+              "title": "Practice IPC design",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-6-ipc-design-lesson-3",
+              "unitId": "operating-systems-section-10-unit-6-ipc-design",
+              "title": "Review IPC design",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-10-unit-7-virtual-memory-quiz",
+          "sectionId": "operating-systems-section-10",
+          "order": 7,
+          "title": "Virtual memory quiz",
+          "lessons": [
+            {
+              "id": "operating-systems-section-10-unit-7-virtual-memory-quiz-lesson-1",
+              "unitId": "operating-systems-section-10-unit-7-virtual-memory-quiz",
+              "title": "Learn Virtual memory quiz",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-7-virtual-memory-quiz-lesson-2",
+              "unitId": "operating-systems-section-10-unit-7-virtual-memory-quiz",
+              "title": "Practice Virtual memory quiz",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-7-virtual-memory-quiz-lesson-3",
+              "unitId": "operating-systems-section-10-unit-7-virtual-memory-quiz",
+              "title": "Review Virtual memory quiz",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-10-unit-8-os-debugging-lab",
+          "sectionId": "operating-systems-section-10",
+          "order": 8,
+          "title": "OS debugging lab",
+          "lessons": [
+            {
+              "id": "operating-systems-section-10-unit-8-os-debugging-lab-lesson-1",
+              "unitId": "operating-systems-section-10-unit-8-os-debugging-lab",
+              "title": "Learn OS debugging lab",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-8-os-debugging-lab-lesson-2",
+              "unitId": "operating-systems-section-10-unit-8-os-debugging-lab",
+              "title": "Practice OS debugging lab",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-8-os-debugging-lab-lesson-3",
+              "unitId": "operating-systems-section-10-unit-8-os-debugging-lab",
+              "title": "Review OS debugging lab",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-10-unit-9-concept-map",
+          "sectionId": "operating-systems-section-10",
+          "order": 9,
+          "title": "Concept map",
+          "lessons": [
+            {
+              "id": "operating-systems-section-10-unit-9-concept-map-lesson-1",
+              "unitId": "operating-systems-section-10-unit-9-concept-map",
+              "title": "Learn Concept map",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-9-concept-map-lesson-2",
+              "unitId": "operating-systems-section-10-unit-9-concept-map",
+              "title": "Practice Concept map",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-9-concept-map-lesson-3",
+              "unitId": "operating-systems-section-10-unit-9-concept-map",
+              "title": "Review Concept map",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "operating-systems-section-10-unit-10-final-os-project",
+          "sectionId": "operating-systems-section-10",
+          "order": 10,
+          "title": "Final OS project",
+          "lessons": [
+            {
+              "id": "operating-systems-section-10-unit-10-final-os-project-lesson-1",
+              "unitId": "operating-systems-section-10-unit-10-final-os-project",
+              "title": "Learn Final OS project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-10-final-os-project-lesson-2",
+              "unitId": "operating-systems-section-10-unit-10-final-os-project",
+              "title": "Practice Final OS project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "operating-systems-section-10-unit-10-final-os-project-lesson-3",
+              "unitId": "operating-systems-section-10-unit-10-final-os-project",
+              "title": "Review Final OS project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3006 @@
+{
+  "id": "dbms",
+  "title": "Database Management",
+  "category": "core-cs",
+  "icon": "database-zap",
+  "color": "#4CAA00",
+  "description": "Design schemas, transactions, indexes, and query plans for dependable data systems.",
+  "sections": [
+    {
+      "id": "dbms-section-1",
+      "trackId": "dbms",
+      "order": 1,
+      "title": "Section 1: DBMS Foundations",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "dbms-section-1-unit-1-why-databases",
+          "sectionId": "dbms-section-1",
+          "order": 1,
+          "title": "Why databases",
+          "lessons": [
+            {
+              "id": "dbms-section-1-unit-1-why-databases-lesson-1",
+              "unitId": "dbms-section-1-unit-1-why-databases",
+              "title": "Learn Why databases",
+              "order": 1,
+              "exerciseIds": [
+                "dbms-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "dbms-section-1-unit-1-why-databases-lesson-2",
+              "unitId": "dbms-section-1-unit-1-why-databases",
+              "title": "Practice Why databases",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-1-why-databases-lesson-3",
+              "unitId": "dbms-section-1-unit-1-why-databases",
+              "title": "Review Why databases",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-1-unit-2-dbms-roles",
+          "sectionId": "dbms-section-1",
+          "order": 2,
+          "title": "DBMS roles",
+          "lessons": [
+            {
+              "id": "dbms-section-1-unit-2-dbms-roles-lesson-1",
+              "unitId": "dbms-section-1-unit-2-dbms-roles",
+              "title": "Learn DBMS roles",
+              "order": 1,
+              "exerciseIds": [
+                "dbms-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "dbms-section-1-unit-2-dbms-roles-lesson-2",
+              "unitId": "dbms-section-1-unit-2-dbms-roles",
+              "title": "Practice DBMS roles",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-2-dbms-roles-lesson-3",
+              "unitId": "dbms-section-1-unit-2-dbms-roles",
+              "title": "Review DBMS roles",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-1-unit-3-relational-model",
+          "sectionId": "dbms-section-1",
+          "order": 3,
+          "title": "Relational model",
+          "lessons": [
+            {
+              "id": "dbms-section-1-unit-3-relational-model-lesson-1",
+              "unitId": "dbms-section-1-unit-3-relational-model",
+              "title": "Learn Relational model",
+              "order": 1,
+              "exerciseIds": [
+                "dbms-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "dbms-section-1-unit-3-relational-model-lesson-2",
+              "unitId": "dbms-section-1-unit-3-relational-model",
+              "title": "Practice Relational model",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-3-relational-model-lesson-3",
+              "unitId": "dbms-section-1-unit-3-relational-model",
+              "title": "Review Relational model",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-1-unit-4-tables-and-rows",
+          "sectionId": "dbms-section-1",
+          "order": 4,
+          "title": "Tables and rows",
+          "lessons": [
+            {
+              "id": "dbms-section-1-unit-4-tables-and-rows-lesson-1",
+              "unitId": "dbms-section-1-unit-4-tables-and-rows",
+              "title": "Learn Tables and rows",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-4-tables-and-rows-lesson-2",
+              "unitId": "dbms-section-1-unit-4-tables-and-rows",
+              "title": "Practice Tables and rows",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-4-tables-and-rows-lesson-3",
+              "unitId": "dbms-section-1-unit-4-tables-and-rows",
+              "title": "Review Tables and rows",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-1-unit-5-schemas",
+          "sectionId": "dbms-section-1",
+          "order": 5,
+          "title": "Schemas",
+          "lessons": [
+            {
+              "id": "dbms-section-1-unit-5-schemas-lesson-1",
+              "unitId": "dbms-section-1-unit-5-schemas",
+              "title": "Learn Schemas",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-5-schemas-lesson-2",
+              "unitId": "dbms-section-1-unit-5-schemas",
+              "title": "Practice Schemas",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-5-schemas-lesson-3",
+              "unitId": "dbms-section-1-unit-5-schemas",
+              "title": "Review Schemas",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-1-unit-6-keys",
+          "sectionId": "dbms-section-1",
+          "order": 6,
+          "title": "Keys",
+          "lessons": [
+            {
+              "id": "dbms-section-1-unit-6-keys-lesson-1",
+              "unitId": "dbms-section-1-unit-6-keys",
+              "title": "Learn Keys",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-6-keys-lesson-2",
+              "unitId": "dbms-section-1-unit-6-keys",
+              "title": "Practice Keys",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-6-keys-lesson-3",
+              "unitId": "dbms-section-1-unit-6-keys",
+              "title": "Review Keys",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-1-unit-7-constraints",
+          "sectionId": "dbms-section-1",
+          "order": 7,
+          "title": "Constraints",
+          "lessons": [
+            {
+              "id": "dbms-section-1-unit-7-constraints-lesson-1",
+              "unitId": "dbms-section-1-unit-7-constraints",
+              "title": "Learn Constraints",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-7-constraints-lesson-2",
+              "unitId": "dbms-section-1-unit-7-constraints",
+              "title": "Practice Constraints",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-7-constraints-lesson-3",
+              "unitId": "dbms-section-1-unit-7-constraints",
+              "title": "Review Constraints",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-1-unit-8-catalogs",
+          "sectionId": "dbms-section-1",
+          "order": 8,
+          "title": "Catalogs",
+          "lessons": [
+            {
+              "id": "dbms-section-1-unit-8-catalogs-lesson-1",
+              "unitId": "dbms-section-1-unit-8-catalogs",
+              "title": "Learn Catalogs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-8-catalogs-lesson-2",
+              "unitId": "dbms-section-1-unit-8-catalogs",
+              "title": "Practice Catalogs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-8-catalogs-lesson-3",
+              "unitId": "dbms-section-1-unit-8-catalogs",
+              "title": "Review Catalogs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-1-unit-9-users-and-roles",
+          "sectionId": "dbms-section-1",
+          "order": 9,
+          "title": "Users and roles",
+          "lessons": [
+            {
+              "id": "dbms-section-1-unit-9-users-and-roles-lesson-1",
+              "unitId": "dbms-section-1-unit-9-users-and-roles",
+              "title": "Learn Users and roles",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-9-users-and-roles-lesson-2",
+              "unitId": "dbms-section-1-unit-9-users-and-roles",
+              "title": "Practice Users and roles",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-9-users-and-roles-lesson-3",
+              "unitId": "dbms-section-1-unit-9-users-and-roles",
+              "title": "Review Users and roles",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-1-unit-10-dbms-vocabulary",
+          "sectionId": "dbms-section-1",
+          "order": 10,
+          "title": "DBMS vocabulary",
+          "lessons": [
+            {
+              "id": "dbms-section-1-unit-10-dbms-vocabulary-lesson-1",
+              "unitId": "dbms-section-1-unit-10-dbms-vocabulary",
+              "title": "Learn DBMS vocabulary",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-10-dbms-vocabulary-lesson-2",
+              "unitId": "dbms-section-1-unit-10-dbms-vocabulary",
+              "title": "Practice DBMS vocabulary",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-1-unit-10-dbms-vocabulary-lesson-3",
+              "unitId": "dbms-section-1-unit-10-dbms-vocabulary",
+              "title": "Review DBMS vocabulary",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbms-section-2",
+      "trackId": "dbms",
+      "order": 2,
+      "title": "Section 2: ER Modeling",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "dbms-section-2-unit-1-entities",
+          "sectionId": "dbms-section-2",
+          "order": 1,
+          "title": "Entities",
+          "lessons": [
+            {
+              "id": "dbms-section-2-unit-1-entities-lesson-1",
+              "unitId": "dbms-section-2-unit-1-entities",
+              "title": "Learn Entities",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-1-entities-lesson-2",
+              "unitId": "dbms-section-2-unit-1-entities",
+              "title": "Practice Entities",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-1-entities-lesson-3",
+              "unitId": "dbms-section-2-unit-1-entities",
+              "title": "Review Entities",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-2-unit-2-attributes",
+          "sectionId": "dbms-section-2",
+          "order": 2,
+          "title": "Attributes",
+          "lessons": [
+            {
+              "id": "dbms-section-2-unit-2-attributes-lesson-1",
+              "unitId": "dbms-section-2-unit-2-attributes",
+              "title": "Learn Attributes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-2-attributes-lesson-2",
+              "unitId": "dbms-section-2-unit-2-attributes",
+              "title": "Practice Attributes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-2-attributes-lesson-3",
+              "unitId": "dbms-section-2-unit-2-attributes",
+              "title": "Review Attributes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-2-unit-3-relationships",
+          "sectionId": "dbms-section-2",
+          "order": 3,
+          "title": "Relationships",
+          "lessons": [
+            {
+              "id": "dbms-section-2-unit-3-relationships-lesson-1",
+              "unitId": "dbms-section-2-unit-3-relationships",
+              "title": "Learn Relationships",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-3-relationships-lesson-2",
+              "unitId": "dbms-section-2-unit-3-relationships",
+              "title": "Practice Relationships",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-3-relationships-lesson-3",
+              "unitId": "dbms-section-2-unit-3-relationships",
+              "title": "Review Relationships",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-2-unit-4-cardinality",
+          "sectionId": "dbms-section-2",
+          "order": 4,
+          "title": "Cardinality",
+          "lessons": [
+            {
+              "id": "dbms-section-2-unit-4-cardinality-lesson-1",
+              "unitId": "dbms-section-2-unit-4-cardinality",
+              "title": "Learn Cardinality",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-4-cardinality-lesson-2",
+              "unitId": "dbms-section-2-unit-4-cardinality",
+              "title": "Practice Cardinality",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-4-cardinality-lesson-3",
+              "unitId": "dbms-section-2-unit-4-cardinality",
+              "title": "Review Cardinality",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-2-unit-5-weak-entities",
+          "sectionId": "dbms-section-2",
+          "order": 5,
+          "title": "Weak entities",
+          "lessons": [
+            {
+              "id": "dbms-section-2-unit-5-weak-entities-lesson-1",
+              "unitId": "dbms-section-2-unit-5-weak-entities",
+              "title": "Learn Weak entities",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-5-weak-entities-lesson-2",
+              "unitId": "dbms-section-2-unit-5-weak-entities",
+              "title": "Practice Weak entities",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-5-weak-entities-lesson-3",
+              "unitId": "dbms-section-2-unit-5-weak-entities",
+              "title": "Review Weak entities",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-2-unit-6-junction-entities",
+          "sectionId": "dbms-section-2",
+          "order": 6,
+          "title": "Junction entities",
+          "lessons": [
+            {
+              "id": "dbms-section-2-unit-6-junction-entities-lesson-1",
+              "unitId": "dbms-section-2-unit-6-junction-entities",
+              "title": "Learn Junction entities",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-6-junction-entities-lesson-2",
+              "unitId": "dbms-section-2-unit-6-junction-entities",
+              "title": "Practice Junction entities",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-6-junction-entities-lesson-3",
+              "unitId": "dbms-section-2-unit-6-junction-entities",
+              "title": "Review Junction entities",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-2-unit-7-er-diagrams",
+          "sectionId": "dbms-section-2",
+          "order": 7,
+          "title": "ER diagrams",
+          "lessons": [
+            {
+              "id": "dbms-section-2-unit-7-er-diagrams-lesson-1",
+              "unitId": "dbms-section-2-unit-7-er-diagrams",
+              "title": "Learn ER diagrams",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-7-er-diagrams-lesson-2",
+              "unitId": "dbms-section-2-unit-7-er-diagrams",
+              "title": "Practice ER diagrams",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-7-er-diagrams-lesson-3",
+              "unitId": "dbms-section-2-unit-7-er-diagrams",
+              "title": "Review ER diagrams",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-2-unit-8-mapping-er-to-tables",
+          "sectionId": "dbms-section-2",
+          "order": 8,
+          "title": "Mapping ER to tables",
+          "lessons": [
+            {
+              "id": "dbms-section-2-unit-8-mapping-er-to-tables-lesson-1",
+              "unitId": "dbms-section-2-unit-8-mapping-er-to-tables",
+              "title": "Learn Mapping ER to tables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-8-mapping-er-to-tables-lesson-2",
+              "unitId": "dbms-section-2-unit-8-mapping-er-to-tables",
+              "title": "Practice Mapping ER to tables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-8-mapping-er-to-tables-lesson-3",
+              "unitId": "dbms-section-2-unit-8-mapping-er-to-tables",
+              "title": "Review Mapping ER to tables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-2-unit-9-model-validation",
+          "sectionId": "dbms-section-2",
+          "order": 9,
+          "title": "Model validation",
+          "lessons": [
+            {
+              "id": "dbms-section-2-unit-9-model-validation-lesson-1",
+              "unitId": "dbms-section-2-unit-9-model-validation",
+              "title": "Learn Model validation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-9-model-validation-lesson-2",
+              "unitId": "dbms-section-2-unit-9-model-validation",
+              "title": "Practice Model validation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-9-model-validation-lesson-3",
+              "unitId": "dbms-section-2-unit-9-model-validation",
+              "title": "Review Model validation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-2-unit-10-er-project",
+          "sectionId": "dbms-section-2",
+          "order": 10,
+          "title": "ER project",
+          "lessons": [
+            {
+              "id": "dbms-section-2-unit-10-er-project-lesson-1",
+              "unitId": "dbms-section-2-unit-10-er-project",
+              "title": "Learn ER project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-10-er-project-lesson-2",
+              "unitId": "dbms-section-2-unit-10-er-project",
+              "title": "Practice ER project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-2-unit-10-er-project-lesson-3",
+              "unitId": "dbms-section-2-unit-10-er-project",
+              "title": "Review ER project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbms-section-3",
+      "trackId": "dbms",
+      "order": 3,
+      "title": "Section 3: Relational Design",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "dbms-section-3-unit-1-primary-keys",
+          "sectionId": "dbms-section-3",
+          "order": 1,
+          "title": "Primary keys",
+          "lessons": [
+            {
+              "id": "dbms-section-3-unit-1-primary-keys-lesson-1",
+              "unitId": "dbms-section-3-unit-1-primary-keys",
+              "title": "Learn Primary keys",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-1-primary-keys-lesson-2",
+              "unitId": "dbms-section-3-unit-1-primary-keys",
+              "title": "Practice Primary keys",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-1-primary-keys-lesson-3",
+              "unitId": "dbms-section-3-unit-1-primary-keys",
+              "title": "Review Primary keys",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-3-unit-2-foreign-keys",
+          "sectionId": "dbms-section-3",
+          "order": 2,
+          "title": "Foreign keys",
+          "lessons": [
+            {
+              "id": "dbms-section-3-unit-2-foreign-keys-lesson-1",
+              "unitId": "dbms-section-3-unit-2-foreign-keys",
+              "title": "Learn Foreign keys",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-2-foreign-keys-lesson-2",
+              "unitId": "dbms-section-3-unit-2-foreign-keys",
+              "title": "Practice Foreign keys",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-2-foreign-keys-lesson-3",
+              "unitId": "dbms-section-3-unit-2-foreign-keys",
+              "title": "Review Foreign keys",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-3-unit-3-unique-constraints",
+          "sectionId": "dbms-section-3",
+          "order": 3,
+          "title": "Unique constraints",
+          "lessons": [
+            {
+              "id": "dbms-section-3-unit-3-unique-constraints-lesson-1",
+              "unitId": "dbms-section-3-unit-3-unique-constraints",
+              "title": "Learn Unique constraints",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-3-unique-constraints-lesson-2",
+              "unitId": "dbms-section-3-unit-3-unique-constraints",
+              "title": "Practice Unique constraints",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-3-unique-constraints-lesson-3",
+              "unitId": "dbms-section-3-unit-3-unique-constraints",
+              "title": "Review Unique constraints",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-3-unit-4-check-constraints",
+          "sectionId": "dbms-section-3",
+          "order": 4,
+          "title": "Check constraints",
+          "lessons": [
+            {
+              "id": "dbms-section-3-unit-4-check-constraints-lesson-1",
+              "unitId": "dbms-section-3-unit-4-check-constraints",
+              "title": "Learn Check constraints",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-4-check-constraints-lesson-2",
+              "unitId": "dbms-section-3-unit-4-check-constraints",
+              "title": "Practice Check constraints",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-4-check-constraints-lesson-3",
+              "unitId": "dbms-section-3-unit-4-check-constraints",
+              "title": "Review Check constraints",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-3-unit-5-referential-integrity",
+          "sectionId": "dbms-section-3",
+          "order": 5,
+          "title": "Referential integrity",
+          "lessons": [
+            {
+              "id": "dbms-section-3-unit-5-referential-integrity-lesson-1",
+              "unitId": "dbms-section-3-unit-5-referential-integrity",
+              "title": "Learn Referential integrity",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-5-referential-integrity-lesson-2",
+              "unitId": "dbms-section-3-unit-5-referential-integrity",
+              "title": "Practice Referential integrity",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-5-referential-integrity-lesson-3",
+              "unitId": "dbms-section-3-unit-5-referential-integrity",
+              "title": "Review Referential integrity",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-3-unit-6-schema-evolution",
+          "sectionId": "dbms-section-3",
+          "order": 6,
+          "title": "Schema evolution",
+          "lessons": [
+            {
+              "id": "dbms-section-3-unit-6-schema-evolution-lesson-1",
+              "unitId": "dbms-section-3-unit-6-schema-evolution",
+              "title": "Learn Schema evolution",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-6-schema-evolution-lesson-2",
+              "unitId": "dbms-section-3-unit-6-schema-evolution",
+              "title": "Practice Schema evolution",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-6-schema-evolution-lesson-3",
+              "unitId": "dbms-section-3-unit-6-schema-evolution",
+              "title": "Review Schema evolution",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-3-unit-7-naming",
+          "sectionId": "dbms-section-3",
+          "order": 7,
+          "title": "Naming",
+          "lessons": [
+            {
+              "id": "dbms-section-3-unit-7-naming-lesson-1",
+              "unitId": "dbms-section-3-unit-7-naming",
+              "title": "Learn Naming",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-7-naming-lesson-2",
+              "unitId": "dbms-section-3-unit-7-naming",
+              "title": "Practice Naming",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-7-naming-lesson-3",
+              "unitId": "dbms-section-3-unit-7-naming",
+              "title": "Review Naming",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-3-unit-8-domain-modeling",
+          "sectionId": "dbms-section-3",
+          "order": 8,
+          "title": "Domain modeling",
+          "lessons": [
+            {
+              "id": "dbms-section-3-unit-8-domain-modeling-lesson-1",
+              "unitId": "dbms-section-3-unit-8-domain-modeling",
+              "title": "Learn Domain modeling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-8-domain-modeling-lesson-2",
+              "unitId": "dbms-section-3-unit-8-domain-modeling",
+              "title": "Practice Domain modeling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-8-domain-modeling-lesson-3",
+              "unitId": "dbms-section-3-unit-8-domain-modeling",
+              "title": "Review Domain modeling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-3-unit-9-tradeoffs",
+          "sectionId": "dbms-section-3",
+          "order": 9,
+          "title": "Tradeoffs",
+          "lessons": [
+            {
+              "id": "dbms-section-3-unit-9-tradeoffs-lesson-1",
+              "unitId": "dbms-section-3-unit-9-tradeoffs",
+              "title": "Learn Tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-9-tradeoffs-lesson-2",
+              "unitId": "dbms-section-3-unit-9-tradeoffs",
+              "title": "Practice Tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-9-tradeoffs-lesson-3",
+              "unitId": "dbms-section-3-unit-9-tradeoffs",
+              "title": "Review Tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-3-unit-10-design-drills",
+          "sectionId": "dbms-section-3",
+          "order": 10,
+          "title": "Design drills",
+          "lessons": [
+            {
+              "id": "dbms-section-3-unit-10-design-drills-lesson-1",
+              "unitId": "dbms-section-3-unit-10-design-drills",
+              "title": "Learn Design drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-10-design-drills-lesson-2",
+              "unitId": "dbms-section-3-unit-10-design-drills",
+              "title": "Practice Design drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-3-unit-10-design-drills-lesson-3",
+              "unitId": "dbms-section-3-unit-10-design-drills",
+              "title": "Review Design drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbms-section-4",
+      "trackId": "dbms",
+      "order": 4,
+      "title": "Section 4: Normalization",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "dbms-section-4-unit-1-functional-dependencies",
+          "sectionId": "dbms-section-4",
+          "order": 1,
+          "title": "Functional dependencies",
+          "lessons": [
+            {
+              "id": "dbms-section-4-unit-1-functional-dependencies-lesson-1",
+              "unitId": "dbms-section-4-unit-1-functional-dependencies",
+              "title": "Learn Functional dependencies",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-1-functional-dependencies-lesson-2",
+              "unitId": "dbms-section-4-unit-1-functional-dependencies",
+              "title": "Practice Functional dependencies",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-1-functional-dependencies-lesson-3",
+              "unitId": "dbms-section-4-unit-1-functional-dependencies",
+              "title": "Review Functional dependencies",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-4-unit-2-1nf",
+          "sectionId": "dbms-section-4",
+          "order": 2,
+          "title": "1NF",
+          "lessons": [
+            {
+              "id": "dbms-section-4-unit-2-1nf-lesson-1",
+              "unitId": "dbms-section-4-unit-2-1nf",
+              "title": "Learn 1NF",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-2-1nf-lesson-2",
+              "unitId": "dbms-section-4-unit-2-1nf",
+              "title": "Practice 1NF",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-2-1nf-lesson-3",
+              "unitId": "dbms-section-4-unit-2-1nf",
+              "title": "Review 1NF",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-4-unit-3-2nf",
+          "sectionId": "dbms-section-4",
+          "order": 3,
+          "title": "2NF",
+          "lessons": [
+            {
+              "id": "dbms-section-4-unit-3-2nf-lesson-1",
+              "unitId": "dbms-section-4-unit-3-2nf",
+              "title": "Learn 2NF",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-3-2nf-lesson-2",
+              "unitId": "dbms-section-4-unit-3-2nf",
+              "title": "Practice 2NF",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-3-2nf-lesson-3",
+              "unitId": "dbms-section-4-unit-3-2nf",
+              "title": "Review 2NF",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-4-unit-4-3nf",
+          "sectionId": "dbms-section-4",
+          "order": 4,
+          "title": "3NF",
+          "lessons": [
+            {
+              "id": "dbms-section-4-unit-4-3nf-lesson-1",
+              "unitId": "dbms-section-4-unit-4-3nf",
+              "title": "Learn 3NF",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-4-3nf-lesson-2",
+              "unitId": "dbms-section-4-unit-4-3nf",
+              "title": "Practice 3NF",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-4-3nf-lesson-3",
+              "unitId": "dbms-section-4-unit-4-3nf",
+              "title": "Review 3NF",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-4-unit-5-bcnf",
+          "sectionId": "dbms-section-4",
+          "order": 5,
+          "title": "BCNF",
+          "lessons": [
+            {
+              "id": "dbms-section-4-unit-5-bcnf-lesson-1",
+              "unitId": "dbms-section-4-unit-5-bcnf",
+              "title": "Learn BCNF",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-5-bcnf-lesson-2",
+              "unitId": "dbms-section-4-unit-5-bcnf",
+              "title": "Practice BCNF",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-5-bcnf-lesson-3",
+              "unitId": "dbms-section-4-unit-5-bcnf",
+              "title": "Review BCNF",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-4-unit-6-4nf-concept",
+          "sectionId": "dbms-section-4",
+          "order": 6,
+          "title": "4NF concept",
+          "lessons": [
+            {
+              "id": "dbms-section-4-unit-6-4nf-concept-lesson-1",
+              "unitId": "dbms-section-4-unit-6-4nf-concept",
+              "title": "Learn 4NF concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-6-4nf-concept-lesson-2",
+              "unitId": "dbms-section-4-unit-6-4nf-concept",
+              "title": "Practice 4NF concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-6-4nf-concept-lesson-3",
+              "unitId": "dbms-section-4-unit-6-4nf-concept",
+              "title": "Review 4NF concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-4-unit-7-decomposition",
+          "sectionId": "dbms-section-4",
+          "order": 7,
+          "title": "Decomposition",
+          "lessons": [
+            {
+              "id": "dbms-section-4-unit-7-decomposition-lesson-1",
+              "unitId": "dbms-section-4-unit-7-decomposition",
+              "title": "Learn Decomposition",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-7-decomposition-lesson-2",
+              "unitId": "dbms-section-4-unit-7-decomposition",
+              "title": "Practice Decomposition",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-7-decomposition-lesson-3",
+              "unitId": "dbms-section-4-unit-7-decomposition",
+              "title": "Review Decomposition",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-4-unit-8-lossless-joins",
+          "sectionId": "dbms-section-4",
+          "order": 8,
+          "title": "Lossless joins",
+          "lessons": [
+            {
+              "id": "dbms-section-4-unit-8-lossless-joins-lesson-1",
+              "unitId": "dbms-section-4-unit-8-lossless-joins",
+              "title": "Learn Lossless joins",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-8-lossless-joins-lesson-2",
+              "unitId": "dbms-section-4-unit-8-lossless-joins",
+              "title": "Practice Lossless joins",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-8-lossless-joins-lesson-3",
+              "unitId": "dbms-section-4-unit-8-lossless-joins",
+              "title": "Review Lossless joins",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-4-unit-9-dependency-preservation",
+          "sectionId": "dbms-section-4",
+          "order": 9,
+          "title": "Dependency preservation",
+          "lessons": [
+            {
+              "id": "dbms-section-4-unit-9-dependency-preservation-lesson-1",
+              "unitId": "dbms-section-4-unit-9-dependency-preservation",
+              "title": "Learn Dependency preservation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-9-dependency-preservation-lesson-2",
+              "unitId": "dbms-section-4-unit-9-dependency-preservation",
+              "title": "Practice Dependency preservation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-9-dependency-preservation-lesson-3",
+              "unitId": "dbms-section-4-unit-9-dependency-preservation",
+              "title": "Review Dependency preservation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-4-unit-10-normalization-project",
+          "sectionId": "dbms-section-4",
+          "order": 10,
+          "title": "Normalization project",
+          "lessons": [
+            {
+              "id": "dbms-section-4-unit-10-normalization-project-lesson-1",
+              "unitId": "dbms-section-4-unit-10-normalization-project",
+              "title": "Learn Normalization project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-10-normalization-project-lesson-2",
+              "unitId": "dbms-section-4-unit-10-normalization-project",
+              "title": "Practice Normalization project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-4-unit-10-normalization-project-lesson-3",
+              "unitId": "dbms-section-4-unit-10-normalization-project",
+              "title": "Review Normalization project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbms-section-5",
+      "trackId": "dbms",
+      "order": 5,
+      "title": "Section 5: Transactions & ACID",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "dbms-section-5-unit-1-atomicity",
+          "sectionId": "dbms-section-5",
+          "order": 1,
+          "title": "Atomicity",
+          "lessons": [
+            {
+              "id": "dbms-section-5-unit-1-atomicity-lesson-1",
+              "unitId": "dbms-section-5-unit-1-atomicity",
+              "title": "Learn Atomicity",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-1-atomicity-lesson-2",
+              "unitId": "dbms-section-5-unit-1-atomicity",
+              "title": "Practice Atomicity",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-1-atomicity-lesson-3",
+              "unitId": "dbms-section-5-unit-1-atomicity",
+              "title": "Review Atomicity",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-5-unit-2-consistency",
+          "sectionId": "dbms-section-5",
+          "order": 2,
+          "title": "Consistency",
+          "lessons": [
+            {
+              "id": "dbms-section-5-unit-2-consistency-lesson-1",
+              "unitId": "dbms-section-5-unit-2-consistency",
+              "title": "Learn Consistency",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-2-consistency-lesson-2",
+              "unitId": "dbms-section-5-unit-2-consistency",
+              "title": "Practice Consistency",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-2-consistency-lesson-3",
+              "unitId": "dbms-section-5-unit-2-consistency",
+              "title": "Review Consistency",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-5-unit-3-isolation",
+          "sectionId": "dbms-section-5",
+          "order": 3,
+          "title": "Isolation",
+          "lessons": [
+            {
+              "id": "dbms-section-5-unit-3-isolation-lesson-1",
+              "unitId": "dbms-section-5-unit-3-isolation",
+              "title": "Learn Isolation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-3-isolation-lesson-2",
+              "unitId": "dbms-section-5-unit-3-isolation",
+              "title": "Practice Isolation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-3-isolation-lesson-3",
+              "unitId": "dbms-section-5-unit-3-isolation",
+              "title": "Review Isolation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-5-unit-4-durability",
+          "sectionId": "dbms-section-5",
+          "order": 4,
+          "title": "Durability",
+          "lessons": [
+            {
+              "id": "dbms-section-5-unit-4-durability-lesson-1",
+              "unitId": "dbms-section-5-unit-4-durability",
+              "title": "Learn Durability",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-4-durability-lesson-2",
+              "unitId": "dbms-section-5-unit-4-durability",
+              "title": "Practice Durability",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-4-durability-lesson-3",
+              "unitId": "dbms-section-5-unit-4-durability",
+              "title": "Review Durability",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-5-unit-5-transaction-logs",
+          "sectionId": "dbms-section-5",
+          "order": 5,
+          "title": "Transaction logs",
+          "lessons": [
+            {
+              "id": "dbms-section-5-unit-5-transaction-logs-lesson-1",
+              "unitId": "dbms-section-5-unit-5-transaction-logs",
+              "title": "Learn Transaction logs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-5-transaction-logs-lesson-2",
+              "unitId": "dbms-section-5-unit-5-transaction-logs",
+              "title": "Practice Transaction logs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-5-transaction-logs-lesson-3",
+              "unitId": "dbms-section-5-unit-5-transaction-logs",
+              "title": "Review Transaction logs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-5-unit-6-commit-protocol",
+          "sectionId": "dbms-section-5",
+          "order": 6,
+          "title": "Commit protocol",
+          "lessons": [
+            {
+              "id": "dbms-section-5-unit-6-commit-protocol-lesson-1",
+              "unitId": "dbms-section-5-unit-6-commit-protocol",
+              "title": "Learn Commit protocol",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-6-commit-protocol-lesson-2",
+              "unitId": "dbms-section-5-unit-6-commit-protocol",
+              "title": "Practice Commit protocol",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-6-commit-protocol-lesson-3",
+              "unitId": "dbms-section-5-unit-6-commit-protocol",
+              "title": "Review Commit protocol",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-5-unit-7-rollback",
+          "sectionId": "dbms-section-5",
+          "order": 7,
+          "title": "Rollback",
+          "lessons": [
+            {
+              "id": "dbms-section-5-unit-7-rollback-lesson-1",
+              "unitId": "dbms-section-5-unit-7-rollback",
+              "title": "Learn Rollback",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-7-rollback-lesson-2",
+              "unitId": "dbms-section-5-unit-7-rollback",
+              "title": "Practice Rollback",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-7-rollback-lesson-3",
+              "unitId": "dbms-section-5-unit-7-rollback",
+              "title": "Review Rollback",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-5-unit-8-savepoints",
+          "sectionId": "dbms-section-5",
+          "order": 8,
+          "title": "Savepoints",
+          "lessons": [
+            {
+              "id": "dbms-section-5-unit-8-savepoints-lesson-1",
+              "unitId": "dbms-section-5-unit-8-savepoints",
+              "title": "Learn Savepoints",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-8-savepoints-lesson-2",
+              "unitId": "dbms-section-5-unit-8-savepoints",
+              "title": "Practice Savepoints",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-8-savepoints-lesson-3",
+              "unitId": "dbms-section-5-unit-8-savepoints",
+              "title": "Review Savepoints",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-5-unit-9-consistency-design",
+          "sectionId": "dbms-section-5",
+          "order": 9,
+          "title": "Consistency design",
+          "lessons": [
+            {
+              "id": "dbms-section-5-unit-9-consistency-design-lesson-1",
+              "unitId": "dbms-section-5-unit-9-consistency-design",
+              "title": "Learn Consistency design",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-9-consistency-design-lesson-2",
+              "unitId": "dbms-section-5-unit-9-consistency-design",
+              "title": "Practice Consistency design",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-9-consistency-design-lesson-3",
+              "unitId": "dbms-section-5-unit-9-consistency-design",
+              "title": "Review Consistency design",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-5-unit-10-acid-drills",
+          "sectionId": "dbms-section-5",
+          "order": 10,
+          "title": "ACID drills",
+          "lessons": [
+            {
+              "id": "dbms-section-5-unit-10-acid-drills-lesson-1",
+              "unitId": "dbms-section-5-unit-10-acid-drills",
+              "title": "Learn ACID drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-10-acid-drills-lesson-2",
+              "unitId": "dbms-section-5-unit-10-acid-drills",
+              "title": "Practice ACID drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-5-unit-10-acid-drills-lesson-3",
+              "unitId": "dbms-section-5-unit-10-acid-drills",
+              "title": "Review ACID drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbms-section-6",
+      "trackId": "dbms",
+      "order": 6,
+      "title": "Section 6: Concurrency Control",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "dbms-section-6-unit-1-schedules",
+          "sectionId": "dbms-section-6",
+          "order": 1,
+          "title": "Schedules",
+          "lessons": [
+            {
+              "id": "dbms-section-6-unit-1-schedules-lesson-1",
+              "unitId": "dbms-section-6-unit-1-schedules",
+              "title": "Learn Schedules",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-1-schedules-lesson-2",
+              "unitId": "dbms-section-6-unit-1-schedules",
+              "title": "Practice Schedules",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-1-schedules-lesson-3",
+              "unitId": "dbms-section-6-unit-1-schedules",
+              "title": "Review Schedules",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-6-unit-2-serializability",
+          "sectionId": "dbms-section-6",
+          "order": 2,
+          "title": "Serializability",
+          "lessons": [
+            {
+              "id": "dbms-section-6-unit-2-serializability-lesson-1",
+              "unitId": "dbms-section-6-unit-2-serializability",
+              "title": "Learn Serializability",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-2-serializability-lesson-2",
+              "unitId": "dbms-section-6-unit-2-serializability",
+              "title": "Practice Serializability",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-2-serializability-lesson-3",
+              "unitId": "dbms-section-6-unit-2-serializability",
+              "title": "Review Serializability",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-6-unit-3-locks",
+          "sectionId": "dbms-section-6",
+          "order": 3,
+          "title": "Locks",
+          "lessons": [
+            {
+              "id": "dbms-section-6-unit-3-locks-lesson-1",
+              "unitId": "dbms-section-6-unit-3-locks",
+              "title": "Learn Locks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-3-locks-lesson-2",
+              "unitId": "dbms-section-6-unit-3-locks",
+              "title": "Practice Locks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-3-locks-lesson-3",
+              "unitId": "dbms-section-6-unit-3-locks",
+              "title": "Review Locks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-6-unit-4-two-phase-locking",
+          "sectionId": "dbms-section-6",
+          "order": 4,
+          "title": "Two-phase locking",
+          "lessons": [
+            {
+              "id": "dbms-section-6-unit-4-two-phase-locking-lesson-1",
+              "unitId": "dbms-section-6-unit-4-two-phase-locking",
+              "title": "Learn Two-phase locking",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-4-two-phase-locking-lesson-2",
+              "unitId": "dbms-section-6-unit-4-two-phase-locking",
+              "title": "Practice Two-phase locking",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-4-two-phase-locking-lesson-3",
+              "unitId": "dbms-section-6-unit-4-two-phase-locking",
+              "title": "Review Two-phase locking",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-6-unit-5-deadlocks",
+          "sectionId": "dbms-section-6",
+          "order": 5,
+          "title": "Deadlocks",
+          "lessons": [
+            {
+              "id": "dbms-section-6-unit-5-deadlocks-lesson-1",
+              "unitId": "dbms-section-6-unit-5-deadlocks",
+              "title": "Learn Deadlocks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-5-deadlocks-lesson-2",
+              "unitId": "dbms-section-6-unit-5-deadlocks",
+              "title": "Practice Deadlocks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-5-deadlocks-lesson-3",
+              "unitId": "dbms-section-6-unit-5-deadlocks",
+              "title": "Review Deadlocks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-6-unit-6-optimistic-control",
+          "sectionId": "dbms-section-6",
+          "order": 6,
+          "title": "Optimistic control",
+          "lessons": [
+            {
+              "id": "dbms-section-6-unit-6-optimistic-control-lesson-1",
+              "unitId": "dbms-section-6-unit-6-optimistic-control",
+              "title": "Learn Optimistic control",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-6-optimistic-control-lesson-2",
+              "unitId": "dbms-section-6-unit-6-optimistic-control",
+              "title": "Practice Optimistic control",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-6-optimistic-control-lesson-3",
+              "unitId": "dbms-section-6-unit-6-optimistic-control",
+              "title": "Review Optimistic control",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-6-unit-7-mvcc",
+          "sectionId": "dbms-section-6",
+          "order": 7,
+          "title": "MVCC",
+          "lessons": [
+            {
+              "id": "dbms-section-6-unit-7-mvcc-lesson-1",
+              "unitId": "dbms-section-6-unit-7-mvcc",
+              "title": "Learn MVCC",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-7-mvcc-lesson-2",
+              "unitId": "dbms-section-6-unit-7-mvcc",
+              "title": "Practice MVCC",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-7-mvcc-lesson-3",
+              "unitId": "dbms-section-6-unit-7-mvcc",
+              "title": "Review MVCC",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-6-unit-8-isolation-anomalies",
+          "sectionId": "dbms-section-6",
+          "order": 8,
+          "title": "Isolation anomalies",
+          "lessons": [
+            {
+              "id": "dbms-section-6-unit-8-isolation-anomalies-lesson-1",
+              "unitId": "dbms-section-6-unit-8-isolation-anomalies",
+              "title": "Learn Isolation anomalies",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-8-isolation-anomalies-lesson-2",
+              "unitId": "dbms-section-6-unit-8-isolation-anomalies",
+              "title": "Practice Isolation anomalies",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-8-isolation-anomalies-lesson-3",
+              "unitId": "dbms-section-6-unit-8-isolation-anomalies",
+              "title": "Review Isolation anomalies",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-6-unit-9-conflict-detection",
+          "sectionId": "dbms-section-6",
+          "order": 9,
+          "title": "Conflict detection",
+          "lessons": [
+            {
+              "id": "dbms-section-6-unit-9-conflict-detection-lesson-1",
+              "unitId": "dbms-section-6-unit-9-conflict-detection",
+              "title": "Learn Conflict detection",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-9-conflict-detection-lesson-2",
+              "unitId": "dbms-section-6-unit-9-conflict-detection",
+              "title": "Practice Conflict detection",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-9-conflict-detection-lesson-3",
+              "unitId": "dbms-section-6-unit-9-conflict-detection",
+              "title": "Review Conflict detection",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-6-unit-10-concurrency-project",
+          "sectionId": "dbms-section-6",
+          "order": 10,
+          "title": "Concurrency project",
+          "lessons": [
+            {
+              "id": "dbms-section-6-unit-10-concurrency-project-lesson-1",
+              "unitId": "dbms-section-6-unit-10-concurrency-project",
+              "title": "Learn Concurrency project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-10-concurrency-project-lesson-2",
+              "unitId": "dbms-section-6-unit-10-concurrency-project",
+              "title": "Practice Concurrency project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-6-unit-10-concurrency-project-lesson-3",
+              "unitId": "dbms-section-6-unit-10-concurrency-project",
+              "title": "Review Concurrency project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbms-section-7",
+      "trackId": "dbms",
+      "order": 7,
+      "title": "Section 7: Indexing",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "dbms-section-7-unit-1-index-purpose",
+          "sectionId": "dbms-section-7",
+          "order": 1,
+          "title": "Index purpose",
+          "lessons": [
+            {
+              "id": "dbms-section-7-unit-1-index-purpose-lesson-1",
+              "unitId": "dbms-section-7-unit-1-index-purpose",
+              "title": "Learn Index purpose",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-1-index-purpose-lesson-2",
+              "unitId": "dbms-section-7-unit-1-index-purpose",
+              "title": "Practice Index purpose",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-1-index-purpose-lesson-3",
+              "unitId": "dbms-section-7-unit-1-index-purpose",
+              "title": "Review Index purpose",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-7-unit-2-b-tree",
+          "sectionId": "dbms-section-7",
+          "order": 2,
+          "title": "B-tree",
+          "lessons": [
+            {
+              "id": "dbms-section-7-unit-2-b-tree-lesson-1",
+              "unitId": "dbms-section-7-unit-2-b-tree",
+              "title": "Learn B-tree",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-2-b-tree-lesson-2",
+              "unitId": "dbms-section-7-unit-2-b-tree",
+              "title": "Practice B-tree",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-2-b-tree-lesson-3",
+              "unitId": "dbms-section-7-unit-2-b-tree",
+              "title": "Review B-tree",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-7-unit-3-hash-index-concept",
+          "sectionId": "dbms-section-7",
+          "order": 3,
+          "title": "Hash index concept",
+          "lessons": [
+            {
+              "id": "dbms-section-7-unit-3-hash-index-concept-lesson-1",
+              "unitId": "dbms-section-7-unit-3-hash-index-concept",
+              "title": "Learn Hash index concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-3-hash-index-concept-lesson-2",
+              "unitId": "dbms-section-7-unit-3-hash-index-concept",
+              "title": "Practice Hash index concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-3-hash-index-concept-lesson-3",
+              "unitId": "dbms-section-7-unit-3-hash-index-concept",
+              "title": "Review Hash index concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-7-unit-4-composite-index",
+          "sectionId": "dbms-section-7",
+          "order": 4,
+          "title": "Composite index",
+          "lessons": [
+            {
+              "id": "dbms-section-7-unit-4-composite-index-lesson-1",
+              "unitId": "dbms-section-7-unit-4-composite-index",
+              "title": "Learn Composite index",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-4-composite-index-lesson-2",
+              "unitId": "dbms-section-7-unit-4-composite-index",
+              "title": "Practice Composite index",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-4-composite-index-lesson-3",
+              "unitId": "dbms-section-7-unit-4-composite-index",
+              "title": "Review Composite index",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-7-unit-5-clustered-index-concept",
+          "sectionId": "dbms-section-7",
+          "order": 5,
+          "title": "Clustered index concept",
+          "lessons": [
+            {
+              "id": "dbms-section-7-unit-5-clustered-index-concept-lesson-1",
+              "unitId": "dbms-section-7-unit-5-clustered-index-concept",
+              "title": "Learn Clustered index concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-5-clustered-index-concept-lesson-2",
+              "unitId": "dbms-section-7-unit-5-clustered-index-concept",
+              "title": "Practice Clustered index concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-5-clustered-index-concept-lesson-3",
+              "unitId": "dbms-section-7-unit-5-clustered-index-concept",
+              "title": "Review Clustered index concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-7-unit-6-selectivity",
+          "sectionId": "dbms-section-7",
+          "order": 6,
+          "title": "Selectivity",
+          "lessons": [
+            {
+              "id": "dbms-section-7-unit-6-selectivity-lesson-1",
+              "unitId": "dbms-section-7-unit-6-selectivity",
+              "title": "Learn Selectivity",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-6-selectivity-lesson-2",
+              "unitId": "dbms-section-7-unit-6-selectivity",
+              "title": "Practice Selectivity",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-6-selectivity-lesson-3",
+              "unitId": "dbms-section-7-unit-6-selectivity",
+              "title": "Review Selectivity",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-7-unit-7-covering-index",
+          "sectionId": "dbms-section-7",
+          "order": 7,
+          "title": "Covering index",
+          "lessons": [
+            {
+              "id": "dbms-section-7-unit-7-covering-index-lesson-1",
+              "unitId": "dbms-section-7-unit-7-covering-index",
+              "title": "Learn Covering index",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-7-covering-index-lesson-2",
+              "unitId": "dbms-section-7-unit-7-covering-index",
+              "title": "Practice Covering index",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-7-covering-index-lesson-3",
+              "unitId": "dbms-section-7-unit-7-covering-index",
+              "title": "Review Covering index",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-7-unit-8-index-maintenance",
+          "sectionId": "dbms-section-7",
+          "order": 8,
+          "title": "Index maintenance",
+          "lessons": [
+            {
+              "id": "dbms-section-7-unit-8-index-maintenance-lesson-1",
+              "unitId": "dbms-section-7-unit-8-index-maintenance",
+              "title": "Learn Index maintenance",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-8-index-maintenance-lesson-2",
+              "unitId": "dbms-section-7-unit-8-index-maintenance",
+              "title": "Practice Index maintenance",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-8-index-maintenance-lesson-3",
+              "unitId": "dbms-section-7-unit-8-index-maintenance",
+              "title": "Review Index maintenance",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-7-unit-9-index-tradeoffs",
+          "sectionId": "dbms-section-7",
+          "order": 9,
+          "title": "Index tradeoffs",
+          "lessons": [
+            {
+              "id": "dbms-section-7-unit-9-index-tradeoffs-lesson-1",
+              "unitId": "dbms-section-7-unit-9-index-tradeoffs",
+              "title": "Learn Index tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-9-index-tradeoffs-lesson-2",
+              "unitId": "dbms-section-7-unit-9-index-tradeoffs",
+              "title": "Practice Index tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-9-index-tradeoffs-lesson-3",
+              "unitId": "dbms-section-7-unit-9-index-tradeoffs",
+              "title": "Review Index tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-7-unit-10-index-project",
+          "sectionId": "dbms-section-7",
+          "order": 10,
+          "title": "Index project",
+          "lessons": [
+            {
+              "id": "dbms-section-7-unit-10-index-project-lesson-1",
+              "unitId": "dbms-section-7-unit-10-index-project",
+              "title": "Learn Index project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-10-index-project-lesson-2",
+              "unitId": "dbms-section-7-unit-10-index-project",
+              "title": "Practice Index project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-7-unit-10-index-project-lesson-3",
+              "unitId": "dbms-section-7-unit-10-index-project",
+              "title": "Review Index project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbms-section-8",
+      "trackId": "dbms",
+      "order": 8,
+      "title": "Section 8: Query Optimization",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "dbms-section-8-unit-1-query-plans",
+          "sectionId": "dbms-section-8",
+          "order": 1,
+          "title": "Query plans",
+          "lessons": [
+            {
+              "id": "dbms-section-8-unit-1-query-plans-lesson-1",
+              "unitId": "dbms-section-8-unit-1-query-plans",
+              "title": "Learn Query plans",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-1-query-plans-lesson-2",
+              "unitId": "dbms-section-8-unit-1-query-plans",
+              "title": "Practice Query plans",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-1-query-plans-lesson-3",
+              "unitId": "dbms-section-8-unit-1-query-plans",
+              "title": "Review Query plans",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-8-unit-2-explain",
+          "sectionId": "dbms-section-8",
+          "order": 2,
+          "title": "EXPLAIN",
+          "lessons": [
+            {
+              "id": "dbms-section-8-unit-2-explain-lesson-1",
+              "unitId": "dbms-section-8-unit-2-explain",
+              "title": "Learn EXPLAIN",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-2-explain-lesson-2",
+              "unitId": "dbms-section-8-unit-2-explain",
+              "title": "Practice EXPLAIN",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-2-explain-lesson-3",
+              "unitId": "dbms-section-8-unit-2-explain",
+              "title": "Review EXPLAIN",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-8-unit-3-join-algorithms",
+          "sectionId": "dbms-section-8",
+          "order": 3,
+          "title": "Join algorithms",
+          "lessons": [
+            {
+              "id": "dbms-section-8-unit-3-join-algorithms-lesson-1",
+              "unitId": "dbms-section-8-unit-3-join-algorithms",
+              "title": "Learn Join algorithms",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-3-join-algorithms-lesson-2",
+              "unitId": "dbms-section-8-unit-3-join-algorithms",
+              "title": "Practice Join algorithms",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-3-join-algorithms-lesson-3",
+              "unitId": "dbms-section-8-unit-3-join-algorithms",
+              "title": "Review Join algorithms",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-8-unit-4-predicate-pushdown",
+          "sectionId": "dbms-section-8",
+          "order": 4,
+          "title": "Predicate pushdown",
+          "lessons": [
+            {
+              "id": "dbms-section-8-unit-4-predicate-pushdown-lesson-1",
+              "unitId": "dbms-section-8-unit-4-predicate-pushdown",
+              "title": "Learn Predicate pushdown",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-4-predicate-pushdown-lesson-2",
+              "unitId": "dbms-section-8-unit-4-predicate-pushdown",
+              "title": "Practice Predicate pushdown",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-4-predicate-pushdown-lesson-3",
+              "unitId": "dbms-section-8-unit-4-predicate-pushdown",
+              "title": "Review Predicate pushdown",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-8-unit-5-statistics",
+          "sectionId": "dbms-section-8",
+          "order": 5,
+          "title": "Statistics",
+          "lessons": [
+            {
+              "id": "dbms-section-8-unit-5-statistics-lesson-1",
+              "unitId": "dbms-section-8-unit-5-statistics",
+              "title": "Learn Statistics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-5-statistics-lesson-2",
+              "unitId": "dbms-section-8-unit-5-statistics",
+              "title": "Practice Statistics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-5-statistics-lesson-3",
+              "unitId": "dbms-section-8-unit-5-statistics",
+              "title": "Review Statistics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-8-unit-6-cost-estimates",
+          "sectionId": "dbms-section-8",
+          "order": 6,
+          "title": "Cost estimates",
+          "lessons": [
+            {
+              "id": "dbms-section-8-unit-6-cost-estimates-lesson-1",
+              "unitId": "dbms-section-8-unit-6-cost-estimates",
+              "title": "Learn Cost estimates",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-6-cost-estimates-lesson-2",
+              "unitId": "dbms-section-8-unit-6-cost-estimates",
+              "title": "Practice Cost estimates",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-6-cost-estimates-lesson-3",
+              "unitId": "dbms-section-8-unit-6-cost-estimates",
+              "title": "Review Cost estimates",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-8-unit-7-slow-queries",
+          "sectionId": "dbms-section-8",
+          "order": 7,
+          "title": "Slow queries",
+          "lessons": [
+            {
+              "id": "dbms-section-8-unit-7-slow-queries-lesson-1",
+              "unitId": "dbms-section-8-unit-7-slow-queries",
+              "title": "Learn Slow queries",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-7-slow-queries-lesson-2",
+              "unitId": "dbms-section-8-unit-7-slow-queries",
+              "title": "Practice Slow queries",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-7-slow-queries-lesson-3",
+              "unitId": "dbms-section-8-unit-7-slow-queries",
+              "title": "Review Slow queries",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-8-unit-8-rewrite-strategies",
+          "sectionId": "dbms-section-8",
+          "order": 8,
+          "title": "Rewrite strategies",
+          "lessons": [
+            {
+              "id": "dbms-section-8-unit-8-rewrite-strategies-lesson-1",
+              "unitId": "dbms-section-8-unit-8-rewrite-strategies",
+              "title": "Learn Rewrite strategies",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-8-rewrite-strategies-lesson-2",
+              "unitId": "dbms-section-8-unit-8-rewrite-strategies",
+              "title": "Practice Rewrite strategies",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-8-rewrite-strategies-lesson-3",
+              "unitId": "dbms-section-8-unit-8-rewrite-strategies",
+              "title": "Review Rewrite strategies",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-8-unit-9-plan-regression",
+          "sectionId": "dbms-section-8",
+          "order": 9,
+          "title": "Plan regression",
+          "lessons": [
+            {
+              "id": "dbms-section-8-unit-9-plan-regression-lesson-1",
+              "unitId": "dbms-section-8-unit-9-plan-regression",
+              "title": "Learn Plan regression",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-9-plan-regression-lesson-2",
+              "unitId": "dbms-section-8-unit-9-plan-regression",
+              "title": "Practice Plan regression",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-9-plan-regression-lesson-3",
+              "unitId": "dbms-section-8-unit-9-plan-regression",
+              "title": "Review Plan regression",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-8-unit-10-optimization-lab",
+          "sectionId": "dbms-section-8",
+          "order": 10,
+          "title": "Optimization lab",
+          "lessons": [
+            {
+              "id": "dbms-section-8-unit-10-optimization-lab-lesson-1",
+              "unitId": "dbms-section-8-unit-10-optimization-lab",
+              "title": "Learn Optimization lab",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-10-optimization-lab-lesson-2",
+              "unitId": "dbms-section-8-unit-10-optimization-lab",
+              "title": "Practice Optimization lab",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-8-unit-10-optimization-lab-lesson-3",
+              "unitId": "dbms-section-8-unit-10-optimization-lab",
+              "title": "Review Optimization lab",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbms-section-9",
+      "trackId": "dbms",
+      "order": 9,
+      "title": "Section 9: NoSQL Basics",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "dbms-section-9-unit-1-document-stores",
+          "sectionId": "dbms-section-9",
+          "order": 1,
+          "title": "Document stores",
+          "lessons": [
+            {
+              "id": "dbms-section-9-unit-1-document-stores-lesson-1",
+              "unitId": "dbms-section-9-unit-1-document-stores",
+              "title": "Learn Document stores",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-1-document-stores-lesson-2",
+              "unitId": "dbms-section-9-unit-1-document-stores",
+              "title": "Practice Document stores",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-1-document-stores-lesson-3",
+              "unitId": "dbms-section-9-unit-1-document-stores",
+              "title": "Review Document stores",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-9-unit-2-key-value-stores",
+          "sectionId": "dbms-section-9",
+          "order": 2,
+          "title": "Key-value stores",
+          "lessons": [
+            {
+              "id": "dbms-section-9-unit-2-key-value-stores-lesson-1",
+              "unitId": "dbms-section-9-unit-2-key-value-stores",
+              "title": "Learn Key-value stores",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-2-key-value-stores-lesson-2",
+              "unitId": "dbms-section-9-unit-2-key-value-stores",
+              "title": "Practice Key-value stores",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-2-key-value-stores-lesson-3",
+              "unitId": "dbms-section-9-unit-2-key-value-stores",
+              "title": "Review Key-value stores",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-9-unit-3-wide-column-stores",
+          "sectionId": "dbms-section-9",
+          "order": 3,
+          "title": "Wide-column stores",
+          "lessons": [
+            {
+              "id": "dbms-section-9-unit-3-wide-column-stores-lesson-1",
+              "unitId": "dbms-section-9-unit-3-wide-column-stores",
+              "title": "Learn Wide-column stores",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-3-wide-column-stores-lesson-2",
+              "unitId": "dbms-section-9-unit-3-wide-column-stores",
+              "title": "Practice Wide-column stores",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-3-wide-column-stores-lesson-3",
+              "unitId": "dbms-section-9-unit-3-wide-column-stores",
+              "title": "Review Wide-column stores",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-9-unit-4-graph-databases",
+          "sectionId": "dbms-section-9",
+          "order": 4,
+          "title": "Graph databases",
+          "lessons": [
+            {
+              "id": "dbms-section-9-unit-4-graph-databases-lesson-1",
+              "unitId": "dbms-section-9-unit-4-graph-databases",
+              "title": "Learn Graph databases",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-4-graph-databases-lesson-2",
+              "unitId": "dbms-section-9-unit-4-graph-databases",
+              "title": "Practice Graph databases",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-4-graph-databases-lesson-3",
+              "unitId": "dbms-section-9-unit-4-graph-databases",
+              "title": "Review Graph databases",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-9-unit-5-consistency-models",
+          "sectionId": "dbms-section-9",
+          "order": 5,
+          "title": "Consistency models",
+          "lessons": [
+            {
+              "id": "dbms-section-9-unit-5-consistency-models-lesson-1",
+              "unitId": "dbms-section-9-unit-5-consistency-models",
+              "title": "Learn Consistency models",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-5-consistency-models-lesson-2",
+              "unitId": "dbms-section-9-unit-5-consistency-models",
+              "title": "Practice Consistency models",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-5-consistency-models-lesson-3",
+              "unitId": "dbms-section-9-unit-5-consistency-models",
+              "title": "Review Consistency models",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-9-unit-6-schema-flexibility",
+          "sectionId": "dbms-section-9",
+          "order": 6,
+          "title": "Schema flexibility",
+          "lessons": [
+            {
+              "id": "dbms-section-9-unit-6-schema-flexibility-lesson-1",
+              "unitId": "dbms-section-9-unit-6-schema-flexibility",
+              "title": "Learn Schema flexibility",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-6-schema-flexibility-lesson-2",
+              "unitId": "dbms-section-9-unit-6-schema-flexibility",
+              "title": "Practice Schema flexibility",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-6-schema-flexibility-lesson-3",
+              "unitId": "dbms-section-9-unit-6-schema-flexibility",
+              "title": "Review Schema flexibility",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-9-unit-7-replication-concept",
+          "sectionId": "dbms-section-9",
+          "order": 7,
+          "title": "Replication concept",
+          "lessons": [
+            {
+              "id": "dbms-section-9-unit-7-replication-concept-lesson-1",
+              "unitId": "dbms-section-9-unit-7-replication-concept",
+              "title": "Learn Replication concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-7-replication-concept-lesson-2",
+              "unitId": "dbms-section-9-unit-7-replication-concept",
+              "title": "Practice Replication concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-7-replication-concept-lesson-3",
+              "unitId": "dbms-section-9-unit-7-replication-concept",
+              "title": "Review Replication concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-9-unit-8-partitioning-concept",
+          "sectionId": "dbms-section-9",
+          "order": 8,
+          "title": "Partitioning concept",
+          "lessons": [
+            {
+              "id": "dbms-section-9-unit-8-partitioning-concept-lesson-1",
+              "unitId": "dbms-section-9-unit-8-partitioning-concept",
+              "title": "Learn Partitioning concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-8-partitioning-concept-lesson-2",
+              "unitId": "dbms-section-9-unit-8-partitioning-concept",
+              "title": "Practice Partitioning concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-8-partitioning-concept-lesson-3",
+              "unitId": "dbms-section-9-unit-8-partitioning-concept",
+              "title": "Review Partitioning concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-9-unit-9-nosql-tradeoffs",
+          "sectionId": "dbms-section-9",
+          "order": 9,
+          "title": "NoSQL tradeoffs",
+          "lessons": [
+            {
+              "id": "dbms-section-9-unit-9-nosql-tradeoffs-lesson-1",
+              "unitId": "dbms-section-9-unit-9-nosql-tradeoffs",
+              "title": "Learn NoSQL tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-9-nosql-tradeoffs-lesson-2",
+              "unitId": "dbms-section-9-unit-9-nosql-tradeoffs",
+              "title": "Practice NoSQL tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-9-nosql-tradeoffs-lesson-3",
+              "unitId": "dbms-section-9-unit-9-nosql-tradeoffs",
+              "title": "Review NoSQL tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-9-unit-10-nosql-comparison",
+          "sectionId": "dbms-section-9",
+          "order": 10,
+          "title": "NoSQL comparison",
+          "lessons": [
+            {
+              "id": "dbms-section-9-unit-10-nosql-comparison-lesson-1",
+              "unitId": "dbms-section-9-unit-10-nosql-comparison",
+              "title": "Learn NoSQL comparison",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-10-nosql-comparison-lesson-2",
+              "unitId": "dbms-section-9-unit-10-nosql-comparison",
+              "title": "Practice NoSQL comparison",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-9-unit-10-nosql-comparison-lesson-3",
+              "unitId": "dbms-section-9-unit-10-nosql-comparison",
+              "title": "Review NoSQL comparison",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbms-section-10",
+      "trackId": "dbms",
+      "order": 10,
+      "title": "Section 10: DBMS Capstones",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "dbms-section-10-unit-1-er-to-schema",
+          "sectionId": "dbms-section-10",
+          "order": 1,
+          "title": "ER to schema",
+          "lessons": [
+            {
+              "id": "dbms-section-10-unit-1-er-to-schema-lesson-1",
+              "unitId": "dbms-section-10-unit-1-er-to-schema",
+              "title": "Learn ER to schema",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-1-er-to-schema-lesson-2",
+              "unitId": "dbms-section-10-unit-1-er-to-schema",
+              "title": "Practice ER to schema",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-1-er-to-schema-lesson-3",
+              "unitId": "dbms-section-10-unit-1-er-to-schema",
+              "title": "Review ER to schema",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-10-unit-2-normalize-a-design",
+          "sectionId": "dbms-section-10",
+          "order": 2,
+          "title": "Normalize a design",
+          "lessons": [
+            {
+              "id": "dbms-section-10-unit-2-normalize-a-design-lesson-1",
+              "unitId": "dbms-section-10-unit-2-normalize-a-design",
+              "title": "Learn Normalize a design",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-2-normalize-a-design-lesson-2",
+              "unitId": "dbms-section-10-unit-2-normalize-a-design",
+              "title": "Practice Normalize a design",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-2-normalize-a-design-lesson-3",
+              "unitId": "dbms-section-10-unit-2-normalize-a-design",
+              "title": "Review Normalize a design",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-10-unit-3-transaction-design",
+          "sectionId": "dbms-section-10",
+          "order": 3,
+          "title": "Transaction design",
+          "lessons": [
+            {
+              "id": "dbms-section-10-unit-3-transaction-design-lesson-1",
+              "unitId": "dbms-section-10-unit-3-transaction-design",
+              "title": "Learn Transaction design",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-3-transaction-design-lesson-2",
+              "unitId": "dbms-section-10-unit-3-transaction-design",
+              "title": "Practice Transaction design",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-3-transaction-design-lesson-3",
+              "unitId": "dbms-section-10-unit-3-transaction-design",
+              "title": "Review Transaction design",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-10-unit-4-index-a-workload",
+          "sectionId": "dbms-section-10",
+          "order": 4,
+          "title": "Index a workload",
+          "lessons": [
+            {
+              "id": "dbms-section-10-unit-4-index-a-workload-lesson-1",
+              "unitId": "dbms-section-10-unit-4-index-a-workload",
+              "title": "Learn Index a workload",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-4-index-a-workload-lesson-2",
+              "unitId": "dbms-section-10-unit-4-index-a-workload",
+              "title": "Practice Index a workload",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-4-index-a-workload-lesson-3",
+              "unitId": "dbms-section-10-unit-4-index-a-workload",
+              "title": "Review Index a workload",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-10-unit-5-optimize-report-query",
+          "sectionId": "dbms-section-10",
+          "order": 5,
+          "title": "Optimize report query",
+          "lessons": [
+            {
+              "id": "dbms-section-10-unit-5-optimize-report-query-lesson-1",
+              "unitId": "dbms-section-10-unit-5-optimize-report-query",
+              "title": "Learn Optimize report query",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-5-optimize-report-query-lesson-2",
+              "unitId": "dbms-section-10-unit-5-optimize-report-query",
+              "title": "Practice Optimize report query",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-5-optimize-report-query-lesson-3",
+              "unitId": "dbms-section-10-unit-5-optimize-report-query",
+              "title": "Review Optimize report query",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-10-unit-6-isolation-anomaly-lab",
+          "sectionId": "dbms-section-10",
+          "order": 6,
+          "title": "Isolation anomaly lab",
+          "lessons": [
+            {
+              "id": "dbms-section-10-unit-6-isolation-anomaly-lab-lesson-1",
+              "unitId": "dbms-section-10-unit-6-isolation-anomaly-lab",
+              "title": "Learn Isolation anomaly lab",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-6-isolation-anomaly-lab-lesson-2",
+              "unitId": "dbms-section-10-unit-6-isolation-anomaly-lab",
+              "title": "Practice Isolation anomaly lab",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-6-isolation-anomaly-lab-lesson-3",
+              "unitId": "dbms-section-10-unit-6-isolation-anomaly-lab",
+              "title": "Review Isolation anomaly lab",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-10-unit-7-nosql-choice-memo",
+          "sectionId": "dbms-section-10",
+          "order": 7,
+          "title": "NoSQL choice memo",
+          "lessons": [
+            {
+              "id": "dbms-section-10-unit-7-nosql-choice-memo-lesson-1",
+              "unitId": "dbms-section-10-unit-7-nosql-choice-memo",
+              "title": "Learn NoSQL choice memo",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-7-nosql-choice-memo-lesson-2",
+              "unitId": "dbms-section-10-unit-7-nosql-choice-memo",
+              "title": "Practice NoSQL choice memo",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-7-nosql-choice-memo-lesson-3",
+              "unitId": "dbms-section-10-unit-7-nosql-choice-memo",
+              "title": "Review NoSQL choice memo",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-10-unit-8-migration-plan",
+          "sectionId": "dbms-section-10",
+          "order": 8,
+          "title": "Migration plan",
+          "lessons": [
+            {
+              "id": "dbms-section-10-unit-8-migration-plan-lesson-1",
+              "unitId": "dbms-section-10-unit-8-migration-plan",
+              "title": "Learn Migration plan",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-8-migration-plan-lesson-2",
+              "unitId": "dbms-section-10-unit-8-migration-plan",
+              "title": "Practice Migration plan",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-8-migration-plan-lesson-3",
+              "unitId": "dbms-section-10-unit-8-migration-plan",
+              "title": "Review Migration plan",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-10-unit-9-data-integrity-audit",
+          "sectionId": "dbms-section-10",
+          "order": 9,
+          "title": "Data integrity audit",
+          "lessons": [
+            {
+              "id": "dbms-section-10-unit-9-data-integrity-audit-lesson-1",
+              "unitId": "dbms-section-10-unit-9-data-integrity-audit",
+              "title": "Learn Data integrity audit",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-9-data-integrity-audit-lesson-2",
+              "unitId": "dbms-section-10-unit-9-data-integrity-audit",
+              "title": "Practice Data integrity audit",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-9-data-integrity-audit-lesson-3",
+              "unitId": "dbms-section-10-unit-9-data-integrity-audit",
+              "title": "Review Data integrity audit",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dbms-section-10-unit-10-final-dbms-project",
+          "sectionId": "dbms-section-10",
+          "order": 10,
+          "title": "Final DBMS project",
+          "lessons": [
+            {
+              "id": "dbms-section-10-unit-10-final-dbms-project-lesson-1",
+              "unitId": "dbms-section-10-unit-10-final-dbms-project",
+              "title": "Learn Final DBMS project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-10-final-dbms-project-lesson-2",
+              "unitId": "dbms-section-10-unit-10-final-dbms-project",
+              "title": "Practice Final DBMS project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dbms-section-10-unit-10-final-dbms-project-lesson-3",
+              "unitId": "dbms-section-10-unit-10-final-dbms-project",
+              "title": "Review Final DBMS project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

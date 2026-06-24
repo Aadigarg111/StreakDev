@@ -1,0 +1,3006 @@
+{
+  "id": "git-github",
+  "title": "Git & GitHub",
+  "category": "web-dev",
+  "icon": "git-branch",
+  "color": "#FF4B4B",
+  "description": "Track changes, collaborate through pull requests, and manage real workflows.",
+  "sections": [
+    {
+      "id": "git-github-section-1",
+      "trackId": "git-github",
+      "order": 1,
+      "title": "Section 1: Git Foundations",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "git-github-section-1-unit-1-repositories",
+          "sectionId": "git-github-section-1",
+          "order": 1,
+          "title": "Repositories",
+          "lessons": [
+            {
+              "id": "git-github-section-1-unit-1-repositories-lesson-1",
+              "unitId": "git-github-section-1-unit-1-repositories",
+              "title": "Learn Repositories",
+              "order": 1,
+              "exerciseIds": [
+                "git-github-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "git-github-section-1-unit-1-repositories-lesson-2",
+              "unitId": "git-github-section-1-unit-1-repositories",
+              "title": "Practice Repositories",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-1-repositories-lesson-3",
+              "unitId": "git-github-section-1-unit-1-repositories",
+              "title": "Review Repositories",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-1-unit-2-git-init",
+          "sectionId": "git-github-section-1",
+          "order": 2,
+          "title": "git init",
+          "lessons": [
+            {
+              "id": "git-github-section-1-unit-2-git-init-lesson-1",
+              "unitId": "git-github-section-1-unit-2-git-init",
+              "title": "Learn git init",
+              "order": 1,
+              "exerciseIds": [
+                "git-github-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "git-github-section-1-unit-2-git-init-lesson-2",
+              "unitId": "git-github-section-1-unit-2-git-init",
+              "title": "Practice git init",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-2-git-init-lesson-3",
+              "unitId": "git-github-section-1-unit-2-git-init",
+              "title": "Review git init",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-1-unit-3-working-tree",
+          "sectionId": "git-github-section-1",
+          "order": 3,
+          "title": "Working tree",
+          "lessons": [
+            {
+              "id": "git-github-section-1-unit-3-working-tree-lesson-1",
+              "unitId": "git-github-section-1-unit-3-working-tree",
+              "title": "Learn Working tree",
+              "order": 1,
+              "exerciseIds": [
+                "git-github-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "git-github-section-1-unit-3-working-tree-lesson-2",
+              "unitId": "git-github-section-1-unit-3-working-tree",
+              "title": "Practice Working tree",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-3-working-tree-lesson-3",
+              "unitId": "git-github-section-1-unit-3-working-tree",
+              "title": "Review Working tree",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-1-unit-4-staging-area",
+          "sectionId": "git-github-section-1",
+          "order": 4,
+          "title": "Staging area",
+          "lessons": [
+            {
+              "id": "git-github-section-1-unit-4-staging-area-lesson-1",
+              "unitId": "git-github-section-1-unit-4-staging-area",
+              "title": "Learn Staging area",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-4-staging-area-lesson-2",
+              "unitId": "git-github-section-1-unit-4-staging-area",
+              "title": "Practice Staging area",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-4-staging-area-lesson-3",
+              "unitId": "git-github-section-1-unit-4-staging-area",
+              "title": "Review Staging area",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-1-unit-5-commits",
+          "sectionId": "git-github-section-1",
+          "order": 5,
+          "title": "Commits",
+          "lessons": [
+            {
+              "id": "git-github-section-1-unit-5-commits-lesson-1",
+              "unitId": "git-github-section-1-unit-5-commits",
+              "title": "Learn Commits",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-5-commits-lesson-2",
+              "unitId": "git-github-section-1-unit-5-commits",
+              "title": "Practice Commits",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-5-commits-lesson-3",
+              "unitId": "git-github-section-1-unit-5-commits",
+              "title": "Review Commits",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-1-unit-6-commit-messages",
+          "sectionId": "git-github-section-1",
+          "order": 6,
+          "title": "Commit messages",
+          "lessons": [
+            {
+              "id": "git-github-section-1-unit-6-commit-messages-lesson-1",
+              "unitId": "git-github-section-1-unit-6-commit-messages",
+              "title": "Learn Commit messages",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-6-commit-messages-lesson-2",
+              "unitId": "git-github-section-1-unit-6-commit-messages",
+              "title": "Practice Commit messages",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-6-commit-messages-lesson-3",
+              "unitId": "git-github-section-1-unit-6-commit-messages",
+              "title": "Review Commit messages",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-1-unit-7-git-status",
+          "sectionId": "git-github-section-1",
+          "order": 7,
+          "title": "git status",
+          "lessons": [
+            {
+              "id": "git-github-section-1-unit-7-git-status-lesson-1",
+              "unitId": "git-github-section-1-unit-7-git-status",
+              "title": "Learn git status",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-7-git-status-lesson-2",
+              "unitId": "git-github-section-1-unit-7-git-status",
+              "title": "Practice git status",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-7-git-status-lesson-3",
+              "unitId": "git-github-section-1-unit-7-git-status",
+              "title": "Review git status",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-1-unit-8-git-diff",
+          "sectionId": "git-github-section-1",
+          "order": 8,
+          "title": "git diff",
+          "lessons": [
+            {
+              "id": "git-github-section-1-unit-8-git-diff-lesson-1",
+              "unitId": "git-github-section-1-unit-8-git-diff",
+              "title": "Learn git diff",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-8-git-diff-lesson-2",
+              "unitId": "git-github-section-1-unit-8-git-diff",
+              "title": "Practice git diff",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-8-git-diff-lesson-3",
+              "unitId": "git-github-section-1-unit-8-git-diff",
+              "title": "Review git diff",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-1-unit-9-git-log",
+          "sectionId": "git-github-section-1",
+          "order": 9,
+          "title": "git log",
+          "lessons": [
+            {
+              "id": "git-github-section-1-unit-9-git-log-lesson-1",
+              "unitId": "git-github-section-1-unit-9-git-log",
+              "title": "Learn git log",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-9-git-log-lesson-2",
+              "unitId": "git-github-section-1-unit-9-git-log",
+              "title": "Practice git log",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-9-git-log-lesson-3",
+              "unitId": "git-github-section-1-unit-9-git-log",
+              "title": "Review git log",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-1-unit-10-undo-basics",
+          "sectionId": "git-github-section-1",
+          "order": 10,
+          "title": "Undo basics",
+          "lessons": [
+            {
+              "id": "git-github-section-1-unit-10-undo-basics-lesson-1",
+              "unitId": "git-github-section-1-unit-10-undo-basics",
+              "title": "Learn Undo basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-10-undo-basics-lesson-2",
+              "unitId": "git-github-section-1-unit-10-undo-basics",
+              "title": "Practice Undo basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-1-unit-10-undo-basics-lesson-3",
+              "unitId": "git-github-section-1-unit-10-undo-basics",
+              "title": "Review Undo basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "git-github-section-2",
+      "trackId": "git-github",
+      "order": 2,
+      "title": "Section 2: Branching",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "git-github-section-2-unit-1-branch-mental-model",
+          "sectionId": "git-github-section-2",
+          "order": 1,
+          "title": "Branch mental model",
+          "lessons": [
+            {
+              "id": "git-github-section-2-unit-1-branch-mental-model-lesson-1",
+              "unitId": "git-github-section-2-unit-1-branch-mental-model",
+              "title": "Learn Branch mental model",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-1-branch-mental-model-lesson-2",
+              "unitId": "git-github-section-2-unit-1-branch-mental-model",
+              "title": "Practice Branch mental model",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-1-branch-mental-model-lesson-3",
+              "unitId": "git-github-section-2-unit-1-branch-mental-model",
+              "title": "Review Branch mental model",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-2-unit-2-create-branches",
+          "sectionId": "git-github-section-2",
+          "order": 2,
+          "title": "Create branches",
+          "lessons": [
+            {
+              "id": "git-github-section-2-unit-2-create-branches-lesson-1",
+              "unitId": "git-github-section-2-unit-2-create-branches",
+              "title": "Learn Create branches",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-2-create-branches-lesson-2",
+              "unitId": "git-github-section-2-unit-2-create-branches",
+              "title": "Practice Create branches",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-2-create-branches-lesson-3",
+              "unitId": "git-github-section-2-unit-2-create-branches",
+              "title": "Review Create branches",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-2-unit-3-switch-branches",
+          "sectionId": "git-github-section-2",
+          "order": 3,
+          "title": "Switch branches",
+          "lessons": [
+            {
+              "id": "git-github-section-2-unit-3-switch-branches-lesson-1",
+              "unitId": "git-github-section-2-unit-3-switch-branches",
+              "title": "Learn Switch branches",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-3-switch-branches-lesson-2",
+              "unitId": "git-github-section-2-unit-3-switch-branches",
+              "title": "Practice Switch branches",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-3-switch-branches-lesson-3",
+              "unitId": "git-github-section-2-unit-3-switch-branches",
+              "title": "Review Switch branches",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-2-unit-4-merge-branches",
+          "sectionId": "git-github-section-2",
+          "order": 4,
+          "title": "Merge branches",
+          "lessons": [
+            {
+              "id": "git-github-section-2-unit-4-merge-branches-lesson-1",
+              "unitId": "git-github-section-2-unit-4-merge-branches",
+              "title": "Learn Merge branches",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-4-merge-branches-lesson-2",
+              "unitId": "git-github-section-2-unit-4-merge-branches",
+              "title": "Practice Merge branches",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-4-merge-branches-lesson-3",
+              "unitId": "git-github-section-2-unit-4-merge-branches",
+              "title": "Review Merge branches",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-2-unit-5-fast-forward-merges",
+          "sectionId": "git-github-section-2",
+          "order": 5,
+          "title": "Fast-forward merges",
+          "lessons": [
+            {
+              "id": "git-github-section-2-unit-5-fast-forward-merges-lesson-1",
+              "unitId": "git-github-section-2-unit-5-fast-forward-merges",
+              "title": "Learn Fast-forward merges",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-5-fast-forward-merges-lesson-2",
+              "unitId": "git-github-section-2-unit-5-fast-forward-merges",
+              "title": "Practice Fast-forward merges",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-5-fast-forward-merges-lesson-3",
+              "unitId": "git-github-section-2-unit-5-fast-forward-merges",
+              "title": "Review Fast-forward merges",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-2-unit-6-delete-branches",
+          "sectionId": "git-github-section-2",
+          "order": 6,
+          "title": "Delete branches",
+          "lessons": [
+            {
+              "id": "git-github-section-2-unit-6-delete-branches-lesson-1",
+              "unitId": "git-github-section-2-unit-6-delete-branches",
+              "title": "Learn Delete branches",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-6-delete-branches-lesson-2",
+              "unitId": "git-github-section-2-unit-6-delete-branches",
+              "title": "Practice Delete branches",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-6-delete-branches-lesson-3",
+              "unitId": "git-github-section-2-unit-6-delete-branches",
+              "title": "Review Delete branches",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-2-unit-7-branch-naming",
+          "sectionId": "git-github-section-2",
+          "order": 7,
+          "title": "Branch naming",
+          "lessons": [
+            {
+              "id": "git-github-section-2-unit-7-branch-naming-lesson-1",
+              "unitId": "git-github-section-2-unit-7-branch-naming",
+              "title": "Learn Branch naming",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-7-branch-naming-lesson-2",
+              "unitId": "git-github-section-2-unit-7-branch-naming",
+              "title": "Practice Branch naming",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-7-branch-naming-lesson-3",
+              "unitId": "git-github-section-2-unit-7-branch-naming",
+              "title": "Review Branch naming",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-2-unit-8-remote-branches",
+          "sectionId": "git-github-section-2",
+          "order": 8,
+          "title": "Remote branches",
+          "lessons": [
+            {
+              "id": "git-github-section-2-unit-8-remote-branches-lesson-1",
+              "unitId": "git-github-section-2-unit-8-remote-branches",
+              "title": "Learn Remote branches",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-8-remote-branches-lesson-2",
+              "unitId": "git-github-section-2-unit-8-remote-branches",
+              "title": "Practice Remote branches",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-8-remote-branches-lesson-3",
+              "unitId": "git-github-section-2-unit-8-remote-branches",
+              "title": "Review Remote branches",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-2-unit-9-tracking-branches",
+          "sectionId": "git-github-section-2",
+          "order": 9,
+          "title": "Tracking branches",
+          "lessons": [
+            {
+              "id": "git-github-section-2-unit-9-tracking-branches-lesson-1",
+              "unitId": "git-github-section-2-unit-9-tracking-branches",
+              "title": "Learn Tracking branches",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-9-tracking-branches-lesson-2",
+              "unitId": "git-github-section-2-unit-9-tracking-branches",
+              "title": "Practice Tracking branches",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-9-tracking-branches-lesson-3",
+              "unitId": "git-github-section-2-unit-9-tracking-branches",
+              "title": "Review Tracking branches",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-2-unit-10-branch-practice",
+          "sectionId": "git-github-section-2",
+          "order": 10,
+          "title": "Branch practice",
+          "lessons": [
+            {
+              "id": "git-github-section-2-unit-10-branch-practice-lesson-1",
+              "unitId": "git-github-section-2-unit-10-branch-practice",
+              "title": "Learn Branch practice",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-10-branch-practice-lesson-2",
+              "unitId": "git-github-section-2-unit-10-branch-practice",
+              "title": "Practice Branch practice",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-2-unit-10-branch-practice-lesson-3",
+              "unitId": "git-github-section-2-unit-10-branch-practice",
+              "title": "Review Branch practice",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "git-github-section-3",
+      "trackId": "git-github",
+      "order": 3,
+      "title": "Section 3: Remote Repos",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "git-github-section-3-unit-1-github-repo-setup",
+          "sectionId": "git-github-section-3",
+          "order": 1,
+          "title": "GitHub repo setup",
+          "lessons": [
+            {
+              "id": "git-github-section-3-unit-1-github-repo-setup-lesson-1",
+              "unitId": "git-github-section-3-unit-1-github-repo-setup",
+              "title": "Learn GitHub repo setup",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-1-github-repo-setup-lesson-2",
+              "unitId": "git-github-section-3-unit-1-github-repo-setup",
+              "title": "Practice GitHub repo setup",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-1-github-repo-setup-lesson-3",
+              "unitId": "git-github-section-3-unit-1-github-repo-setup",
+              "title": "Review GitHub repo setup",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-3-unit-2-remotes",
+          "sectionId": "git-github-section-3",
+          "order": 2,
+          "title": "Remotes",
+          "lessons": [
+            {
+              "id": "git-github-section-3-unit-2-remotes-lesson-1",
+              "unitId": "git-github-section-3-unit-2-remotes",
+              "title": "Learn Remotes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-2-remotes-lesson-2",
+              "unitId": "git-github-section-3-unit-2-remotes",
+              "title": "Practice Remotes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-2-remotes-lesson-3",
+              "unitId": "git-github-section-3-unit-2-remotes",
+              "title": "Review Remotes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-3-unit-3-git-clone",
+          "sectionId": "git-github-section-3",
+          "order": 3,
+          "title": "git clone",
+          "lessons": [
+            {
+              "id": "git-github-section-3-unit-3-git-clone-lesson-1",
+              "unitId": "git-github-section-3-unit-3-git-clone",
+              "title": "Learn git clone",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-3-git-clone-lesson-2",
+              "unitId": "git-github-section-3-unit-3-git-clone",
+              "title": "Practice git clone",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-3-git-clone-lesson-3",
+              "unitId": "git-github-section-3-unit-3-git-clone",
+              "title": "Review git clone",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-3-unit-4-git-push",
+          "sectionId": "git-github-section-3",
+          "order": 4,
+          "title": "git push",
+          "lessons": [
+            {
+              "id": "git-github-section-3-unit-4-git-push-lesson-1",
+              "unitId": "git-github-section-3-unit-4-git-push",
+              "title": "Learn git push",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-4-git-push-lesson-2",
+              "unitId": "git-github-section-3-unit-4-git-push",
+              "title": "Practice git push",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-4-git-push-lesson-3",
+              "unitId": "git-github-section-3-unit-4-git-push",
+              "title": "Review git push",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-3-unit-5-git-pull",
+          "sectionId": "git-github-section-3",
+          "order": 5,
+          "title": "git pull",
+          "lessons": [
+            {
+              "id": "git-github-section-3-unit-5-git-pull-lesson-1",
+              "unitId": "git-github-section-3-unit-5-git-pull",
+              "title": "Learn git pull",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-5-git-pull-lesson-2",
+              "unitId": "git-github-section-3-unit-5-git-pull",
+              "title": "Practice git pull",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-5-git-pull-lesson-3",
+              "unitId": "git-github-section-3-unit-5-git-pull",
+              "title": "Review git pull",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-3-unit-6-fetch-vs-pull",
+          "sectionId": "git-github-section-3",
+          "order": 6,
+          "title": "Fetch vs pull",
+          "lessons": [
+            {
+              "id": "git-github-section-3-unit-6-fetch-vs-pull-lesson-1",
+              "unitId": "git-github-section-3-unit-6-fetch-vs-pull",
+              "title": "Learn Fetch vs pull",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-6-fetch-vs-pull-lesson-2",
+              "unitId": "git-github-section-3-unit-6-fetch-vs-pull",
+              "title": "Practice Fetch vs pull",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-6-fetch-vs-pull-lesson-3",
+              "unitId": "git-github-section-3-unit-6-fetch-vs-pull",
+              "title": "Review Fetch vs pull",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-3-unit-7-origin-main",
+          "sectionId": "git-github-section-3",
+          "order": 7,
+          "title": "Origin main",
+          "lessons": [
+            {
+              "id": "git-github-section-3-unit-7-origin-main-lesson-1",
+              "unitId": "git-github-section-3-unit-7-origin-main",
+              "title": "Learn Origin main",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-7-origin-main-lesson-2",
+              "unitId": "git-github-section-3-unit-7-origin-main",
+              "title": "Practice Origin main",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-7-origin-main-lesson-3",
+              "unitId": "git-github-section-3-unit-7-origin-main",
+              "title": "Review Origin main",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-3-unit-8-ssh-basics",
+          "sectionId": "git-github-section-3",
+          "order": 8,
+          "title": "SSH basics",
+          "lessons": [
+            {
+              "id": "git-github-section-3-unit-8-ssh-basics-lesson-1",
+              "unitId": "git-github-section-3-unit-8-ssh-basics",
+              "title": "Learn SSH basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-8-ssh-basics-lesson-2",
+              "unitId": "git-github-section-3-unit-8-ssh-basics",
+              "title": "Practice SSH basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-8-ssh-basics-lesson-3",
+              "unitId": "git-github-section-3-unit-8-ssh-basics",
+              "title": "Review SSH basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-3-unit-9-pat-basics",
+          "sectionId": "git-github-section-3",
+          "order": 9,
+          "title": "PAT basics",
+          "lessons": [
+            {
+              "id": "git-github-section-3-unit-9-pat-basics-lesson-1",
+              "unitId": "git-github-section-3-unit-9-pat-basics",
+              "title": "Learn PAT basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-9-pat-basics-lesson-2",
+              "unitId": "git-github-section-3-unit-9-pat-basics",
+              "title": "Practice PAT basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-9-pat-basics-lesson-3",
+              "unitId": "git-github-section-3-unit-9-pat-basics",
+              "title": "Review PAT basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-3-unit-10-remote-troubleshooting",
+          "sectionId": "git-github-section-3",
+          "order": 10,
+          "title": "Remote troubleshooting",
+          "lessons": [
+            {
+              "id": "git-github-section-3-unit-10-remote-troubleshooting-lesson-1",
+              "unitId": "git-github-section-3-unit-10-remote-troubleshooting",
+              "title": "Learn Remote troubleshooting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-10-remote-troubleshooting-lesson-2",
+              "unitId": "git-github-section-3-unit-10-remote-troubleshooting",
+              "title": "Practice Remote troubleshooting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-3-unit-10-remote-troubleshooting-lesson-3",
+              "unitId": "git-github-section-3-unit-10-remote-troubleshooting",
+              "title": "Review Remote troubleshooting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "git-github-section-4",
+      "trackId": "git-github",
+      "order": 4,
+      "title": "Section 4: Collaboration",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "git-github-section-4-unit-1-pull-requests",
+          "sectionId": "git-github-section-4",
+          "order": 1,
+          "title": "Pull requests",
+          "lessons": [
+            {
+              "id": "git-github-section-4-unit-1-pull-requests-lesson-1",
+              "unitId": "git-github-section-4-unit-1-pull-requests",
+              "title": "Learn Pull requests",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-1-pull-requests-lesson-2",
+              "unitId": "git-github-section-4-unit-1-pull-requests",
+              "title": "Practice Pull requests",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-1-pull-requests-lesson-3",
+              "unitId": "git-github-section-4-unit-1-pull-requests",
+              "title": "Review Pull requests",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-4-unit-2-pr-descriptions",
+          "sectionId": "git-github-section-4",
+          "order": 2,
+          "title": "PR descriptions",
+          "lessons": [
+            {
+              "id": "git-github-section-4-unit-2-pr-descriptions-lesson-1",
+              "unitId": "git-github-section-4-unit-2-pr-descriptions",
+              "title": "Learn PR descriptions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-2-pr-descriptions-lesson-2",
+              "unitId": "git-github-section-4-unit-2-pr-descriptions",
+              "title": "Practice PR descriptions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-2-pr-descriptions-lesson-3",
+              "unitId": "git-github-section-4-unit-2-pr-descriptions",
+              "title": "Review PR descriptions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-4-unit-3-code-review",
+          "sectionId": "git-github-section-4",
+          "order": 3,
+          "title": "Code review",
+          "lessons": [
+            {
+              "id": "git-github-section-4-unit-3-code-review-lesson-1",
+              "unitId": "git-github-section-4-unit-3-code-review",
+              "title": "Learn Code review",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-3-code-review-lesson-2",
+              "unitId": "git-github-section-4-unit-3-code-review",
+              "title": "Practice Code review",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-3-code-review-lesson-3",
+              "unitId": "git-github-section-4-unit-3-code-review",
+              "title": "Review Code review",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-4-unit-4-requested-changes",
+          "sectionId": "git-github-section-4",
+          "order": 4,
+          "title": "Requested changes",
+          "lessons": [
+            {
+              "id": "git-github-section-4-unit-4-requested-changes-lesson-1",
+              "unitId": "git-github-section-4-unit-4-requested-changes",
+              "title": "Learn Requested changes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-4-requested-changes-lesson-2",
+              "unitId": "git-github-section-4-unit-4-requested-changes",
+              "title": "Practice Requested changes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-4-requested-changes-lesson-3",
+              "unitId": "git-github-section-4-unit-4-requested-changes",
+              "title": "Review Requested changes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-4-unit-5-review-comments",
+          "sectionId": "git-github-section-4",
+          "order": 5,
+          "title": "Review comments",
+          "lessons": [
+            {
+              "id": "git-github-section-4-unit-5-review-comments-lesson-1",
+              "unitId": "git-github-section-4-unit-5-review-comments",
+              "title": "Learn Review comments",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-5-review-comments-lesson-2",
+              "unitId": "git-github-section-4-unit-5-review-comments",
+              "title": "Practice Review comments",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-5-review-comments-lesson-3",
+              "unitId": "git-github-section-4-unit-5-review-comments",
+              "title": "Review Review comments",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-4-unit-6-draft-prs",
+          "sectionId": "git-github-section-4",
+          "order": 6,
+          "title": "Draft PRs",
+          "lessons": [
+            {
+              "id": "git-github-section-4-unit-6-draft-prs-lesson-1",
+              "unitId": "git-github-section-4-unit-6-draft-prs",
+              "title": "Learn Draft PRs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-6-draft-prs-lesson-2",
+              "unitId": "git-github-section-4-unit-6-draft-prs",
+              "title": "Practice Draft PRs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-6-draft-prs-lesson-3",
+              "unitId": "git-github-section-4-unit-6-draft-prs",
+              "title": "Review Draft PRs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-4-unit-7-merge-strategies",
+          "sectionId": "git-github-section-4",
+          "order": 7,
+          "title": "Merge strategies",
+          "lessons": [
+            {
+              "id": "git-github-section-4-unit-7-merge-strategies-lesson-1",
+              "unitId": "git-github-section-4-unit-7-merge-strategies",
+              "title": "Learn Merge strategies",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-7-merge-strategies-lesson-2",
+              "unitId": "git-github-section-4-unit-7-merge-strategies",
+              "title": "Practice Merge strategies",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-7-merge-strategies-lesson-3",
+              "unitId": "git-github-section-4-unit-7-merge-strategies",
+              "title": "Review Merge strategies",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-4-unit-8-squash-merges",
+          "sectionId": "git-github-section-4",
+          "order": 8,
+          "title": "Squash merges",
+          "lessons": [
+            {
+              "id": "git-github-section-4-unit-8-squash-merges-lesson-1",
+              "unitId": "git-github-section-4-unit-8-squash-merges",
+              "title": "Learn Squash merges",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-8-squash-merges-lesson-2",
+              "unitId": "git-github-section-4-unit-8-squash-merges",
+              "title": "Practice Squash merges",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-8-squash-merges-lesson-3",
+              "unitId": "git-github-section-4-unit-8-squash-merges",
+              "title": "Review Squash merges",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-4-unit-9-pr-hygiene",
+          "sectionId": "git-github-section-4",
+          "order": 9,
+          "title": "PR hygiene",
+          "lessons": [
+            {
+              "id": "git-github-section-4-unit-9-pr-hygiene-lesson-1",
+              "unitId": "git-github-section-4-unit-9-pr-hygiene",
+              "title": "Learn PR hygiene",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-9-pr-hygiene-lesson-2",
+              "unitId": "git-github-section-4-unit-9-pr-hygiene",
+              "title": "Practice PR hygiene",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-9-pr-hygiene-lesson-3",
+              "unitId": "git-github-section-4-unit-9-pr-hygiene",
+              "title": "Review PR hygiene",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-4-unit-10-collaboration-project",
+          "sectionId": "git-github-section-4",
+          "order": 10,
+          "title": "Collaboration project",
+          "lessons": [
+            {
+              "id": "git-github-section-4-unit-10-collaboration-project-lesson-1",
+              "unitId": "git-github-section-4-unit-10-collaboration-project",
+              "title": "Learn Collaboration project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-10-collaboration-project-lesson-2",
+              "unitId": "git-github-section-4-unit-10-collaboration-project",
+              "title": "Practice Collaboration project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-4-unit-10-collaboration-project-lesson-3",
+              "unitId": "git-github-section-4-unit-10-collaboration-project",
+              "title": "Review Collaboration project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "git-github-section-5",
+      "trackId": "git-github",
+      "order": 5,
+      "title": "Section 5: Conflicts",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "git-github-section-5-unit-1-conflict-causes",
+          "sectionId": "git-github-section-5",
+          "order": 1,
+          "title": "Conflict causes",
+          "lessons": [
+            {
+              "id": "git-github-section-5-unit-1-conflict-causes-lesson-1",
+              "unitId": "git-github-section-5-unit-1-conflict-causes",
+              "title": "Learn Conflict causes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-1-conflict-causes-lesson-2",
+              "unitId": "git-github-section-5-unit-1-conflict-causes",
+              "title": "Practice Conflict causes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-1-conflict-causes-lesson-3",
+              "unitId": "git-github-section-5-unit-1-conflict-causes",
+              "title": "Review Conflict causes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-5-unit-2-reading-conflict-markers",
+          "sectionId": "git-github-section-5",
+          "order": 2,
+          "title": "Reading conflict markers",
+          "lessons": [
+            {
+              "id": "git-github-section-5-unit-2-reading-conflict-markers-lesson-1",
+              "unitId": "git-github-section-5-unit-2-reading-conflict-markers",
+              "title": "Learn Reading conflict markers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-2-reading-conflict-markers-lesson-2",
+              "unitId": "git-github-section-5-unit-2-reading-conflict-markers",
+              "title": "Practice Reading conflict markers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-2-reading-conflict-markers-lesson-3",
+              "unitId": "git-github-section-5-unit-2-reading-conflict-markers",
+              "title": "Review Reading conflict markers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-5-unit-3-resolving-text-conflicts",
+          "sectionId": "git-github-section-5",
+          "order": 3,
+          "title": "Resolving text conflicts",
+          "lessons": [
+            {
+              "id": "git-github-section-5-unit-3-resolving-text-conflicts-lesson-1",
+              "unitId": "git-github-section-5-unit-3-resolving-text-conflicts",
+              "title": "Learn Resolving text conflicts",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-3-resolving-text-conflicts-lesson-2",
+              "unitId": "git-github-section-5-unit-3-resolving-text-conflicts",
+              "title": "Practice Resolving text conflicts",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-3-resolving-text-conflicts-lesson-3",
+              "unitId": "git-github-section-5-unit-3-resolving-text-conflicts",
+              "title": "Review Resolving text conflicts",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-5-unit-4-resolving-rename-conflicts",
+          "sectionId": "git-github-section-5",
+          "order": 4,
+          "title": "Resolving rename conflicts",
+          "lessons": [
+            {
+              "id": "git-github-section-5-unit-4-resolving-rename-conflicts-lesson-1",
+              "unitId": "git-github-section-5-unit-4-resolving-rename-conflicts",
+              "title": "Learn Resolving rename conflicts",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-4-resolving-rename-conflicts-lesson-2",
+              "unitId": "git-github-section-5-unit-4-resolving-rename-conflicts",
+              "title": "Practice Resolving rename conflicts",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-4-resolving-rename-conflicts-lesson-3",
+              "unitId": "git-github-section-5-unit-4-resolving-rename-conflicts",
+              "title": "Review Resolving rename conflicts",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-5-unit-5-conflict-tools",
+          "sectionId": "git-github-section-5",
+          "order": 5,
+          "title": "Conflict tools",
+          "lessons": [
+            {
+              "id": "git-github-section-5-unit-5-conflict-tools-lesson-1",
+              "unitId": "git-github-section-5-unit-5-conflict-tools",
+              "title": "Learn Conflict tools",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-5-conflict-tools-lesson-2",
+              "unitId": "git-github-section-5-unit-5-conflict-tools",
+              "title": "Practice Conflict tools",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-5-conflict-tools-lesson-3",
+              "unitId": "git-github-section-5-unit-5-conflict-tools",
+              "title": "Review Conflict tools",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-5-unit-6-abort-merge",
+          "sectionId": "git-github-section-5",
+          "order": 6,
+          "title": "Abort merge",
+          "lessons": [
+            {
+              "id": "git-github-section-5-unit-6-abort-merge-lesson-1",
+              "unitId": "git-github-section-5-unit-6-abort-merge",
+              "title": "Learn Abort merge",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-6-abort-merge-lesson-2",
+              "unitId": "git-github-section-5-unit-6-abort-merge",
+              "title": "Practice Abort merge",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-6-abort-merge-lesson-3",
+              "unitId": "git-github-section-5-unit-6-abort-merge",
+              "title": "Review Abort merge",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-5-unit-7-continue-merge",
+          "sectionId": "git-github-section-5",
+          "order": 7,
+          "title": "Continue merge",
+          "lessons": [
+            {
+              "id": "git-github-section-5-unit-7-continue-merge-lesson-1",
+              "unitId": "git-github-section-5-unit-7-continue-merge",
+              "title": "Learn Continue merge",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-7-continue-merge-lesson-2",
+              "unitId": "git-github-section-5-unit-7-continue-merge",
+              "title": "Practice Continue merge",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-7-continue-merge-lesson-3",
+              "unitId": "git-github-section-5-unit-7-continue-merge",
+              "title": "Review Continue merge",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-5-unit-8-conflict-prevention",
+          "sectionId": "git-github-section-5",
+          "order": 8,
+          "title": "Conflict prevention",
+          "lessons": [
+            {
+              "id": "git-github-section-5-unit-8-conflict-prevention-lesson-1",
+              "unitId": "git-github-section-5-unit-8-conflict-prevention",
+              "title": "Learn Conflict prevention",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-8-conflict-prevention-lesson-2",
+              "unitId": "git-github-section-5-unit-8-conflict-prevention",
+              "title": "Practice Conflict prevention",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-8-conflict-prevention-lesson-3",
+              "unitId": "git-github-section-5-unit-8-conflict-prevention",
+              "title": "Review Conflict prevention",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-5-unit-9-team-conflict-flow",
+          "sectionId": "git-github-section-5",
+          "order": 9,
+          "title": "Team conflict flow",
+          "lessons": [
+            {
+              "id": "git-github-section-5-unit-9-team-conflict-flow-lesson-1",
+              "unitId": "git-github-section-5-unit-9-team-conflict-flow",
+              "title": "Learn Team conflict flow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-9-team-conflict-flow-lesson-2",
+              "unitId": "git-github-section-5-unit-9-team-conflict-flow",
+              "title": "Practice Team conflict flow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-9-team-conflict-flow-lesson-3",
+              "unitId": "git-github-section-5-unit-9-team-conflict-flow",
+              "title": "Review Team conflict flow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-5-unit-10-conflict-drills",
+          "sectionId": "git-github-section-5",
+          "order": 10,
+          "title": "Conflict drills",
+          "lessons": [
+            {
+              "id": "git-github-section-5-unit-10-conflict-drills-lesson-1",
+              "unitId": "git-github-section-5-unit-10-conflict-drills",
+              "title": "Learn Conflict drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-10-conflict-drills-lesson-2",
+              "unitId": "git-github-section-5-unit-10-conflict-drills",
+              "title": "Practice Conflict drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-5-unit-10-conflict-drills-lesson-3",
+              "unitId": "git-github-section-5-unit-10-conflict-drills",
+              "title": "Review Conflict drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "git-github-section-6",
+      "trackId": "git-github",
+      "order": 6,
+      "title": "Section 6: Rebase",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "git-github-section-6-unit-1-rebase-mental-model",
+          "sectionId": "git-github-section-6",
+          "order": 1,
+          "title": "Rebase mental model",
+          "lessons": [
+            {
+              "id": "git-github-section-6-unit-1-rebase-mental-model-lesson-1",
+              "unitId": "git-github-section-6-unit-1-rebase-mental-model",
+              "title": "Learn Rebase mental model",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-1-rebase-mental-model-lesson-2",
+              "unitId": "git-github-section-6-unit-1-rebase-mental-model",
+              "title": "Practice Rebase mental model",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-1-rebase-mental-model-lesson-3",
+              "unitId": "git-github-section-6-unit-1-rebase-mental-model",
+              "title": "Review Rebase mental model",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-6-unit-2-rebase-branch",
+          "sectionId": "git-github-section-6",
+          "order": 2,
+          "title": "Rebase branch",
+          "lessons": [
+            {
+              "id": "git-github-section-6-unit-2-rebase-branch-lesson-1",
+              "unitId": "git-github-section-6-unit-2-rebase-branch",
+              "title": "Learn Rebase branch",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-2-rebase-branch-lesson-2",
+              "unitId": "git-github-section-6-unit-2-rebase-branch",
+              "title": "Practice Rebase branch",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-2-rebase-branch-lesson-3",
+              "unitId": "git-github-section-6-unit-2-rebase-branch",
+              "title": "Review Rebase branch",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-6-unit-3-interactive-rebase",
+          "sectionId": "git-github-section-6",
+          "order": 3,
+          "title": "Interactive rebase",
+          "lessons": [
+            {
+              "id": "git-github-section-6-unit-3-interactive-rebase-lesson-1",
+              "unitId": "git-github-section-6-unit-3-interactive-rebase",
+              "title": "Learn Interactive rebase",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-3-interactive-rebase-lesson-2",
+              "unitId": "git-github-section-6-unit-3-interactive-rebase",
+              "title": "Practice Interactive rebase",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-3-interactive-rebase-lesson-3",
+              "unitId": "git-github-section-6-unit-3-interactive-rebase",
+              "title": "Review Interactive rebase",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-6-unit-4-squash-commits",
+          "sectionId": "git-github-section-6",
+          "order": 4,
+          "title": "Squash commits",
+          "lessons": [
+            {
+              "id": "git-github-section-6-unit-4-squash-commits-lesson-1",
+              "unitId": "git-github-section-6-unit-4-squash-commits",
+              "title": "Learn Squash commits",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-4-squash-commits-lesson-2",
+              "unitId": "git-github-section-6-unit-4-squash-commits",
+              "title": "Practice Squash commits",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-4-squash-commits-lesson-3",
+              "unitId": "git-github-section-6-unit-4-squash-commits",
+              "title": "Review Squash commits",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-6-unit-5-edit-commits",
+          "sectionId": "git-github-section-6",
+          "order": 5,
+          "title": "Edit commits",
+          "lessons": [
+            {
+              "id": "git-github-section-6-unit-5-edit-commits-lesson-1",
+              "unitId": "git-github-section-6-unit-5-edit-commits",
+              "title": "Learn Edit commits",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-5-edit-commits-lesson-2",
+              "unitId": "git-github-section-6-unit-5-edit-commits",
+              "title": "Practice Edit commits",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-5-edit-commits-lesson-3",
+              "unitId": "git-github-section-6-unit-5-edit-commits",
+              "title": "Review Edit commits",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-6-unit-6-reword-commits",
+          "sectionId": "git-github-section-6",
+          "order": 6,
+          "title": "Reword commits",
+          "lessons": [
+            {
+              "id": "git-github-section-6-unit-6-reword-commits-lesson-1",
+              "unitId": "git-github-section-6-unit-6-reword-commits",
+              "title": "Learn Reword commits",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-6-reword-commits-lesson-2",
+              "unitId": "git-github-section-6-unit-6-reword-commits",
+              "title": "Practice Reword commits",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-6-reword-commits-lesson-3",
+              "unitId": "git-github-section-6-unit-6-reword-commits",
+              "title": "Review Reword commits",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-6-unit-7-drop-commits",
+          "sectionId": "git-github-section-6",
+          "order": 7,
+          "title": "Drop commits",
+          "lessons": [
+            {
+              "id": "git-github-section-6-unit-7-drop-commits-lesson-1",
+              "unitId": "git-github-section-6-unit-7-drop-commits",
+              "title": "Learn Drop commits",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-7-drop-commits-lesson-2",
+              "unitId": "git-github-section-6-unit-7-drop-commits",
+              "title": "Practice Drop commits",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-7-drop-commits-lesson-3",
+              "unitId": "git-github-section-6-unit-7-drop-commits",
+              "title": "Review Drop commits",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-6-unit-8-rebase-conflicts",
+          "sectionId": "git-github-section-6",
+          "order": 8,
+          "title": "Rebase conflicts",
+          "lessons": [
+            {
+              "id": "git-github-section-6-unit-8-rebase-conflicts-lesson-1",
+              "unitId": "git-github-section-6-unit-8-rebase-conflicts",
+              "title": "Learn Rebase conflicts",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-8-rebase-conflicts-lesson-2",
+              "unitId": "git-github-section-6-unit-8-rebase-conflicts",
+              "title": "Practice Rebase conflicts",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-8-rebase-conflicts-lesson-3",
+              "unitId": "git-github-section-6-unit-8-rebase-conflicts",
+              "title": "Review Rebase conflicts",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-6-unit-9-force-push-safety",
+          "sectionId": "git-github-section-6",
+          "order": 9,
+          "title": "Force push safety",
+          "lessons": [
+            {
+              "id": "git-github-section-6-unit-9-force-push-safety-lesson-1",
+              "unitId": "git-github-section-6-unit-9-force-push-safety",
+              "title": "Learn Force push safety",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-9-force-push-safety-lesson-2",
+              "unitId": "git-github-section-6-unit-9-force-push-safety",
+              "title": "Practice Force push safety",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-9-force-push-safety-lesson-3",
+              "unitId": "git-github-section-6-unit-9-force-push-safety",
+              "title": "Review Force push safety",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-6-unit-10-clean-history",
+          "sectionId": "git-github-section-6",
+          "order": 10,
+          "title": "Clean history",
+          "lessons": [
+            {
+              "id": "git-github-section-6-unit-10-clean-history-lesson-1",
+              "unitId": "git-github-section-6-unit-10-clean-history",
+              "title": "Learn Clean history",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-10-clean-history-lesson-2",
+              "unitId": "git-github-section-6-unit-10-clean-history",
+              "title": "Practice Clean history",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-6-unit-10-clean-history-lesson-3",
+              "unitId": "git-github-section-6-unit-10-clean-history",
+              "title": "Review Clean history",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "git-github-section-7",
+      "trackId": "git-github",
+      "order": 7,
+      "title": "Section 7: Stashing & Cherry Pick",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "git-github-section-7-unit-1-git-stash",
+          "sectionId": "git-github-section-7",
+          "order": 1,
+          "title": "git stash",
+          "lessons": [
+            {
+              "id": "git-github-section-7-unit-1-git-stash-lesson-1",
+              "unitId": "git-github-section-7-unit-1-git-stash",
+              "title": "Learn git stash",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-1-git-stash-lesson-2",
+              "unitId": "git-github-section-7-unit-1-git-stash",
+              "title": "Practice git stash",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-1-git-stash-lesson-3",
+              "unitId": "git-github-section-7-unit-1-git-stash",
+              "title": "Review git stash",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-7-unit-2-apply-stash",
+          "sectionId": "git-github-section-7",
+          "order": 2,
+          "title": "Apply stash",
+          "lessons": [
+            {
+              "id": "git-github-section-7-unit-2-apply-stash-lesson-1",
+              "unitId": "git-github-section-7-unit-2-apply-stash",
+              "title": "Learn Apply stash",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-2-apply-stash-lesson-2",
+              "unitId": "git-github-section-7-unit-2-apply-stash",
+              "title": "Practice Apply stash",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-2-apply-stash-lesson-3",
+              "unitId": "git-github-section-7-unit-2-apply-stash",
+              "title": "Review Apply stash",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-7-unit-3-pop-stash",
+          "sectionId": "git-github-section-7",
+          "order": 3,
+          "title": "Pop stash",
+          "lessons": [
+            {
+              "id": "git-github-section-7-unit-3-pop-stash-lesson-1",
+              "unitId": "git-github-section-7-unit-3-pop-stash",
+              "title": "Learn Pop stash",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-3-pop-stash-lesson-2",
+              "unitId": "git-github-section-7-unit-3-pop-stash",
+              "title": "Practice Pop stash",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-3-pop-stash-lesson-3",
+              "unitId": "git-github-section-7-unit-3-pop-stash",
+              "title": "Review Pop stash",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-7-unit-4-stash-conflicts",
+          "sectionId": "git-github-section-7",
+          "order": 4,
+          "title": "Stash conflicts",
+          "lessons": [
+            {
+              "id": "git-github-section-7-unit-4-stash-conflicts-lesson-1",
+              "unitId": "git-github-section-7-unit-4-stash-conflicts",
+              "title": "Learn Stash conflicts",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-4-stash-conflicts-lesson-2",
+              "unitId": "git-github-section-7-unit-4-stash-conflicts",
+              "title": "Practice Stash conflicts",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-4-stash-conflicts-lesson-3",
+              "unitId": "git-github-section-7-unit-4-stash-conflicts",
+              "title": "Review Stash conflicts",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-7-unit-5-cherry-pick",
+          "sectionId": "git-github-section-7",
+          "order": 5,
+          "title": "Cherry-pick",
+          "lessons": [
+            {
+              "id": "git-github-section-7-unit-5-cherry-pick-lesson-1",
+              "unitId": "git-github-section-7-unit-5-cherry-pick",
+              "title": "Learn Cherry-pick",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-5-cherry-pick-lesson-2",
+              "unitId": "git-github-section-7-unit-5-cherry-pick",
+              "title": "Practice Cherry-pick",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-5-cherry-pick-lesson-3",
+              "unitId": "git-github-section-7-unit-5-cherry-pick",
+              "title": "Review Cherry-pick",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-7-unit-6-cherry-pick-conflicts",
+          "sectionId": "git-github-section-7",
+          "order": 6,
+          "title": "Cherry-pick conflicts",
+          "lessons": [
+            {
+              "id": "git-github-section-7-unit-6-cherry-pick-conflicts-lesson-1",
+              "unitId": "git-github-section-7-unit-6-cherry-pick-conflicts",
+              "title": "Learn Cherry-pick conflicts",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-6-cherry-pick-conflicts-lesson-2",
+              "unitId": "git-github-section-7-unit-6-cherry-pick-conflicts",
+              "title": "Practice Cherry-pick conflicts",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-6-cherry-pick-conflicts-lesson-3",
+              "unitId": "git-github-section-7-unit-6-cherry-pick-conflicts",
+              "title": "Review Cherry-pick conflicts",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-7-unit-7-patch-files",
+          "sectionId": "git-github-section-7",
+          "order": 7,
+          "title": "Patch files",
+          "lessons": [
+            {
+              "id": "git-github-section-7-unit-7-patch-files-lesson-1",
+              "unitId": "git-github-section-7-unit-7-patch-files",
+              "title": "Learn Patch files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-7-patch-files-lesson-2",
+              "unitId": "git-github-section-7-unit-7-patch-files",
+              "title": "Practice Patch files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-7-patch-files-lesson-3",
+              "unitId": "git-github-section-7-unit-7-patch-files",
+              "title": "Review Patch files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-7-unit-8-selective-restore",
+          "sectionId": "git-github-section-7",
+          "order": 8,
+          "title": "Selective restore",
+          "lessons": [
+            {
+              "id": "git-github-section-7-unit-8-selective-restore-lesson-1",
+              "unitId": "git-github-section-7-unit-8-selective-restore",
+              "title": "Learn Selective restore",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-8-selective-restore-lesson-2",
+              "unitId": "git-github-section-7-unit-8-selective-restore",
+              "title": "Practice Selective restore",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-8-selective-restore-lesson-3",
+              "unitId": "git-github-section-7-unit-8-selective-restore",
+              "title": "Review Selective restore",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-7-unit-9-worktree-basics",
+          "sectionId": "git-github-section-7",
+          "order": 9,
+          "title": "Worktree basics",
+          "lessons": [
+            {
+              "id": "git-github-section-7-unit-9-worktree-basics-lesson-1",
+              "unitId": "git-github-section-7-unit-9-worktree-basics",
+              "title": "Learn Worktree basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-9-worktree-basics-lesson-2",
+              "unitId": "git-github-section-7-unit-9-worktree-basics",
+              "title": "Practice Worktree basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-9-worktree-basics-lesson-3",
+              "unitId": "git-github-section-7-unit-9-worktree-basics",
+              "title": "Review Worktree basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-7-unit-10-recovery-practice",
+          "sectionId": "git-github-section-7",
+          "order": 10,
+          "title": "Recovery practice",
+          "lessons": [
+            {
+              "id": "git-github-section-7-unit-10-recovery-practice-lesson-1",
+              "unitId": "git-github-section-7-unit-10-recovery-practice",
+              "title": "Learn Recovery practice",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-10-recovery-practice-lesson-2",
+              "unitId": "git-github-section-7-unit-10-recovery-practice",
+              "title": "Practice Recovery practice",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-7-unit-10-recovery-practice-lesson-3",
+              "unitId": "git-github-section-7-unit-10-recovery-practice",
+              "title": "Review Recovery practice",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "git-github-section-8",
+      "trackId": "git-github",
+      "order": 8,
+      "title": "Section 8: GitHub Workflows",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "git-github-section-8-unit-1-issues",
+          "sectionId": "git-github-section-8",
+          "order": 1,
+          "title": "Issues",
+          "lessons": [
+            {
+              "id": "git-github-section-8-unit-1-issues-lesson-1",
+              "unitId": "git-github-section-8-unit-1-issues",
+              "title": "Learn Issues",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-1-issues-lesson-2",
+              "unitId": "git-github-section-8-unit-1-issues",
+              "title": "Practice Issues",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-1-issues-lesson-3",
+              "unitId": "git-github-section-8-unit-1-issues",
+              "title": "Review Issues",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-8-unit-2-labels",
+          "sectionId": "git-github-section-8",
+          "order": 2,
+          "title": "Labels",
+          "lessons": [
+            {
+              "id": "git-github-section-8-unit-2-labels-lesson-1",
+              "unitId": "git-github-section-8-unit-2-labels",
+              "title": "Learn Labels",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-2-labels-lesson-2",
+              "unitId": "git-github-section-8-unit-2-labels",
+              "title": "Practice Labels",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-2-labels-lesson-3",
+              "unitId": "git-github-section-8-unit-2-labels",
+              "title": "Review Labels",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-8-unit-3-milestones",
+          "sectionId": "git-github-section-8",
+          "order": 3,
+          "title": "Milestones",
+          "lessons": [
+            {
+              "id": "git-github-section-8-unit-3-milestones-lesson-1",
+              "unitId": "git-github-section-8-unit-3-milestones",
+              "title": "Learn Milestones",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-3-milestones-lesson-2",
+              "unitId": "git-github-section-8-unit-3-milestones",
+              "title": "Practice Milestones",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-3-milestones-lesson-3",
+              "unitId": "git-github-section-8-unit-3-milestones",
+              "title": "Review Milestones",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-8-unit-4-projects",
+          "sectionId": "git-github-section-8",
+          "order": 4,
+          "title": "Projects",
+          "lessons": [
+            {
+              "id": "git-github-section-8-unit-4-projects-lesson-1",
+              "unitId": "git-github-section-8-unit-4-projects",
+              "title": "Learn Projects",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-4-projects-lesson-2",
+              "unitId": "git-github-section-8-unit-4-projects",
+              "title": "Practice Projects",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-4-projects-lesson-3",
+              "unitId": "git-github-section-8-unit-4-projects",
+              "title": "Review Projects",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-8-unit-5-actions-basics",
+          "sectionId": "git-github-section-8",
+          "order": 5,
+          "title": "Actions basics",
+          "lessons": [
+            {
+              "id": "git-github-section-8-unit-5-actions-basics-lesson-1",
+              "unitId": "git-github-section-8-unit-5-actions-basics",
+              "title": "Learn Actions basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-5-actions-basics-lesson-2",
+              "unitId": "git-github-section-8-unit-5-actions-basics",
+              "title": "Practice Actions basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-5-actions-basics-lesson-3",
+              "unitId": "git-github-section-8-unit-5-actions-basics",
+              "title": "Review Actions basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-8-unit-6-branch-protection",
+          "sectionId": "git-github-section-8",
+          "order": 6,
+          "title": "Branch protection",
+          "lessons": [
+            {
+              "id": "git-github-section-8-unit-6-branch-protection-lesson-1",
+              "unitId": "git-github-section-8-unit-6-branch-protection",
+              "title": "Learn Branch protection",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-6-branch-protection-lesson-2",
+              "unitId": "git-github-section-8-unit-6-branch-protection",
+              "title": "Practice Branch protection",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-6-branch-protection-lesson-3",
+              "unitId": "git-github-section-8-unit-6-branch-protection",
+              "title": "Review Branch protection",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-8-unit-7-codeowners",
+          "sectionId": "git-github-section-8",
+          "order": 7,
+          "title": "CODEOWNERS",
+          "lessons": [
+            {
+              "id": "git-github-section-8-unit-7-codeowners-lesson-1",
+              "unitId": "git-github-section-8-unit-7-codeowners",
+              "title": "Learn CODEOWNERS",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-7-codeowners-lesson-2",
+              "unitId": "git-github-section-8-unit-7-codeowners",
+              "title": "Practice CODEOWNERS",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-7-codeowners-lesson-3",
+              "unitId": "git-github-section-8-unit-7-codeowners",
+              "title": "Review CODEOWNERS",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-8-unit-8-release-tags",
+          "sectionId": "git-github-section-8",
+          "order": 8,
+          "title": "Release tags",
+          "lessons": [
+            {
+              "id": "git-github-section-8-unit-8-release-tags-lesson-1",
+              "unitId": "git-github-section-8-unit-8-release-tags",
+              "title": "Learn Release tags",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-8-release-tags-lesson-2",
+              "unitId": "git-github-section-8-unit-8-release-tags",
+              "title": "Practice Release tags",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-8-release-tags-lesson-3",
+              "unitId": "git-github-section-8-unit-8-release-tags",
+              "title": "Review Release tags",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-8-unit-9-changelogs",
+          "sectionId": "git-github-section-8",
+          "order": 9,
+          "title": "Changelogs",
+          "lessons": [
+            {
+              "id": "git-github-section-8-unit-9-changelogs-lesson-1",
+              "unitId": "git-github-section-8-unit-9-changelogs",
+              "title": "Learn Changelogs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-9-changelogs-lesson-2",
+              "unitId": "git-github-section-8-unit-9-changelogs",
+              "title": "Practice Changelogs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-9-changelogs-lesson-3",
+              "unitId": "git-github-section-8-unit-9-changelogs",
+              "title": "Review Changelogs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-8-unit-10-workflow-project",
+          "sectionId": "git-github-section-8",
+          "order": 10,
+          "title": "Workflow project",
+          "lessons": [
+            {
+              "id": "git-github-section-8-unit-10-workflow-project-lesson-1",
+              "unitId": "git-github-section-8-unit-10-workflow-project",
+              "title": "Learn Workflow project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-10-workflow-project-lesson-2",
+              "unitId": "git-github-section-8-unit-10-workflow-project",
+              "title": "Practice Workflow project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-8-unit-10-workflow-project-lesson-3",
+              "unitId": "git-github-section-8-unit-10-workflow-project",
+              "title": "Review Workflow project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "git-github-section-9",
+      "trackId": "git-github",
+      "order": 9,
+      "title": "Section 9: Release & Versioning",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "git-github-section-9-unit-1-semantic-versioning",
+          "sectionId": "git-github-section-9",
+          "order": 1,
+          "title": "Semantic versioning",
+          "lessons": [
+            {
+              "id": "git-github-section-9-unit-1-semantic-versioning-lesson-1",
+              "unitId": "git-github-section-9-unit-1-semantic-versioning",
+              "title": "Learn Semantic versioning",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-1-semantic-versioning-lesson-2",
+              "unitId": "git-github-section-9-unit-1-semantic-versioning",
+              "title": "Practice Semantic versioning",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-1-semantic-versioning-lesson-3",
+              "unitId": "git-github-section-9-unit-1-semantic-versioning",
+              "title": "Review Semantic versioning",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-9-unit-2-tags",
+          "sectionId": "git-github-section-9",
+          "order": 2,
+          "title": "Tags",
+          "lessons": [
+            {
+              "id": "git-github-section-9-unit-2-tags-lesson-1",
+              "unitId": "git-github-section-9-unit-2-tags",
+              "title": "Learn Tags",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-2-tags-lesson-2",
+              "unitId": "git-github-section-9-unit-2-tags",
+              "title": "Practice Tags",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-2-tags-lesson-3",
+              "unitId": "git-github-section-9-unit-2-tags",
+              "title": "Review Tags",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-9-unit-3-github-releases",
+          "sectionId": "git-github-section-9",
+          "order": 3,
+          "title": "GitHub releases",
+          "lessons": [
+            {
+              "id": "git-github-section-9-unit-3-github-releases-lesson-1",
+              "unitId": "git-github-section-9-unit-3-github-releases",
+              "title": "Learn GitHub releases",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-3-github-releases-lesson-2",
+              "unitId": "git-github-section-9-unit-3-github-releases",
+              "title": "Practice GitHub releases",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-3-github-releases-lesson-3",
+              "unitId": "git-github-section-9-unit-3-github-releases",
+              "title": "Review GitHub releases",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-9-unit-4-hotfix-branches",
+          "sectionId": "git-github-section-9",
+          "order": 4,
+          "title": "Hotfix branches",
+          "lessons": [
+            {
+              "id": "git-github-section-9-unit-4-hotfix-branches-lesson-1",
+              "unitId": "git-github-section-9-unit-4-hotfix-branches",
+              "title": "Learn Hotfix branches",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-4-hotfix-branches-lesson-2",
+              "unitId": "git-github-section-9-unit-4-hotfix-branches",
+              "title": "Practice Hotfix branches",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-4-hotfix-branches-lesson-3",
+              "unitId": "git-github-section-9-unit-4-hotfix-branches",
+              "title": "Review Hotfix branches",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-9-unit-5-backports",
+          "sectionId": "git-github-section-9",
+          "order": 5,
+          "title": "Backports",
+          "lessons": [
+            {
+              "id": "git-github-section-9-unit-5-backports-lesson-1",
+              "unitId": "git-github-section-9-unit-5-backports",
+              "title": "Learn Backports",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-5-backports-lesson-2",
+              "unitId": "git-github-section-9-unit-5-backports",
+              "title": "Practice Backports",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-5-backports-lesson-3",
+              "unitId": "git-github-section-9-unit-5-backports",
+              "title": "Review Backports",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-9-unit-6-release-notes",
+          "sectionId": "git-github-section-9",
+          "order": 6,
+          "title": "Release notes",
+          "lessons": [
+            {
+              "id": "git-github-section-9-unit-6-release-notes-lesson-1",
+              "unitId": "git-github-section-9-unit-6-release-notes",
+              "title": "Learn Release notes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-6-release-notes-lesson-2",
+              "unitId": "git-github-section-9-unit-6-release-notes",
+              "title": "Practice Release notes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-6-release-notes-lesson-3",
+              "unitId": "git-github-section-9-unit-6-release-notes",
+              "title": "Review Release notes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-9-unit-7-rollback-strategy",
+          "sectionId": "git-github-section-9",
+          "order": 7,
+          "title": "Rollback strategy",
+          "lessons": [
+            {
+              "id": "git-github-section-9-unit-7-rollback-strategy-lesson-1",
+              "unitId": "git-github-section-9-unit-7-rollback-strategy",
+              "title": "Learn Rollback strategy",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-7-rollback-strategy-lesson-2",
+              "unitId": "git-github-section-9-unit-7-rollback-strategy",
+              "title": "Practice Rollback strategy",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-7-rollback-strategy-lesson-3",
+              "unitId": "git-github-section-9-unit-7-rollback-strategy",
+              "title": "Review Rollback strategy",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-9-unit-8-audit-history",
+          "sectionId": "git-github-section-9",
+          "order": 8,
+          "title": "Audit history",
+          "lessons": [
+            {
+              "id": "git-github-section-9-unit-8-audit-history-lesson-1",
+              "unitId": "git-github-section-9-unit-8-audit-history",
+              "title": "Learn Audit history",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-8-audit-history-lesson-2",
+              "unitId": "git-github-section-9-unit-8-audit-history",
+              "title": "Practice Audit history",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-8-audit-history-lesson-3",
+              "unitId": "git-github-section-9-unit-8-audit-history",
+              "title": "Review Audit history",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-9-unit-9-archive-branches",
+          "sectionId": "git-github-section-9",
+          "order": 9,
+          "title": "Archive branches",
+          "lessons": [
+            {
+              "id": "git-github-section-9-unit-9-archive-branches-lesson-1",
+              "unitId": "git-github-section-9-unit-9-archive-branches",
+              "title": "Learn Archive branches",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-9-archive-branches-lesson-2",
+              "unitId": "git-github-section-9-unit-9-archive-branches",
+              "title": "Practice Archive branches",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-9-archive-branches-lesson-3",
+              "unitId": "git-github-section-9-unit-9-archive-branches",
+              "title": "Review Archive branches",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-9-unit-10-release-practice",
+          "sectionId": "git-github-section-9",
+          "order": 10,
+          "title": "Release practice",
+          "lessons": [
+            {
+              "id": "git-github-section-9-unit-10-release-practice-lesson-1",
+              "unitId": "git-github-section-9-unit-10-release-practice",
+              "title": "Learn Release practice",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-10-release-practice-lesson-2",
+              "unitId": "git-github-section-9-unit-10-release-practice",
+              "title": "Practice Release practice",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-9-unit-10-release-practice-lesson-3",
+              "unitId": "git-github-section-9-unit-10-release-practice",
+              "title": "Review Release practice",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "git-github-section-10",
+      "trackId": "git-github",
+      "order": 10,
+      "title": "Section 10: Git Capstones",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "git-github-section-10-unit-1-solo-repo-cleanup",
+          "sectionId": "git-github-section-10",
+          "order": 1,
+          "title": "Solo repo cleanup",
+          "lessons": [
+            {
+              "id": "git-github-section-10-unit-1-solo-repo-cleanup-lesson-1",
+              "unitId": "git-github-section-10-unit-1-solo-repo-cleanup",
+              "title": "Learn Solo repo cleanup",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-1-solo-repo-cleanup-lesson-2",
+              "unitId": "git-github-section-10-unit-1-solo-repo-cleanup",
+              "title": "Practice Solo repo cleanup",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-1-solo-repo-cleanup-lesson-3",
+              "unitId": "git-github-section-10-unit-1-solo-repo-cleanup",
+              "title": "Review Solo repo cleanup",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-10-unit-2-feature-branch-flow",
+          "sectionId": "git-github-section-10",
+          "order": 2,
+          "title": "Feature branch flow",
+          "lessons": [
+            {
+              "id": "git-github-section-10-unit-2-feature-branch-flow-lesson-1",
+              "unitId": "git-github-section-10-unit-2-feature-branch-flow",
+              "title": "Learn Feature branch flow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-2-feature-branch-flow-lesson-2",
+              "unitId": "git-github-section-10-unit-2-feature-branch-flow",
+              "title": "Practice Feature branch flow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-2-feature-branch-flow-lesson-3",
+              "unitId": "git-github-section-10-unit-2-feature-branch-flow",
+              "title": "Review Feature branch flow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-10-unit-3-pr-review-flow",
+          "sectionId": "git-github-section-10",
+          "order": 3,
+          "title": "PR review flow",
+          "lessons": [
+            {
+              "id": "git-github-section-10-unit-3-pr-review-flow-lesson-1",
+              "unitId": "git-github-section-10-unit-3-pr-review-flow",
+              "title": "Learn PR review flow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-3-pr-review-flow-lesson-2",
+              "unitId": "git-github-section-10-unit-3-pr-review-flow",
+              "title": "Practice PR review flow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-3-pr-review-flow-lesson-3",
+              "unitId": "git-github-section-10-unit-3-pr-review-flow",
+              "title": "Review PR review flow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-10-unit-4-conflict-simulation",
+          "sectionId": "git-github-section-10",
+          "order": 4,
+          "title": "Conflict simulation",
+          "lessons": [
+            {
+              "id": "git-github-section-10-unit-4-conflict-simulation-lesson-1",
+              "unitId": "git-github-section-10-unit-4-conflict-simulation",
+              "title": "Learn Conflict simulation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-4-conflict-simulation-lesson-2",
+              "unitId": "git-github-section-10-unit-4-conflict-simulation",
+              "title": "Practice Conflict simulation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-4-conflict-simulation-lesson-3",
+              "unitId": "git-github-section-10-unit-4-conflict-simulation",
+              "title": "Review Conflict simulation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-10-unit-5-rebase-cleanup",
+          "sectionId": "git-github-section-10",
+          "order": 5,
+          "title": "Rebase cleanup",
+          "lessons": [
+            {
+              "id": "git-github-section-10-unit-5-rebase-cleanup-lesson-1",
+              "unitId": "git-github-section-10-unit-5-rebase-cleanup",
+              "title": "Learn Rebase cleanup",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-5-rebase-cleanup-lesson-2",
+              "unitId": "git-github-section-10-unit-5-rebase-cleanup",
+              "title": "Practice Rebase cleanup",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-5-rebase-cleanup-lesson-3",
+              "unitId": "git-github-section-10-unit-5-rebase-cleanup",
+              "title": "Review Rebase cleanup",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-10-unit-6-release-flow",
+          "sectionId": "git-github-section-10",
+          "order": 6,
+          "title": "Release flow",
+          "lessons": [
+            {
+              "id": "git-github-section-10-unit-6-release-flow-lesson-1",
+              "unitId": "git-github-section-10-unit-6-release-flow",
+              "title": "Learn Release flow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-6-release-flow-lesson-2",
+              "unitId": "git-github-section-10-unit-6-release-flow",
+              "title": "Practice Release flow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-6-release-flow-lesson-3",
+              "unitId": "git-github-section-10-unit-6-release-flow",
+              "title": "Review Release flow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-10-unit-7-hotfix-flow",
+          "sectionId": "git-github-section-10",
+          "order": 7,
+          "title": "Hotfix flow",
+          "lessons": [
+            {
+              "id": "git-github-section-10-unit-7-hotfix-flow-lesson-1",
+              "unitId": "git-github-section-10-unit-7-hotfix-flow",
+              "title": "Learn Hotfix flow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-7-hotfix-flow-lesson-2",
+              "unitId": "git-github-section-10-unit-7-hotfix-flow",
+              "title": "Practice Hotfix flow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-7-hotfix-flow-lesson-3",
+              "unitId": "git-github-section-10-unit-7-hotfix-flow",
+              "title": "Review Hotfix flow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-10-unit-8-open-source-contribution",
+          "sectionId": "git-github-section-10",
+          "order": 8,
+          "title": "Open source contribution",
+          "lessons": [
+            {
+              "id": "git-github-section-10-unit-8-open-source-contribution-lesson-1",
+              "unitId": "git-github-section-10-unit-8-open-source-contribution",
+              "title": "Learn Open source contribution",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-8-open-source-contribution-lesson-2",
+              "unitId": "git-github-section-10-unit-8-open-source-contribution",
+              "title": "Practice Open source contribution",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-8-open-source-contribution-lesson-3",
+              "unitId": "git-github-section-10-unit-8-open-source-contribution",
+              "title": "Review Open source contribution",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-10-unit-9-team-workflow-audit",
+          "sectionId": "git-github-section-10",
+          "order": 9,
+          "title": "Team workflow audit",
+          "lessons": [
+            {
+              "id": "git-github-section-10-unit-9-team-workflow-audit-lesson-1",
+              "unitId": "git-github-section-10-unit-9-team-workflow-audit",
+              "title": "Learn Team workflow audit",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-9-team-workflow-audit-lesson-2",
+              "unitId": "git-github-section-10-unit-9-team-workflow-audit",
+              "title": "Practice Team workflow audit",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-9-team-workflow-audit-lesson-3",
+              "unitId": "git-github-section-10-unit-9-team-workflow-audit",
+              "title": "Review Team workflow audit",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "git-github-section-10-unit-10-final-git-workflow",
+          "sectionId": "git-github-section-10",
+          "order": 10,
+          "title": "Final Git workflow",
+          "lessons": [
+            {
+              "id": "git-github-section-10-unit-10-final-git-workflow-lesson-1",
+              "unitId": "git-github-section-10-unit-10-final-git-workflow",
+              "title": "Learn Final Git workflow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-10-final-git-workflow-lesson-2",
+              "unitId": "git-github-section-10-unit-10-final-git-workflow",
+              "title": "Practice Final Git workflow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "git-github-section-10-unit-10-final-git-workflow-lesson-3",
+              "unitId": "git-github-section-10-unit-10-final-git-workflow",
+              "title": "Review Final Git workflow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

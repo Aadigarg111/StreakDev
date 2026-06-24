@@ -1,0 +1,3006 @@
+{
+  "id": "ood",
+  "title": "Object-Oriented Design",
+  "category": "core-cs",
+  "icon": "boxes",
+  "color": "#FF4B4B",
+  "description": "Model maintainable systems with objects, SOLID principles, and design patterns.",
+  "sections": [
+    {
+      "id": "ood-section-1",
+      "trackId": "ood",
+      "order": 1,
+      "title": "Section 1: OOP Foundations",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "ood-section-1-unit-1-objects",
+          "sectionId": "ood-section-1",
+          "order": 1,
+          "title": "Objects",
+          "lessons": [
+            {
+              "id": "ood-section-1-unit-1-objects-lesson-1",
+              "unitId": "ood-section-1-unit-1-objects",
+              "title": "Learn Objects",
+              "order": 1,
+              "exerciseIds": [
+                "ood-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "ood-section-1-unit-1-objects-lesson-2",
+              "unitId": "ood-section-1-unit-1-objects",
+              "title": "Practice Objects",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-1-objects-lesson-3",
+              "unitId": "ood-section-1-unit-1-objects",
+              "title": "Review Objects",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-1-unit-2-classes",
+          "sectionId": "ood-section-1",
+          "order": 2,
+          "title": "Classes",
+          "lessons": [
+            {
+              "id": "ood-section-1-unit-2-classes-lesson-1",
+              "unitId": "ood-section-1-unit-2-classes",
+              "title": "Learn Classes",
+              "order": 1,
+              "exerciseIds": [
+                "ood-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "ood-section-1-unit-2-classes-lesson-2",
+              "unitId": "ood-section-1-unit-2-classes",
+              "title": "Practice Classes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-2-classes-lesson-3",
+              "unitId": "ood-section-1-unit-2-classes",
+              "title": "Review Classes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-1-unit-3-state-and-behavior",
+          "sectionId": "ood-section-1",
+          "order": 3,
+          "title": "State and behavior",
+          "lessons": [
+            {
+              "id": "ood-section-1-unit-3-state-and-behavior-lesson-1",
+              "unitId": "ood-section-1-unit-3-state-and-behavior",
+              "title": "Learn State and behavior",
+              "order": 1,
+              "exerciseIds": [
+                "ood-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "ood-section-1-unit-3-state-and-behavior-lesson-2",
+              "unitId": "ood-section-1-unit-3-state-and-behavior",
+              "title": "Practice State and behavior",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-3-state-and-behavior-lesson-3",
+              "unitId": "ood-section-1-unit-3-state-and-behavior",
+              "title": "Review State and behavior",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-1-unit-4-encapsulation",
+          "sectionId": "ood-section-1",
+          "order": 4,
+          "title": "Encapsulation",
+          "lessons": [
+            {
+              "id": "ood-section-1-unit-4-encapsulation-lesson-1",
+              "unitId": "ood-section-1-unit-4-encapsulation",
+              "title": "Learn Encapsulation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-4-encapsulation-lesson-2",
+              "unitId": "ood-section-1-unit-4-encapsulation",
+              "title": "Practice Encapsulation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-4-encapsulation-lesson-3",
+              "unitId": "ood-section-1-unit-4-encapsulation",
+              "title": "Review Encapsulation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-1-unit-5-abstraction",
+          "sectionId": "ood-section-1",
+          "order": 5,
+          "title": "Abstraction",
+          "lessons": [
+            {
+              "id": "ood-section-1-unit-5-abstraction-lesson-1",
+              "unitId": "ood-section-1-unit-5-abstraction",
+              "title": "Learn Abstraction",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-5-abstraction-lesson-2",
+              "unitId": "ood-section-1-unit-5-abstraction",
+              "title": "Practice Abstraction",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-5-abstraction-lesson-3",
+              "unitId": "ood-section-1-unit-5-abstraction",
+              "title": "Review Abstraction",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-1-unit-6-inheritance",
+          "sectionId": "ood-section-1",
+          "order": 6,
+          "title": "Inheritance",
+          "lessons": [
+            {
+              "id": "ood-section-1-unit-6-inheritance-lesson-1",
+              "unitId": "ood-section-1-unit-6-inheritance",
+              "title": "Learn Inheritance",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-6-inheritance-lesson-2",
+              "unitId": "ood-section-1-unit-6-inheritance",
+              "title": "Practice Inheritance",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-6-inheritance-lesson-3",
+              "unitId": "ood-section-1-unit-6-inheritance",
+              "title": "Review Inheritance",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-1-unit-7-polymorphism",
+          "sectionId": "ood-section-1",
+          "order": 7,
+          "title": "Polymorphism",
+          "lessons": [
+            {
+              "id": "ood-section-1-unit-7-polymorphism-lesson-1",
+              "unitId": "ood-section-1-unit-7-polymorphism",
+              "title": "Learn Polymorphism",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-7-polymorphism-lesson-2",
+              "unitId": "ood-section-1-unit-7-polymorphism",
+              "title": "Practice Polymorphism",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-7-polymorphism-lesson-3",
+              "unitId": "ood-section-1-unit-7-polymorphism",
+              "title": "Review Polymorphism",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-1-unit-8-composition",
+          "sectionId": "ood-section-1",
+          "order": 8,
+          "title": "Composition",
+          "lessons": [
+            {
+              "id": "ood-section-1-unit-8-composition-lesson-1",
+              "unitId": "ood-section-1-unit-8-composition",
+              "title": "Learn Composition",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-8-composition-lesson-2",
+              "unitId": "ood-section-1-unit-8-composition",
+              "title": "Practice Composition",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-8-composition-lesson-3",
+              "unitId": "ood-section-1-unit-8-composition",
+              "title": "Review Composition",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-1-unit-9-coupling",
+          "sectionId": "ood-section-1",
+          "order": 9,
+          "title": "Coupling",
+          "lessons": [
+            {
+              "id": "ood-section-1-unit-9-coupling-lesson-1",
+              "unitId": "ood-section-1-unit-9-coupling",
+              "title": "Learn Coupling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-9-coupling-lesson-2",
+              "unitId": "ood-section-1-unit-9-coupling",
+              "title": "Practice Coupling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-9-coupling-lesson-3",
+              "unitId": "ood-section-1-unit-9-coupling",
+              "title": "Review Coupling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-1-unit-10-cohesion",
+          "sectionId": "ood-section-1",
+          "order": 10,
+          "title": "Cohesion",
+          "lessons": [
+            {
+              "id": "ood-section-1-unit-10-cohesion-lesson-1",
+              "unitId": "ood-section-1-unit-10-cohesion",
+              "title": "Learn Cohesion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-10-cohesion-lesson-2",
+              "unitId": "ood-section-1-unit-10-cohesion",
+              "title": "Practice Cohesion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-1-unit-10-cohesion-lesson-3",
+              "unitId": "ood-section-1-unit-10-cohesion",
+              "title": "Review Cohesion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ood-section-2",
+      "trackId": "ood",
+      "order": 2,
+      "title": "Section 2: Class Design",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "ood-section-2-unit-1-responsibilities",
+          "sectionId": "ood-section-2",
+          "order": 1,
+          "title": "Responsibilities",
+          "lessons": [
+            {
+              "id": "ood-section-2-unit-1-responsibilities-lesson-1",
+              "unitId": "ood-section-2-unit-1-responsibilities",
+              "title": "Learn Responsibilities",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-1-responsibilities-lesson-2",
+              "unitId": "ood-section-2-unit-1-responsibilities",
+              "title": "Practice Responsibilities",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-1-responsibilities-lesson-3",
+              "unitId": "ood-section-2-unit-1-responsibilities",
+              "title": "Review Responsibilities",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-2-unit-2-public-apis",
+          "sectionId": "ood-section-2",
+          "order": 2,
+          "title": "Public APIs",
+          "lessons": [
+            {
+              "id": "ood-section-2-unit-2-public-apis-lesson-1",
+              "unitId": "ood-section-2-unit-2-public-apis",
+              "title": "Learn Public APIs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-2-public-apis-lesson-2",
+              "unitId": "ood-section-2-unit-2-public-apis",
+              "title": "Practice Public APIs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-2-public-apis-lesson-3",
+              "unitId": "ood-section-2-unit-2-public-apis",
+              "title": "Review Public APIs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-2-unit-3-private-state",
+          "sectionId": "ood-section-2",
+          "order": 3,
+          "title": "Private state",
+          "lessons": [
+            {
+              "id": "ood-section-2-unit-3-private-state-lesson-1",
+              "unitId": "ood-section-2-unit-3-private-state",
+              "title": "Learn Private state",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-3-private-state-lesson-2",
+              "unitId": "ood-section-2-unit-3-private-state",
+              "title": "Practice Private state",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-3-private-state-lesson-3",
+              "unitId": "ood-section-2-unit-3-private-state",
+              "title": "Review Private state",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-2-unit-4-constructors",
+          "sectionId": "ood-section-2",
+          "order": 4,
+          "title": "Constructors",
+          "lessons": [
+            {
+              "id": "ood-section-2-unit-4-constructors-lesson-1",
+              "unitId": "ood-section-2-unit-4-constructors",
+              "title": "Learn Constructors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-4-constructors-lesson-2",
+              "unitId": "ood-section-2-unit-4-constructors",
+              "title": "Practice Constructors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-4-constructors-lesson-3",
+              "unitId": "ood-section-2-unit-4-constructors",
+              "title": "Review Constructors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-2-unit-5-invariants",
+          "sectionId": "ood-section-2",
+          "order": 5,
+          "title": "Invariants",
+          "lessons": [
+            {
+              "id": "ood-section-2-unit-5-invariants-lesson-1",
+              "unitId": "ood-section-2-unit-5-invariants",
+              "title": "Learn Invariants",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-5-invariants-lesson-2",
+              "unitId": "ood-section-2-unit-5-invariants",
+              "title": "Practice Invariants",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-5-invariants-lesson-3",
+              "unitId": "ood-section-2-unit-5-invariants",
+              "title": "Review Invariants",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-2-unit-6-value-objects",
+          "sectionId": "ood-section-2",
+          "order": 6,
+          "title": "Value objects",
+          "lessons": [
+            {
+              "id": "ood-section-2-unit-6-value-objects-lesson-1",
+              "unitId": "ood-section-2-unit-6-value-objects",
+              "title": "Learn Value objects",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-6-value-objects-lesson-2",
+              "unitId": "ood-section-2-unit-6-value-objects",
+              "title": "Practice Value objects",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-6-value-objects-lesson-3",
+              "unitId": "ood-section-2-unit-6-value-objects",
+              "title": "Review Value objects",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-2-unit-7-entities",
+          "sectionId": "ood-section-2",
+          "order": 7,
+          "title": "Entities",
+          "lessons": [
+            {
+              "id": "ood-section-2-unit-7-entities-lesson-1",
+              "unitId": "ood-section-2-unit-7-entities",
+              "title": "Learn Entities",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-7-entities-lesson-2",
+              "unitId": "ood-section-2-unit-7-entities",
+              "title": "Practice Entities",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-7-entities-lesson-3",
+              "unitId": "ood-section-2-unit-7-entities",
+              "title": "Review Entities",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-2-unit-8-services",
+          "sectionId": "ood-section-2",
+          "order": 8,
+          "title": "Services",
+          "lessons": [
+            {
+              "id": "ood-section-2-unit-8-services-lesson-1",
+              "unitId": "ood-section-2-unit-8-services",
+              "title": "Learn Services",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-8-services-lesson-2",
+              "unitId": "ood-section-2-unit-8-services",
+              "title": "Practice Services",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-8-services-lesson-3",
+              "unitId": "ood-section-2-unit-8-services",
+              "title": "Review Services",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-2-unit-9-naming",
+          "sectionId": "ood-section-2",
+          "order": 9,
+          "title": "Naming",
+          "lessons": [
+            {
+              "id": "ood-section-2-unit-9-naming-lesson-1",
+              "unitId": "ood-section-2-unit-9-naming",
+              "title": "Learn Naming",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-9-naming-lesson-2",
+              "unitId": "ood-section-2-unit-9-naming",
+              "title": "Practice Naming",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-9-naming-lesson-3",
+              "unitId": "ood-section-2-unit-9-naming",
+              "title": "Review Naming",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-2-unit-10-class-design-drills",
+          "sectionId": "ood-section-2",
+          "order": 10,
+          "title": "Class design drills",
+          "lessons": [
+            {
+              "id": "ood-section-2-unit-10-class-design-drills-lesson-1",
+              "unitId": "ood-section-2-unit-10-class-design-drills",
+              "title": "Learn Class design drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-10-class-design-drills-lesson-2",
+              "unitId": "ood-section-2-unit-10-class-design-drills",
+              "title": "Practice Class design drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-2-unit-10-class-design-drills-lesson-3",
+              "unitId": "ood-section-2-unit-10-class-design-drills",
+              "title": "Review Class design drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ood-section-3",
+      "trackId": "ood",
+      "order": 3,
+      "title": "Section 3: Relationships",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "ood-section-3-unit-1-association",
+          "sectionId": "ood-section-3",
+          "order": 1,
+          "title": "Association",
+          "lessons": [
+            {
+              "id": "ood-section-3-unit-1-association-lesson-1",
+              "unitId": "ood-section-3-unit-1-association",
+              "title": "Learn Association",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-1-association-lesson-2",
+              "unitId": "ood-section-3-unit-1-association",
+              "title": "Practice Association",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-1-association-lesson-3",
+              "unitId": "ood-section-3-unit-1-association",
+              "title": "Review Association",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-3-unit-2-aggregation",
+          "sectionId": "ood-section-3",
+          "order": 2,
+          "title": "Aggregation",
+          "lessons": [
+            {
+              "id": "ood-section-3-unit-2-aggregation-lesson-1",
+              "unitId": "ood-section-3-unit-2-aggregation",
+              "title": "Learn Aggregation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-2-aggregation-lesson-2",
+              "unitId": "ood-section-3-unit-2-aggregation",
+              "title": "Practice Aggregation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-2-aggregation-lesson-3",
+              "unitId": "ood-section-3-unit-2-aggregation",
+              "title": "Review Aggregation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-3-unit-3-composition",
+          "sectionId": "ood-section-3",
+          "order": 3,
+          "title": "Composition",
+          "lessons": [
+            {
+              "id": "ood-section-3-unit-3-composition-lesson-1",
+              "unitId": "ood-section-3-unit-3-composition",
+              "title": "Learn Composition",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-3-composition-lesson-2",
+              "unitId": "ood-section-3-unit-3-composition",
+              "title": "Practice Composition",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-3-composition-lesson-3",
+              "unitId": "ood-section-3-unit-3-composition",
+              "title": "Review Composition",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-3-unit-4-inheritance-tradeoffs",
+          "sectionId": "ood-section-3",
+          "order": 4,
+          "title": "Inheritance tradeoffs",
+          "lessons": [
+            {
+              "id": "ood-section-3-unit-4-inheritance-tradeoffs-lesson-1",
+              "unitId": "ood-section-3-unit-4-inheritance-tradeoffs",
+              "title": "Learn Inheritance tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-4-inheritance-tradeoffs-lesson-2",
+              "unitId": "ood-section-3-unit-4-inheritance-tradeoffs",
+              "title": "Practice Inheritance tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-4-inheritance-tradeoffs-lesson-3",
+              "unitId": "ood-section-3-unit-4-inheritance-tradeoffs",
+              "title": "Review Inheritance tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-3-unit-5-interfaces",
+          "sectionId": "ood-section-3",
+          "order": 5,
+          "title": "Interfaces",
+          "lessons": [
+            {
+              "id": "ood-section-3-unit-5-interfaces-lesson-1",
+              "unitId": "ood-section-3-unit-5-interfaces",
+              "title": "Learn Interfaces",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-5-interfaces-lesson-2",
+              "unitId": "ood-section-3-unit-5-interfaces",
+              "title": "Practice Interfaces",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-5-interfaces-lesson-3",
+              "unitId": "ood-section-3-unit-5-interfaces",
+              "title": "Review Interfaces",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-3-unit-6-abstract-classes",
+          "sectionId": "ood-section-3",
+          "order": 6,
+          "title": "Abstract classes",
+          "lessons": [
+            {
+              "id": "ood-section-3-unit-6-abstract-classes-lesson-1",
+              "unitId": "ood-section-3-unit-6-abstract-classes",
+              "title": "Learn Abstract classes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-6-abstract-classes-lesson-2",
+              "unitId": "ood-section-3-unit-6-abstract-classes",
+              "title": "Practice Abstract classes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-6-abstract-classes-lesson-3",
+              "unitId": "ood-section-3-unit-6-abstract-classes",
+              "title": "Review Abstract classes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-3-unit-7-dependency-direction",
+          "sectionId": "ood-section-3",
+          "order": 7,
+          "title": "Dependency direction",
+          "lessons": [
+            {
+              "id": "ood-section-3-unit-7-dependency-direction-lesson-1",
+              "unitId": "ood-section-3-unit-7-dependency-direction",
+              "title": "Learn Dependency direction",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-7-dependency-direction-lesson-2",
+              "unitId": "ood-section-3-unit-7-dependency-direction",
+              "title": "Practice Dependency direction",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-7-dependency-direction-lesson-3",
+              "unitId": "ood-section-3-unit-7-dependency-direction",
+              "title": "Review Dependency direction",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-3-unit-8-object-lifetimes",
+          "sectionId": "ood-section-3",
+          "order": 8,
+          "title": "Object lifetimes",
+          "lessons": [
+            {
+              "id": "ood-section-3-unit-8-object-lifetimes-lesson-1",
+              "unitId": "ood-section-3-unit-8-object-lifetimes",
+              "title": "Learn Object lifetimes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-8-object-lifetimes-lesson-2",
+              "unitId": "ood-section-3-unit-8-object-lifetimes",
+              "title": "Practice Object lifetimes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-8-object-lifetimes-lesson-3",
+              "unitId": "ood-section-3-unit-8-object-lifetimes",
+              "title": "Review Object lifetimes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-3-unit-9-relationship-diagrams",
+          "sectionId": "ood-section-3",
+          "order": 9,
+          "title": "Relationship diagrams",
+          "lessons": [
+            {
+              "id": "ood-section-3-unit-9-relationship-diagrams-lesson-1",
+              "unitId": "ood-section-3-unit-9-relationship-diagrams",
+              "title": "Learn Relationship diagrams",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-9-relationship-diagrams-lesson-2",
+              "unitId": "ood-section-3-unit-9-relationship-diagrams",
+              "title": "Practice Relationship diagrams",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-9-relationship-diagrams-lesson-3",
+              "unitId": "ood-section-3-unit-9-relationship-diagrams",
+              "title": "Review Relationship diagrams",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-3-unit-10-relationship-project",
+          "sectionId": "ood-section-3",
+          "order": 10,
+          "title": "Relationship project",
+          "lessons": [
+            {
+              "id": "ood-section-3-unit-10-relationship-project-lesson-1",
+              "unitId": "ood-section-3-unit-10-relationship-project",
+              "title": "Learn Relationship project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-10-relationship-project-lesson-2",
+              "unitId": "ood-section-3-unit-10-relationship-project",
+              "title": "Practice Relationship project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-3-unit-10-relationship-project-lesson-3",
+              "unitId": "ood-section-3-unit-10-relationship-project",
+              "title": "Review Relationship project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ood-section-4",
+      "trackId": "ood",
+      "order": 4,
+      "title": "Section 4: SOLID Principles",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "ood-section-4-unit-1-single-responsibility",
+          "sectionId": "ood-section-4",
+          "order": 1,
+          "title": "Single responsibility",
+          "lessons": [
+            {
+              "id": "ood-section-4-unit-1-single-responsibility-lesson-1",
+              "unitId": "ood-section-4-unit-1-single-responsibility",
+              "title": "Learn Single responsibility",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-1-single-responsibility-lesson-2",
+              "unitId": "ood-section-4-unit-1-single-responsibility",
+              "title": "Practice Single responsibility",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-1-single-responsibility-lesson-3",
+              "unitId": "ood-section-4-unit-1-single-responsibility",
+              "title": "Review Single responsibility",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-4-unit-2-open-closed",
+          "sectionId": "ood-section-4",
+          "order": 2,
+          "title": "Open closed",
+          "lessons": [
+            {
+              "id": "ood-section-4-unit-2-open-closed-lesson-1",
+              "unitId": "ood-section-4-unit-2-open-closed",
+              "title": "Learn Open closed",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-2-open-closed-lesson-2",
+              "unitId": "ood-section-4-unit-2-open-closed",
+              "title": "Practice Open closed",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-2-open-closed-lesson-3",
+              "unitId": "ood-section-4-unit-2-open-closed",
+              "title": "Review Open closed",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-4-unit-3-liskov-substitution",
+          "sectionId": "ood-section-4",
+          "order": 3,
+          "title": "Liskov substitution",
+          "lessons": [
+            {
+              "id": "ood-section-4-unit-3-liskov-substitution-lesson-1",
+              "unitId": "ood-section-4-unit-3-liskov-substitution",
+              "title": "Learn Liskov substitution",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-3-liskov-substitution-lesson-2",
+              "unitId": "ood-section-4-unit-3-liskov-substitution",
+              "title": "Practice Liskov substitution",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-3-liskov-substitution-lesson-3",
+              "unitId": "ood-section-4-unit-3-liskov-substitution",
+              "title": "Review Liskov substitution",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-4-unit-4-interface-segregation",
+          "sectionId": "ood-section-4",
+          "order": 4,
+          "title": "Interface segregation",
+          "lessons": [
+            {
+              "id": "ood-section-4-unit-4-interface-segregation-lesson-1",
+              "unitId": "ood-section-4-unit-4-interface-segregation",
+              "title": "Learn Interface segregation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-4-interface-segregation-lesson-2",
+              "unitId": "ood-section-4-unit-4-interface-segregation",
+              "title": "Practice Interface segregation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-4-interface-segregation-lesson-3",
+              "unitId": "ood-section-4-unit-4-interface-segregation",
+              "title": "Review Interface segregation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-4-unit-5-dependency-inversion",
+          "sectionId": "ood-section-4",
+          "order": 5,
+          "title": "Dependency inversion",
+          "lessons": [
+            {
+              "id": "ood-section-4-unit-5-dependency-inversion-lesson-1",
+              "unitId": "ood-section-4-unit-5-dependency-inversion",
+              "title": "Learn Dependency inversion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-5-dependency-inversion-lesson-2",
+              "unitId": "ood-section-4-unit-5-dependency-inversion",
+              "title": "Practice Dependency inversion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-5-dependency-inversion-lesson-3",
+              "unitId": "ood-section-4-unit-5-dependency-inversion",
+              "title": "Review Dependency inversion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-4-unit-6-solid-smells",
+          "sectionId": "ood-section-4",
+          "order": 6,
+          "title": "SOLID smells",
+          "lessons": [
+            {
+              "id": "ood-section-4-unit-6-solid-smells-lesson-1",
+              "unitId": "ood-section-4-unit-6-solid-smells",
+              "title": "Learn SOLID smells",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-6-solid-smells-lesson-2",
+              "unitId": "ood-section-4-unit-6-solid-smells",
+              "title": "Practice SOLID smells",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-6-solid-smells-lesson-3",
+              "unitId": "ood-section-4-unit-6-solid-smells",
+              "title": "Review SOLID smells",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-4-unit-7-refactoring-to-solid",
+          "sectionId": "ood-section-4",
+          "order": 7,
+          "title": "Refactoring to SOLID",
+          "lessons": [
+            {
+              "id": "ood-section-4-unit-7-refactoring-to-solid-lesson-1",
+              "unitId": "ood-section-4-unit-7-refactoring-to-solid",
+              "title": "Learn Refactoring to SOLID",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-7-refactoring-to-solid-lesson-2",
+              "unitId": "ood-section-4-unit-7-refactoring-to-solid",
+              "title": "Practice Refactoring to SOLID",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-7-refactoring-to-solid-lesson-3",
+              "unitId": "ood-section-4-unit-7-refactoring-to-solid",
+              "title": "Review Refactoring to SOLID",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-4-unit-8-testing-solid-code",
+          "sectionId": "ood-section-4",
+          "order": 8,
+          "title": "Testing SOLID code",
+          "lessons": [
+            {
+              "id": "ood-section-4-unit-8-testing-solid-code-lesson-1",
+              "unitId": "ood-section-4-unit-8-testing-solid-code",
+              "title": "Learn Testing SOLID code",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-8-testing-solid-code-lesson-2",
+              "unitId": "ood-section-4-unit-8-testing-solid-code",
+              "title": "Practice Testing SOLID code",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-8-testing-solid-code-lesson-3",
+              "unitId": "ood-section-4-unit-8-testing-solid-code",
+              "title": "Review Testing SOLID code",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-4-unit-9-solid-tradeoffs",
+          "sectionId": "ood-section-4",
+          "order": 9,
+          "title": "SOLID tradeoffs",
+          "lessons": [
+            {
+              "id": "ood-section-4-unit-9-solid-tradeoffs-lesson-1",
+              "unitId": "ood-section-4-unit-9-solid-tradeoffs",
+              "title": "Learn SOLID tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-9-solid-tradeoffs-lesson-2",
+              "unitId": "ood-section-4-unit-9-solid-tradeoffs",
+              "title": "Practice SOLID tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-9-solid-tradeoffs-lesson-3",
+              "unitId": "ood-section-4-unit-9-solid-tradeoffs",
+              "title": "Review SOLID tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-4-unit-10-solid-project",
+          "sectionId": "ood-section-4",
+          "order": 10,
+          "title": "SOLID project",
+          "lessons": [
+            {
+              "id": "ood-section-4-unit-10-solid-project-lesson-1",
+              "unitId": "ood-section-4-unit-10-solid-project",
+              "title": "Learn SOLID project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-10-solid-project-lesson-2",
+              "unitId": "ood-section-4-unit-10-solid-project",
+              "title": "Practice SOLID project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-4-unit-10-solid-project-lesson-3",
+              "unitId": "ood-section-4-unit-10-solid-project",
+              "title": "Review SOLID project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ood-section-5",
+      "trackId": "ood",
+      "order": 5,
+      "title": "Section 5: Creational Patterns",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "ood-section-5-unit-1-factory-method",
+          "sectionId": "ood-section-5",
+          "order": 1,
+          "title": "Factory method",
+          "lessons": [
+            {
+              "id": "ood-section-5-unit-1-factory-method-lesson-1",
+              "unitId": "ood-section-5-unit-1-factory-method",
+              "title": "Learn Factory method",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-1-factory-method-lesson-2",
+              "unitId": "ood-section-5-unit-1-factory-method",
+              "title": "Practice Factory method",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-1-factory-method-lesson-3",
+              "unitId": "ood-section-5-unit-1-factory-method",
+              "title": "Review Factory method",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-5-unit-2-abstract-factory",
+          "sectionId": "ood-section-5",
+          "order": 2,
+          "title": "Abstract factory",
+          "lessons": [
+            {
+              "id": "ood-section-5-unit-2-abstract-factory-lesson-1",
+              "unitId": "ood-section-5-unit-2-abstract-factory",
+              "title": "Learn Abstract factory",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-2-abstract-factory-lesson-2",
+              "unitId": "ood-section-5-unit-2-abstract-factory",
+              "title": "Practice Abstract factory",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-2-abstract-factory-lesson-3",
+              "unitId": "ood-section-5-unit-2-abstract-factory",
+              "title": "Review Abstract factory",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-5-unit-3-builder",
+          "sectionId": "ood-section-5",
+          "order": 3,
+          "title": "Builder",
+          "lessons": [
+            {
+              "id": "ood-section-5-unit-3-builder-lesson-1",
+              "unitId": "ood-section-5-unit-3-builder",
+              "title": "Learn Builder",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-3-builder-lesson-2",
+              "unitId": "ood-section-5-unit-3-builder",
+              "title": "Practice Builder",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-3-builder-lesson-3",
+              "unitId": "ood-section-5-unit-3-builder",
+              "title": "Review Builder",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-5-unit-4-prototype",
+          "sectionId": "ood-section-5",
+          "order": 4,
+          "title": "Prototype",
+          "lessons": [
+            {
+              "id": "ood-section-5-unit-4-prototype-lesson-1",
+              "unitId": "ood-section-5-unit-4-prototype",
+              "title": "Learn Prototype",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-4-prototype-lesson-2",
+              "unitId": "ood-section-5-unit-4-prototype",
+              "title": "Practice Prototype",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-4-prototype-lesson-3",
+              "unitId": "ood-section-5-unit-4-prototype",
+              "title": "Review Prototype",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-5-unit-5-singleton",
+          "sectionId": "ood-section-5",
+          "order": 5,
+          "title": "Singleton",
+          "lessons": [
+            {
+              "id": "ood-section-5-unit-5-singleton-lesson-1",
+              "unitId": "ood-section-5-unit-5-singleton",
+              "title": "Learn Singleton",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-5-singleton-lesson-2",
+              "unitId": "ood-section-5-unit-5-singleton",
+              "title": "Practice Singleton",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-5-singleton-lesson-3",
+              "unitId": "ood-section-5-unit-5-singleton",
+              "title": "Review Singleton",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-5-unit-6-dependency-injection",
+          "sectionId": "ood-section-5",
+          "order": 6,
+          "title": "Dependency injection",
+          "lessons": [
+            {
+              "id": "ood-section-5-unit-6-dependency-injection-lesson-1",
+              "unitId": "ood-section-5-unit-6-dependency-injection",
+              "title": "Learn Dependency injection",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-6-dependency-injection-lesson-2",
+              "unitId": "ood-section-5-unit-6-dependency-injection",
+              "title": "Practice Dependency injection",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-6-dependency-injection-lesson-3",
+              "unitId": "ood-section-5-unit-6-dependency-injection",
+              "title": "Review Dependency injection",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-5-unit-7-object-pools-concept",
+          "sectionId": "ood-section-5",
+          "order": 7,
+          "title": "Object pools concept",
+          "lessons": [
+            {
+              "id": "ood-section-5-unit-7-object-pools-concept-lesson-1",
+              "unitId": "ood-section-5-unit-7-object-pools-concept",
+              "title": "Learn Object pools concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-7-object-pools-concept-lesson-2",
+              "unitId": "ood-section-5-unit-7-object-pools-concept",
+              "title": "Practice Object pools concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-7-object-pools-concept-lesson-3",
+              "unitId": "ood-section-5-unit-7-object-pools-concept",
+              "title": "Review Object pools concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-5-unit-8-pattern-selection",
+          "sectionId": "ood-section-5",
+          "order": 8,
+          "title": "Pattern selection",
+          "lessons": [
+            {
+              "id": "ood-section-5-unit-8-pattern-selection-lesson-1",
+              "unitId": "ood-section-5-unit-8-pattern-selection",
+              "title": "Learn Pattern selection",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-8-pattern-selection-lesson-2",
+              "unitId": "ood-section-5-unit-8-pattern-selection",
+              "title": "Practice Pattern selection",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-8-pattern-selection-lesson-3",
+              "unitId": "ood-section-5-unit-8-pattern-selection",
+              "title": "Review Pattern selection",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-5-unit-9-pattern-pitfalls",
+          "sectionId": "ood-section-5",
+          "order": 9,
+          "title": "Pattern pitfalls",
+          "lessons": [
+            {
+              "id": "ood-section-5-unit-9-pattern-pitfalls-lesson-1",
+              "unitId": "ood-section-5-unit-9-pattern-pitfalls",
+              "title": "Learn Pattern pitfalls",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-9-pattern-pitfalls-lesson-2",
+              "unitId": "ood-section-5-unit-9-pattern-pitfalls",
+              "title": "Practice Pattern pitfalls",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-9-pattern-pitfalls-lesson-3",
+              "unitId": "ood-section-5-unit-9-pattern-pitfalls",
+              "title": "Review Pattern pitfalls",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-5-unit-10-creational-project",
+          "sectionId": "ood-section-5",
+          "order": 10,
+          "title": "Creational project",
+          "lessons": [
+            {
+              "id": "ood-section-5-unit-10-creational-project-lesson-1",
+              "unitId": "ood-section-5-unit-10-creational-project",
+              "title": "Learn Creational project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-10-creational-project-lesson-2",
+              "unitId": "ood-section-5-unit-10-creational-project",
+              "title": "Practice Creational project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-5-unit-10-creational-project-lesson-3",
+              "unitId": "ood-section-5-unit-10-creational-project",
+              "title": "Review Creational project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ood-section-6",
+      "trackId": "ood",
+      "order": 6,
+      "title": "Section 6: Structural Patterns",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "ood-section-6-unit-1-adapter",
+          "sectionId": "ood-section-6",
+          "order": 1,
+          "title": "Adapter",
+          "lessons": [
+            {
+              "id": "ood-section-6-unit-1-adapter-lesson-1",
+              "unitId": "ood-section-6-unit-1-adapter",
+              "title": "Learn Adapter",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-1-adapter-lesson-2",
+              "unitId": "ood-section-6-unit-1-adapter",
+              "title": "Practice Adapter",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-1-adapter-lesson-3",
+              "unitId": "ood-section-6-unit-1-adapter",
+              "title": "Review Adapter",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-6-unit-2-facade",
+          "sectionId": "ood-section-6",
+          "order": 2,
+          "title": "Facade",
+          "lessons": [
+            {
+              "id": "ood-section-6-unit-2-facade-lesson-1",
+              "unitId": "ood-section-6-unit-2-facade",
+              "title": "Learn Facade",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-2-facade-lesson-2",
+              "unitId": "ood-section-6-unit-2-facade",
+              "title": "Practice Facade",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-2-facade-lesson-3",
+              "unitId": "ood-section-6-unit-2-facade",
+              "title": "Review Facade",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-6-unit-3-decorator",
+          "sectionId": "ood-section-6",
+          "order": 3,
+          "title": "Decorator",
+          "lessons": [
+            {
+              "id": "ood-section-6-unit-3-decorator-lesson-1",
+              "unitId": "ood-section-6-unit-3-decorator",
+              "title": "Learn Decorator",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-3-decorator-lesson-2",
+              "unitId": "ood-section-6-unit-3-decorator",
+              "title": "Practice Decorator",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-3-decorator-lesson-3",
+              "unitId": "ood-section-6-unit-3-decorator",
+              "title": "Review Decorator",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-6-unit-4-composite",
+          "sectionId": "ood-section-6",
+          "order": 4,
+          "title": "Composite",
+          "lessons": [
+            {
+              "id": "ood-section-6-unit-4-composite-lesson-1",
+              "unitId": "ood-section-6-unit-4-composite",
+              "title": "Learn Composite",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-4-composite-lesson-2",
+              "unitId": "ood-section-6-unit-4-composite",
+              "title": "Practice Composite",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-4-composite-lesson-3",
+              "unitId": "ood-section-6-unit-4-composite",
+              "title": "Review Composite",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-6-unit-5-proxy",
+          "sectionId": "ood-section-6",
+          "order": 5,
+          "title": "Proxy",
+          "lessons": [
+            {
+              "id": "ood-section-6-unit-5-proxy-lesson-1",
+              "unitId": "ood-section-6-unit-5-proxy",
+              "title": "Learn Proxy",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-5-proxy-lesson-2",
+              "unitId": "ood-section-6-unit-5-proxy",
+              "title": "Practice Proxy",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-5-proxy-lesson-3",
+              "unitId": "ood-section-6-unit-5-proxy",
+              "title": "Review Proxy",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-6-unit-6-bridge",
+          "sectionId": "ood-section-6",
+          "order": 6,
+          "title": "Bridge",
+          "lessons": [
+            {
+              "id": "ood-section-6-unit-6-bridge-lesson-1",
+              "unitId": "ood-section-6-unit-6-bridge",
+              "title": "Learn Bridge",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-6-bridge-lesson-2",
+              "unitId": "ood-section-6-unit-6-bridge",
+              "title": "Practice Bridge",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-6-bridge-lesson-3",
+              "unitId": "ood-section-6-unit-6-bridge",
+              "title": "Review Bridge",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-6-unit-7-flyweight-concept",
+          "sectionId": "ood-section-6",
+          "order": 7,
+          "title": "Flyweight concept",
+          "lessons": [
+            {
+              "id": "ood-section-6-unit-7-flyweight-concept-lesson-1",
+              "unitId": "ood-section-6-unit-7-flyweight-concept",
+              "title": "Learn Flyweight concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-7-flyweight-concept-lesson-2",
+              "unitId": "ood-section-6-unit-7-flyweight-concept",
+              "title": "Practice Flyweight concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-7-flyweight-concept-lesson-3",
+              "unitId": "ood-section-6-unit-7-flyweight-concept",
+              "title": "Review Flyweight concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-6-unit-8-wrapper-patterns",
+          "sectionId": "ood-section-6",
+          "order": 8,
+          "title": "Wrapper patterns",
+          "lessons": [
+            {
+              "id": "ood-section-6-unit-8-wrapper-patterns-lesson-1",
+              "unitId": "ood-section-6-unit-8-wrapper-patterns",
+              "title": "Learn Wrapper patterns",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-8-wrapper-patterns-lesson-2",
+              "unitId": "ood-section-6-unit-8-wrapper-patterns",
+              "title": "Practice Wrapper patterns",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-8-wrapper-patterns-lesson-3",
+              "unitId": "ood-section-6-unit-8-wrapper-patterns",
+              "title": "Review Wrapper patterns",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-6-unit-9-structural-tradeoffs",
+          "sectionId": "ood-section-6",
+          "order": 9,
+          "title": "Structural tradeoffs",
+          "lessons": [
+            {
+              "id": "ood-section-6-unit-9-structural-tradeoffs-lesson-1",
+              "unitId": "ood-section-6-unit-9-structural-tradeoffs",
+              "title": "Learn Structural tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-9-structural-tradeoffs-lesson-2",
+              "unitId": "ood-section-6-unit-9-structural-tradeoffs",
+              "title": "Practice Structural tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-9-structural-tradeoffs-lesson-3",
+              "unitId": "ood-section-6-unit-9-structural-tradeoffs",
+              "title": "Review Structural tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-6-unit-10-structural-project",
+          "sectionId": "ood-section-6",
+          "order": 10,
+          "title": "Structural project",
+          "lessons": [
+            {
+              "id": "ood-section-6-unit-10-structural-project-lesson-1",
+              "unitId": "ood-section-6-unit-10-structural-project",
+              "title": "Learn Structural project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-10-structural-project-lesson-2",
+              "unitId": "ood-section-6-unit-10-structural-project",
+              "title": "Practice Structural project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-6-unit-10-structural-project-lesson-3",
+              "unitId": "ood-section-6-unit-10-structural-project",
+              "title": "Review Structural project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ood-section-7",
+      "trackId": "ood",
+      "order": 7,
+      "title": "Section 7: Behavioral Patterns",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "ood-section-7-unit-1-observer",
+          "sectionId": "ood-section-7",
+          "order": 1,
+          "title": "Observer",
+          "lessons": [
+            {
+              "id": "ood-section-7-unit-1-observer-lesson-1",
+              "unitId": "ood-section-7-unit-1-observer",
+              "title": "Learn Observer",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-1-observer-lesson-2",
+              "unitId": "ood-section-7-unit-1-observer",
+              "title": "Practice Observer",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-1-observer-lesson-3",
+              "unitId": "ood-section-7-unit-1-observer",
+              "title": "Review Observer",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-7-unit-2-strategy",
+          "sectionId": "ood-section-7",
+          "order": 2,
+          "title": "Strategy",
+          "lessons": [
+            {
+              "id": "ood-section-7-unit-2-strategy-lesson-1",
+              "unitId": "ood-section-7-unit-2-strategy",
+              "title": "Learn Strategy",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-2-strategy-lesson-2",
+              "unitId": "ood-section-7-unit-2-strategy",
+              "title": "Practice Strategy",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-2-strategy-lesson-3",
+              "unitId": "ood-section-7-unit-2-strategy",
+              "title": "Review Strategy",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-7-unit-3-command",
+          "sectionId": "ood-section-7",
+          "order": 3,
+          "title": "Command",
+          "lessons": [
+            {
+              "id": "ood-section-7-unit-3-command-lesson-1",
+              "unitId": "ood-section-7-unit-3-command",
+              "title": "Learn Command",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-3-command-lesson-2",
+              "unitId": "ood-section-7-unit-3-command",
+              "title": "Practice Command",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-3-command-lesson-3",
+              "unitId": "ood-section-7-unit-3-command",
+              "title": "Review Command",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-7-unit-4-state",
+          "sectionId": "ood-section-7",
+          "order": 4,
+          "title": "State",
+          "lessons": [
+            {
+              "id": "ood-section-7-unit-4-state-lesson-1",
+              "unitId": "ood-section-7-unit-4-state",
+              "title": "Learn State",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-4-state-lesson-2",
+              "unitId": "ood-section-7-unit-4-state",
+              "title": "Practice State",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-4-state-lesson-3",
+              "unitId": "ood-section-7-unit-4-state",
+              "title": "Review State",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-7-unit-5-template-method",
+          "sectionId": "ood-section-7",
+          "order": 5,
+          "title": "Template method",
+          "lessons": [
+            {
+              "id": "ood-section-7-unit-5-template-method-lesson-1",
+              "unitId": "ood-section-7-unit-5-template-method",
+              "title": "Learn Template method",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-5-template-method-lesson-2",
+              "unitId": "ood-section-7-unit-5-template-method",
+              "title": "Practice Template method",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-5-template-method-lesson-3",
+              "unitId": "ood-section-7-unit-5-template-method",
+              "title": "Review Template method",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-7-unit-6-iterator",
+          "sectionId": "ood-section-7",
+          "order": 6,
+          "title": "Iterator",
+          "lessons": [
+            {
+              "id": "ood-section-7-unit-6-iterator-lesson-1",
+              "unitId": "ood-section-7-unit-6-iterator",
+              "title": "Learn Iterator",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-6-iterator-lesson-2",
+              "unitId": "ood-section-7-unit-6-iterator",
+              "title": "Practice Iterator",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-6-iterator-lesson-3",
+              "unitId": "ood-section-7-unit-6-iterator",
+              "title": "Review Iterator",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-7-unit-7-mediator",
+          "sectionId": "ood-section-7",
+          "order": 7,
+          "title": "Mediator",
+          "lessons": [
+            {
+              "id": "ood-section-7-unit-7-mediator-lesson-1",
+              "unitId": "ood-section-7-unit-7-mediator",
+              "title": "Learn Mediator",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-7-mediator-lesson-2",
+              "unitId": "ood-section-7-unit-7-mediator",
+              "title": "Practice Mediator",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-7-mediator-lesson-3",
+              "unitId": "ood-section-7-unit-7-mediator",
+              "title": "Review Mediator",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-7-unit-8-chain-of-responsibility",
+          "sectionId": "ood-section-7",
+          "order": 8,
+          "title": "Chain of responsibility",
+          "lessons": [
+            {
+              "id": "ood-section-7-unit-8-chain-of-responsibility-lesson-1",
+              "unitId": "ood-section-7-unit-8-chain-of-responsibility",
+              "title": "Learn Chain of responsibility",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-8-chain-of-responsibility-lesson-2",
+              "unitId": "ood-section-7-unit-8-chain-of-responsibility",
+              "title": "Practice Chain of responsibility",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-8-chain-of-responsibility-lesson-3",
+              "unitId": "ood-section-7-unit-8-chain-of-responsibility",
+              "title": "Review Chain of responsibility",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-7-unit-9-visitor-concept",
+          "sectionId": "ood-section-7",
+          "order": 9,
+          "title": "Visitor concept",
+          "lessons": [
+            {
+              "id": "ood-section-7-unit-9-visitor-concept-lesson-1",
+              "unitId": "ood-section-7-unit-9-visitor-concept",
+              "title": "Learn Visitor concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-9-visitor-concept-lesson-2",
+              "unitId": "ood-section-7-unit-9-visitor-concept",
+              "title": "Practice Visitor concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-9-visitor-concept-lesson-3",
+              "unitId": "ood-section-7-unit-9-visitor-concept",
+              "title": "Review Visitor concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-7-unit-10-behavioral-project",
+          "sectionId": "ood-section-7",
+          "order": 10,
+          "title": "Behavioral project",
+          "lessons": [
+            {
+              "id": "ood-section-7-unit-10-behavioral-project-lesson-1",
+              "unitId": "ood-section-7-unit-10-behavioral-project",
+              "title": "Learn Behavioral project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-10-behavioral-project-lesson-2",
+              "unitId": "ood-section-7-unit-10-behavioral-project",
+              "title": "Practice Behavioral project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-7-unit-10-behavioral-project-lesson-3",
+              "unitId": "ood-section-7-unit-10-behavioral-project",
+              "title": "Review Behavioral project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ood-section-8",
+      "trackId": "ood",
+      "order": 8,
+      "title": "Section 8: UML & Communication",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "ood-section-8-unit-1-class-diagrams",
+          "sectionId": "ood-section-8",
+          "order": 1,
+          "title": "Class diagrams",
+          "lessons": [
+            {
+              "id": "ood-section-8-unit-1-class-diagrams-lesson-1",
+              "unitId": "ood-section-8-unit-1-class-diagrams",
+              "title": "Learn Class diagrams",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-1-class-diagrams-lesson-2",
+              "unitId": "ood-section-8-unit-1-class-diagrams",
+              "title": "Practice Class diagrams",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-1-class-diagrams-lesson-3",
+              "unitId": "ood-section-8-unit-1-class-diagrams",
+              "title": "Review Class diagrams",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-8-unit-2-sequence-diagrams",
+          "sectionId": "ood-section-8",
+          "order": 2,
+          "title": "Sequence diagrams",
+          "lessons": [
+            {
+              "id": "ood-section-8-unit-2-sequence-diagrams-lesson-1",
+              "unitId": "ood-section-8-unit-2-sequence-diagrams",
+              "title": "Learn Sequence diagrams",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-2-sequence-diagrams-lesson-2",
+              "unitId": "ood-section-8-unit-2-sequence-diagrams",
+              "title": "Practice Sequence diagrams",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-2-sequence-diagrams-lesson-3",
+              "unitId": "ood-section-8-unit-2-sequence-diagrams",
+              "title": "Review Sequence diagrams",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-8-unit-3-state-diagrams",
+          "sectionId": "ood-section-8",
+          "order": 3,
+          "title": "State diagrams",
+          "lessons": [
+            {
+              "id": "ood-section-8-unit-3-state-diagrams-lesson-1",
+              "unitId": "ood-section-8-unit-3-state-diagrams",
+              "title": "Learn State diagrams",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-3-state-diagrams-lesson-2",
+              "unitId": "ood-section-8-unit-3-state-diagrams",
+              "title": "Practice State diagrams",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-3-state-diagrams-lesson-3",
+              "unitId": "ood-section-8-unit-3-state-diagrams",
+              "title": "Review State diagrams",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-8-unit-4-use-cases",
+          "sectionId": "ood-section-8",
+          "order": 4,
+          "title": "Use cases",
+          "lessons": [
+            {
+              "id": "ood-section-8-unit-4-use-cases-lesson-1",
+              "unitId": "ood-section-8-unit-4-use-cases",
+              "title": "Learn Use cases",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-4-use-cases-lesson-2",
+              "unitId": "ood-section-8-unit-4-use-cases",
+              "title": "Practice Use cases",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-4-use-cases-lesson-3",
+              "unitId": "ood-section-8-unit-4-use-cases",
+              "title": "Review Use cases",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-8-unit-5-crc-cards",
+          "sectionId": "ood-section-8",
+          "order": 5,
+          "title": "CRC cards",
+          "lessons": [
+            {
+              "id": "ood-section-8-unit-5-crc-cards-lesson-1",
+              "unitId": "ood-section-8-unit-5-crc-cards",
+              "title": "Learn CRC cards",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-5-crc-cards-lesson-2",
+              "unitId": "ood-section-8-unit-5-crc-cards",
+              "title": "Practice CRC cards",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-5-crc-cards-lesson-3",
+              "unitId": "ood-section-8-unit-5-crc-cards",
+              "title": "Review CRC cards",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-8-unit-6-architecture-sketches",
+          "sectionId": "ood-section-8",
+          "order": 6,
+          "title": "Architecture sketches",
+          "lessons": [
+            {
+              "id": "ood-section-8-unit-6-architecture-sketches-lesson-1",
+              "unitId": "ood-section-8-unit-6-architecture-sketches",
+              "title": "Learn Architecture sketches",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-6-architecture-sketches-lesson-2",
+              "unitId": "ood-section-8-unit-6-architecture-sketches",
+              "title": "Practice Architecture sketches",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-6-architecture-sketches-lesson-3",
+              "unitId": "ood-section-8-unit-6-architecture-sketches",
+              "title": "Review Architecture sketches",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-8-unit-7-design-docs",
+          "sectionId": "ood-section-8",
+          "order": 7,
+          "title": "Design docs",
+          "lessons": [
+            {
+              "id": "ood-section-8-unit-7-design-docs-lesson-1",
+              "unitId": "ood-section-8-unit-7-design-docs",
+              "title": "Learn Design docs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-7-design-docs-lesson-2",
+              "unitId": "ood-section-8-unit-7-design-docs",
+              "title": "Practice Design docs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-7-design-docs-lesson-3",
+              "unitId": "ood-section-8-unit-7-design-docs",
+              "title": "Review Design docs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-8-unit-8-tradeoff-notes",
+          "sectionId": "ood-section-8",
+          "order": 8,
+          "title": "Tradeoff notes",
+          "lessons": [
+            {
+              "id": "ood-section-8-unit-8-tradeoff-notes-lesson-1",
+              "unitId": "ood-section-8-unit-8-tradeoff-notes",
+              "title": "Learn Tradeoff notes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-8-tradeoff-notes-lesson-2",
+              "unitId": "ood-section-8-unit-8-tradeoff-notes",
+              "title": "Practice Tradeoff notes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-8-tradeoff-notes-lesson-3",
+              "unitId": "ood-section-8-unit-8-tradeoff-notes",
+              "title": "Review Tradeoff notes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-8-unit-9-reviewing-designs",
+          "sectionId": "ood-section-8",
+          "order": 9,
+          "title": "Reviewing designs",
+          "lessons": [
+            {
+              "id": "ood-section-8-unit-9-reviewing-designs-lesson-1",
+              "unitId": "ood-section-8-unit-9-reviewing-designs",
+              "title": "Learn Reviewing designs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-9-reviewing-designs-lesson-2",
+              "unitId": "ood-section-8-unit-9-reviewing-designs",
+              "title": "Practice Reviewing designs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-9-reviewing-designs-lesson-3",
+              "unitId": "ood-section-8-unit-9-reviewing-designs",
+              "title": "Review Reviewing designs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-8-unit-10-diagram-project",
+          "sectionId": "ood-section-8",
+          "order": 10,
+          "title": "Diagram project",
+          "lessons": [
+            {
+              "id": "ood-section-8-unit-10-diagram-project-lesson-1",
+              "unitId": "ood-section-8-unit-10-diagram-project",
+              "title": "Learn Diagram project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-10-diagram-project-lesson-2",
+              "unitId": "ood-section-8-unit-10-diagram-project",
+              "title": "Practice Diagram project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-8-unit-10-diagram-project-lesson-3",
+              "unitId": "ood-section-8-unit-10-diagram-project",
+              "title": "Review Diagram project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ood-section-9",
+      "trackId": "ood",
+      "order": 9,
+      "title": "Section 9: Refactoring",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "ood-section-9-unit-1-code-smells",
+          "sectionId": "ood-section-9",
+          "order": 1,
+          "title": "Code smells",
+          "lessons": [
+            {
+              "id": "ood-section-9-unit-1-code-smells-lesson-1",
+              "unitId": "ood-section-9-unit-1-code-smells",
+              "title": "Learn Code smells",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-1-code-smells-lesson-2",
+              "unitId": "ood-section-9-unit-1-code-smells",
+              "title": "Practice Code smells",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-1-code-smells-lesson-3",
+              "unitId": "ood-section-9-unit-1-code-smells",
+              "title": "Review Code smells",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-9-unit-2-extract-class",
+          "sectionId": "ood-section-9",
+          "order": 2,
+          "title": "Extract class",
+          "lessons": [
+            {
+              "id": "ood-section-9-unit-2-extract-class-lesson-1",
+              "unitId": "ood-section-9-unit-2-extract-class",
+              "title": "Learn Extract class",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-2-extract-class-lesson-2",
+              "unitId": "ood-section-9-unit-2-extract-class",
+              "title": "Practice Extract class",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-2-extract-class-lesson-3",
+              "unitId": "ood-section-9-unit-2-extract-class",
+              "title": "Review Extract class",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-9-unit-3-extract-method",
+          "sectionId": "ood-section-9",
+          "order": 3,
+          "title": "Extract method",
+          "lessons": [
+            {
+              "id": "ood-section-9-unit-3-extract-method-lesson-1",
+              "unitId": "ood-section-9-unit-3-extract-method",
+              "title": "Learn Extract method",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-3-extract-method-lesson-2",
+              "unitId": "ood-section-9-unit-3-extract-method",
+              "title": "Practice Extract method",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-3-extract-method-lesson-3",
+              "unitId": "ood-section-9-unit-3-extract-method",
+              "title": "Review Extract method",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-9-unit-4-replace-inheritance",
+          "sectionId": "ood-section-9",
+          "order": 4,
+          "title": "Replace inheritance",
+          "lessons": [
+            {
+              "id": "ood-section-9-unit-4-replace-inheritance-lesson-1",
+              "unitId": "ood-section-9-unit-4-replace-inheritance",
+              "title": "Learn Replace inheritance",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-4-replace-inheritance-lesson-2",
+              "unitId": "ood-section-9-unit-4-replace-inheritance",
+              "title": "Practice Replace inheritance",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-4-replace-inheritance-lesson-3",
+              "unitId": "ood-section-9-unit-4-replace-inheritance",
+              "title": "Review Replace inheritance",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-9-unit-5-introduce-interface",
+          "sectionId": "ood-section-9",
+          "order": 5,
+          "title": "Introduce interface",
+          "lessons": [
+            {
+              "id": "ood-section-9-unit-5-introduce-interface-lesson-1",
+              "unitId": "ood-section-9-unit-5-introduce-interface",
+              "title": "Learn Introduce interface",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-5-introduce-interface-lesson-2",
+              "unitId": "ood-section-9-unit-5-introduce-interface",
+              "title": "Practice Introduce interface",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-5-introduce-interface-lesson-3",
+              "unitId": "ood-section-9-unit-5-introduce-interface",
+              "title": "Review Introduce interface",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-9-unit-6-dependency-cleanup",
+          "sectionId": "ood-section-9",
+          "order": 6,
+          "title": "Dependency cleanup",
+          "lessons": [
+            {
+              "id": "ood-section-9-unit-6-dependency-cleanup-lesson-1",
+              "unitId": "ood-section-9-unit-6-dependency-cleanup",
+              "title": "Learn Dependency cleanup",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-6-dependency-cleanup-lesson-2",
+              "unitId": "ood-section-9-unit-6-dependency-cleanup",
+              "title": "Practice Dependency cleanup",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-6-dependency-cleanup-lesson-3",
+              "unitId": "ood-section-9-unit-6-dependency-cleanup",
+              "title": "Review Dependency cleanup",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-9-unit-7-testing-refactors",
+          "sectionId": "ood-section-9",
+          "order": 7,
+          "title": "Testing refactors",
+          "lessons": [
+            {
+              "id": "ood-section-9-unit-7-testing-refactors-lesson-1",
+              "unitId": "ood-section-9-unit-7-testing-refactors",
+              "title": "Learn Testing refactors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-7-testing-refactors-lesson-2",
+              "unitId": "ood-section-9-unit-7-testing-refactors",
+              "title": "Practice Testing refactors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-7-testing-refactors-lesson-3",
+              "unitId": "ood-section-9-unit-7-testing-refactors",
+              "title": "Review Testing refactors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-9-unit-8-legacy-seams",
+          "sectionId": "ood-section-9",
+          "order": 8,
+          "title": "Legacy seams",
+          "lessons": [
+            {
+              "id": "ood-section-9-unit-8-legacy-seams-lesson-1",
+              "unitId": "ood-section-9-unit-8-legacy-seams",
+              "title": "Learn Legacy seams",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-8-legacy-seams-lesson-2",
+              "unitId": "ood-section-9-unit-8-legacy-seams",
+              "title": "Practice Legacy seams",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-8-legacy-seams-lesson-3",
+              "unitId": "ood-section-9-unit-8-legacy-seams",
+              "title": "Review Legacy seams",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-9-unit-9-refactor-plan",
+          "sectionId": "ood-section-9",
+          "order": 9,
+          "title": "Refactor plan",
+          "lessons": [
+            {
+              "id": "ood-section-9-unit-9-refactor-plan-lesson-1",
+              "unitId": "ood-section-9-unit-9-refactor-plan",
+              "title": "Learn Refactor plan",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-9-refactor-plan-lesson-2",
+              "unitId": "ood-section-9-unit-9-refactor-plan",
+              "title": "Practice Refactor plan",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-9-refactor-plan-lesson-3",
+              "unitId": "ood-section-9-unit-9-refactor-plan",
+              "title": "Review Refactor plan",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-9-unit-10-refactor-project",
+          "sectionId": "ood-section-9",
+          "order": 10,
+          "title": "Refactor project",
+          "lessons": [
+            {
+              "id": "ood-section-9-unit-10-refactor-project-lesson-1",
+              "unitId": "ood-section-9-unit-10-refactor-project",
+              "title": "Learn Refactor project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-10-refactor-project-lesson-2",
+              "unitId": "ood-section-9-unit-10-refactor-project",
+              "title": "Practice Refactor project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-9-unit-10-refactor-project-lesson-3",
+              "unitId": "ood-section-9-unit-10-refactor-project",
+              "title": "Review Refactor project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ood-section-10",
+      "trackId": "ood",
+      "order": 10,
+      "title": "Section 10: OOD Capstones",
+      "bannerColor": "#FF4B4B",
+      "units": [
+        {
+          "id": "ood-section-10-unit-1-parking-lot",
+          "sectionId": "ood-section-10",
+          "order": 1,
+          "title": "Parking lot",
+          "lessons": [
+            {
+              "id": "ood-section-10-unit-1-parking-lot-lesson-1",
+              "unitId": "ood-section-10-unit-1-parking-lot",
+              "title": "Learn Parking lot",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-1-parking-lot-lesson-2",
+              "unitId": "ood-section-10-unit-1-parking-lot",
+              "title": "Practice Parking lot",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-1-parking-lot-lesson-3",
+              "unitId": "ood-section-10-unit-1-parking-lot",
+              "title": "Review Parking lot",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-10-unit-2-library-system",
+          "sectionId": "ood-section-10",
+          "order": 2,
+          "title": "Library system",
+          "lessons": [
+            {
+              "id": "ood-section-10-unit-2-library-system-lesson-1",
+              "unitId": "ood-section-10-unit-2-library-system",
+              "title": "Learn Library system",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-2-library-system-lesson-2",
+              "unitId": "ood-section-10-unit-2-library-system",
+              "title": "Practice Library system",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-2-library-system-lesson-3",
+              "unitId": "ood-section-10-unit-2-library-system",
+              "title": "Review Library system",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-10-unit-3-elevator-model",
+          "sectionId": "ood-section-10",
+          "order": 3,
+          "title": "Elevator model",
+          "lessons": [
+            {
+              "id": "ood-section-10-unit-3-elevator-model-lesson-1",
+              "unitId": "ood-section-10-unit-3-elevator-model",
+              "title": "Learn Elevator model",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-3-elevator-model-lesson-2",
+              "unitId": "ood-section-10-unit-3-elevator-model",
+              "title": "Practice Elevator model",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-3-elevator-model-lesson-3",
+              "unitId": "ood-section-10-unit-3-elevator-model",
+              "title": "Review Elevator model",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-10-unit-4-notification-system",
+          "sectionId": "ood-section-10",
+          "order": 4,
+          "title": "Notification system",
+          "lessons": [
+            {
+              "id": "ood-section-10-unit-4-notification-system-lesson-1",
+              "unitId": "ood-section-10-unit-4-notification-system",
+              "title": "Learn Notification system",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-4-notification-system-lesson-2",
+              "unitId": "ood-section-10-unit-4-notification-system",
+              "title": "Practice Notification system",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-4-notification-system-lesson-3",
+              "unitId": "ood-section-10-unit-4-notification-system",
+              "title": "Review Notification system",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-10-unit-5-game-inventory",
+          "sectionId": "ood-section-10",
+          "order": 5,
+          "title": "Game inventory",
+          "lessons": [
+            {
+              "id": "ood-section-10-unit-5-game-inventory-lesson-1",
+              "unitId": "ood-section-10-unit-5-game-inventory",
+              "title": "Learn Game inventory",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-5-game-inventory-lesson-2",
+              "unitId": "ood-section-10-unit-5-game-inventory",
+              "title": "Practice Game inventory",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-5-game-inventory-lesson-3",
+              "unitId": "ood-section-10-unit-5-game-inventory",
+              "title": "Review Game inventory",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-10-unit-6-payment-flow",
+          "sectionId": "ood-section-10",
+          "order": 6,
+          "title": "Payment flow",
+          "lessons": [
+            {
+              "id": "ood-section-10-unit-6-payment-flow-lesson-1",
+              "unitId": "ood-section-10-unit-6-payment-flow",
+              "title": "Learn Payment flow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-6-payment-flow-lesson-2",
+              "unitId": "ood-section-10-unit-6-payment-flow",
+              "title": "Practice Payment flow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-6-payment-flow-lesson-3",
+              "unitId": "ood-section-10-unit-6-payment-flow",
+              "title": "Review Payment flow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-10-unit-7-ride-sharing-model",
+          "sectionId": "ood-section-10",
+          "order": 7,
+          "title": "Ride sharing model",
+          "lessons": [
+            {
+              "id": "ood-section-10-unit-7-ride-sharing-model-lesson-1",
+              "unitId": "ood-section-10-unit-7-ride-sharing-model",
+              "title": "Learn Ride sharing model",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-7-ride-sharing-model-lesson-2",
+              "unitId": "ood-section-10-unit-7-ride-sharing-model",
+              "title": "Practice Ride sharing model",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-7-ride-sharing-model-lesson-3",
+              "unitId": "ood-section-10-unit-7-ride-sharing-model",
+              "title": "Review Ride sharing model",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-10-unit-8-design-review",
+          "sectionId": "ood-section-10",
+          "order": 8,
+          "title": "Design review",
+          "lessons": [
+            {
+              "id": "ood-section-10-unit-8-design-review-lesson-1",
+              "unitId": "ood-section-10-unit-8-design-review",
+              "title": "Learn Design review",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-8-design-review-lesson-2",
+              "unitId": "ood-section-10-unit-8-design-review",
+              "title": "Practice Design review",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-8-design-review-lesson-3",
+              "unitId": "ood-section-10-unit-8-design-review",
+              "title": "Review Design review",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-10-unit-9-refactor-pass",
+          "sectionId": "ood-section-10",
+          "order": 9,
+          "title": "Refactor pass",
+          "lessons": [
+            {
+              "id": "ood-section-10-unit-9-refactor-pass-lesson-1",
+              "unitId": "ood-section-10-unit-9-refactor-pass",
+              "title": "Learn Refactor pass",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-9-refactor-pass-lesson-2",
+              "unitId": "ood-section-10-unit-9-refactor-pass",
+              "title": "Practice Refactor pass",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-9-refactor-pass-lesson-3",
+              "unitId": "ood-section-10-unit-9-refactor-pass",
+              "title": "Review Refactor pass",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "ood-section-10-unit-10-final-ood-project",
+          "sectionId": "ood-section-10",
+          "order": 10,
+          "title": "Final OOD project",
+          "lessons": [
+            {
+              "id": "ood-section-10-unit-10-final-ood-project-lesson-1",
+              "unitId": "ood-section-10-unit-10-final-ood-project",
+              "title": "Learn Final OOD project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-10-final-ood-project-lesson-2",
+              "unitId": "ood-section-10-unit-10-final-ood-project",
+              "title": "Practice Final OOD project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "ood-section-10-unit-10-final-ood-project-lesson-3",
+              "unitId": "ood-section-10-unit-10-final-ood-project",
+              "title": "Review Final OOD project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

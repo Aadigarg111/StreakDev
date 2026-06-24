@@ -1,0 +1,3006 @@
+{
+  "id": "system-design",
+  "title": "System Design Basics",
+  "category": "core-cs",
+  "icon": "workflow",
+  "color": "#1CB0F6",
+  "description": "Learn the building blocks behind scalable, reliable product architecture.",
+  "sections": [
+    {
+      "id": "system-design-section-1",
+      "trackId": "system-design",
+      "order": 1,
+      "title": "Section 1: Foundations",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "system-design-section-1-unit-1-requirements",
+          "sectionId": "system-design-section-1",
+          "order": 1,
+          "title": "Requirements",
+          "lessons": [
+            {
+              "id": "system-design-section-1-unit-1-requirements-lesson-1",
+              "unitId": "system-design-section-1-unit-1-requirements",
+              "title": "Learn Requirements",
+              "order": 1,
+              "exerciseIds": [
+                "system-design-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "system-design-section-1-unit-1-requirements-lesson-2",
+              "unitId": "system-design-section-1-unit-1-requirements",
+              "title": "Practice Requirements",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-1-requirements-lesson-3",
+              "unitId": "system-design-section-1-unit-1-requirements",
+              "title": "Review Requirements",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-1-unit-2-functional-vs-nonfunctional",
+          "sectionId": "system-design-section-1",
+          "order": 2,
+          "title": "Functional vs nonfunctional",
+          "lessons": [
+            {
+              "id": "system-design-section-1-unit-2-functional-vs-nonfunctional-lesson-1",
+              "unitId": "system-design-section-1-unit-2-functional-vs-nonfunctional",
+              "title": "Learn Functional vs nonfunctional",
+              "order": 1,
+              "exerciseIds": [
+                "system-design-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "system-design-section-1-unit-2-functional-vs-nonfunctional-lesson-2",
+              "unitId": "system-design-section-1-unit-2-functional-vs-nonfunctional",
+              "title": "Practice Functional vs nonfunctional",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-2-functional-vs-nonfunctional-lesson-3",
+              "unitId": "system-design-section-1-unit-2-functional-vs-nonfunctional",
+              "title": "Review Functional vs nonfunctional",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-1-unit-3-capacity-estimates",
+          "sectionId": "system-design-section-1",
+          "order": 3,
+          "title": "Capacity estimates",
+          "lessons": [
+            {
+              "id": "system-design-section-1-unit-3-capacity-estimates-lesson-1",
+              "unitId": "system-design-section-1-unit-3-capacity-estimates",
+              "title": "Learn Capacity estimates",
+              "order": 1,
+              "exerciseIds": [
+                "system-design-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "system-design-section-1-unit-3-capacity-estimates-lesson-2",
+              "unitId": "system-design-section-1-unit-3-capacity-estimates",
+              "title": "Practice Capacity estimates",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-3-capacity-estimates-lesson-3",
+              "unitId": "system-design-section-1-unit-3-capacity-estimates",
+              "title": "Review Capacity estimates",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-1-unit-4-latency-goals",
+          "sectionId": "system-design-section-1",
+          "order": 4,
+          "title": "Latency goals",
+          "lessons": [
+            {
+              "id": "system-design-section-1-unit-4-latency-goals-lesson-1",
+              "unitId": "system-design-section-1-unit-4-latency-goals",
+              "title": "Learn Latency goals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-4-latency-goals-lesson-2",
+              "unitId": "system-design-section-1-unit-4-latency-goals",
+              "title": "Practice Latency goals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-4-latency-goals-lesson-3",
+              "unitId": "system-design-section-1-unit-4-latency-goals",
+              "title": "Review Latency goals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-1-unit-5-availability",
+          "sectionId": "system-design-section-1",
+          "order": 5,
+          "title": "Availability",
+          "lessons": [
+            {
+              "id": "system-design-section-1-unit-5-availability-lesson-1",
+              "unitId": "system-design-section-1-unit-5-availability",
+              "title": "Learn Availability",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-5-availability-lesson-2",
+              "unitId": "system-design-section-1-unit-5-availability",
+              "title": "Practice Availability",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-5-availability-lesson-3",
+              "unitId": "system-design-section-1-unit-5-availability",
+              "title": "Review Availability",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-1-unit-6-reliability",
+          "sectionId": "system-design-section-1",
+          "order": 6,
+          "title": "Reliability",
+          "lessons": [
+            {
+              "id": "system-design-section-1-unit-6-reliability-lesson-1",
+              "unitId": "system-design-section-1-unit-6-reliability",
+              "title": "Learn Reliability",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-6-reliability-lesson-2",
+              "unitId": "system-design-section-1-unit-6-reliability",
+              "title": "Practice Reliability",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-6-reliability-lesson-3",
+              "unitId": "system-design-section-1-unit-6-reliability",
+              "title": "Review Reliability",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-1-unit-7-consistency",
+          "sectionId": "system-design-section-1",
+          "order": 7,
+          "title": "Consistency",
+          "lessons": [
+            {
+              "id": "system-design-section-1-unit-7-consistency-lesson-1",
+              "unitId": "system-design-section-1-unit-7-consistency",
+              "title": "Learn Consistency",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-7-consistency-lesson-2",
+              "unitId": "system-design-section-1-unit-7-consistency",
+              "title": "Practice Consistency",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-7-consistency-lesson-3",
+              "unitId": "system-design-section-1-unit-7-consistency",
+              "title": "Review Consistency",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-1-unit-8-tradeoff-language",
+          "sectionId": "system-design-section-1",
+          "order": 8,
+          "title": "Tradeoff language",
+          "lessons": [
+            {
+              "id": "system-design-section-1-unit-8-tradeoff-language-lesson-1",
+              "unitId": "system-design-section-1-unit-8-tradeoff-language",
+              "title": "Learn Tradeoff language",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-8-tradeoff-language-lesson-2",
+              "unitId": "system-design-section-1-unit-8-tradeoff-language",
+              "title": "Practice Tradeoff language",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-8-tradeoff-language-lesson-3",
+              "unitId": "system-design-section-1-unit-8-tradeoff-language",
+              "title": "Review Tradeoff language",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-1-unit-9-architecture-diagrams",
+          "sectionId": "system-design-section-1",
+          "order": 9,
+          "title": "Architecture diagrams",
+          "lessons": [
+            {
+              "id": "system-design-section-1-unit-9-architecture-diagrams-lesson-1",
+              "unitId": "system-design-section-1-unit-9-architecture-diagrams",
+              "title": "Learn Architecture diagrams",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-9-architecture-diagrams-lesson-2",
+              "unitId": "system-design-section-1-unit-9-architecture-diagrams",
+              "title": "Practice Architecture diagrams",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-9-architecture-diagrams-lesson-3",
+              "unitId": "system-design-section-1-unit-9-architecture-diagrams",
+              "title": "Review Architecture diagrams",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-1-unit-10-design-interview-flow",
+          "sectionId": "system-design-section-1",
+          "order": 10,
+          "title": "Design interview flow",
+          "lessons": [
+            {
+              "id": "system-design-section-1-unit-10-design-interview-flow-lesson-1",
+              "unitId": "system-design-section-1-unit-10-design-interview-flow",
+              "title": "Learn Design interview flow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-10-design-interview-flow-lesson-2",
+              "unitId": "system-design-section-1-unit-10-design-interview-flow",
+              "title": "Practice Design interview flow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-1-unit-10-design-interview-flow-lesson-3",
+              "unitId": "system-design-section-1-unit-10-design-interview-flow",
+              "title": "Review Design interview flow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "system-design-section-2",
+      "trackId": "system-design",
+      "order": 2,
+      "title": "Section 2: Networking for Systems",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "system-design-section-2-unit-1-clients-and-servers",
+          "sectionId": "system-design-section-2",
+          "order": 1,
+          "title": "Clients and servers",
+          "lessons": [
+            {
+              "id": "system-design-section-2-unit-1-clients-and-servers-lesson-1",
+              "unitId": "system-design-section-2-unit-1-clients-and-servers",
+              "title": "Learn Clients and servers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-1-clients-and-servers-lesson-2",
+              "unitId": "system-design-section-2-unit-1-clients-and-servers",
+              "title": "Practice Clients and servers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-1-clients-and-servers-lesson-3",
+              "unitId": "system-design-section-2-unit-1-clients-and-servers",
+              "title": "Review Clients and servers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-2-unit-2-apis",
+          "sectionId": "system-design-section-2",
+          "order": 2,
+          "title": "APIs",
+          "lessons": [
+            {
+              "id": "system-design-section-2-unit-2-apis-lesson-1",
+              "unitId": "system-design-section-2-unit-2-apis",
+              "title": "Learn APIs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-2-apis-lesson-2",
+              "unitId": "system-design-section-2-unit-2-apis",
+              "title": "Practice APIs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-2-apis-lesson-3",
+              "unitId": "system-design-section-2-unit-2-apis",
+              "title": "Review APIs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-2-unit-3-http-basics",
+          "sectionId": "system-design-section-2",
+          "order": 3,
+          "title": "HTTP basics",
+          "lessons": [
+            {
+              "id": "system-design-section-2-unit-3-http-basics-lesson-1",
+              "unitId": "system-design-section-2-unit-3-http-basics",
+              "title": "Learn HTTP basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-3-http-basics-lesson-2",
+              "unitId": "system-design-section-2-unit-3-http-basics",
+              "title": "Practice HTTP basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-3-http-basics-lesson-3",
+              "unitId": "system-design-section-2-unit-3-http-basics",
+              "title": "Review HTTP basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-2-unit-4-dns-in-systems",
+          "sectionId": "system-design-section-2",
+          "order": 4,
+          "title": "DNS in systems",
+          "lessons": [
+            {
+              "id": "system-design-section-2-unit-4-dns-in-systems-lesson-1",
+              "unitId": "system-design-section-2-unit-4-dns-in-systems",
+              "title": "Learn DNS in systems",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-4-dns-in-systems-lesson-2",
+              "unitId": "system-design-section-2-unit-4-dns-in-systems",
+              "title": "Practice DNS in systems",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-4-dns-in-systems-lesson-3",
+              "unitId": "system-design-section-2-unit-4-dns-in-systems",
+              "title": "Review DNS in systems",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-2-unit-5-cdns",
+          "sectionId": "system-design-section-2",
+          "order": 5,
+          "title": "CDNs",
+          "lessons": [
+            {
+              "id": "system-design-section-2-unit-5-cdns-lesson-1",
+              "unitId": "system-design-section-2-unit-5-cdns",
+              "title": "Learn CDNs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-5-cdns-lesson-2",
+              "unitId": "system-design-section-2-unit-5-cdns",
+              "title": "Practice CDNs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-5-cdns-lesson-3",
+              "unitId": "system-design-section-2-unit-5-cdns",
+              "title": "Review CDNs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-2-unit-6-websockets-concept",
+          "sectionId": "system-design-section-2",
+          "order": 6,
+          "title": "WebSockets concept",
+          "lessons": [
+            {
+              "id": "system-design-section-2-unit-6-websockets-concept-lesson-1",
+              "unitId": "system-design-section-2-unit-6-websockets-concept",
+              "title": "Learn WebSockets concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-6-websockets-concept-lesson-2",
+              "unitId": "system-design-section-2-unit-6-websockets-concept",
+              "title": "Practice WebSockets concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-6-websockets-concept-lesson-3",
+              "unitId": "system-design-section-2-unit-6-websockets-concept",
+              "title": "Review WebSockets concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-2-unit-7-rate-limits",
+          "sectionId": "system-design-section-2",
+          "order": 7,
+          "title": "Rate limits",
+          "lessons": [
+            {
+              "id": "system-design-section-2-unit-7-rate-limits-lesson-1",
+              "unitId": "system-design-section-2-unit-7-rate-limits",
+              "title": "Learn Rate limits",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-7-rate-limits-lesson-2",
+              "unitId": "system-design-section-2-unit-7-rate-limits",
+              "title": "Practice Rate limits",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-7-rate-limits-lesson-3",
+              "unitId": "system-design-section-2-unit-7-rate-limits",
+              "title": "Review Rate limits",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-2-unit-8-timeouts",
+          "sectionId": "system-design-section-2",
+          "order": 8,
+          "title": "Timeouts",
+          "lessons": [
+            {
+              "id": "system-design-section-2-unit-8-timeouts-lesson-1",
+              "unitId": "system-design-section-2-unit-8-timeouts",
+              "title": "Learn Timeouts",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-8-timeouts-lesson-2",
+              "unitId": "system-design-section-2-unit-8-timeouts",
+              "title": "Practice Timeouts",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-8-timeouts-lesson-3",
+              "unitId": "system-design-section-2-unit-8-timeouts",
+              "title": "Review Timeouts",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-2-unit-9-retries",
+          "sectionId": "system-design-section-2",
+          "order": 9,
+          "title": "Retries",
+          "lessons": [
+            {
+              "id": "system-design-section-2-unit-9-retries-lesson-1",
+              "unitId": "system-design-section-2-unit-9-retries",
+              "title": "Learn Retries",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-9-retries-lesson-2",
+              "unitId": "system-design-section-2-unit-9-retries",
+              "title": "Practice Retries",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-9-retries-lesson-3",
+              "unitId": "system-design-section-2-unit-9-retries",
+              "title": "Review Retries",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-2-unit-10-network-tradeoffs",
+          "sectionId": "system-design-section-2",
+          "order": 10,
+          "title": "Network tradeoffs",
+          "lessons": [
+            {
+              "id": "system-design-section-2-unit-10-network-tradeoffs-lesson-1",
+              "unitId": "system-design-section-2-unit-10-network-tradeoffs",
+              "title": "Learn Network tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-10-network-tradeoffs-lesson-2",
+              "unitId": "system-design-section-2-unit-10-network-tradeoffs",
+              "title": "Practice Network tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-2-unit-10-network-tradeoffs-lesson-3",
+              "unitId": "system-design-section-2-unit-10-network-tradeoffs",
+              "title": "Review Network tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "system-design-section-3",
+      "trackId": "system-design",
+      "order": 3,
+      "title": "Section 3: Load Balancing",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "system-design-section-3-unit-1-why-load-balance",
+          "sectionId": "system-design-section-3",
+          "order": 1,
+          "title": "Why load balance",
+          "lessons": [
+            {
+              "id": "system-design-section-3-unit-1-why-load-balance-lesson-1",
+              "unitId": "system-design-section-3-unit-1-why-load-balance",
+              "title": "Learn Why load balance",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-1-why-load-balance-lesson-2",
+              "unitId": "system-design-section-3-unit-1-why-load-balance",
+              "title": "Practice Why load balance",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-1-why-load-balance-lesson-3",
+              "unitId": "system-design-section-3-unit-1-why-load-balance",
+              "title": "Review Why load balance",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-3-unit-2-layer-4-vs-layer-7",
+          "sectionId": "system-design-section-3",
+          "order": 2,
+          "title": "Layer 4 vs layer 7",
+          "lessons": [
+            {
+              "id": "system-design-section-3-unit-2-layer-4-vs-layer-7-lesson-1",
+              "unitId": "system-design-section-3-unit-2-layer-4-vs-layer-7",
+              "title": "Learn Layer 4 vs layer 7",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-2-layer-4-vs-layer-7-lesson-2",
+              "unitId": "system-design-section-3-unit-2-layer-4-vs-layer-7",
+              "title": "Practice Layer 4 vs layer 7",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-2-layer-4-vs-layer-7-lesson-3",
+              "unitId": "system-design-section-3-unit-2-layer-4-vs-layer-7",
+              "title": "Review Layer 4 vs layer 7",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-3-unit-3-round-robin",
+          "sectionId": "system-design-section-3",
+          "order": 3,
+          "title": "Round robin",
+          "lessons": [
+            {
+              "id": "system-design-section-3-unit-3-round-robin-lesson-1",
+              "unitId": "system-design-section-3-unit-3-round-robin",
+              "title": "Learn Round robin",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-3-round-robin-lesson-2",
+              "unitId": "system-design-section-3-unit-3-round-robin",
+              "title": "Practice Round robin",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-3-round-robin-lesson-3",
+              "unitId": "system-design-section-3-unit-3-round-robin",
+              "title": "Review Round robin",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-3-unit-4-least-connections",
+          "sectionId": "system-design-section-3",
+          "order": 4,
+          "title": "Least connections",
+          "lessons": [
+            {
+              "id": "system-design-section-3-unit-4-least-connections-lesson-1",
+              "unitId": "system-design-section-3-unit-4-least-connections",
+              "title": "Learn Least connections",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-4-least-connections-lesson-2",
+              "unitId": "system-design-section-3-unit-4-least-connections",
+              "title": "Practice Least connections",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-4-least-connections-lesson-3",
+              "unitId": "system-design-section-3-unit-4-least-connections",
+              "title": "Review Least connections",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-3-unit-5-health-checks",
+          "sectionId": "system-design-section-3",
+          "order": 5,
+          "title": "Health checks",
+          "lessons": [
+            {
+              "id": "system-design-section-3-unit-5-health-checks-lesson-1",
+              "unitId": "system-design-section-3-unit-5-health-checks",
+              "title": "Learn Health checks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-5-health-checks-lesson-2",
+              "unitId": "system-design-section-3-unit-5-health-checks",
+              "title": "Practice Health checks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-5-health-checks-lesson-3",
+              "unitId": "system-design-section-3-unit-5-health-checks",
+              "title": "Review Health checks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-3-unit-6-sticky-sessions",
+          "sectionId": "system-design-section-3",
+          "order": 6,
+          "title": "Sticky sessions",
+          "lessons": [
+            {
+              "id": "system-design-section-3-unit-6-sticky-sessions-lesson-1",
+              "unitId": "system-design-section-3-unit-6-sticky-sessions",
+              "title": "Learn Sticky sessions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-6-sticky-sessions-lesson-2",
+              "unitId": "system-design-section-3-unit-6-sticky-sessions",
+              "title": "Practice Sticky sessions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-6-sticky-sessions-lesson-3",
+              "unitId": "system-design-section-3-unit-6-sticky-sessions",
+              "title": "Review Sticky sessions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-3-unit-7-global-balancing",
+          "sectionId": "system-design-section-3",
+          "order": 7,
+          "title": "Global balancing",
+          "lessons": [
+            {
+              "id": "system-design-section-3-unit-7-global-balancing-lesson-1",
+              "unitId": "system-design-section-3-unit-7-global-balancing",
+              "title": "Learn Global balancing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-7-global-balancing-lesson-2",
+              "unitId": "system-design-section-3-unit-7-global-balancing",
+              "title": "Practice Global balancing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-7-global-balancing-lesson-3",
+              "unitId": "system-design-section-3-unit-7-global-balancing",
+              "title": "Review Global balancing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-3-unit-8-failover",
+          "sectionId": "system-design-section-3",
+          "order": 8,
+          "title": "Failover",
+          "lessons": [
+            {
+              "id": "system-design-section-3-unit-8-failover-lesson-1",
+              "unitId": "system-design-section-3-unit-8-failover",
+              "title": "Learn Failover",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-8-failover-lesson-2",
+              "unitId": "system-design-section-3-unit-8-failover",
+              "title": "Practice Failover",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-8-failover-lesson-3",
+              "unitId": "system-design-section-3-unit-8-failover",
+              "title": "Review Failover",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-3-unit-9-load-balancer-limits",
+          "sectionId": "system-design-section-3",
+          "order": 9,
+          "title": "Load balancer limits",
+          "lessons": [
+            {
+              "id": "system-design-section-3-unit-9-load-balancer-limits-lesson-1",
+              "unitId": "system-design-section-3-unit-9-load-balancer-limits",
+              "title": "Learn Load balancer limits",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-9-load-balancer-limits-lesson-2",
+              "unitId": "system-design-section-3-unit-9-load-balancer-limits",
+              "title": "Practice Load balancer limits",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-9-load-balancer-limits-lesson-3",
+              "unitId": "system-design-section-3-unit-9-load-balancer-limits",
+              "title": "Review Load balancer limits",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-3-unit-10-lb-design-drills",
+          "sectionId": "system-design-section-3",
+          "order": 10,
+          "title": "LB design drills",
+          "lessons": [
+            {
+              "id": "system-design-section-3-unit-10-lb-design-drills-lesson-1",
+              "unitId": "system-design-section-3-unit-10-lb-design-drills",
+              "title": "Learn LB design drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-10-lb-design-drills-lesson-2",
+              "unitId": "system-design-section-3-unit-10-lb-design-drills",
+              "title": "Practice LB design drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-3-unit-10-lb-design-drills-lesson-3",
+              "unitId": "system-design-section-3-unit-10-lb-design-drills",
+              "title": "Review LB design drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "system-design-section-4",
+      "trackId": "system-design",
+      "order": 4,
+      "title": "Section 4: Caching",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "system-design-section-4-unit-1-cache-purpose",
+          "sectionId": "system-design-section-4",
+          "order": 1,
+          "title": "Cache purpose",
+          "lessons": [
+            {
+              "id": "system-design-section-4-unit-1-cache-purpose-lesson-1",
+              "unitId": "system-design-section-4-unit-1-cache-purpose",
+              "title": "Learn Cache purpose",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-1-cache-purpose-lesson-2",
+              "unitId": "system-design-section-4-unit-1-cache-purpose",
+              "title": "Practice Cache purpose",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-1-cache-purpose-lesson-3",
+              "unitId": "system-design-section-4-unit-1-cache-purpose",
+              "title": "Review Cache purpose",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-4-unit-2-client-cache",
+          "sectionId": "system-design-section-4",
+          "order": 2,
+          "title": "Client cache",
+          "lessons": [
+            {
+              "id": "system-design-section-4-unit-2-client-cache-lesson-1",
+              "unitId": "system-design-section-4-unit-2-client-cache",
+              "title": "Learn Client cache",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-2-client-cache-lesson-2",
+              "unitId": "system-design-section-4-unit-2-client-cache",
+              "title": "Practice Client cache",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-2-client-cache-lesson-3",
+              "unitId": "system-design-section-4-unit-2-client-cache",
+              "title": "Review Client cache",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-4-unit-3-cdn-cache",
+          "sectionId": "system-design-section-4",
+          "order": 3,
+          "title": "CDN cache",
+          "lessons": [
+            {
+              "id": "system-design-section-4-unit-3-cdn-cache-lesson-1",
+              "unitId": "system-design-section-4-unit-3-cdn-cache",
+              "title": "Learn CDN cache",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-3-cdn-cache-lesson-2",
+              "unitId": "system-design-section-4-unit-3-cdn-cache",
+              "title": "Practice CDN cache",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-3-cdn-cache-lesson-3",
+              "unitId": "system-design-section-4-unit-3-cdn-cache",
+              "title": "Review CDN cache",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-4-unit-4-application-cache",
+          "sectionId": "system-design-section-4",
+          "order": 4,
+          "title": "Application cache",
+          "lessons": [
+            {
+              "id": "system-design-section-4-unit-4-application-cache-lesson-1",
+              "unitId": "system-design-section-4-unit-4-application-cache",
+              "title": "Learn Application cache",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-4-application-cache-lesson-2",
+              "unitId": "system-design-section-4-unit-4-application-cache",
+              "title": "Practice Application cache",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-4-application-cache-lesson-3",
+              "unitId": "system-design-section-4-unit-4-application-cache",
+              "title": "Review Application cache",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-4-unit-5-database-cache",
+          "sectionId": "system-design-section-4",
+          "order": 5,
+          "title": "Database cache",
+          "lessons": [
+            {
+              "id": "system-design-section-4-unit-5-database-cache-lesson-1",
+              "unitId": "system-design-section-4-unit-5-database-cache",
+              "title": "Learn Database cache",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-5-database-cache-lesson-2",
+              "unitId": "system-design-section-4-unit-5-database-cache",
+              "title": "Practice Database cache",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-5-database-cache-lesson-3",
+              "unitId": "system-design-section-4-unit-5-database-cache",
+              "title": "Review Database cache",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-4-unit-6-cache-keys",
+          "sectionId": "system-design-section-4",
+          "order": 6,
+          "title": "Cache keys",
+          "lessons": [
+            {
+              "id": "system-design-section-4-unit-6-cache-keys-lesson-1",
+              "unitId": "system-design-section-4-unit-6-cache-keys",
+              "title": "Learn Cache keys",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-6-cache-keys-lesson-2",
+              "unitId": "system-design-section-4-unit-6-cache-keys",
+              "title": "Practice Cache keys",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-6-cache-keys-lesson-3",
+              "unitId": "system-design-section-4-unit-6-cache-keys",
+              "title": "Review Cache keys",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-4-unit-7-invalidation",
+          "sectionId": "system-design-section-4",
+          "order": 7,
+          "title": "Invalidation",
+          "lessons": [
+            {
+              "id": "system-design-section-4-unit-7-invalidation-lesson-1",
+              "unitId": "system-design-section-4-unit-7-invalidation",
+              "title": "Learn Invalidation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-7-invalidation-lesson-2",
+              "unitId": "system-design-section-4-unit-7-invalidation",
+              "title": "Practice Invalidation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-7-invalidation-lesson-3",
+              "unitId": "system-design-section-4-unit-7-invalidation",
+              "title": "Review Invalidation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-4-unit-8-ttl",
+          "sectionId": "system-design-section-4",
+          "order": 8,
+          "title": "TTL",
+          "lessons": [
+            {
+              "id": "system-design-section-4-unit-8-ttl-lesson-1",
+              "unitId": "system-design-section-4-unit-8-ttl",
+              "title": "Learn TTL",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-8-ttl-lesson-2",
+              "unitId": "system-design-section-4-unit-8-ttl",
+              "title": "Practice TTL",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-8-ttl-lesson-3",
+              "unitId": "system-design-section-4-unit-8-ttl",
+              "title": "Review TTL",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-4-unit-9-cache-stampede",
+          "sectionId": "system-design-section-4",
+          "order": 9,
+          "title": "Cache stampede",
+          "lessons": [
+            {
+              "id": "system-design-section-4-unit-9-cache-stampede-lesson-1",
+              "unitId": "system-design-section-4-unit-9-cache-stampede",
+              "title": "Learn Cache stampede",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-9-cache-stampede-lesson-2",
+              "unitId": "system-design-section-4-unit-9-cache-stampede",
+              "title": "Practice Cache stampede",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-9-cache-stampede-lesson-3",
+              "unitId": "system-design-section-4-unit-9-cache-stampede",
+              "title": "Review Cache stampede",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-4-unit-10-caching-project",
+          "sectionId": "system-design-section-4",
+          "order": 10,
+          "title": "Caching project",
+          "lessons": [
+            {
+              "id": "system-design-section-4-unit-10-caching-project-lesson-1",
+              "unitId": "system-design-section-4-unit-10-caching-project",
+              "title": "Learn Caching project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-10-caching-project-lesson-2",
+              "unitId": "system-design-section-4-unit-10-caching-project",
+              "title": "Practice Caching project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-4-unit-10-caching-project-lesson-3",
+              "unitId": "system-design-section-4-unit-10-caching-project",
+              "title": "Review Caching project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "system-design-section-5",
+      "trackId": "system-design",
+      "order": 5,
+      "title": "Section 5: Databases at Scale",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "system-design-section-5-unit-1-read-replicas",
+          "sectionId": "system-design-section-5",
+          "order": 1,
+          "title": "Read replicas",
+          "lessons": [
+            {
+              "id": "system-design-section-5-unit-1-read-replicas-lesson-1",
+              "unitId": "system-design-section-5-unit-1-read-replicas",
+              "title": "Learn Read replicas",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-1-read-replicas-lesson-2",
+              "unitId": "system-design-section-5-unit-1-read-replicas",
+              "title": "Practice Read replicas",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-1-read-replicas-lesson-3",
+              "unitId": "system-design-section-5-unit-1-read-replicas",
+              "title": "Review Read replicas",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-5-unit-2-sharding",
+          "sectionId": "system-design-section-5",
+          "order": 2,
+          "title": "Sharding",
+          "lessons": [
+            {
+              "id": "system-design-section-5-unit-2-sharding-lesson-1",
+              "unitId": "system-design-section-5-unit-2-sharding",
+              "title": "Learn Sharding",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-2-sharding-lesson-2",
+              "unitId": "system-design-section-5-unit-2-sharding",
+              "title": "Practice Sharding",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-2-sharding-lesson-3",
+              "unitId": "system-design-section-5-unit-2-sharding",
+              "title": "Review Sharding",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-5-unit-3-partition-keys",
+          "sectionId": "system-design-section-5",
+          "order": 3,
+          "title": "Partition keys",
+          "lessons": [
+            {
+              "id": "system-design-section-5-unit-3-partition-keys-lesson-1",
+              "unitId": "system-design-section-5-unit-3-partition-keys",
+              "title": "Learn Partition keys",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-3-partition-keys-lesson-2",
+              "unitId": "system-design-section-5-unit-3-partition-keys",
+              "title": "Practice Partition keys",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-3-partition-keys-lesson-3",
+              "unitId": "system-design-section-5-unit-3-partition-keys",
+              "title": "Review Partition keys",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-5-unit-4-hot-partitions",
+          "sectionId": "system-design-section-5",
+          "order": 4,
+          "title": "Hot partitions",
+          "lessons": [
+            {
+              "id": "system-design-section-5-unit-4-hot-partitions-lesson-1",
+              "unitId": "system-design-section-5-unit-4-hot-partitions",
+              "title": "Learn Hot partitions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-4-hot-partitions-lesson-2",
+              "unitId": "system-design-section-5-unit-4-hot-partitions",
+              "title": "Practice Hot partitions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-4-hot-partitions-lesson-3",
+              "unitId": "system-design-section-5-unit-4-hot-partitions",
+              "title": "Review Hot partitions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-5-unit-5-replication-lag",
+          "sectionId": "system-design-section-5",
+          "order": 5,
+          "title": "Replication lag",
+          "lessons": [
+            {
+              "id": "system-design-section-5-unit-5-replication-lag-lesson-1",
+              "unitId": "system-design-section-5-unit-5-replication-lag",
+              "title": "Learn Replication lag",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-5-replication-lag-lesson-2",
+              "unitId": "system-design-section-5-unit-5-replication-lag",
+              "title": "Practice Replication lag",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-5-replication-lag-lesson-3",
+              "unitId": "system-design-section-5-unit-5-replication-lag",
+              "title": "Review Replication lag",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-5-unit-6-sql-vs-nosql",
+          "sectionId": "system-design-section-5",
+          "order": 6,
+          "title": "SQL vs NoSQL",
+          "lessons": [
+            {
+              "id": "system-design-section-5-unit-6-sql-vs-nosql-lesson-1",
+              "unitId": "system-design-section-5-unit-6-sql-vs-nosql",
+              "title": "Learn SQL vs NoSQL",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-6-sql-vs-nosql-lesson-2",
+              "unitId": "system-design-section-5-unit-6-sql-vs-nosql",
+              "title": "Practice SQL vs NoSQL",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-6-sql-vs-nosql-lesson-3",
+              "unitId": "system-design-section-5-unit-6-sql-vs-nosql",
+              "title": "Review SQL vs NoSQL",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-5-unit-7-indexes",
+          "sectionId": "system-design-section-5",
+          "order": 7,
+          "title": "Indexes",
+          "lessons": [
+            {
+              "id": "system-design-section-5-unit-7-indexes-lesson-1",
+              "unitId": "system-design-section-5-unit-7-indexes",
+              "title": "Learn Indexes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-7-indexes-lesson-2",
+              "unitId": "system-design-section-5-unit-7-indexes",
+              "title": "Practice Indexes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-7-indexes-lesson-3",
+              "unitId": "system-design-section-5-unit-7-indexes",
+              "title": "Review Indexes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-5-unit-8-transactions-tradeoffs",
+          "sectionId": "system-design-section-5",
+          "order": 8,
+          "title": "Transactions tradeoffs",
+          "lessons": [
+            {
+              "id": "system-design-section-5-unit-8-transactions-tradeoffs-lesson-1",
+              "unitId": "system-design-section-5-unit-8-transactions-tradeoffs",
+              "title": "Learn Transactions tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-8-transactions-tradeoffs-lesson-2",
+              "unitId": "system-design-section-5-unit-8-transactions-tradeoffs",
+              "title": "Practice Transactions tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-8-transactions-tradeoffs-lesson-3",
+              "unitId": "system-design-section-5-unit-8-transactions-tradeoffs",
+              "title": "Review Transactions tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-5-unit-9-data-retention",
+          "sectionId": "system-design-section-5",
+          "order": 9,
+          "title": "Data retention",
+          "lessons": [
+            {
+              "id": "system-design-section-5-unit-9-data-retention-lesson-1",
+              "unitId": "system-design-section-5-unit-9-data-retention",
+              "title": "Learn Data retention",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-9-data-retention-lesson-2",
+              "unitId": "system-design-section-5-unit-9-data-retention",
+              "title": "Practice Data retention",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-9-data-retention-lesson-3",
+              "unitId": "system-design-section-5-unit-9-data-retention",
+              "title": "Review Data retention",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-5-unit-10-data-design-drills",
+          "sectionId": "system-design-section-5",
+          "order": 10,
+          "title": "Data design drills",
+          "lessons": [
+            {
+              "id": "system-design-section-5-unit-10-data-design-drills-lesson-1",
+              "unitId": "system-design-section-5-unit-10-data-design-drills",
+              "title": "Learn Data design drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-10-data-design-drills-lesson-2",
+              "unitId": "system-design-section-5-unit-10-data-design-drills",
+              "title": "Practice Data design drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-5-unit-10-data-design-drills-lesson-3",
+              "unitId": "system-design-section-5-unit-10-data-design-drills",
+              "title": "Review Data design drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "system-design-section-6",
+      "trackId": "system-design",
+      "order": 6,
+      "title": "Section 6: Queues & Async",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "system-design-section-6-unit-1-message-queues",
+          "sectionId": "system-design-section-6",
+          "order": 1,
+          "title": "Message queues",
+          "lessons": [
+            {
+              "id": "system-design-section-6-unit-1-message-queues-lesson-1",
+              "unitId": "system-design-section-6-unit-1-message-queues",
+              "title": "Learn Message queues",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-1-message-queues-lesson-2",
+              "unitId": "system-design-section-6-unit-1-message-queues",
+              "title": "Practice Message queues",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-1-message-queues-lesson-3",
+              "unitId": "system-design-section-6-unit-1-message-queues",
+              "title": "Review Message queues",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-6-unit-2-pub-sub",
+          "sectionId": "system-design-section-6",
+          "order": 2,
+          "title": "Pub sub",
+          "lessons": [
+            {
+              "id": "system-design-section-6-unit-2-pub-sub-lesson-1",
+              "unitId": "system-design-section-6-unit-2-pub-sub",
+              "title": "Learn Pub sub",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-2-pub-sub-lesson-2",
+              "unitId": "system-design-section-6-unit-2-pub-sub",
+              "title": "Practice Pub sub",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-2-pub-sub-lesson-3",
+              "unitId": "system-design-section-6-unit-2-pub-sub",
+              "title": "Review Pub sub",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-6-unit-3-background-jobs",
+          "sectionId": "system-design-section-6",
+          "order": 3,
+          "title": "Background jobs",
+          "lessons": [
+            {
+              "id": "system-design-section-6-unit-3-background-jobs-lesson-1",
+              "unitId": "system-design-section-6-unit-3-background-jobs",
+              "title": "Learn Background jobs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-3-background-jobs-lesson-2",
+              "unitId": "system-design-section-6-unit-3-background-jobs",
+              "title": "Practice Background jobs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-3-background-jobs-lesson-3",
+              "unitId": "system-design-section-6-unit-3-background-jobs",
+              "title": "Review Background jobs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-6-unit-4-retries",
+          "sectionId": "system-design-section-6",
+          "order": 4,
+          "title": "Retries",
+          "lessons": [
+            {
+              "id": "system-design-section-6-unit-4-retries-lesson-1",
+              "unitId": "system-design-section-6-unit-4-retries",
+              "title": "Learn Retries",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-4-retries-lesson-2",
+              "unitId": "system-design-section-6-unit-4-retries",
+              "title": "Practice Retries",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-4-retries-lesson-3",
+              "unitId": "system-design-section-6-unit-4-retries",
+              "title": "Review Retries",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-6-unit-5-dead-letter-queues",
+          "sectionId": "system-design-section-6",
+          "order": 5,
+          "title": "Dead letter queues",
+          "lessons": [
+            {
+              "id": "system-design-section-6-unit-5-dead-letter-queues-lesson-1",
+              "unitId": "system-design-section-6-unit-5-dead-letter-queues",
+              "title": "Learn Dead letter queues",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-5-dead-letter-queues-lesson-2",
+              "unitId": "system-design-section-6-unit-5-dead-letter-queues",
+              "title": "Practice Dead letter queues",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-5-dead-letter-queues-lesson-3",
+              "unitId": "system-design-section-6-unit-5-dead-letter-queues",
+              "title": "Review Dead letter queues",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-6-unit-6-idempotency",
+          "sectionId": "system-design-section-6",
+          "order": 6,
+          "title": "Idempotency",
+          "lessons": [
+            {
+              "id": "system-design-section-6-unit-6-idempotency-lesson-1",
+              "unitId": "system-design-section-6-unit-6-idempotency",
+              "title": "Learn Idempotency",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-6-idempotency-lesson-2",
+              "unitId": "system-design-section-6-unit-6-idempotency",
+              "title": "Practice Idempotency",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-6-idempotency-lesson-3",
+              "unitId": "system-design-section-6-unit-6-idempotency",
+              "title": "Review Idempotency",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-6-unit-7-ordering",
+          "sectionId": "system-design-section-6",
+          "order": 7,
+          "title": "Ordering",
+          "lessons": [
+            {
+              "id": "system-design-section-6-unit-7-ordering-lesson-1",
+              "unitId": "system-design-section-6-unit-7-ordering",
+              "title": "Learn Ordering",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-7-ordering-lesson-2",
+              "unitId": "system-design-section-6-unit-7-ordering",
+              "title": "Practice Ordering",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-7-ordering-lesson-3",
+              "unitId": "system-design-section-6-unit-7-ordering",
+              "title": "Review Ordering",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-6-unit-8-backpressure",
+          "sectionId": "system-design-section-6",
+          "order": 8,
+          "title": "Backpressure",
+          "lessons": [
+            {
+              "id": "system-design-section-6-unit-8-backpressure-lesson-1",
+              "unitId": "system-design-section-6-unit-8-backpressure",
+              "title": "Learn Backpressure",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-8-backpressure-lesson-2",
+              "unitId": "system-design-section-6-unit-8-backpressure",
+              "title": "Practice Backpressure",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-8-backpressure-lesson-3",
+              "unitId": "system-design-section-6-unit-8-backpressure",
+              "title": "Review Backpressure",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-6-unit-9-eventual-consistency",
+          "sectionId": "system-design-section-6",
+          "order": 9,
+          "title": "Eventual consistency",
+          "lessons": [
+            {
+              "id": "system-design-section-6-unit-9-eventual-consistency-lesson-1",
+              "unitId": "system-design-section-6-unit-9-eventual-consistency",
+              "title": "Learn Eventual consistency",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-9-eventual-consistency-lesson-2",
+              "unitId": "system-design-section-6-unit-9-eventual-consistency",
+              "title": "Practice Eventual consistency",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-9-eventual-consistency-lesson-3",
+              "unitId": "system-design-section-6-unit-9-eventual-consistency",
+              "title": "Review Eventual consistency",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-6-unit-10-queue-project",
+          "sectionId": "system-design-section-6",
+          "order": 10,
+          "title": "Queue project",
+          "lessons": [
+            {
+              "id": "system-design-section-6-unit-10-queue-project-lesson-1",
+              "unitId": "system-design-section-6-unit-10-queue-project",
+              "title": "Learn Queue project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-10-queue-project-lesson-2",
+              "unitId": "system-design-section-6-unit-10-queue-project",
+              "title": "Practice Queue project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-6-unit-10-queue-project-lesson-3",
+              "unitId": "system-design-section-6-unit-10-queue-project",
+              "title": "Review Queue project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "system-design-section-7",
+      "trackId": "system-design",
+      "order": 7,
+      "title": "Section 7: Microservices",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "system-design-section-7-unit-1-monoliths",
+          "sectionId": "system-design-section-7",
+          "order": 1,
+          "title": "Monoliths",
+          "lessons": [
+            {
+              "id": "system-design-section-7-unit-1-monoliths-lesson-1",
+              "unitId": "system-design-section-7-unit-1-monoliths",
+              "title": "Learn Monoliths",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-1-monoliths-lesson-2",
+              "unitId": "system-design-section-7-unit-1-monoliths",
+              "title": "Practice Monoliths",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-1-monoliths-lesson-3",
+              "unitId": "system-design-section-7-unit-1-monoliths",
+              "title": "Review Monoliths",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-7-unit-2-service-boundaries",
+          "sectionId": "system-design-section-7",
+          "order": 2,
+          "title": "Service boundaries",
+          "lessons": [
+            {
+              "id": "system-design-section-7-unit-2-service-boundaries-lesson-1",
+              "unitId": "system-design-section-7-unit-2-service-boundaries",
+              "title": "Learn Service boundaries",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-2-service-boundaries-lesson-2",
+              "unitId": "system-design-section-7-unit-2-service-boundaries",
+              "title": "Practice Service boundaries",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-2-service-boundaries-lesson-3",
+              "unitId": "system-design-section-7-unit-2-service-boundaries",
+              "title": "Review Service boundaries",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-7-unit-3-api-gateways",
+          "sectionId": "system-design-section-7",
+          "order": 3,
+          "title": "API gateways",
+          "lessons": [
+            {
+              "id": "system-design-section-7-unit-3-api-gateways-lesson-1",
+              "unitId": "system-design-section-7-unit-3-api-gateways",
+              "title": "Learn API gateways",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-3-api-gateways-lesson-2",
+              "unitId": "system-design-section-7-unit-3-api-gateways",
+              "title": "Practice API gateways",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-3-api-gateways-lesson-3",
+              "unitId": "system-design-section-7-unit-3-api-gateways",
+              "title": "Review API gateways",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-7-unit-4-service-discovery",
+          "sectionId": "system-design-section-7",
+          "order": 4,
+          "title": "Service discovery",
+          "lessons": [
+            {
+              "id": "system-design-section-7-unit-4-service-discovery-lesson-1",
+              "unitId": "system-design-section-7-unit-4-service-discovery",
+              "title": "Learn Service discovery",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-4-service-discovery-lesson-2",
+              "unitId": "system-design-section-7-unit-4-service-discovery",
+              "title": "Practice Service discovery",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-4-service-discovery-lesson-3",
+              "unitId": "system-design-section-7-unit-4-service-discovery",
+              "title": "Review Service discovery",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-7-unit-5-distributed-tracing",
+          "sectionId": "system-design-section-7",
+          "order": 5,
+          "title": "Distributed tracing",
+          "lessons": [
+            {
+              "id": "system-design-section-7-unit-5-distributed-tracing-lesson-1",
+              "unitId": "system-design-section-7-unit-5-distributed-tracing",
+              "title": "Learn Distributed tracing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-5-distributed-tracing-lesson-2",
+              "unitId": "system-design-section-7-unit-5-distributed-tracing",
+              "title": "Practice Distributed tracing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-5-distributed-tracing-lesson-3",
+              "unitId": "system-design-section-7-unit-5-distributed-tracing",
+              "title": "Review Distributed tracing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-7-unit-6-configuration",
+          "sectionId": "system-design-section-7",
+          "order": 6,
+          "title": "Configuration",
+          "lessons": [
+            {
+              "id": "system-design-section-7-unit-6-configuration-lesson-1",
+              "unitId": "system-design-section-7-unit-6-configuration",
+              "title": "Learn Configuration",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-6-configuration-lesson-2",
+              "unitId": "system-design-section-7-unit-6-configuration",
+              "title": "Practice Configuration",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-6-configuration-lesson-3",
+              "unitId": "system-design-section-7-unit-6-configuration",
+              "title": "Review Configuration",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-7-unit-7-deployments",
+          "sectionId": "system-design-section-7",
+          "order": 7,
+          "title": "Deployments",
+          "lessons": [
+            {
+              "id": "system-design-section-7-unit-7-deployments-lesson-1",
+              "unitId": "system-design-section-7-unit-7-deployments",
+              "title": "Learn Deployments",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-7-deployments-lesson-2",
+              "unitId": "system-design-section-7-unit-7-deployments",
+              "title": "Practice Deployments",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-7-deployments-lesson-3",
+              "unitId": "system-design-section-7-unit-7-deployments",
+              "title": "Review Deployments",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-7-unit-8-versioning",
+          "sectionId": "system-design-section-7",
+          "order": 8,
+          "title": "Versioning",
+          "lessons": [
+            {
+              "id": "system-design-section-7-unit-8-versioning-lesson-1",
+              "unitId": "system-design-section-7-unit-8-versioning",
+              "title": "Learn Versioning",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-8-versioning-lesson-2",
+              "unitId": "system-design-section-7-unit-8-versioning",
+              "title": "Practice Versioning",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-8-versioning-lesson-3",
+              "unitId": "system-design-section-7-unit-8-versioning",
+              "title": "Review Versioning",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-7-unit-9-failure-isolation",
+          "sectionId": "system-design-section-7",
+          "order": 9,
+          "title": "Failure isolation",
+          "lessons": [
+            {
+              "id": "system-design-section-7-unit-9-failure-isolation-lesson-1",
+              "unitId": "system-design-section-7-unit-9-failure-isolation",
+              "title": "Learn Failure isolation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-9-failure-isolation-lesson-2",
+              "unitId": "system-design-section-7-unit-9-failure-isolation",
+              "title": "Practice Failure isolation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-9-failure-isolation-lesson-3",
+              "unitId": "system-design-section-7-unit-9-failure-isolation",
+              "title": "Review Failure isolation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-7-unit-10-service-tradeoffs",
+          "sectionId": "system-design-section-7",
+          "order": 10,
+          "title": "Service tradeoffs",
+          "lessons": [
+            {
+              "id": "system-design-section-7-unit-10-service-tradeoffs-lesson-1",
+              "unitId": "system-design-section-7-unit-10-service-tradeoffs",
+              "title": "Learn Service tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-10-service-tradeoffs-lesson-2",
+              "unitId": "system-design-section-7-unit-10-service-tradeoffs",
+              "title": "Practice Service tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-7-unit-10-service-tradeoffs-lesson-3",
+              "unitId": "system-design-section-7-unit-10-service-tradeoffs",
+              "title": "Review Service tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "system-design-section-8",
+      "trackId": "system-design",
+      "order": 8,
+      "title": "Section 8: Reliability",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "system-design-section-8-unit-1-slos",
+          "sectionId": "system-design-section-8",
+          "order": 1,
+          "title": "SLOs",
+          "lessons": [
+            {
+              "id": "system-design-section-8-unit-1-slos-lesson-1",
+              "unitId": "system-design-section-8-unit-1-slos",
+              "title": "Learn SLOs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-1-slos-lesson-2",
+              "unitId": "system-design-section-8-unit-1-slos",
+              "title": "Practice SLOs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-1-slos-lesson-3",
+              "unitId": "system-design-section-8-unit-1-slos",
+              "title": "Review SLOs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-8-unit-2-slis",
+          "sectionId": "system-design-section-8",
+          "order": 2,
+          "title": "SLIs",
+          "lessons": [
+            {
+              "id": "system-design-section-8-unit-2-slis-lesson-1",
+              "unitId": "system-design-section-8-unit-2-slis",
+              "title": "Learn SLIs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-2-slis-lesson-2",
+              "unitId": "system-design-section-8-unit-2-slis",
+              "title": "Practice SLIs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-2-slis-lesson-3",
+              "unitId": "system-design-section-8-unit-2-slis",
+              "title": "Review SLIs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-8-unit-3-error-budgets",
+          "sectionId": "system-design-section-8",
+          "order": 3,
+          "title": "Error budgets",
+          "lessons": [
+            {
+              "id": "system-design-section-8-unit-3-error-budgets-lesson-1",
+              "unitId": "system-design-section-8-unit-3-error-budgets",
+              "title": "Learn Error budgets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-3-error-budgets-lesson-2",
+              "unitId": "system-design-section-8-unit-3-error-budgets",
+              "title": "Practice Error budgets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-3-error-budgets-lesson-3",
+              "unitId": "system-design-section-8-unit-3-error-budgets",
+              "title": "Review Error budgets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-8-unit-4-circuit-breakers",
+          "sectionId": "system-design-section-8",
+          "order": 4,
+          "title": "Circuit breakers",
+          "lessons": [
+            {
+              "id": "system-design-section-8-unit-4-circuit-breakers-lesson-1",
+              "unitId": "system-design-section-8-unit-4-circuit-breakers",
+              "title": "Learn Circuit breakers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-4-circuit-breakers-lesson-2",
+              "unitId": "system-design-section-8-unit-4-circuit-breakers",
+              "title": "Practice Circuit breakers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-4-circuit-breakers-lesson-3",
+              "unitId": "system-design-section-8-unit-4-circuit-breakers",
+              "title": "Review Circuit breakers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-8-unit-5-bulkheads",
+          "sectionId": "system-design-section-8",
+          "order": 5,
+          "title": "Bulkheads",
+          "lessons": [
+            {
+              "id": "system-design-section-8-unit-5-bulkheads-lesson-1",
+              "unitId": "system-design-section-8-unit-5-bulkheads",
+              "title": "Learn Bulkheads",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-5-bulkheads-lesson-2",
+              "unitId": "system-design-section-8-unit-5-bulkheads",
+              "title": "Practice Bulkheads",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-5-bulkheads-lesson-3",
+              "unitId": "system-design-section-8-unit-5-bulkheads",
+              "title": "Review Bulkheads",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-8-unit-6-graceful-degradation",
+          "sectionId": "system-design-section-8",
+          "order": 6,
+          "title": "Graceful degradation",
+          "lessons": [
+            {
+              "id": "system-design-section-8-unit-6-graceful-degradation-lesson-1",
+              "unitId": "system-design-section-8-unit-6-graceful-degradation",
+              "title": "Learn Graceful degradation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-6-graceful-degradation-lesson-2",
+              "unitId": "system-design-section-8-unit-6-graceful-degradation",
+              "title": "Practice Graceful degradation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-6-graceful-degradation-lesson-3",
+              "unitId": "system-design-section-8-unit-6-graceful-degradation",
+              "title": "Review Graceful degradation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-8-unit-7-incident-response",
+          "sectionId": "system-design-section-8",
+          "order": 7,
+          "title": "Incident response",
+          "lessons": [
+            {
+              "id": "system-design-section-8-unit-7-incident-response-lesson-1",
+              "unitId": "system-design-section-8-unit-7-incident-response",
+              "title": "Learn Incident response",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-7-incident-response-lesson-2",
+              "unitId": "system-design-section-8-unit-7-incident-response",
+              "title": "Practice Incident response",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-7-incident-response-lesson-3",
+              "unitId": "system-design-section-8-unit-7-incident-response",
+              "title": "Review Incident response",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-8-unit-8-monitoring",
+          "sectionId": "system-design-section-8",
+          "order": 8,
+          "title": "Monitoring",
+          "lessons": [
+            {
+              "id": "system-design-section-8-unit-8-monitoring-lesson-1",
+              "unitId": "system-design-section-8-unit-8-monitoring",
+              "title": "Learn Monitoring",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-8-monitoring-lesson-2",
+              "unitId": "system-design-section-8-unit-8-monitoring",
+              "title": "Practice Monitoring",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-8-monitoring-lesson-3",
+              "unitId": "system-design-section-8-unit-8-monitoring",
+              "title": "Review Monitoring",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-8-unit-9-alerting",
+          "sectionId": "system-design-section-8",
+          "order": 9,
+          "title": "Alerting",
+          "lessons": [
+            {
+              "id": "system-design-section-8-unit-9-alerting-lesson-1",
+              "unitId": "system-design-section-8-unit-9-alerting",
+              "title": "Learn Alerting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-9-alerting-lesson-2",
+              "unitId": "system-design-section-8-unit-9-alerting",
+              "title": "Practice Alerting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-9-alerting-lesson-3",
+              "unitId": "system-design-section-8-unit-9-alerting",
+              "title": "Review Alerting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-8-unit-10-reliability-drills",
+          "sectionId": "system-design-section-8",
+          "order": 10,
+          "title": "Reliability drills",
+          "lessons": [
+            {
+              "id": "system-design-section-8-unit-10-reliability-drills-lesson-1",
+              "unitId": "system-design-section-8-unit-10-reliability-drills",
+              "title": "Learn Reliability drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-10-reliability-drills-lesson-2",
+              "unitId": "system-design-section-8-unit-10-reliability-drills",
+              "title": "Practice Reliability drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-8-unit-10-reliability-drills-lesson-3",
+              "unitId": "system-design-section-8-unit-10-reliability-drills",
+              "title": "Review Reliability drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "system-design-section-9",
+      "trackId": "system-design",
+      "order": 9,
+      "title": "Section 9: Security & Privacy",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "system-design-section-9-unit-1-authentication",
+          "sectionId": "system-design-section-9",
+          "order": 1,
+          "title": "Authentication",
+          "lessons": [
+            {
+              "id": "system-design-section-9-unit-1-authentication-lesson-1",
+              "unitId": "system-design-section-9-unit-1-authentication",
+              "title": "Learn Authentication",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-1-authentication-lesson-2",
+              "unitId": "system-design-section-9-unit-1-authentication",
+              "title": "Practice Authentication",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-1-authentication-lesson-3",
+              "unitId": "system-design-section-9-unit-1-authentication",
+              "title": "Review Authentication",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-9-unit-2-authorization",
+          "sectionId": "system-design-section-9",
+          "order": 2,
+          "title": "Authorization",
+          "lessons": [
+            {
+              "id": "system-design-section-9-unit-2-authorization-lesson-1",
+              "unitId": "system-design-section-9-unit-2-authorization",
+              "title": "Learn Authorization",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-2-authorization-lesson-2",
+              "unitId": "system-design-section-9-unit-2-authorization",
+              "title": "Practice Authorization",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-2-authorization-lesson-3",
+              "unitId": "system-design-section-9-unit-2-authorization",
+              "title": "Review Authorization",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-9-unit-3-secrets",
+          "sectionId": "system-design-section-9",
+          "order": 3,
+          "title": "Secrets",
+          "lessons": [
+            {
+              "id": "system-design-section-9-unit-3-secrets-lesson-1",
+              "unitId": "system-design-section-9-unit-3-secrets",
+              "title": "Learn Secrets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-3-secrets-lesson-2",
+              "unitId": "system-design-section-9-unit-3-secrets",
+              "title": "Practice Secrets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-3-secrets-lesson-3",
+              "unitId": "system-design-section-9-unit-3-secrets",
+              "title": "Review Secrets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-9-unit-4-encryption",
+          "sectionId": "system-design-section-9",
+          "order": 4,
+          "title": "Encryption",
+          "lessons": [
+            {
+              "id": "system-design-section-9-unit-4-encryption-lesson-1",
+              "unitId": "system-design-section-9-unit-4-encryption",
+              "title": "Learn Encryption",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-4-encryption-lesson-2",
+              "unitId": "system-design-section-9-unit-4-encryption",
+              "title": "Practice Encryption",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-4-encryption-lesson-3",
+              "unitId": "system-design-section-9-unit-4-encryption",
+              "title": "Review Encryption",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-9-unit-5-audit-logs",
+          "sectionId": "system-design-section-9",
+          "order": 5,
+          "title": "Audit logs",
+          "lessons": [
+            {
+              "id": "system-design-section-9-unit-5-audit-logs-lesson-1",
+              "unitId": "system-design-section-9-unit-5-audit-logs",
+              "title": "Learn Audit logs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-5-audit-logs-lesson-2",
+              "unitId": "system-design-section-9-unit-5-audit-logs",
+              "title": "Practice Audit logs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-5-audit-logs-lesson-3",
+              "unitId": "system-design-section-9-unit-5-audit-logs",
+              "title": "Review Audit logs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-9-unit-6-input-validation",
+          "sectionId": "system-design-section-9",
+          "order": 6,
+          "title": "Input validation",
+          "lessons": [
+            {
+              "id": "system-design-section-9-unit-6-input-validation-lesson-1",
+              "unitId": "system-design-section-9-unit-6-input-validation",
+              "title": "Learn Input validation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-6-input-validation-lesson-2",
+              "unitId": "system-design-section-9-unit-6-input-validation",
+              "title": "Practice Input validation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-6-input-validation-lesson-3",
+              "unitId": "system-design-section-9-unit-6-input-validation",
+              "title": "Review Input validation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-9-unit-7-abuse-prevention",
+          "sectionId": "system-design-section-9",
+          "order": 7,
+          "title": "Abuse prevention",
+          "lessons": [
+            {
+              "id": "system-design-section-9-unit-7-abuse-prevention-lesson-1",
+              "unitId": "system-design-section-9-unit-7-abuse-prevention",
+              "title": "Learn Abuse prevention",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-7-abuse-prevention-lesson-2",
+              "unitId": "system-design-section-9-unit-7-abuse-prevention",
+              "title": "Practice Abuse prevention",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-7-abuse-prevention-lesson-3",
+              "unitId": "system-design-section-9-unit-7-abuse-prevention",
+              "title": "Review Abuse prevention",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-9-unit-8-data-privacy",
+          "sectionId": "system-design-section-9",
+          "order": 8,
+          "title": "Data privacy",
+          "lessons": [
+            {
+              "id": "system-design-section-9-unit-8-data-privacy-lesson-1",
+              "unitId": "system-design-section-9-unit-8-data-privacy",
+              "title": "Learn Data privacy",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-8-data-privacy-lesson-2",
+              "unitId": "system-design-section-9-unit-8-data-privacy",
+              "title": "Practice Data privacy",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-8-data-privacy-lesson-3",
+              "unitId": "system-design-section-9-unit-8-data-privacy",
+              "title": "Review Data privacy",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-9-unit-9-threat-modeling",
+          "sectionId": "system-design-section-9",
+          "order": 9,
+          "title": "Threat modeling",
+          "lessons": [
+            {
+              "id": "system-design-section-9-unit-9-threat-modeling-lesson-1",
+              "unitId": "system-design-section-9-unit-9-threat-modeling",
+              "title": "Learn Threat modeling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-9-threat-modeling-lesson-2",
+              "unitId": "system-design-section-9-unit-9-threat-modeling",
+              "title": "Practice Threat modeling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-9-threat-modeling-lesson-3",
+              "unitId": "system-design-section-9-unit-9-threat-modeling",
+              "title": "Review Threat modeling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-9-unit-10-security-review",
+          "sectionId": "system-design-section-9",
+          "order": 10,
+          "title": "Security review",
+          "lessons": [
+            {
+              "id": "system-design-section-9-unit-10-security-review-lesson-1",
+              "unitId": "system-design-section-9-unit-10-security-review",
+              "title": "Learn Security review",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-10-security-review-lesson-2",
+              "unitId": "system-design-section-9-unit-10-security-review",
+              "title": "Practice Security review",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-9-unit-10-security-review-lesson-3",
+              "unitId": "system-design-section-9-unit-10-security-review",
+              "title": "Review Security review",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "system-design-section-10",
+      "trackId": "system-design",
+      "order": 10,
+      "title": "Section 10: System Design Capstones",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "system-design-section-10-unit-1-url-shortener",
+          "sectionId": "system-design-section-10",
+          "order": 1,
+          "title": "URL shortener",
+          "lessons": [
+            {
+              "id": "system-design-section-10-unit-1-url-shortener-lesson-1",
+              "unitId": "system-design-section-10-unit-1-url-shortener",
+              "title": "Learn URL shortener",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-1-url-shortener-lesson-2",
+              "unitId": "system-design-section-10-unit-1-url-shortener",
+              "title": "Practice URL shortener",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-1-url-shortener-lesson-3",
+              "unitId": "system-design-section-10-unit-1-url-shortener",
+              "title": "Review URL shortener",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-10-unit-2-news-feed",
+          "sectionId": "system-design-section-10",
+          "order": 2,
+          "title": "News feed",
+          "lessons": [
+            {
+              "id": "system-design-section-10-unit-2-news-feed-lesson-1",
+              "unitId": "system-design-section-10-unit-2-news-feed",
+              "title": "Learn News feed",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-2-news-feed-lesson-2",
+              "unitId": "system-design-section-10-unit-2-news-feed",
+              "title": "Practice News feed",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-2-news-feed-lesson-3",
+              "unitId": "system-design-section-10-unit-2-news-feed",
+              "title": "Review News feed",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-10-unit-3-chat-system",
+          "sectionId": "system-design-section-10",
+          "order": 3,
+          "title": "Chat system",
+          "lessons": [
+            {
+              "id": "system-design-section-10-unit-3-chat-system-lesson-1",
+              "unitId": "system-design-section-10-unit-3-chat-system",
+              "title": "Learn Chat system",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-3-chat-system-lesson-2",
+              "unitId": "system-design-section-10-unit-3-chat-system",
+              "title": "Practice Chat system",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-3-chat-system-lesson-3",
+              "unitId": "system-design-section-10-unit-3-chat-system",
+              "title": "Review Chat system",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-10-unit-4-leaderboard",
+          "sectionId": "system-design-section-10",
+          "order": 4,
+          "title": "Leaderboard",
+          "lessons": [
+            {
+              "id": "system-design-section-10-unit-4-leaderboard-lesson-1",
+              "unitId": "system-design-section-10-unit-4-leaderboard",
+              "title": "Learn Leaderboard",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-4-leaderboard-lesson-2",
+              "unitId": "system-design-section-10-unit-4-leaderboard",
+              "title": "Practice Leaderboard",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-4-leaderboard-lesson-3",
+              "unitId": "system-design-section-10-unit-4-leaderboard",
+              "title": "Review Leaderboard",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-10-unit-5-file-storage",
+          "sectionId": "system-design-section-10",
+          "order": 5,
+          "title": "File storage",
+          "lessons": [
+            {
+              "id": "system-design-section-10-unit-5-file-storage-lesson-1",
+              "unitId": "system-design-section-10-unit-5-file-storage",
+              "title": "Learn File storage",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-5-file-storage-lesson-2",
+              "unitId": "system-design-section-10-unit-5-file-storage",
+              "title": "Practice File storage",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-5-file-storage-lesson-3",
+              "unitId": "system-design-section-10-unit-5-file-storage",
+              "title": "Review File storage",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-10-unit-6-notification-system",
+          "sectionId": "system-design-section-10",
+          "order": 6,
+          "title": "Notification system",
+          "lessons": [
+            {
+              "id": "system-design-section-10-unit-6-notification-system-lesson-1",
+              "unitId": "system-design-section-10-unit-6-notification-system",
+              "title": "Learn Notification system",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-6-notification-system-lesson-2",
+              "unitId": "system-design-section-10-unit-6-notification-system",
+              "title": "Practice Notification system",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-6-notification-system-lesson-3",
+              "unitId": "system-design-section-10-unit-6-notification-system",
+              "title": "Review Notification system",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-10-unit-7-ride-matching",
+          "sectionId": "system-design-section-10",
+          "order": 7,
+          "title": "Ride matching",
+          "lessons": [
+            {
+              "id": "system-design-section-10-unit-7-ride-matching-lesson-1",
+              "unitId": "system-design-section-10-unit-7-ride-matching",
+              "title": "Learn Ride matching",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-7-ride-matching-lesson-2",
+              "unitId": "system-design-section-10-unit-7-ride-matching",
+              "title": "Practice Ride matching",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-7-ride-matching-lesson-3",
+              "unitId": "system-design-section-10-unit-7-ride-matching",
+              "title": "Review Ride matching",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-10-unit-8-analytics-pipeline",
+          "sectionId": "system-design-section-10",
+          "order": 8,
+          "title": "Analytics pipeline",
+          "lessons": [
+            {
+              "id": "system-design-section-10-unit-8-analytics-pipeline-lesson-1",
+              "unitId": "system-design-section-10-unit-8-analytics-pipeline",
+              "title": "Learn Analytics pipeline",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-8-analytics-pipeline-lesson-2",
+              "unitId": "system-design-section-10-unit-8-analytics-pipeline",
+              "title": "Practice Analytics pipeline",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-8-analytics-pipeline-lesson-3",
+              "unitId": "system-design-section-10-unit-8-analytics-pipeline",
+              "title": "Review Analytics pipeline",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-10-unit-9-design-critique",
+          "sectionId": "system-design-section-10",
+          "order": 9,
+          "title": "Design critique",
+          "lessons": [
+            {
+              "id": "system-design-section-10-unit-9-design-critique-lesson-1",
+              "unitId": "system-design-section-10-unit-9-design-critique",
+              "title": "Learn Design critique",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-9-design-critique-lesson-2",
+              "unitId": "system-design-section-10-unit-9-design-critique",
+              "title": "Practice Design critique",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-9-design-critique-lesson-3",
+              "unitId": "system-design-section-10-unit-9-design-critique",
+              "title": "Review Design critique",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "system-design-section-10-unit-10-final-system-design-project",
+          "sectionId": "system-design-section-10",
+          "order": 10,
+          "title": "Final system design project",
+          "lessons": [
+            {
+              "id": "system-design-section-10-unit-10-final-system-design-project-lesson-1",
+              "unitId": "system-design-section-10-unit-10-final-system-design-project",
+              "title": "Learn Final system design project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-10-final-system-design-project-lesson-2",
+              "unitId": "system-design-section-10-unit-10-final-system-design-project",
+              "title": "Practice Final system design project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "system-design-section-10-unit-10-final-system-design-project-lesson-3",
+              "unitId": "system-design-section-10-unit-10-final-system-design-project",
+              "title": "Review Final system design project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3006 @@
+{
+  "id": "node-backend",
+  "title": "Node.js & Backend Basics",
+  "category": "web-dev",
+  "icon": "server",
+  "color": "#4CAA00",
+  "description": "Create APIs, middleware, auth flows, and database-backed services.",
+  "sections": [
+    {
+      "id": "node-backend-section-1",
+      "trackId": "node-backend",
+      "order": 1,
+      "title": "Section 1: Node Fundamentals",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "node-backend-section-1-unit-1-runtime-model",
+          "sectionId": "node-backend-section-1",
+          "order": 1,
+          "title": "Runtime model",
+          "lessons": [
+            {
+              "id": "node-backend-section-1-unit-1-runtime-model-lesson-1",
+              "unitId": "node-backend-section-1-unit-1-runtime-model",
+              "title": "Learn Runtime model",
+              "order": 1,
+              "exerciseIds": [
+                "node-backend-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "node-backend-section-1-unit-1-runtime-model-lesson-2",
+              "unitId": "node-backend-section-1-unit-1-runtime-model",
+              "title": "Practice Runtime model",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-1-runtime-model-lesson-3",
+              "unitId": "node-backend-section-1-unit-1-runtime-model",
+              "title": "Review Runtime model",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-1-unit-2-npm-basics",
+          "sectionId": "node-backend-section-1",
+          "order": 2,
+          "title": "npm basics",
+          "lessons": [
+            {
+              "id": "node-backend-section-1-unit-2-npm-basics-lesson-1",
+              "unitId": "node-backend-section-1-unit-2-npm-basics",
+              "title": "Learn npm basics",
+              "order": 1,
+              "exerciseIds": [
+                "node-backend-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "node-backend-section-1-unit-2-npm-basics-lesson-2",
+              "unitId": "node-backend-section-1-unit-2-npm-basics",
+              "title": "Practice npm basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-2-npm-basics-lesson-3",
+              "unitId": "node-backend-section-1-unit-2-npm-basics",
+              "title": "Review npm basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-1-unit-3-modules",
+          "sectionId": "node-backend-section-1",
+          "order": 3,
+          "title": "Modules",
+          "lessons": [
+            {
+              "id": "node-backend-section-1-unit-3-modules-lesson-1",
+              "unitId": "node-backend-section-1-unit-3-modules",
+              "title": "Learn Modules",
+              "order": 1,
+              "exerciseIds": [
+                "node-backend-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "node-backend-section-1-unit-3-modules-lesson-2",
+              "unitId": "node-backend-section-1-unit-3-modules",
+              "title": "Practice Modules",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-3-modules-lesson-3",
+              "unitId": "node-backend-section-1-unit-3-modules",
+              "title": "Review Modules",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-1-unit-4-file-system",
+          "sectionId": "node-backend-section-1",
+          "order": 4,
+          "title": "File system",
+          "lessons": [
+            {
+              "id": "node-backend-section-1-unit-4-file-system-lesson-1",
+              "unitId": "node-backend-section-1-unit-4-file-system",
+              "title": "Learn File system",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-4-file-system-lesson-2",
+              "unitId": "node-backend-section-1-unit-4-file-system",
+              "title": "Practice File system",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-4-file-system-lesson-3",
+              "unitId": "node-backend-section-1-unit-4-file-system",
+              "title": "Review File system",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-1-unit-5-path-utilities",
+          "sectionId": "node-backend-section-1",
+          "order": 5,
+          "title": "Path utilities",
+          "lessons": [
+            {
+              "id": "node-backend-section-1-unit-5-path-utilities-lesson-1",
+              "unitId": "node-backend-section-1-unit-5-path-utilities",
+              "title": "Learn Path utilities",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-5-path-utilities-lesson-2",
+              "unitId": "node-backend-section-1-unit-5-path-utilities",
+              "title": "Practice Path utilities",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-5-path-utilities-lesson-3",
+              "unitId": "node-backend-section-1-unit-5-path-utilities",
+              "title": "Review Path utilities",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-1-unit-6-environment-variables",
+          "sectionId": "node-backend-section-1",
+          "order": 6,
+          "title": "Environment variables",
+          "lessons": [
+            {
+              "id": "node-backend-section-1-unit-6-environment-variables-lesson-1",
+              "unitId": "node-backend-section-1-unit-6-environment-variables",
+              "title": "Learn Environment variables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-6-environment-variables-lesson-2",
+              "unitId": "node-backend-section-1-unit-6-environment-variables",
+              "title": "Practice Environment variables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-6-environment-variables-lesson-3",
+              "unitId": "node-backend-section-1-unit-6-environment-variables",
+              "title": "Review Environment variables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-1-unit-7-process-basics",
+          "sectionId": "node-backend-section-1",
+          "order": 7,
+          "title": "Process basics",
+          "lessons": [
+            {
+              "id": "node-backend-section-1-unit-7-process-basics-lesson-1",
+              "unitId": "node-backend-section-1-unit-7-process-basics",
+              "title": "Learn Process basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-7-process-basics-lesson-2",
+              "unitId": "node-backend-section-1-unit-7-process-basics",
+              "title": "Practice Process basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-7-process-basics-lesson-3",
+              "unitId": "node-backend-section-1-unit-7-process-basics",
+              "title": "Review Process basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-1-unit-8-streams-intro",
+          "sectionId": "node-backend-section-1",
+          "order": 8,
+          "title": "Streams intro",
+          "lessons": [
+            {
+              "id": "node-backend-section-1-unit-8-streams-intro-lesson-1",
+              "unitId": "node-backend-section-1-unit-8-streams-intro",
+              "title": "Learn Streams intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-8-streams-intro-lesson-2",
+              "unitId": "node-backend-section-1-unit-8-streams-intro",
+              "title": "Practice Streams intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-8-streams-intro-lesson-3",
+              "unitId": "node-backend-section-1-unit-8-streams-intro",
+              "title": "Review Streams intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-1-unit-9-error-handling",
+          "sectionId": "node-backend-section-1",
+          "order": 9,
+          "title": "Error handling",
+          "lessons": [
+            {
+              "id": "node-backend-section-1-unit-9-error-handling-lesson-1",
+              "unitId": "node-backend-section-1-unit-9-error-handling",
+              "title": "Learn Error handling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-9-error-handling-lesson-2",
+              "unitId": "node-backend-section-1-unit-9-error-handling",
+              "title": "Practice Error handling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-9-error-handling-lesson-3",
+              "unitId": "node-backend-section-1-unit-9-error-handling",
+              "title": "Review Error handling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-1-unit-10-node-project-setup",
+          "sectionId": "node-backend-section-1",
+          "order": 10,
+          "title": "Node project setup",
+          "lessons": [
+            {
+              "id": "node-backend-section-1-unit-10-node-project-setup-lesson-1",
+              "unitId": "node-backend-section-1-unit-10-node-project-setup",
+              "title": "Learn Node project setup",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-10-node-project-setup-lesson-2",
+              "unitId": "node-backend-section-1-unit-10-node-project-setup",
+              "title": "Practice Node project setup",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-1-unit-10-node-project-setup-lesson-3",
+              "unitId": "node-backend-section-1-unit-10-node-project-setup",
+              "title": "Review Node project setup",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "node-backend-section-2",
+      "trackId": "node-backend",
+      "order": 2,
+      "title": "Section 2: HTTP Servers",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "node-backend-section-2-unit-1-http-basics",
+          "sectionId": "node-backend-section-2",
+          "order": 1,
+          "title": "HTTP basics",
+          "lessons": [
+            {
+              "id": "node-backend-section-2-unit-1-http-basics-lesson-1",
+              "unitId": "node-backend-section-2-unit-1-http-basics",
+              "title": "Learn HTTP basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-1-http-basics-lesson-2",
+              "unitId": "node-backend-section-2-unit-1-http-basics",
+              "title": "Practice HTTP basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-1-http-basics-lesson-3",
+              "unitId": "node-backend-section-2-unit-1-http-basics",
+              "title": "Review HTTP basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-2-unit-2-request-and-response",
+          "sectionId": "node-backend-section-2",
+          "order": 2,
+          "title": "Request and response",
+          "lessons": [
+            {
+              "id": "node-backend-section-2-unit-2-request-and-response-lesson-1",
+              "unitId": "node-backend-section-2-unit-2-request-and-response",
+              "title": "Learn Request and response",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-2-request-and-response-lesson-2",
+              "unitId": "node-backend-section-2-unit-2-request-and-response",
+              "title": "Practice Request and response",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-2-request-and-response-lesson-3",
+              "unitId": "node-backend-section-2-unit-2-request-and-response",
+              "title": "Review Request and response",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-2-unit-3-status-codes",
+          "sectionId": "node-backend-section-2",
+          "order": 3,
+          "title": "Status codes",
+          "lessons": [
+            {
+              "id": "node-backend-section-2-unit-3-status-codes-lesson-1",
+              "unitId": "node-backend-section-2-unit-3-status-codes",
+              "title": "Learn Status codes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-3-status-codes-lesson-2",
+              "unitId": "node-backend-section-2-unit-3-status-codes",
+              "title": "Practice Status codes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-3-status-codes-lesson-3",
+              "unitId": "node-backend-section-2-unit-3-status-codes",
+              "title": "Review Status codes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-2-unit-4-headers",
+          "sectionId": "node-backend-section-2",
+          "order": 4,
+          "title": "Headers",
+          "lessons": [
+            {
+              "id": "node-backend-section-2-unit-4-headers-lesson-1",
+              "unitId": "node-backend-section-2-unit-4-headers",
+              "title": "Learn Headers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-4-headers-lesson-2",
+              "unitId": "node-backend-section-2-unit-4-headers",
+              "title": "Practice Headers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-4-headers-lesson-3",
+              "unitId": "node-backend-section-2-unit-4-headers",
+              "title": "Review Headers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-2-unit-5-routing-by-url",
+          "sectionId": "node-backend-section-2",
+          "order": 5,
+          "title": "Routing by URL",
+          "lessons": [
+            {
+              "id": "node-backend-section-2-unit-5-routing-by-url-lesson-1",
+              "unitId": "node-backend-section-2-unit-5-routing-by-url",
+              "title": "Learn Routing by URL",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-5-routing-by-url-lesson-2",
+              "unitId": "node-backend-section-2-unit-5-routing-by-url",
+              "title": "Practice Routing by URL",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-5-routing-by-url-lesson-3",
+              "unitId": "node-backend-section-2-unit-5-routing-by-url",
+              "title": "Review Routing by URL",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-2-unit-6-body-parsing",
+          "sectionId": "node-backend-section-2",
+          "order": 6,
+          "title": "Body parsing",
+          "lessons": [
+            {
+              "id": "node-backend-section-2-unit-6-body-parsing-lesson-1",
+              "unitId": "node-backend-section-2-unit-6-body-parsing",
+              "title": "Learn Body parsing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-6-body-parsing-lesson-2",
+              "unitId": "node-backend-section-2-unit-6-body-parsing",
+              "title": "Practice Body parsing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-6-body-parsing-lesson-3",
+              "unitId": "node-backend-section-2-unit-6-body-parsing",
+              "title": "Review Body parsing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-2-unit-7-json-responses",
+          "sectionId": "node-backend-section-2",
+          "order": 7,
+          "title": "JSON responses",
+          "lessons": [
+            {
+              "id": "node-backend-section-2-unit-7-json-responses-lesson-1",
+              "unitId": "node-backend-section-2-unit-7-json-responses",
+              "title": "Learn JSON responses",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-7-json-responses-lesson-2",
+              "unitId": "node-backend-section-2-unit-7-json-responses",
+              "title": "Practice JSON responses",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-7-json-responses-lesson-3",
+              "unitId": "node-backend-section-2-unit-7-json-responses",
+              "title": "Review JSON responses",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-2-unit-8-static-files",
+          "sectionId": "node-backend-section-2",
+          "order": 8,
+          "title": "Static files",
+          "lessons": [
+            {
+              "id": "node-backend-section-2-unit-8-static-files-lesson-1",
+              "unitId": "node-backend-section-2-unit-8-static-files",
+              "title": "Learn Static files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-8-static-files-lesson-2",
+              "unitId": "node-backend-section-2-unit-8-static-files",
+              "title": "Practice Static files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-8-static-files-lesson-3",
+              "unitId": "node-backend-section-2-unit-8-static-files",
+              "title": "Review Static files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-2-unit-9-cors-basics",
+          "sectionId": "node-backend-section-2",
+          "order": 9,
+          "title": "CORS basics",
+          "lessons": [
+            {
+              "id": "node-backend-section-2-unit-9-cors-basics-lesson-1",
+              "unitId": "node-backend-section-2-unit-9-cors-basics",
+              "title": "Learn CORS basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-9-cors-basics-lesson-2",
+              "unitId": "node-backend-section-2-unit-9-cors-basics",
+              "title": "Practice CORS basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-9-cors-basics-lesson-3",
+              "unitId": "node-backend-section-2-unit-9-cors-basics",
+              "title": "Review CORS basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-2-unit-10-server-debugging",
+          "sectionId": "node-backend-section-2",
+          "order": 10,
+          "title": "Server debugging",
+          "lessons": [
+            {
+              "id": "node-backend-section-2-unit-10-server-debugging-lesson-1",
+              "unitId": "node-backend-section-2-unit-10-server-debugging",
+              "title": "Learn Server debugging",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-10-server-debugging-lesson-2",
+              "unitId": "node-backend-section-2-unit-10-server-debugging",
+              "title": "Practice Server debugging",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-2-unit-10-server-debugging-lesson-3",
+              "unitId": "node-backend-section-2-unit-10-server-debugging",
+              "title": "Review Server debugging",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "node-backend-section-3",
+      "trackId": "node-backend",
+      "order": 3,
+      "title": "Section 3: Express Routing",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "node-backend-section-3-unit-1-express-setup",
+          "sectionId": "node-backend-section-3",
+          "order": 1,
+          "title": "Express setup",
+          "lessons": [
+            {
+              "id": "node-backend-section-3-unit-1-express-setup-lesson-1",
+              "unitId": "node-backend-section-3-unit-1-express-setup",
+              "title": "Learn Express setup",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-1-express-setup-lesson-2",
+              "unitId": "node-backend-section-3-unit-1-express-setup",
+              "title": "Practice Express setup",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-1-express-setup-lesson-3",
+              "unitId": "node-backend-section-3-unit-1-express-setup",
+              "title": "Review Express setup",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-3-unit-2-route-handlers",
+          "sectionId": "node-backend-section-3",
+          "order": 2,
+          "title": "Route handlers",
+          "lessons": [
+            {
+              "id": "node-backend-section-3-unit-2-route-handlers-lesson-1",
+              "unitId": "node-backend-section-3-unit-2-route-handlers",
+              "title": "Learn Route handlers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-2-route-handlers-lesson-2",
+              "unitId": "node-backend-section-3-unit-2-route-handlers",
+              "title": "Practice Route handlers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-2-route-handlers-lesson-3",
+              "unitId": "node-backend-section-3-unit-2-route-handlers",
+              "title": "Review Route handlers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-3-unit-3-route-params",
+          "sectionId": "node-backend-section-3",
+          "order": 3,
+          "title": "Route params",
+          "lessons": [
+            {
+              "id": "node-backend-section-3-unit-3-route-params-lesson-1",
+              "unitId": "node-backend-section-3-unit-3-route-params",
+              "title": "Learn Route params",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-3-route-params-lesson-2",
+              "unitId": "node-backend-section-3-unit-3-route-params",
+              "title": "Practice Route params",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-3-route-params-lesson-3",
+              "unitId": "node-backend-section-3-unit-3-route-params",
+              "title": "Review Route params",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-3-unit-4-query-strings",
+          "sectionId": "node-backend-section-3",
+          "order": 4,
+          "title": "Query strings",
+          "lessons": [
+            {
+              "id": "node-backend-section-3-unit-4-query-strings-lesson-1",
+              "unitId": "node-backend-section-3-unit-4-query-strings",
+              "title": "Learn Query strings",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-4-query-strings-lesson-2",
+              "unitId": "node-backend-section-3-unit-4-query-strings",
+              "title": "Practice Query strings",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-4-query-strings-lesson-3",
+              "unitId": "node-backend-section-3-unit-4-query-strings",
+              "title": "Review Query strings",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-3-unit-5-controllers",
+          "sectionId": "node-backend-section-3",
+          "order": 5,
+          "title": "Controllers",
+          "lessons": [
+            {
+              "id": "node-backend-section-3-unit-5-controllers-lesson-1",
+              "unitId": "node-backend-section-3-unit-5-controllers",
+              "title": "Learn Controllers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-5-controllers-lesson-2",
+              "unitId": "node-backend-section-3-unit-5-controllers",
+              "title": "Practice Controllers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-5-controllers-lesson-3",
+              "unitId": "node-backend-section-3-unit-5-controllers",
+              "title": "Review Controllers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-3-unit-6-router-modules",
+          "sectionId": "node-backend-section-3",
+          "order": 6,
+          "title": "Router modules",
+          "lessons": [
+            {
+              "id": "node-backend-section-3-unit-6-router-modules-lesson-1",
+              "unitId": "node-backend-section-3-unit-6-router-modules",
+              "title": "Learn Router modules",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-6-router-modules-lesson-2",
+              "unitId": "node-backend-section-3-unit-6-router-modules",
+              "title": "Practice Router modules",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-6-router-modules-lesson-3",
+              "unitId": "node-backend-section-3-unit-6-router-modules",
+              "title": "Review Router modules",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-3-unit-7-404-handlers",
+          "sectionId": "node-backend-section-3",
+          "order": 7,
+          "title": "404 handlers",
+          "lessons": [
+            {
+              "id": "node-backend-section-3-unit-7-404-handlers-lesson-1",
+              "unitId": "node-backend-section-3-unit-7-404-handlers",
+              "title": "Learn 404 handlers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-7-404-handlers-lesson-2",
+              "unitId": "node-backend-section-3-unit-7-404-handlers",
+              "title": "Practice 404 handlers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-7-404-handlers-lesson-3",
+              "unitId": "node-backend-section-3-unit-7-404-handlers",
+              "title": "Review 404 handlers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-3-unit-8-route-organization",
+          "sectionId": "node-backend-section-3",
+          "order": 8,
+          "title": "Route organization",
+          "lessons": [
+            {
+              "id": "node-backend-section-3-unit-8-route-organization-lesson-1",
+              "unitId": "node-backend-section-3-unit-8-route-organization",
+              "title": "Learn Route organization",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-8-route-organization-lesson-2",
+              "unitId": "node-backend-section-3-unit-8-route-organization",
+              "title": "Practice Route organization",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-8-route-organization-lesson-3",
+              "unitId": "node-backend-section-3-unit-8-route-organization",
+              "title": "Review Route organization",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-3-unit-9-validation-hooks",
+          "sectionId": "node-backend-section-3",
+          "order": 9,
+          "title": "Validation hooks",
+          "lessons": [
+            {
+              "id": "node-backend-section-3-unit-9-validation-hooks-lesson-1",
+              "unitId": "node-backend-section-3-unit-9-validation-hooks",
+              "title": "Learn Validation hooks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-9-validation-hooks-lesson-2",
+              "unitId": "node-backend-section-3-unit-9-validation-hooks",
+              "title": "Practice Validation hooks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-9-validation-hooks-lesson-3",
+              "unitId": "node-backend-section-3-unit-9-validation-hooks",
+              "title": "Review Validation hooks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-3-unit-10-routing-project",
+          "sectionId": "node-backend-section-3",
+          "order": 10,
+          "title": "Routing project",
+          "lessons": [
+            {
+              "id": "node-backend-section-3-unit-10-routing-project-lesson-1",
+              "unitId": "node-backend-section-3-unit-10-routing-project",
+              "title": "Learn Routing project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-10-routing-project-lesson-2",
+              "unitId": "node-backend-section-3-unit-10-routing-project",
+              "title": "Practice Routing project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-3-unit-10-routing-project-lesson-3",
+              "unitId": "node-backend-section-3-unit-10-routing-project",
+              "title": "Review Routing project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "node-backend-section-4",
+      "trackId": "node-backend",
+      "order": 4,
+      "title": "Section 4: Middleware",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "node-backend-section-4-unit-1-middleware-chain",
+          "sectionId": "node-backend-section-4",
+          "order": 1,
+          "title": "Middleware chain",
+          "lessons": [
+            {
+              "id": "node-backend-section-4-unit-1-middleware-chain-lesson-1",
+              "unitId": "node-backend-section-4-unit-1-middleware-chain",
+              "title": "Learn Middleware chain",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-1-middleware-chain-lesson-2",
+              "unitId": "node-backend-section-4-unit-1-middleware-chain",
+              "title": "Practice Middleware chain",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-1-middleware-chain-lesson-3",
+              "unitId": "node-backend-section-4-unit-1-middleware-chain",
+              "title": "Review Middleware chain",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-4-unit-2-logging-middleware",
+          "sectionId": "node-backend-section-4",
+          "order": 2,
+          "title": "Logging middleware",
+          "lessons": [
+            {
+              "id": "node-backend-section-4-unit-2-logging-middleware-lesson-1",
+              "unitId": "node-backend-section-4-unit-2-logging-middleware",
+              "title": "Learn Logging middleware",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-2-logging-middleware-lesson-2",
+              "unitId": "node-backend-section-4-unit-2-logging-middleware",
+              "title": "Practice Logging middleware",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-2-logging-middleware-lesson-3",
+              "unitId": "node-backend-section-4-unit-2-logging-middleware",
+              "title": "Review Logging middleware",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-4-unit-3-auth-middleware",
+          "sectionId": "node-backend-section-4",
+          "order": 3,
+          "title": "Auth middleware",
+          "lessons": [
+            {
+              "id": "node-backend-section-4-unit-3-auth-middleware-lesson-1",
+              "unitId": "node-backend-section-4-unit-3-auth-middleware",
+              "title": "Learn Auth middleware",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-3-auth-middleware-lesson-2",
+              "unitId": "node-backend-section-4-unit-3-auth-middleware",
+              "title": "Practice Auth middleware",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-3-auth-middleware-lesson-3",
+              "unitId": "node-backend-section-4-unit-3-auth-middleware",
+              "title": "Review Auth middleware",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-4-unit-4-error-middleware",
+          "sectionId": "node-backend-section-4",
+          "order": 4,
+          "title": "Error middleware",
+          "lessons": [
+            {
+              "id": "node-backend-section-4-unit-4-error-middleware-lesson-1",
+              "unitId": "node-backend-section-4-unit-4-error-middleware",
+              "title": "Learn Error middleware",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-4-error-middleware-lesson-2",
+              "unitId": "node-backend-section-4-unit-4-error-middleware",
+              "title": "Practice Error middleware",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-4-error-middleware-lesson-3",
+              "unitId": "node-backend-section-4-unit-4-error-middleware",
+              "title": "Review Error middleware",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-4-unit-5-request-context",
+          "sectionId": "node-backend-section-4",
+          "order": 5,
+          "title": "Request context",
+          "lessons": [
+            {
+              "id": "node-backend-section-4-unit-5-request-context-lesson-1",
+              "unitId": "node-backend-section-4-unit-5-request-context",
+              "title": "Learn Request context",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-5-request-context-lesson-2",
+              "unitId": "node-backend-section-4-unit-5-request-context",
+              "title": "Practice Request context",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-5-request-context-lesson-3",
+              "unitId": "node-backend-section-4-unit-5-request-context",
+              "title": "Review Request context",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-4-unit-6-rate-limit-basics",
+          "sectionId": "node-backend-section-4",
+          "order": 6,
+          "title": "Rate limit basics",
+          "lessons": [
+            {
+              "id": "node-backend-section-4-unit-6-rate-limit-basics-lesson-1",
+              "unitId": "node-backend-section-4-unit-6-rate-limit-basics",
+              "title": "Learn Rate limit basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-6-rate-limit-basics-lesson-2",
+              "unitId": "node-backend-section-4-unit-6-rate-limit-basics",
+              "title": "Practice Rate limit basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-6-rate-limit-basics-lesson-3",
+              "unitId": "node-backend-section-4-unit-6-rate-limit-basics",
+              "title": "Review Rate limit basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-4-unit-7-cors-middleware",
+          "sectionId": "node-backend-section-4",
+          "order": 7,
+          "title": "CORS middleware",
+          "lessons": [
+            {
+              "id": "node-backend-section-4-unit-7-cors-middleware-lesson-1",
+              "unitId": "node-backend-section-4-unit-7-cors-middleware",
+              "title": "Learn CORS middleware",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-7-cors-middleware-lesson-2",
+              "unitId": "node-backend-section-4-unit-7-cors-middleware",
+              "title": "Practice CORS middleware",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-7-cors-middleware-lesson-3",
+              "unitId": "node-backend-section-4-unit-7-cors-middleware",
+              "title": "Review CORS middleware",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-4-unit-8-compression",
+          "sectionId": "node-backend-section-4",
+          "order": 8,
+          "title": "Compression",
+          "lessons": [
+            {
+              "id": "node-backend-section-4-unit-8-compression-lesson-1",
+              "unitId": "node-backend-section-4-unit-8-compression",
+              "title": "Learn Compression",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-8-compression-lesson-2",
+              "unitId": "node-backend-section-4-unit-8-compression",
+              "title": "Practice Compression",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-8-compression-lesson-3",
+              "unitId": "node-backend-section-4-unit-8-compression",
+              "title": "Review Compression",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-4-unit-9-security-headers",
+          "sectionId": "node-backend-section-4",
+          "order": 9,
+          "title": "Security headers",
+          "lessons": [
+            {
+              "id": "node-backend-section-4-unit-9-security-headers-lesson-1",
+              "unitId": "node-backend-section-4-unit-9-security-headers",
+              "title": "Learn Security headers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-9-security-headers-lesson-2",
+              "unitId": "node-backend-section-4-unit-9-security-headers",
+              "title": "Practice Security headers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-9-security-headers-lesson-3",
+              "unitId": "node-backend-section-4-unit-9-security-headers",
+              "title": "Review Security headers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-4-unit-10-middleware-audit",
+          "sectionId": "node-backend-section-4",
+          "order": 10,
+          "title": "Middleware audit",
+          "lessons": [
+            {
+              "id": "node-backend-section-4-unit-10-middleware-audit-lesson-1",
+              "unitId": "node-backend-section-4-unit-10-middleware-audit",
+              "title": "Learn Middleware audit",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-10-middleware-audit-lesson-2",
+              "unitId": "node-backend-section-4-unit-10-middleware-audit",
+              "title": "Practice Middleware audit",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-4-unit-10-middleware-audit-lesson-3",
+              "unitId": "node-backend-section-4-unit-10-middleware-audit",
+              "title": "Review Middleware audit",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "node-backend-section-5",
+      "trackId": "node-backend",
+      "order": 5,
+      "title": "Section 5: REST API Design",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "node-backend-section-5-unit-1-resource-naming",
+          "sectionId": "node-backend-section-5",
+          "order": 1,
+          "title": "Resource naming",
+          "lessons": [
+            {
+              "id": "node-backend-section-5-unit-1-resource-naming-lesson-1",
+              "unitId": "node-backend-section-5-unit-1-resource-naming",
+              "title": "Learn Resource naming",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-1-resource-naming-lesson-2",
+              "unitId": "node-backend-section-5-unit-1-resource-naming",
+              "title": "Practice Resource naming",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-1-resource-naming-lesson-3",
+              "unitId": "node-backend-section-5-unit-1-resource-naming",
+              "title": "Review Resource naming",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-5-unit-2-crud-routes",
+          "sectionId": "node-backend-section-5",
+          "order": 2,
+          "title": "CRUD routes",
+          "lessons": [
+            {
+              "id": "node-backend-section-5-unit-2-crud-routes-lesson-1",
+              "unitId": "node-backend-section-5-unit-2-crud-routes",
+              "title": "Learn CRUD routes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-2-crud-routes-lesson-2",
+              "unitId": "node-backend-section-5-unit-2-crud-routes",
+              "title": "Practice CRUD routes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-2-crud-routes-lesson-3",
+              "unitId": "node-backend-section-5-unit-2-crud-routes",
+              "title": "Review CRUD routes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-5-unit-3-http-verbs",
+          "sectionId": "node-backend-section-5",
+          "order": 3,
+          "title": "HTTP verbs",
+          "lessons": [
+            {
+              "id": "node-backend-section-5-unit-3-http-verbs-lesson-1",
+              "unitId": "node-backend-section-5-unit-3-http-verbs",
+              "title": "Learn HTTP verbs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-3-http-verbs-lesson-2",
+              "unitId": "node-backend-section-5-unit-3-http-verbs",
+              "title": "Practice HTTP verbs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-3-http-verbs-lesson-3",
+              "unitId": "node-backend-section-5-unit-3-http-verbs",
+              "title": "Review HTTP verbs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-5-unit-4-pagination",
+          "sectionId": "node-backend-section-5",
+          "order": 4,
+          "title": "Pagination",
+          "lessons": [
+            {
+              "id": "node-backend-section-5-unit-4-pagination-lesson-1",
+              "unitId": "node-backend-section-5-unit-4-pagination",
+              "title": "Learn Pagination",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-4-pagination-lesson-2",
+              "unitId": "node-backend-section-5-unit-4-pagination",
+              "title": "Practice Pagination",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-4-pagination-lesson-3",
+              "unitId": "node-backend-section-5-unit-4-pagination",
+              "title": "Review Pagination",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-5-unit-5-filtering",
+          "sectionId": "node-backend-section-5",
+          "order": 5,
+          "title": "Filtering",
+          "lessons": [
+            {
+              "id": "node-backend-section-5-unit-5-filtering-lesson-1",
+              "unitId": "node-backend-section-5-unit-5-filtering",
+              "title": "Learn Filtering",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-5-filtering-lesson-2",
+              "unitId": "node-backend-section-5-unit-5-filtering",
+              "title": "Practice Filtering",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-5-filtering-lesson-3",
+              "unitId": "node-backend-section-5-unit-5-filtering",
+              "title": "Review Filtering",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-5-unit-6-sorting",
+          "sectionId": "node-backend-section-5",
+          "order": 6,
+          "title": "Sorting",
+          "lessons": [
+            {
+              "id": "node-backend-section-5-unit-6-sorting-lesson-1",
+              "unitId": "node-backend-section-5-unit-6-sorting",
+              "title": "Learn Sorting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-6-sorting-lesson-2",
+              "unitId": "node-backend-section-5-unit-6-sorting",
+              "title": "Practice Sorting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-6-sorting-lesson-3",
+              "unitId": "node-backend-section-5-unit-6-sorting",
+              "title": "Review Sorting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-5-unit-7-validation-errors",
+          "sectionId": "node-backend-section-5",
+          "order": 7,
+          "title": "Validation errors",
+          "lessons": [
+            {
+              "id": "node-backend-section-5-unit-7-validation-errors-lesson-1",
+              "unitId": "node-backend-section-5-unit-7-validation-errors",
+              "title": "Learn Validation errors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-7-validation-errors-lesson-2",
+              "unitId": "node-backend-section-5-unit-7-validation-errors",
+              "title": "Practice Validation errors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-7-validation-errors-lesson-3",
+              "unitId": "node-backend-section-5-unit-7-validation-errors",
+              "title": "Review Validation errors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-5-unit-8-versioning",
+          "sectionId": "node-backend-section-5",
+          "order": 8,
+          "title": "Versioning",
+          "lessons": [
+            {
+              "id": "node-backend-section-5-unit-8-versioning-lesson-1",
+              "unitId": "node-backend-section-5-unit-8-versioning",
+              "title": "Learn Versioning",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-8-versioning-lesson-2",
+              "unitId": "node-backend-section-5-unit-8-versioning",
+              "title": "Practice Versioning",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-8-versioning-lesson-3",
+              "unitId": "node-backend-section-5-unit-8-versioning",
+              "title": "Review Versioning",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-5-unit-9-openapi-basics",
+          "sectionId": "node-backend-section-5",
+          "order": 9,
+          "title": "OpenAPI basics",
+          "lessons": [
+            {
+              "id": "node-backend-section-5-unit-9-openapi-basics-lesson-1",
+              "unitId": "node-backend-section-5-unit-9-openapi-basics",
+              "title": "Learn OpenAPI basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-9-openapi-basics-lesson-2",
+              "unitId": "node-backend-section-5-unit-9-openapi-basics",
+              "title": "Practice OpenAPI basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-9-openapi-basics-lesson-3",
+              "unitId": "node-backend-section-5-unit-9-openapi-basics",
+              "title": "Review OpenAPI basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-5-unit-10-rest-project",
+          "sectionId": "node-backend-section-5",
+          "order": 10,
+          "title": "REST project",
+          "lessons": [
+            {
+              "id": "node-backend-section-5-unit-10-rest-project-lesson-1",
+              "unitId": "node-backend-section-5-unit-10-rest-project",
+              "title": "Learn REST project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-10-rest-project-lesson-2",
+              "unitId": "node-backend-section-5-unit-10-rest-project",
+              "title": "Practice REST project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-5-unit-10-rest-project-lesson-3",
+              "unitId": "node-backend-section-5-unit-10-rest-project",
+              "title": "Review REST project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "node-backend-section-6",
+      "trackId": "node-backend",
+      "order": 6,
+      "title": "Section 6: Databases",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "node-backend-section-6-unit-1-database-choices",
+          "sectionId": "node-backend-section-6",
+          "order": 1,
+          "title": "Database choices",
+          "lessons": [
+            {
+              "id": "node-backend-section-6-unit-1-database-choices-lesson-1",
+              "unitId": "node-backend-section-6-unit-1-database-choices",
+              "title": "Learn Database choices",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-1-database-choices-lesson-2",
+              "unitId": "node-backend-section-6-unit-1-database-choices",
+              "title": "Practice Database choices",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-1-database-choices-lesson-3",
+              "unitId": "node-backend-section-6-unit-1-database-choices",
+              "title": "Review Database choices",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-6-unit-2-connection-config",
+          "sectionId": "node-backend-section-6",
+          "order": 2,
+          "title": "Connection config",
+          "lessons": [
+            {
+              "id": "node-backend-section-6-unit-2-connection-config-lesson-1",
+              "unitId": "node-backend-section-6-unit-2-connection-config",
+              "title": "Learn Connection config",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-2-connection-config-lesson-2",
+              "unitId": "node-backend-section-6-unit-2-connection-config",
+              "title": "Practice Connection config",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-2-connection-config-lesson-3",
+              "unitId": "node-backend-section-6-unit-2-connection-config",
+              "title": "Review Connection config",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-6-unit-3-sql-queries",
+          "sectionId": "node-backend-section-6",
+          "order": 3,
+          "title": "SQL queries",
+          "lessons": [
+            {
+              "id": "node-backend-section-6-unit-3-sql-queries-lesson-1",
+              "unitId": "node-backend-section-6-unit-3-sql-queries",
+              "title": "Learn SQL queries",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-3-sql-queries-lesson-2",
+              "unitId": "node-backend-section-6-unit-3-sql-queries",
+              "title": "Practice SQL queries",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-3-sql-queries-lesson-3",
+              "unitId": "node-backend-section-6-unit-3-sql-queries",
+              "title": "Review SQL queries",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-6-unit-4-orm-basics",
+          "sectionId": "node-backend-section-6",
+          "order": 4,
+          "title": "ORM basics",
+          "lessons": [
+            {
+              "id": "node-backend-section-6-unit-4-orm-basics-lesson-1",
+              "unitId": "node-backend-section-6-unit-4-orm-basics",
+              "title": "Learn ORM basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-4-orm-basics-lesson-2",
+              "unitId": "node-backend-section-6-unit-4-orm-basics",
+              "title": "Practice ORM basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-4-orm-basics-lesson-3",
+              "unitId": "node-backend-section-6-unit-4-orm-basics",
+              "title": "Review ORM basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-6-unit-5-migrations",
+          "sectionId": "node-backend-section-6",
+          "order": 5,
+          "title": "Migrations",
+          "lessons": [
+            {
+              "id": "node-backend-section-6-unit-5-migrations-lesson-1",
+              "unitId": "node-backend-section-6-unit-5-migrations",
+              "title": "Learn Migrations",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-5-migrations-lesson-2",
+              "unitId": "node-backend-section-6-unit-5-migrations",
+              "title": "Practice Migrations",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-5-migrations-lesson-3",
+              "unitId": "node-backend-section-6-unit-5-migrations",
+              "title": "Review Migrations",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-6-unit-6-seeding",
+          "sectionId": "node-backend-section-6",
+          "order": 6,
+          "title": "Seeding",
+          "lessons": [
+            {
+              "id": "node-backend-section-6-unit-6-seeding-lesson-1",
+              "unitId": "node-backend-section-6-unit-6-seeding",
+              "title": "Learn Seeding",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-6-seeding-lesson-2",
+              "unitId": "node-backend-section-6-unit-6-seeding",
+              "title": "Practice Seeding",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-6-seeding-lesson-3",
+              "unitId": "node-backend-section-6-unit-6-seeding",
+              "title": "Review Seeding",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-6-unit-7-relationships",
+          "sectionId": "node-backend-section-6",
+          "order": 7,
+          "title": "Relationships",
+          "lessons": [
+            {
+              "id": "node-backend-section-6-unit-7-relationships-lesson-1",
+              "unitId": "node-backend-section-6-unit-7-relationships",
+              "title": "Learn Relationships",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-7-relationships-lesson-2",
+              "unitId": "node-backend-section-6-unit-7-relationships",
+              "title": "Practice Relationships",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-7-relationships-lesson-3",
+              "unitId": "node-backend-section-6-unit-7-relationships",
+              "title": "Review Relationships",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-6-unit-8-transactions",
+          "sectionId": "node-backend-section-6",
+          "order": 8,
+          "title": "Transactions",
+          "lessons": [
+            {
+              "id": "node-backend-section-6-unit-8-transactions-lesson-1",
+              "unitId": "node-backend-section-6-unit-8-transactions",
+              "title": "Learn Transactions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-8-transactions-lesson-2",
+              "unitId": "node-backend-section-6-unit-8-transactions",
+              "title": "Practice Transactions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-8-transactions-lesson-3",
+              "unitId": "node-backend-section-6-unit-8-transactions",
+              "title": "Review Transactions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-6-unit-9-query-errors",
+          "sectionId": "node-backend-section-6",
+          "order": 9,
+          "title": "Query errors",
+          "lessons": [
+            {
+              "id": "node-backend-section-6-unit-9-query-errors-lesson-1",
+              "unitId": "node-backend-section-6-unit-9-query-errors",
+              "title": "Learn Query errors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-9-query-errors-lesson-2",
+              "unitId": "node-backend-section-6-unit-9-query-errors",
+              "title": "Practice Query errors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-9-query-errors-lesson-3",
+              "unitId": "node-backend-section-6-unit-9-query-errors",
+              "title": "Review Query errors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-6-unit-10-database-project",
+          "sectionId": "node-backend-section-6",
+          "order": 10,
+          "title": "Database project",
+          "lessons": [
+            {
+              "id": "node-backend-section-6-unit-10-database-project-lesson-1",
+              "unitId": "node-backend-section-6-unit-10-database-project",
+              "title": "Learn Database project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-10-database-project-lesson-2",
+              "unitId": "node-backend-section-6-unit-10-database-project",
+              "title": "Practice Database project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-6-unit-10-database-project-lesson-3",
+              "unitId": "node-backend-section-6-unit-10-database-project",
+              "title": "Review Database project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "node-backend-section-7",
+      "trackId": "node-backend",
+      "order": 7,
+      "title": "Section 7: Authentication",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "node-backend-section-7-unit-1-passwords",
+          "sectionId": "node-backend-section-7",
+          "order": 1,
+          "title": "Passwords",
+          "lessons": [
+            {
+              "id": "node-backend-section-7-unit-1-passwords-lesson-1",
+              "unitId": "node-backend-section-7-unit-1-passwords",
+              "title": "Learn Passwords",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-1-passwords-lesson-2",
+              "unitId": "node-backend-section-7-unit-1-passwords",
+              "title": "Practice Passwords",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-1-passwords-lesson-3",
+              "unitId": "node-backend-section-7-unit-1-passwords",
+              "title": "Review Passwords",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-7-unit-2-hashing",
+          "sectionId": "node-backend-section-7",
+          "order": 2,
+          "title": "Hashing",
+          "lessons": [
+            {
+              "id": "node-backend-section-7-unit-2-hashing-lesson-1",
+              "unitId": "node-backend-section-7-unit-2-hashing",
+              "title": "Learn Hashing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-2-hashing-lesson-2",
+              "unitId": "node-backend-section-7-unit-2-hashing",
+              "title": "Practice Hashing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-2-hashing-lesson-3",
+              "unitId": "node-backend-section-7-unit-2-hashing",
+              "title": "Review Hashing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-7-unit-3-sessions",
+          "sectionId": "node-backend-section-7",
+          "order": 3,
+          "title": "Sessions",
+          "lessons": [
+            {
+              "id": "node-backend-section-7-unit-3-sessions-lesson-1",
+              "unitId": "node-backend-section-7-unit-3-sessions",
+              "title": "Learn Sessions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-3-sessions-lesson-2",
+              "unitId": "node-backend-section-7-unit-3-sessions",
+              "title": "Practice Sessions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-3-sessions-lesson-3",
+              "unitId": "node-backend-section-7-unit-3-sessions",
+              "title": "Review Sessions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-7-unit-4-cookies",
+          "sectionId": "node-backend-section-7",
+          "order": 4,
+          "title": "Cookies",
+          "lessons": [
+            {
+              "id": "node-backend-section-7-unit-4-cookies-lesson-1",
+              "unitId": "node-backend-section-7-unit-4-cookies",
+              "title": "Learn Cookies",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-4-cookies-lesson-2",
+              "unitId": "node-backend-section-7-unit-4-cookies",
+              "title": "Practice Cookies",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-4-cookies-lesson-3",
+              "unitId": "node-backend-section-7-unit-4-cookies",
+              "title": "Review Cookies",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-7-unit-5-jwt-basics",
+          "sectionId": "node-backend-section-7",
+          "order": 5,
+          "title": "JWT basics",
+          "lessons": [
+            {
+              "id": "node-backend-section-7-unit-5-jwt-basics-lesson-1",
+              "unitId": "node-backend-section-7-unit-5-jwt-basics",
+              "title": "Learn JWT basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-5-jwt-basics-lesson-2",
+              "unitId": "node-backend-section-7-unit-5-jwt-basics",
+              "title": "Practice JWT basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-5-jwt-basics-lesson-3",
+              "unitId": "node-backend-section-7-unit-5-jwt-basics",
+              "title": "Review JWT basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-7-unit-6-login-routes",
+          "sectionId": "node-backend-section-7",
+          "order": 6,
+          "title": "Login routes",
+          "lessons": [
+            {
+              "id": "node-backend-section-7-unit-6-login-routes-lesson-1",
+              "unitId": "node-backend-section-7-unit-6-login-routes",
+              "title": "Learn Login routes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-6-login-routes-lesson-2",
+              "unitId": "node-backend-section-7-unit-6-login-routes",
+              "title": "Practice Login routes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-6-login-routes-lesson-3",
+              "unitId": "node-backend-section-7-unit-6-login-routes",
+              "title": "Review Login routes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-7-unit-7-logout-routes",
+          "sectionId": "node-backend-section-7",
+          "order": 7,
+          "title": "Logout routes",
+          "lessons": [
+            {
+              "id": "node-backend-section-7-unit-7-logout-routes-lesson-1",
+              "unitId": "node-backend-section-7-unit-7-logout-routes",
+              "title": "Learn Logout routes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-7-logout-routes-lesson-2",
+              "unitId": "node-backend-section-7-unit-7-logout-routes",
+              "title": "Practice Logout routes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-7-logout-routes-lesson-3",
+              "unitId": "node-backend-section-7-unit-7-logout-routes",
+              "title": "Review Logout routes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-7-unit-8-protected-routes",
+          "sectionId": "node-backend-section-7",
+          "order": 8,
+          "title": "Protected routes",
+          "lessons": [
+            {
+              "id": "node-backend-section-7-unit-8-protected-routes-lesson-1",
+              "unitId": "node-backend-section-7-unit-8-protected-routes",
+              "title": "Learn Protected routes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-8-protected-routes-lesson-2",
+              "unitId": "node-backend-section-7-unit-8-protected-routes",
+              "title": "Practice Protected routes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-8-protected-routes-lesson-3",
+              "unitId": "node-backend-section-7-unit-8-protected-routes",
+              "title": "Review Protected routes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-7-unit-9-role-checks",
+          "sectionId": "node-backend-section-7",
+          "order": 9,
+          "title": "Role checks",
+          "lessons": [
+            {
+              "id": "node-backend-section-7-unit-9-role-checks-lesson-1",
+              "unitId": "node-backend-section-7-unit-9-role-checks",
+              "title": "Learn Role checks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-9-role-checks-lesson-2",
+              "unitId": "node-backend-section-7-unit-9-role-checks",
+              "title": "Practice Role checks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-9-role-checks-lesson-3",
+              "unitId": "node-backend-section-7-unit-9-role-checks",
+              "title": "Review Role checks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-7-unit-10-auth-project",
+          "sectionId": "node-backend-section-7",
+          "order": 10,
+          "title": "Auth project",
+          "lessons": [
+            {
+              "id": "node-backend-section-7-unit-10-auth-project-lesson-1",
+              "unitId": "node-backend-section-7-unit-10-auth-project",
+              "title": "Learn Auth project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-10-auth-project-lesson-2",
+              "unitId": "node-backend-section-7-unit-10-auth-project",
+              "title": "Practice Auth project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-7-unit-10-auth-project-lesson-3",
+              "unitId": "node-backend-section-7-unit-10-auth-project",
+              "title": "Review Auth project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "node-backend-section-8",
+      "trackId": "node-backend",
+      "order": 8,
+      "title": "Section 8: Testing APIs",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "node-backend-section-8-unit-1-unit-tests",
+          "sectionId": "node-backend-section-8",
+          "order": 1,
+          "title": "Unit tests",
+          "lessons": [
+            {
+              "id": "node-backend-section-8-unit-1-unit-tests-lesson-1",
+              "unitId": "node-backend-section-8-unit-1-unit-tests",
+              "title": "Learn Unit tests",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-1-unit-tests-lesson-2",
+              "unitId": "node-backend-section-8-unit-1-unit-tests",
+              "title": "Practice Unit tests",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-1-unit-tests-lesson-3",
+              "unitId": "node-backend-section-8-unit-1-unit-tests",
+              "title": "Review Unit tests",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-8-unit-2-integration-tests",
+          "sectionId": "node-backend-section-8",
+          "order": 2,
+          "title": "Integration tests",
+          "lessons": [
+            {
+              "id": "node-backend-section-8-unit-2-integration-tests-lesson-1",
+              "unitId": "node-backend-section-8-unit-2-integration-tests",
+              "title": "Learn Integration tests",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-2-integration-tests-lesson-2",
+              "unitId": "node-backend-section-8-unit-2-integration-tests",
+              "title": "Practice Integration tests",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-2-integration-tests-lesson-3",
+              "unitId": "node-backend-section-8-unit-2-integration-tests",
+              "title": "Review Integration tests",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-8-unit-3-mocking",
+          "sectionId": "node-backend-section-8",
+          "order": 3,
+          "title": "Mocking",
+          "lessons": [
+            {
+              "id": "node-backend-section-8-unit-3-mocking-lesson-1",
+              "unitId": "node-backend-section-8-unit-3-mocking",
+              "title": "Learn Mocking",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-3-mocking-lesson-2",
+              "unitId": "node-backend-section-8-unit-3-mocking",
+              "title": "Practice Mocking",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-3-mocking-lesson-3",
+              "unitId": "node-backend-section-8-unit-3-mocking",
+              "title": "Review Mocking",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-8-unit-4-test-databases",
+          "sectionId": "node-backend-section-8",
+          "order": 4,
+          "title": "Test databases",
+          "lessons": [
+            {
+              "id": "node-backend-section-8-unit-4-test-databases-lesson-1",
+              "unitId": "node-backend-section-8-unit-4-test-databases",
+              "title": "Learn Test databases",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-4-test-databases-lesson-2",
+              "unitId": "node-backend-section-8-unit-4-test-databases",
+              "title": "Practice Test databases",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-4-test-databases-lesson-3",
+              "unitId": "node-backend-section-8-unit-4-test-databases",
+              "title": "Review Test databases",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-8-unit-5-request-tests",
+          "sectionId": "node-backend-section-8",
+          "order": 5,
+          "title": "Request tests",
+          "lessons": [
+            {
+              "id": "node-backend-section-8-unit-5-request-tests-lesson-1",
+              "unitId": "node-backend-section-8-unit-5-request-tests",
+              "title": "Learn Request tests",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-5-request-tests-lesson-2",
+              "unitId": "node-backend-section-8-unit-5-request-tests",
+              "title": "Practice Request tests",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-5-request-tests-lesson-3",
+              "unitId": "node-backend-section-8-unit-5-request-tests",
+              "title": "Review Request tests",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-8-unit-6-auth-tests",
+          "sectionId": "node-backend-section-8",
+          "order": 6,
+          "title": "Auth tests",
+          "lessons": [
+            {
+              "id": "node-backend-section-8-unit-6-auth-tests-lesson-1",
+              "unitId": "node-backend-section-8-unit-6-auth-tests",
+              "title": "Learn Auth tests",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-6-auth-tests-lesson-2",
+              "unitId": "node-backend-section-8-unit-6-auth-tests",
+              "title": "Practice Auth tests",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-6-auth-tests-lesson-3",
+              "unitId": "node-backend-section-8-unit-6-auth-tests",
+              "title": "Review Auth tests",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-8-unit-7-error-tests",
+          "sectionId": "node-backend-section-8",
+          "order": 7,
+          "title": "Error tests",
+          "lessons": [
+            {
+              "id": "node-backend-section-8-unit-7-error-tests-lesson-1",
+              "unitId": "node-backend-section-8-unit-7-error-tests",
+              "title": "Learn Error tests",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-7-error-tests-lesson-2",
+              "unitId": "node-backend-section-8-unit-7-error-tests",
+              "title": "Practice Error tests",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-7-error-tests-lesson-3",
+              "unitId": "node-backend-section-8-unit-7-error-tests",
+              "title": "Review Error tests",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-8-unit-8-ci-basics",
+          "sectionId": "node-backend-section-8",
+          "order": 8,
+          "title": "CI basics",
+          "lessons": [
+            {
+              "id": "node-backend-section-8-unit-8-ci-basics-lesson-1",
+              "unitId": "node-backend-section-8-unit-8-ci-basics",
+              "title": "Learn CI basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-8-ci-basics-lesson-2",
+              "unitId": "node-backend-section-8-unit-8-ci-basics",
+              "title": "Practice CI basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-8-ci-basics-lesson-3",
+              "unitId": "node-backend-section-8-unit-8-ci-basics",
+              "title": "Review CI basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-8-unit-9-coverage",
+          "sectionId": "node-backend-section-8",
+          "order": 9,
+          "title": "Coverage",
+          "lessons": [
+            {
+              "id": "node-backend-section-8-unit-9-coverage-lesson-1",
+              "unitId": "node-backend-section-8-unit-9-coverage",
+              "title": "Learn Coverage",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-9-coverage-lesson-2",
+              "unitId": "node-backend-section-8-unit-9-coverage",
+              "title": "Practice Coverage",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-9-coverage-lesson-3",
+              "unitId": "node-backend-section-8-unit-9-coverage",
+              "title": "Review Coverage",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-8-unit-10-api-test-suite",
+          "sectionId": "node-backend-section-8",
+          "order": 10,
+          "title": "API test suite",
+          "lessons": [
+            {
+              "id": "node-backend-section-8-unit-10-api-test-suite-lesson-1",
+              "unitId": "node-backend-section-8-unit-10-api-test-suite",
+              "title": "Learn API test suite",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-10-api-test-suite-lesson-2",
+              "unitId": "node-backend-section-8-unit-10-api-test-suite",
+              "title": "Practice API test suite",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-8-unit-10-api-test-suite-lesson-3",
+              "unitId": "node-backend-section-8-unit-10-api-test-suite",
+              "title": "Review API test suite",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "node-backend-section-9",
+      "trackId": "node-backend",
+      "order": 9,
+      "title": "Section 9: Production Basics",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "node-backend-section-9-unit-1-config-management",
+          "sectionId": "node-backend-section-9",
+          "order": 1,
+          "title": "Config management",
+          "lessons": [
+            {
+              "id": "node-backend-section-9-unit-1-config-management-lesson-1",
+              "unitId": "node-backend-section-9-unit-1-config-management",
+              "title": "Learn Config management",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-1-config-management-lesson-2",
+              "unitId": "node-backend-section-9-unit-1-config-management",
+              "title": "Practice Config management",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-1-config-management-lesson-3",
+              "unitId": "node-backend-section-9-unit-1-config-management",
+              "title": "Review Config management",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-9-unit-2-logging",
+          "sectionId": "node-backend-section-9",
+          "order": 2,
+          "title": "Logging",
+          "lessons": [
+            {
+              "id": "node-backend-section-9-unit-2-logging-lesson-1",
+              "unitId": "node-backend-section-9-unit-2-logging",
+              "title": "Learn Logging",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-2-logging-lesson-2",
+              "unitId": "node-backend-section-9-unit-2-logging",
+              "title": "Practice Logging",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-2-logging-lesson-3",
+              "unitId": "node-backend-section-9-unit-2-logging",
+              "title": "Review Logging",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-9-unit-3-monitoring",
+          "sectionId": "node-backend-section-9",
+          "order": 3,
+          "title": "Monitoring",
+          "lessons": [
+            {
+              "id": "node-backend-section-9-unit-3-monitoring-lesson-1",
+              "unitId": "node-backend-section-9-unit-3-monitoring",
+              "title": "Learn Monitoring",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-3-monitoring-lesson-2",
+              "unitId": "node-backend-section-9-unit-3-monitoring",
+              "title": "Practice Monitoring",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-3-monitoring-lesson-3",
+              "unitId": "node-backend-section-9-unit-3-monitoring",
+              "title": "Review Monitoring",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-9-unit-4-health-checks",
+          "sectionId": "node-backend-section-9",
+          "order": 4,
+          "title": "Health checks",
+          "lessons": [
+            {
+              "id": "node-backend-section-9-unit-4-health-checks-lesson-1",
+              "unitId": "node-backend-section-9-unit-4-health-checks",
+              "title": "Learn Health checks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-4-health-checks-lesson-2",
+              "unitId": "node-backend-section-9-unit-4-health-checks",
+              "title": "Practice Health checks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-4-health-checks-lesson-3",
+              "unitId": "node-backend-section-9-unit-4-health-checks",
+              "title": "Review Health checks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-9-unit-5-graceful-shutdown",
+          "sectionId": "node-backend-section-9",
+          "order": 5,
+          "title": "Graceful shutdown",
+          "lessons": [
+            {
+              "id": "node-backend-section-9-unit-5-graceful-shutdown-lesson-1",
+              "unitId": "node-backend-section-9-unit-5-graceful-shutdown",
+              "title": "Learn Graceful shutdown",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-5-graceful-shutdown-lesson-2",
+              "unitId": "node-backend-section-9-unit-5-graceful-shutdown",
+              "title": "Practice Graceful shutdown",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-5-graceful-shutdown-lesson-3",
+              "unitId": "node-backend-section-9-unit-5-graceful-shutdown",
+              "title": "Review Graceful shutdown",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-9-unit-6-deployment-basics",
+          "sectionId": "node-backend-section-9",
+          "order": 6,
+          "title": "Deployment basics",
+          "lessons": [
+            {
+              "id": "node-backend-section-9-unit-6-deployment-basics-lesson-1",
+              "unitId": "node-backend-section-9-unit-6-deployment-basics",
+              "title": "Learn Deployment basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-6-deployment-basics-lesson-2",
+              "unitId": "node-backend-section-9-unit-6-deployment-basics",
+              "title": "Practice Deployment basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-6-deployment-basics-lesson-3",
+              "unitId": "node-backend-section-9-unit-6-deployment-basics",
+              "title": "Review Deployment basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-9-unit-7-secrets",
+          "sectionId": "node-backend-section-9",
+          "order": 7,
+          "title": "Secrets",
+          "lessons": [
+            {
+              "id": "node-backend-section-9-unit-7-secrets-lesson-1",
+              "unitId": "node-backend-section-9-unit-7-secrets",
+              "title": "Learn Secrets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-7-secrets-lesson-2",
+              "unitId": "node-backend-section-9-unit-7-secrets",
+              "title": "Practice Secrets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-7-secrets-lesson-3",
+              "unitId": "node-backend-section-9-unit-7-secrets",
+              "title": "Review Secrets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-9-unit-8-performance",
+          "sectionId": "node-backend-section-9",
+          "order": 8,
+          "title": "Performance",
+          "lessons": [
+            {
+              "id": "node-backend-section-9-unit-8-performance-lesson-1",
+              "unitId": "node-backend-section-9-unit-8-performance",
+              "title": "Learn Performance",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-8-performance-lesson-2",
+              "unitId": "node-backend-section-9-unit-8-performance",
+              "title": "Practice Performance",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-8-performance-lesson-3",
+              "unitId": "node-backend-section-9-unit-8-performance",
+              "title": "Review Performance",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-9-unit-9-security-review",
+          "sectionId": "node-backend-section-9",
+          "order": 9,
+          "title": "Security review",
+          "lessons": [
+            {
+              "id": "node-backend-section-9-unit-9-security-review-lesson-1",
+              "unitId": "node-backend-section-9-unit-9-security-review",
+              "title": "Learn Security review",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-9-security-review-lesson-2",
+              "unitId": "node-backend-section-9-unit-9-security-review",
+              "title": "Practice Security review",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-9-security-review-lesson-3",
+              "unitId": "node-backend-section-9-unit-9-security-review",
+              "title": "Review Security review",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-9-unit-10-production-checklist",
+          "sectionId": "node-backend-section-9",
+          "order": 10,
+          "title": "Production checklist",
+          "lessons": [
+            {
+              "id": "node-backend-section-9-unit-10-production-checklist-lesson-1",
+              "unitId": "node-backend-section-9-unit-10-production-checklist",
+              "title": "Learn Production checklist",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-10-production-checklist-lesson-2",
+              "unitId": "node-backend-section-9-unit-10-production-checklist",
+              "title": "Practice Production checklist",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-9-unit-10-production-checklist-lesson-3",
+              "unitId": "node-backend-section-9-unit-10-production-checklist",
+              "title": "Review Production checklist",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "node-backend-section-10",
+      "trackId": "node-backend",
+      "order": 10,
+      "title": "Section 10: Backend Capstones",
+      "bannerColor": "#4CAA00",
+      "units": [
+        {
+          "id": "node-backend-section-10-unit-1-notes-api",
+          "sectionId": "node-backend-section-10",
+          "order": 1,
+          "title": "Notes API",
+          "lessons": [
+            {
+              "id": "node-backend-section-10-unit-1-notes-api-lesson-1",
+              "unitId": "node-backend-section-10-unit-1-notes-api",
+              "title": "Learn Notes API",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-1-notes-api-lesson-2",
+              "unitId": "node-backend-section-10-unit-1-notes-api",
+              "title": "Practice Notes API",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-1-notes-api-lesson-3",
+              "unitId": "node-backend-section-10-unit-1-notes-api",
+              "title": "Review Notes API",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-10-unit-2-auth-api",
+          "sectionId": "node-backend-section-10",
+          "order": 2,
+          "title": "Auth API",
+          "lessons": [
+            {
+              "id": "node-backend-section-10-unit-2-auth-api-lesson-1",
+              "unitId": "node-backend-section-10-unit-2-auth-api",
+              "title": "Learn Auth API",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-2-auth-api-lesson-2",
+              "unitId": "node-backend-section-10-unit-2-auth-api",
+              "title": "Practice Auth API",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-2-auth-api-lesson-3",
+              "unitId": "node-backend-section-10-unit-2-auth-api",
+              "title": "Review Auth API",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-10-unit-3-file-upload-api",
+          "sectionId": "node-backend-section-10",
+          "order": 3,
+          "title": "File upload API",
+          "lessons": [
+            {
+              "id": "node-backend-section-10-unit-3-file-upload-api-lesson-1",
+              "unitId": "node-backend-section-10-unit-3-file-upload-api",
+              "title": "Learn File upload API",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-3-file-upload-api-lesson-2",
+              "unitId": "node-backend-section-10-unit-3-file-upload-api",
+              "title": "Practice File upload API",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-3-file-upload-api-lesson-3",
+              "unitId": "node-backend-section-10-unit-3-file-upload-api",
+              "title": "Review File upload API",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-10-unit-4-leaderboard-api",
+          "sectionId": "node-backend-section-10",
+          "order": 4,
+          "title": "Leaderboard API",
+          "lessons": [
+            {
+              "id": "node-backend-section-10-unit-4-leaderboard-api-lesson-1",
+              "unitId": "node-backend-section-10-unit-4-leaderboard-api",
+              "title": "Learn Leaderboard API",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-4-leaderboard-api-lesson-2",
+              "unitId": "node-backend-section-10-unit-4-leaderboard-api",
+              "title": "Practice Leaderboard API",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-4-leaderboard-api-lesson-3",
+              "unitId": "node-backend-section-10-unit-4-leaderboard-api",
+              "title": "Review Leaderboard API",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-10-unit-5-search-api",
+          "sectionId": "node-backend-section-10",
+          "order": 5,
+          "title": "Search API",
+          "lessons": [
+            {
+              "id": "node-backend-section-10-unit-5-search-api-lesson-1",
+              "unitId": "node-backend-section-10-unit-5-search-api",
+              "title": "Learn Search API",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-5-search-api-lesson-2",
+              "unitId": "node-backend-section-10-unit-5-search-api",
+              "title": "Practice Search API",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-5-search-api-lesson-3",
+              "unitId": "node-backend-section-10-unit-5-search-api",
+              "title": "Review Search API",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-10-unit-6-webhook-receiver",
+          "sectionId": "node-backend-section-10",
+          "order": 6,
+          "title": "Webhook receiver",
+          "lessons": [
+            {
+              "id": "node-backend-section-10-unit-6-webhook-receiver-lesson-1",
+              "unitId": "node-backend-section-10-unit-6-webhook-receiver",
+              "title": "Learn Webhook receiver",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-6-webhook-receiver-lesson-2",
+              "unitId": "node-backend-section-10-unit-6-webhook-receiver",
+              "title": "Practice Webhook receiver",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-6-webhook-receiver-lesson-3",
+              "unitId": "node-backend-section-10-unit-6-webhook-receiver",
+              "title": "Review Webhook receiver",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-10-unit-7-admin-api",
+          "sectionId": "node-backend-section-10",
+          "order": 7,
+          "title": "Admin API",
+          "lessons": [
+            {
+              "id": "node-backend-section-10-unit-7-admin-api-lesson-1",
+              "unitId": "node-backend-section-10-unit-7-admin-api",
+              "title": "Learn Admin API",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-7-admin-api-lesson-2",
+              "unitId": "node-backend-section-10-unit-7-admin-api",
+              "title": "Practice Admin API",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-7-admin-api-lesson-3",
+              "unitId": "node-backend-section-10-unit-7-admin-api",
+              "title": "Review Admin API",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-10-unit-8-caching-layer",
+          "sectionId": "node-backend-section-10",
+          "order": 8,
+          "title": "Caching layer",
+          "lessons": [
+            {
+              "id": "node-backend-section-10-unit-8-caching-layer-lesson-1",
+              "unitId": "node-backend-section-10-unit-8-caching-layer",
+              "title": "Learn Caching layer",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-8-caching-layer-lesson-2",
+              "unitId": "node-backend-section-10-unit-8-caching-layer",
+              "title": "Practice Caching layer",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-8-caching-layer-lesson-3",
+              "unitId": "node-backend-section-10-unit-8-caching-layer",
+              "title": "Review Caching layer",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-10-unit-9-observability-pass",
+          "sectionId": "node-backend-section-10",
+          "order": 9,
+          "title": "Observability pass",
+          "lessons": [
+            {
+              "id": "node-backend-section-10-unit-9-observability-pass-lesson-1",
+              "unitId": "node-backend-section-10-unit-9-observability-pass",
+              "title": "Learn Observability pass",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-9-observability-pass-lesson-2",
+              "unitId": "node-backend-section-10-unit-9-observability-pass",
+              "title": "Practice Observability pass",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-9-observability-pass-lesson-3",
+              "unitId": "node-backend-section-10-unit-9-observability-pass",
+              "title": "Review Observability pass",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "node-backend-section-10-unit-10-final-backend-project",
+          "sectionId": "node-backend-section-10",
+          "order": 10,
+          "title": "Final backend project",
+          "lessons": [
+            {
+              "id": "node-backend-section-10-unit-10-final-backend-project-lesson-1",
+              "unitId": "node-backend-section-10-unit-10-final-backend-project",
+              "title": "Learn Final backend project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-10-final-backend-project-lesson-2",
+              "unitId": "node-backend-section-10-unit-10-final-backend-project",
+              "title": "Practice Final backend project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "node-backend-section-10-unit-10-final-backend-project-lesson-3",
+              "unitId": "node-backend-section-10-unit-10-final-backend-project",
+              "title": "Review Final backend project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

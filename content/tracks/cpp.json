@@ -1,0 +1,3006 @@
+{
+  "id": "cpp",
+  "title": "C++",
+  "category": "languages",
+  "icon": "binary",
+  "color": "#1899D6",
+  "description": "Move from C-style basics to OOP, STL, templates, and modern C++ practice.",
+  "sections": [
+    {
+      "id": "cpp-section-1",
+      "trackId": "cpp",
+      "order": 1,
+      "title": "Section 1: C++ Foundations",
+      "bannerColor": "#1899D6",
+      "units": [
+        {
+          "id": "cpp-section-1-unit-1-hello-c",
+          "sectionId": "cpp-section-1",
+          "order": 1,
+          "title": "Hello C++",
+          "lessons": [
+            {
+              "id": "cpp-section-1-unit-1-hello-c-lesson-1",
+              "unitId": "cpp-section-1-unit-1-hello-c",
+              "title": "Learn Hello C++",
+              "order": 1,
+              "exerciseIds": [
+                "cpp-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "cpp-section-1-unit-1-hello-c-lesson-2",
+              "unitId": "cpp-section-1-unit-1-hello-c",
+              "title": "Practice Hello C++",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-1-hello-c-lesson-3",
+              "unitId": "cpp-section-1-unit-1-hello-c",
+              "title": "Review Hello C++",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-1-unit-2-iostream",
+          "sectionId": "cpp-section-1",
+          "order": 2,
+          "title": "iostream",
+          "lessons": [
+            {
+              "id": "cpp-section-1-unit-2-iostream-lesson-1",
+              "unitId": "cpp-section-1-unit-2-iostream",
+              "title": "Learn iostream",
+              "order": 1,
+              "exerciseIds": [
+                "cpp-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "cpp-section-1-unit-2-iostream-lesson-2",
+              "unitId": "cpp-section-1-unit-2-iostream",
+              "title": "Practice iostream",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-2-iostream-lesson-3",
+              "unitId": "cpp-section-1-unit-2-iostream",
+              "title": "Review iostream",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-1-unit-3-namespaces",
+          "sectionId": "cpp-section-1",
+          "order": 3,
+          "title": "Namespaces",
+          "lessons": [
+            {
+              "id": "cpp-section-1-unit-3-namespaces-lesson-1",
+              "unitId": "cpp-section-1-unit-3-namespaces",
+              "title": "Learn Namespaces",
+              "order": 1,
+              "exerciseIds": [
+                "cpp-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "cpp-section-1-unit-3-namespaces-lesson-2",
+              "unitId": "cpp-section-1-unit-3-namespaces",
+              "title": "Practice Namespaces",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-3-namespaces-lesson-3",
+              "unitId": "cpp-section-1-unit-3-namespaces",
+              "title": "Review Namespaces",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-1-unit-4-variables",
+          "sectionId": "cpp-section-1",
+          "order": 4,
+          "title": "Variables",
+          "lessons": [
+            {
+              "id": "cpp-section-1-unit-4-variables-lesson-1",
+              "unitId": "cpp-section-1-unit-4-variables",
+              "title": "Learn Variables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-4-variables-lesson-2",
+              "unitId": "cpp-section-1-unit-4-variables",
+              "title": "Practice Variables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-4-variables-lesson-3",
+              "unitId": "cpp-section-1-unit-4-variables",
+              "title": "Review Variables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-1-unit-5-references",
+          "sectionId": "cpp-section-1",
+          "order": 5,
+          "title": "References",
+          "lessons": [
+            {
+              "id": "cpp-section-1-unit-5-references-lesson-1",
+              "unitId": "cpp-section-1-unit-5-references",
+              "title": "Learn References",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-5-references-lesson-2",
+              "unitId": "cpp-section-1-unit-5-references",
+              "title": "Practice References",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-5-references-lesson-3",
+              "unitId": "cpp-section-1-unit-5-references",
+              "title": "Review References",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-1-unit-6-const",
+          "sectionId": "cpp-section-1",
+          "order": 6,
+          "title": "const",
+          "lessons": [
+            {
+              "id": "cpp-section-1-unit-6-const-lesson-1",
+              "unitId": "cpp-section-1-unit-6-const",
+              "title": "Learn const",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-6-const-lesson-2",
+              "unitId": "cpp-section-1-unit-6-const",
+              "title": "Practice const",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-6-const-lesson-3",
+              "unitId": "cpp-section-1-unit-6-const",
+              "title": "Review const",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-1-unit-7-auto",
+          "sectionId": "cpp-section-1",
+          "order": 7,
+          "title": "auto",
+          "lessons": [
+            {
+              "id": "cpp-section-1-unit-7-auto-lesson-1",
+              "unitId": "cpp-section-1-unit-7-auto",
+              "title": "Learn auto",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-7-auto-lesson-2",
+              "unitId": "cpp-section-1-unit-7-auto",
+              "title": "Practice auto",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-7-auto-lesson-3",
+              "unitId": "cpp-section-1-unit-7-auto",
+              "title": "Review auto",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-1-unit-8-strings",
+          "sectionId": "cpp-section-1",
+          "order": 8,
+          "title": "Strings",
+          "lessons": [
+            {
+              "id": "cpp-section-1-unit-8-strings-lesson-1",
+              "unitId": "cpp-section-1-unit-8-strings",
+              "title": "Learn Strings",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-8-strings-lesson-2",
+              "unitId": "cpp-section-1-unit-8-strings",
+              "title": "Practice Strings",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-8-strings-lesson-3",
+              "unitId": "cpp-section-1-unit-8-strings",
+              "title": "Review Strings",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-1-unit-9-control-flow",
+          "sectionId": "cpp-section-1",
+          "order": 9,
+          "title": "Control flow",
+          "lessons": [
+            {
+              "id": "cpp-section-1-unit-9-control-flow-lesson-1",
+              "unitId": "cpp-section-1-unit-9-control-flow",
+              "title": "Learn Control flow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-9-control-flow-lesson-2",
+              "unitId": "cpp-section-1-unit-9-control-flow",
+              "title": "Practice Control flow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-9-control-flow-lesson-3",
+              "unitId": "cpp-section-1-unit-9-control-flow",
+              "title": "Review Control flow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-1-unit-10-c-vs-c-differences",
+          "sectionId": "cpp-section-1",
+          "order": 10,
+          "title": "C vs C++ differences",
+          "lessons": [
+            {
+              "id": "cpp-section-1-unit-10-c-vs-c-differences-lesson-1",
+              "unitId": "cpp-section-1-unit-10-c-vs-c-differences",
+              "title": "Learn C vs C++ differences",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-10-c-vs-c-differences-lesson-2",
+              "unitId": "cpp-section-1-unit-10-c-vs-c-differences",
+              "title": "Practice C vs C++ differences",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-1-unit-10-c-vs-c-differences-lesson-3",
+              "unitId": "cpp-section-1-unit-10-c-vs-c-differences",
+              "title": "Review C vs C++ differences",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cpp-section-2",
+      "trackId": "cpp",
+      "order": 2,
+      "title": "Section 2: Functions & References",
+      "bannerColor": "#1899D6",
+      "units": [
+        {
+          "id": "cpp-section-2-unit-1-function-overloads",
+          "sectionId": "cpp-section-2",
+          "order": 1,
+          "title": "Function overloads",
+          "lessons": [
+            {
+              "id": "cpp-section-2-unit-1-function-overloads-lesson-1",
+              "unitId": "cpp-section-2-unit-1-function-overloads",
+              "title": "Learn Function overloads",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-1-function-overloads-lesson-2",
+              "unitId": "cpp-section-2-unit-1-function-overloads",
+              "title": "Practice Function overloads",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-1-function-overloads-lesson-3",
+              "unitId": "cpp-section-2-unit-1-function-overloads",
+              "title": "Review Function overloads",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-2-unit-2-default-arguments",
+          "sectionId": "cpp-section-2",
+          "order": 2,
+          "title": "Default arguments",
+          "lessons": [
+            {
+              "id": "cpp-section-2-unit-2-default-arguments-lesson-1",
+              "unitId": "cpp-section-2-unit-2-default-arguments",
+              "title": "Learn Default arguments",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-2-default-arguments-lesson-2",
+              "unitId": "cpp-section-2-unit-2-default-arguments",
+              "title": "Practice Default arguments",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-2-default-arguments-lesson-3",
+              "unitId": "cpp-section-2-unit-2-default-arguments",
+              "title": "Review Default arguments",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-2-unit-3-pass-by-value",
+          "sectionId": "cpp-section-2",
+          "order": 3,
+          "title": "Pass by value",
+          "lessons": [
+            {
+              "id": "cpp-section-2-unit-3-pass-by-value-lesson-1",
+              "unitId": "cpp-section-2-unit-3-pass-by-value",
+              "title": "Learn Pass by value",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-3-pass-by-value-lesson-2",
+              "unitId": "cpp-section-2-unit-3-pass-by-value",
+              "title": "Practice Pass by value",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-3-pass-by-value-lesson-3",
+              "unitId": "cpp-section-2-unit-3-pass-by-value",
+              "title": "Review Pass by value",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-2-unit-4-pass-by-reference",
+          "sectionId": "cpp-section-2",
+          "order": 4,
+          "title": "Pass by reference",
+          "lessons": [
+            {
+              "id": "cpp-section-2-unit-4-pass-by-reference-lesson-1",
+              "unitId": "cpp-section-2-unit-4-pass-by-reference",
+              "title": "Learn Pass by reference",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-4-pass-by-reference-lesson-2",
+              "unitId": "cpp-section-2-unit-4-pass-by-reference",
+              "title": "Practice Pass by reference",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-4-pass-by-reference-lesson-3",
+              "unitId": "cpp-section-2-unit-4-pass-by-reference",
+              "title": "Review Pass by reference",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-2-unit-5-const-references",
+          "sectionId": "cpp-section-2",
+          "order": 5,
+          "title": "Const references",
+          "lessons": [
+            {
+              "id": "cpp-section-2-unit-5-const-references-lesson-1",
+              "unitId": "cpp-section-2-unit-5-const-references",
+              "title": "Learn Const references",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-5-const-references-lesson-2",
+              "unitId": "cpp-section-2-unit-5-const-references",
+              "title": "Practice Const references",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-5-const-references-lesson-3",
+              "unitId": "cpp-section-2-unit-5-const-references",
+              "title": "Review Const references",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-2-unit-6-inline-functions",
+          "sectionId": "cpp-section-2",
+          "order": 6,
+          "title": "Inline functions",
+          "lessons": [
+            {
+              "id": "cpp-section-2-unit-6-inline-functions-lesson-1",
+              "unitId": "cpp-section-2-unit-6-inline-functions",
+              "title": "Learn Inline functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-6-inline-functions-lesson-2",
+              "unitId": "cpp-section-2-unit-6-inline-functions",
+              "title": "Practice Inline functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-6-inline-functions-lesson-3",
+              "unitId": "cpp-section-2-unit-6-inline-functions",
+              "title": "Review Inline functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-2-unit-7-lambda-intro",
+          "sectionId": "cpp-section-2",
+          "order": 7,
+          "title": "Lambda intro",
+          "lessons": [
+            {
+              "id": "cpp-section-2-unit-7-lambda-intro-lesson-1",
+              "unitId": "cpp-section-2-unit-7-lambda-intro",
+              "title": "Learn Lambda intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-7-lambda-intro-lesson-2",
+              "unitId": "cpp-section-2-unit-7-lambda-intro",
+              "title": "Practice Lambda intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-7-lambda-intro-lesson-3",
+              "unitId": "cpp-section-2-unit-7-lambda-intro",
+              "title": "Review Lambda intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-2-unit-8-recursion",
+          "sectionId": "cpp-section-2",
+          "order": 8,
+          "title": "Recursion",
+          "lessons": [
+            {
+              "id": "cpp-section-2-unit-8-recursion-lesson-1",
+              "unitId": "cpp-section-2-unit-8-recursion",
+              "title": "Learn Recursion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-8-recursion-lesson-2",
+              "unitId": "cpp-section-2-unit-8-recursion",
+              "title": "Practice Recursion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-8-recursion-lesson-3",
+              "unitId": "cpp-section-2-unit-8-recursion",
+              "title": "Review Recursion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-2-unit-9-header-files",
+          "sectionId": "cpp-section-2",
+          "order": 9,
+          "title": "Header files",
+          "lessons": [
+            {
+              "id": "cpp-section-2-unit-9-header-files-lesson-1",
+              "unitId": "cpp-section-2-unit-9-header-files",
+              "title": "Learn Header files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-9-header-files-lesson-2",
+              "unitId": "cpp-section-2-unit-9-header-files",
+              "title": "Practice Header files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-9-header-files-lesson-3",
+              "unitId": "cpp-section-2-unit-9-header-files",
+              "title": "Review Header files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-2-unit-10-function-practice",
+          "sectionId": "cpp-section-2",
+          "order": 10,
+          "title": "Function practice",
+          "lessons": [
+            {
+              "id": "cpp-section-2-unit-10-function-practice-lesson-1",
+              "unitId": "cpp-section-2-unit-10-function-practice",
+              "title": "Learn Function practice",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-10-function-practice-lesson-2",
+              "unitId": "cpp-section-2-unit-10-function-practice",
+              "title": "Practice Function practice",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-2-unit-10-function-practice-lesson-3",
+              "unitId": "cpp-section-2-unit-10-function-practice",
+              "title": "Review Function practice",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cpp-section-3",
+      "trackId": "cpp",
+      "order": 3,
+      "title": "Section 3: OOP",
+      "bannerColor": "#1899D6",
+      "units": [
+        {
+          "id": "cpp-section-3-unit-1-classes",
+          "sectionId": "cpp-section-3",
+          "order": 1,
+          "title": "Classes",
+          "lessons": [
+            {
+              "id": "cpp-section-3-unit-1-classes-lesson-1",
+              "unitId": "cpp-section-3-unit-1-classes",
+              "title": "Learn Classes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-1-classes-lesson-2",
+              "unitId": "cpp-section-3-unit-1-classes",
+              "title": "Practice Classes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-1-classes-lesson-3",
+              "unitId": "cpp-section-3-unit-1-classes",
+              "title": "Review Classes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-3-unit-2-objects",
+          "sectionId": "cpp-section-3",
+          "order": 2,
+          "title": "Objects",
+          "lessons": [
+            {
+              "id": "cpp-section-3-unit-2-objects-lesson-1",
+              "unitId": "cpp-section-3-unit-2-objects",
+              "title": "Learn Objects",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-2-objects-lesson-2",
+              "unitId": "cpp-section-3-unit-2-objects",
+              "title": "Practice Objects",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-2-objects-lesson-3",
+              "unitId": "cpp-section-3-unit-2-objects",
+              "title": "Review Objects",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-3-unit-3-constructors",
+          "sectionId": "cpp-section-3",
+          "order": 3,
+          "title": "Constructors",
+          "lessons": [
+            {
+              "id": "cpp-section-3-unit-3-constructors-lesson-1",
+              "unitId": "cpp-section-3-unit-3-constructors",
+              "title": "Learn Constructors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-3-constructors-lesson-2",
+              "unitId": "cpp-section-3-unit-3-constructors",
+              "title": "Practice Constructors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-3-constructors-lesson-3",
+              "unitId": "cpp-section-3-unit-3-constructors",
+              "title": "Review Constructors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-3-unit-4-destructors",
+          "sectionId": "cpp-section-3",
+          "order": 4,
+          "title": "Destructors",
+          "lessons": [
+            {
+              "id": "cpp-section-3-unit-4-destructors-lesson-1",
+              "unitId": "cpp-section-3-unit-4-destructors",
+              "title": "Learn Destructors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-4-destructors-lesson-2",
+              "unitId": "cpp-section-3-unit-4-destructors",
+              "title": "Practice Destructors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-4-destructors-lesson-3",
+              "unitId": "cpp-section-3-unit-4-destructors",
+              "title": "Review Destructors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-3-unit-5-access-control",
+          "sectionId": "cpp-section-3",
+          "order": 5,
+          "title": "Access control",
+          "lessons": [
+            {
+              "id": "cpp-section-3-unit-5-access-control-lesson-1",
+              "unitId": "cpp-section-3-unit-5-access-control",
+              "title": "Learn Access control",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-5-access-control-lesson-2",
+              "unitId": "cpp-section-3-unit-5-access-control",
+              "title": "Practice Access control",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-5-access-control-lesson-3",
+              "unitId": "cpp-section-3-unit-5-access-control",
+              "title": "Review Access control",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-3-unit-6-member-functions",
+          "sectionId": "cpp-section-3",
+          "order": 6,
+          "title": "Member functions",
+          "lessons": [
+            {
+              "id": "cpp-section-3-unit-6-member-functions-lesson-1",
+              "unitId": "cpp-section-3-unit-6-member-functions",
+              "title": "Learn Member functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-6-member-functions-lesson-2",
+              "unitId": "cpp-section-3-unit-6-member-functions",
+              "title": "Practice Member functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-6-member-functions-lesson-3",
+              "unitId": "cpp-section-3-unit-6-member-functions",
+              "title": "Review Member functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-3-unit-7-static-members",
+          "sectionId": "cpp-section-3",
+          "order": 7,
+          "title": "Static members",
+          "lessons": [
+            {
+              "id": "cpp-section-3-unit-7-static-members-lesson-1",
+              "unitId": "cpp-section-3-unit-7-static-members",
+              "title": "Learn Static members",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-7-static-members-lesson-2",
+              "unitId": "cpp-section-3-unit-7-static-members",
+              "title": "Practice Static members",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-7-static-members-lesson-3",
+              "unitId": "cpp-section-3-unit-7-static-members",
+              "title": "Review Static members",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-3-unit-8-inheritance",
+          "sectionId": "cpp-section-3",
+          "order": 8,
+          "title": "Inheritance",
+          "lessons": [
+            {
+              "id": "cpp-section-3-unit-8-inheritance-lesson-1",
+              "unitId": "cpp-section-3-unit-8-inheritance",
+              "title": "Learn Inheritance",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-8-inheritance-lesson-2",
+              "unitId": "cpp-section-3-unit-8-inheritance",
+              "title": "Practice Inheritance",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-8-inheritance-lesson-3",
+              "unitId": "cpp-section-3-unit-8-inheritance",
+              "title": "Review Inheritance",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-3-unit-9-polymorphism",
+          "sectionId": "cpp-section-3",
+          "order": 9,
+          "title": "Polymorphism",
+          "lessons": [
+            {
+              "id": "cpp-section-3-unit-9-polymorphism-lesson-1",
+              "unitId": "cpp-section-3-unit-9-polymorphism",
+              "title": "Learn Polymorphism",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-9-polymorphism-lesson-2",
+              "unitId": "cpp-section-3-unit-9-polymorphism",
+              "title": "Practice Polymorphism",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-9-polymorphism-lesson-3",
+              "unitId": "cpp-section-3-unit-9-polymorphism",
+              "title": "Review Polymorphism",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-3-unit-10-oop-project",
+          "sectionId": "cpp-section-3",
+          "order": 10,
+          "title": "OOP project",
+          "lessons": [
+            {
+              "id": "cpp-section-3-unit-10-oop-project-lesson-1",
+              "unitId": "cpp-section-3-unit-10-oop-project",
+              "title": "Learn OOP project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-10-oop-project-lesson-2",
+              "unitId": "cpp-section-3-unit-10-oop-project",
+              "title": "Practice OOP project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-3-unit-10-oop-project-lesson-3",
+              "unitId": "cpp-section-3-unit-10-oop-project",
+              "title": "Review OOP project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cpp-section-4",
+      "trackId": "cpp",
+      "order": 4,
+      "title": "Section 4: Memory & Ownership",
+      "bannerColor": "#1899D6",
+      "units": [
+        {
+          "id": "cpp-section-4-unit-1-pointers",
+          "sectionId": "cpp-section-4",
+          "order": 1,
+          "title": "Pointers",
+          "lessons": [
+            {
+              "id": "cpp-section-4-unit-1-pointers-lesson-1",
+              "unitId": "cpp-section-4-unit-1-pointers",
+              "title": "Learn Pointers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-1-pointers-lesson-2",
+              "unitId": "cpp-section-4-unit-1-pointers",
+              "title": "Practice Pointers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-1-pointers-lesson-3",
+              "unitId": "cpp-section-4-unit-1-pointers",
+              "title": "Review Pointers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-4-unit-2-references-review",
+          "sectionId": "cpp-section-4",
+          "order": 2,
+          "title": "References review",
+          "lessons": [
+            {
+              "id": "cpp-section-4-unit-2-references-review-lesson-1",
+              "unitId": "cpp-section-4-unit-2-references-review",
+              "title": "Learn References review",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-2-references-review-lesson-2",
+              "unitId": "cpp-section-4-unit-2-references-review",
+              "title": "Practice References review",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-2-references-review-lesson-3",
+              "unitId": "cpp-section-4-unit-2-references-review",
+              "title": "Review References review",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-4-unit-3-new-and-delete",
+          "sectionId": "cpp-section-4",
+          "order": 3,
+          "title": "new and delete",
+          "lessons": [
+            {
+              "id": "cpp-section-4-unit-3-new-and-delete-lesson-1",
+              "unitId": "cpp-section-4-unit-3-new-and-delete",
+              "title": "Learn new and delete",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-3-new-and-delete-lesson-2",
+              "unitId": "cpp-section-4-unit-3-new-and-delete",
+              "title": "Practice new and delete",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-3-new-and-delete-lesson-3",
+              "unitId": "cpp-section-4-unit-3-new-and-delete",
+              "title": "Review new and delete",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-4-unit-4-raii",
+          "sectionId": "cpp-section-4",
+          "order": 4,
+          "title": "RAII",
+          "lessons": [
+            {
+              "id": "cpp-section-4-unit-4-raii-lesson-1",
+              "unitId": "cpp-section-4-unit-4-raii",
+              "title": "Learn RAII",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-4-raii-lesson-2",
+              "unitId": "cpp-section-4-unit-4-raii",
+              "title": "Practice RAII",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-4-raii-lesson-3",
+              "unitId": "cpp-section-4-unit-4-raii",
+              "title": "Review RAII",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-4-unit-5-smart-pointers",
+          "sectionId": "cpp-section-4",
+          "order": 5,
+          "title": "Smart pointers",
+          "lessons": [
+            {
+              "id": "cpp-section-4-unit-5-smart-pointers-lesson-1",
+              "unitId": "cpp-section-4-unit-5-smart-pointers",
+              "title": "Learn Smart pointers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-5-smart-pointers-lesson-2",
+              "unitId": "cpp-section-4-unit-5-smart-pointers",
+              "title": "Practice Smart pointers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-5-smart-pointers-lesson-3",
+              "unitId": "cpp-section-4-unit-5-smart-pointers",
+              "title": "Review Smart pointers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-4-unit-6-unique-ptr",
+          "sectionId": "cpp-section-4",
+          "order": 6,
+          "title": "unique_ptr",
+          "lessons": [
+            {
+              "id": "cpp-section-4-unit-6-unique-ptr-lesson-1",
+              "unitId": "cpp-section-4-unit-6-unique-ptr",
+              "title": "Learn unique_ptr",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-6-unique-ptr-lesson-2",
+              "unitId": "cpp-section-4-unit-6-unique-ptr",
+              "title": "Practice unique_ptr",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-6-unique-ptr-lesson-3",
+              "unitId": "cpp-section-4-unit-6-unique-ptr",
+              "title": "Review unique_ptr",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-4-unit-7-shared-ptr",
+          "sectionId": "cpp-section-4",
+          "order": 7,
+          "title": "shared_ptr",
+          "lessons": [
+            {
+              "id": "cpp-section-4-unit-7-shared-ptr-lesson-1",
+              "unitId": "cpp-section-4-unit-7-shared-ptr",
+              "title": "Learn shared_ptr",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-7-shared-ptr-lesson-2",
+              "unitId": "cpp-section-4-unit-7-shared-ptr",
+              "title": "Practice shared_ptr",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-7-shared-ptr-lesson-3",
+              "unitId": "cpp-section-4-unit-7-shared-ptr",
+              "title": "Review shared_ptr",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-4-unit-8-move-semantics-intro",
+          "sectionId": "cpp-section-4",
+          "order": 8,
+          "title": "Move semantics intro",
+          "lessons": [
+            {
+              "id": "cpp-section-4-unit-8-move-semantics-intro-lesson-1",
+              "unitId": "cpp-section-4-unit-8-move-semantics-intro",
+              "title": "Learn Move semantics intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-8-move-semantics-intro-lesson-2",
+              "unitId": "cpp-section-4-unit-8-move-semantics-intro",
+              "title": "Practice Move semantics intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-8-move-semantics-intro-lesson-3",
+              "unitId": "cpp-section-4-unit-8-move-semantics-intro",
+              "title": "Review Move semantics intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-4-unit-9-rule-of-three",
+          "sectionId": "cpp-section-4",
+          "order": 9,
+          "title": "Rule of three",
+          "lessons": [
+            {
+              "id": "cpp-section-4-unit-9-rule-of-three-lesson-1",
+              "unitId": "cpp-section-4-unit-9-rule-of-three",
+              "title": "Learn Rule of three",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-9-rule-of-three-lesson-2",
+              "unitId": "cpp-section-4-unit-9-rule-of-three",
+              "title": "Practice Rule of three",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-9-rule-of-three-lesson-3",
+              "unitId": "cpp-section-4-unit-9-rule-of-three",
+              "title": "Review Rule of three",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-4-unit-10-ownership-project",
+          "sectionId": "cpp-section-4",
+          "order": 10,
+          "title": "Ownership project",
+          "lessons": [
+            {
+              "id": "cpp-section-4-unit-10-ownership-project-lesson-1",
+              "unitId": "cpp-section-4-unit-10-ownership-project",
+              "title": "Learn Ownership project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-10-ownership-project-lesson-2",
+              "unitId": "cpp-section-4-unit-10-ownership-project",
+              "title": "Practice Ownership project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-4-unit-10-ownership-project-lesson-3",
+              "unitId": "cpp-section-4-unit-10-ownership-project",
+              "title": "Review Ownership project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cpp-section-5",
+      "trackId": "cpp",
+      "order": 5,
+      "title": "Section 5: STL Containers",
+      "bannerColor": "#1899D6",
+      "units": [
+        {
+          "id": "cpp-section-5-unit-1-vector",
+          "sectionId": "cpp-section-5",
+          "order": 1,
+          "title": "vector",
+          "lessons": [
+            {
+              "id": "cpp-section-5-unit-1-vector-lesson-1",
+              "unitId": "cpp-section-5-unit-1-vector",
+              "title": "Learn vector",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-1-vector-lesson-2",
+              "unitId": "cpp-section-5-unit-1-vector",
+              "title": "Practice vector",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-1-vector-lesson-3",
+              "unitId": "cpp-section-5-unit-1-vector",
+              "title": "Review vector",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-5-unit-2-array",
+          "sectionId": "cpp-section-5",
+          "order": 2,
+          "title": "array",
+          "lessons": [
+            {
+              "id": "cpp-section-5-unit-2-array-lesson-1",
+              "unitId": "cpp-section-5-unit-2-array",
+              "title": "Learn array",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-2-array-lesson-2",
+              "unitId": "cpp-section-5-unit-2-array",
+              "title": "Practice array",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-2-array-lesson-3",
+              "unitId": "cpp-section-5-unit-2-array",
+              "title": "Review array",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-5-unit-3-deque",
+          "sectionId": "cpp-section-5",
+          "order": 3,
+          "title": "deque",
+          "lessons": [
+            {
+              "id": "cpp-section-5-unit-3-deque-lesson-1",
+              "unitId": "cpp-section-5-unit-3-deque",
+              "title": "Learn deque",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-3-deque-lesson-2",
+              "unitId": "cpp-section-5-unit-3-deque",
+              "title": "Practice deque",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-3-deque-lesson-3",
+              "unitId": "cpp-section-5-unit-3-deque",
+              "title": "Review deque",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-5-unit-4-list",
+          "sectionId": "cpp-section-5",
+          "order": 4,
+          "title": "list",
+          "lessons": [
+            {
+              "id": "cpp-section-5-unit-4-list-lesson-1",
+              "unitId": "cpp-section-5-unit-4-list",
+              "title": "Learn list",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-4-list-lesson-2",
+              "unitId": "cpp-section-5-unit-4-list",
+              "title": "Practice list",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-4-list-lesson-3",
+              "unitId": "cpp-section-5-unit-4-list",
+              "title": "Review list",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-5-unit-5-stack",
+          "sectionId": "cpp-section-5",
+          "order": 5,
+          "title": "stack",
+          "lessons": [
+            {
+              "id": "cpp-section-5-unit-5-stack-lesson-1",
+              "unitId": "cpp-section-5-unit-5-stack",
+              "title": "Learn stack",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-5-stack-lesson-2",
+              "unitId": "cpp-section-5-unit-5-stack",
+              "title": "Practice stack",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-5-stack-lesson-3",
+              "unitId": "cpp-section-5-unit-5-stack",
+              "title": "Review stack",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-5-unit-6-queue",
+          "sectionId": "cpp-section-5",
+          "order": 6,
+          "title": "queue",
+          "lessons": [
+            {
+              "id": "cpp-section-5-unit-6-queue-lesson-1",
+              "unitId": "cpp-section-5-unit-6-queue",
+              "title": "Learn queue",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-6-queue-lesson-2",
+              "unitId": "cpp-section-5-unit-6-queue",
+              "title": "Practice queue",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-6-queue-lesson-3",
+              "unitId": "cpp-section-5-unit-6-queue",
+              "title": "Review queue",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-5-unit-7-set",
+          "sectionId": "cpp-section-5",
+          "order": 7,
+          "title": "set",
+          "lessons": [
+            {
+              "id": "cpp-section-5-unit-7-set-lesson-1",
+              "unitId": "cpp-section-5-unit-7-set",
+              "title": "Learn set",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-7-set-lesson-2",
+              "unitId": "cpp-section-5-unit-7-set",
+              "title": "Practice set",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-7-set-lesson-3",
+              "unitId": "cpp-section-5-unit-7-set",
+              "title": "Review set",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-5-unit-8-map",
+          "sectionId": "cpp-section-5",
+          "order": 8,
+          "title": "map",
+          "lessons": [
+            {
+              "id": "cpp-section-5-unit-8-map-lesson-1",
+              "unitId": "cpp-section-5-unit-8-map",
+              "title": "Learn map",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-8-map-lesson-2",
+              "unitId": "cpp-section-5-unit-8-map",
+              "title": "Practice map",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-8-map-lesson-3",
+              "unitId": "cpp-section-5-unit-8-map",
+              "title": "Review map",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-5-unit-9-unordered-map",
+          "sectionId": "cpp-section-5",
+          "order": 9,
+          "title": "unordered_map",
+          "lessons": [
+            {
+              "id": "cpp-section-5-unit-9-unordered-map-lesson-1",
+              "unitId": "cpp-section-5-unit-9-unordered-map",
+              "title": "Learn unordered_map",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-9-unordered-map-lesson-2",
+              "unitId": "cpp-section-5-unit-9-unordered-map",
+              "title": "Practice unordered_map",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-9-unordered-map-lesson-3",
+              "unitId": "cpp-section-5-unit-9-unordered-map",
+              "title": "Review unordered_map",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-5-unit-10-container-choice",
+          "sectionId": "cpp-section-5",
+          "order": 10,
+          "title": "Container choice",
+          "lessons": [
+            {
+              "id": "cpp-section-5-unit-10-container-choice-lesson-1",
+              "unitId": "cpp-section-5-unit-10-container-choice",
+              "title": "Learn Container choice",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-10-container-choice-lesson-2",
+              "unitId": "cpp-section-5-unit-10-container-choice",
+              "title": "Practice Container choice",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-5-unit-10-container-choice-lesson-3",
+              "unitId": "cpp-section-5-unit-10-container-choice",
+              "title": "Review Container choice",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cpp-section-6",
+      "trackId": "cpp",
+      "order": 6,
+      "title": "Section 6: STL Algorithms",
+      "bannerColor": "#1899D6",
+      "units": [
+        {
+          "id": "cpp-section-6-unit-1-iterators",
+          "sectionId": "cpp-section-6",
+          "order": 1,
+          "title": "Iterators",
+          "lessons": [
+            {
+              "id": "cpp-section-6-unit-1-iterators-lesson-1",
+              "unitId": "cpp-section-6-unit-1-iterators",
+              "title": "Learn Iterators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-1-iterators-lesson-2",
+              "unitId": "cpp-section-6-unit-1-iterators",
+              "title": "Practice Iterators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-1-iterators-lesson-3",
+              "unitId": "cpp-section-6-unit-1-iterators",
+              "title": "Review Iterators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-6-unit-2-sort",
+          "sectionId": "cpp-section-6",
+          "order": 2,
+          "title": "sort",
+          "lessons": [
+            {
+              "id": "cpp-section-6-unit-2-sort-lesson-1",
+              "unitId": "cpp-section-6-unit-2-sort",
+              "title": "Learn sort",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-2-sort-lesson-2",
+              "unitId": "cpp-section-6-unit-2-sort",
+              "title": "Practice sort",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-2-sort-lesson-3",
+              "unitId": "cpp-section-6-unit-2-sort",
+              "title": "Review sort",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-6-unit-3-find",
+          "sectionId": "cpp-section-6",
+          "order": 3,
+          "title": "find",
+          "lessons": [
+            {
+              "id": "cpp-section-6-unit-3-find-lesson-1",
+              "unitId": "cpp-section-6-unit-3-find",
+              "title": "Learn find",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-3-find-lesson-2",
+              "unitId": "cpp-section-6-unit-3-find",
+              "title": "Practice find",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-3-find-lesson-3",
+              "unitId": "cpp-section-6-unit-3-find",
+              "title": "Review find",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-6-unit-4-count",
+          "sectionId": "cpp-section-6",
+          "order": 4,
+          "title": "count",
+          "lessons": [
+            {
+              "id": "cpp-section-6-unit-4-count-lesson-1",
+              "unitId": "cpp-section-6-unit-4-count",
+              "title": "Learn count",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-4-count-lesson-2",
+              "unitId": "cpp-section-6-unit-4-count",
+              "title": "Practice count",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-4-count-lesson-3",
+              "unitId": "cpp-section-6-unit-4-count",
+              "title": "Review count",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-6-unit-5-transform",
+          "sectionId": "cpp-section-6",
+          "order": 5,
+          "title": "transform",
+          "lessons": [
+            {
+              "id": "cpp-section-6-unit-5-transform-lesson-1",
+              "unitId": "cpp-section-6-unit-5-transform",
+              "title": "Learn transform",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-5-transform-lesson-2",
+              "unitId": "cpp-section-6-unit-5-transform",
+              "title": "Practice transform",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-5-transform-lesson-3",
+              "unitId": "cpp-section-6-unit-5-transform",
+              "title": "Review transform",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-6-unit-6-accumulate",
+          "sectionId": "cpp-section-6",
+          "order": 6,
+          "title": "accumulate",
+          "lessons": [
+            {
+              "id": "cpp-section-6-unit-6-accumulate-lesson-1",
+              "unitId": "cpp-section-6-unit-6-accumulate",
+              "title": "Learn accumulate",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-6-accumulate-lesson-2",
+              "unitId": "cpp-section-6-unit-6-accumulate",
+              "title": "Practice accumulate",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-6-accumulate-lesson-3",
+              "unitId": "cpp-section-6-unit-6-accumulate",
+              "title": "Review accumulate",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-6-unit-7-binary-search",
+          "sectionId": "cpp-section-6",
+          "order": 7,
+          "title": "binary_search",
+          "lessons": [
+            {
+              "id": "cpp-section-6-unit-7-binary-search-lesson-1",
+              "unitId": "cpp-section-6-unit-7-binary-search",
+              "title": "Learn binary_search",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-7-binary-search-lesson-2",
+              "unitId": "cpp-section-6-unit-7-binary-search",
+              "title": "Practice binary_search",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-7-binary-search-lesson-3",
+              "unitId": "cpp-section-6-unit-7-binary-search",
+              "title": "Review binary_search",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-6-unit-8-custom-comparators",
+          "sectionId": "cpp-section-6",
+          "order": 8,
+          "title": "Custom comparators",
+          "lessons": [
+            {
+              "id": "cpp-section-6-unit-8-custom-comparators-lesson-1",
+              "unitId": "cpp-section-6-unit-8-custom-comparators",
+              "title": "Learn Custom comparators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-8-custom-comparators-lesson-2",
+              "unitId": "cpp-section-6-unit-8-custom-comparators",
+              "title": "Practice Custom comparators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-8-custom-comparators-lesson-3",
+              "unitId": "cpp-section-6-unit-8-custom-comparators",
+              "title": "Review Custom comparators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-6-unit-9-algorithm-complexity",
+          "sectionId": "cpp-section-6",
+          "order": 9,
+          "title": "Algorithm complexity",
+          "lessons": [
+            {
+              "id": "cpp-section-6-unit-9-algorithm-complexity-lesson-1",
+              "unitId": "cpp-section-6-unit-9-algorithm-complexity",
+              "title": "Learn Algorithm complexity",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-9-algorithm-complexity-lesson-2",
+              "unitId": "cpp-section-6-unit-9-algorithm-complexity",
+              "title": "Practice Algorithm complexity",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-9-algorithm-complexity-lesson-3",
+              "unitId": "cpp-section-6-unit-9-algorithm-complexity",
+              "title": "Review Algorithm complexity",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-6-unit-10-algorithm-project",
+          "sectionId": "cpp-section-6",
+          "order": 10,
+          "title": "Algorithm project",
+          "lessons": [
+            {
+              "id": "cpp-section-6-unit-10-algorithm-project-lesson-1",
+              "unitId": "cpp-section-6-unit-10-algorithm-project",
+              "title": "Learn Algorithm project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-10-algorithm-project-lesson-2",
+              "unitId": "cpp-section-6-unit-10-algorithm-project",
+              "title": "Practice Algorithm project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-6-unit-10-algorithm-project-lesson-3",
+              "unitId": "cpp-section-6-unit-10-algorithm-project",
+              "title": "Review Algorithm project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cpp-section-7",
+      "trackId": "cpp",
+      "order": 7,
+      "title": "Section 7: Templates",
+      "bannerColor": "#1899D6",
+      "units": [
+        {
+          "id": "cpp-section-7-unit-1-function-templates",
+          "sectionId": "cpp-section-7",
+          "order": 1,
+          "title": "Function templates",
+          "lessons": [
+            {
+              "id": "cpp-section-7-unit-1-function-templates-lesson-1",
+              "unitId": "cpp-section-7-unit-1-function-templates",
+              "title": "Learn Function templates",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-1-function-templates-lesson-2",
+              "unitId": "cpp-section-7-unit-1-function-templates",
+              "title": "Practice Function templates",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-1-function-templates-lesson-3",
+              "unitId": "cpp-section-7-unit-1-function-templates",
+              "title": "Review Function templates",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-7-unit-2-class-templates",
+          "sectionId": "cpp-section-7",
+          "order": 2,
+          "title": "Class templates",
+          "lessons": [
+            {
+              "id": "cpp-section-7-unit-2-class-templates-lesson-1",
+              "unitId": "cpp-section-7-unit-2-class-templates",
+              "title": "Learn Class templates",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-2-class-templates-lesson-2",
+              "unitId": "cpp-section-7-unit-2-class-templates",
+              "title": "Practice Class templates",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-2-class-templates-lesson-3",
+              "unitId": "cpp-section-7-unit-2-class-templates",
+              "title": "Review Class templates",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-7-unit-3-template-parameters",
+          "sectionId": "cpp-section-7",
+          "order": 3,
+          "title": "Template parameters",
+          "lessons": [
+            {
+              "id": "cpp-section-7-unit-3-template-parameters-lesson-1",
+              "unitId": "cpp-section-7-unit-3-template-parameters",
+              "title": "Learn Template parameters",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-3-template-parameters-lesson-2",
+              "unitId": "cpp-section-7-unit-3-template-parameters",
+              "title": "Practice Template parameters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-3-template-parameters-lesson-3",
+              "unitId": "cpp-section-7-unit-3-template-parameters",
+              "title": "Review Template parameters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-7-unit-4-specialization-intro",
+          "sectionId": "cpp-section-7",
+          "order": 4,
+          "title": "Specialization intro",
+          "lessons": [
+            {
+              "id": "cpp-section-7-unit-4-specialization-intro-lesson-1",
+              "unitId": "cpp-section-7-unit-4-specialization-intro",
+              "title": "Learn Specialization intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-4-specialization-intro-lesson-2",
+              "unitId": "cpp-section-7-unit-4-specialization-intro",
+              "title": "Practice Specialization intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-4-specialization-intro-lesson-3",
+              "unitId": "cpp-section-7-unit-4-specialization-intro",
+              "title": "Review Specialization intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-7-unit-5-type-deduction",
+          "sectionId": "cpp-section-7",
+          "order": 5,
+          "title": "Type deduction",
+          "lessons": [
+            {
+              "id": "cpp-section-7-unit-5-type-deduction-lesson-1",
+              "unitId": "cpp-section-7-unit-5-type-deduction",
+              "title": "Learn Type deduction",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-5-type-deduction-lesson-2",
+              "unitId": "cpp-section-7-unit-5-type-deduction",
+              "title": "Practice Type deduction",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-5-type-deduction-lesson-3",
+              "unitId": "cpp-section-7-unit-5-type-deduction",
+              "title": "Review Type deduction",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-7-unit-6-concepts-intro",
+          "sectionId": "cpp-section-7",
+          "order": 6,
+          "title": "Concepts intro",
+          "lessons": [
+            {
+              "id": "cpp-section-7-unit-6-concepts-intro-lesson-1",
+              "unitId": "cpp-section-7-unit-6-concepts-intro",
+              "title": "Learn Concepts intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-6-concepts-intro-lesson-2",
+              "unitId": "cpp-section-7-unit-6-concepts-intro",
+              "title": "Practice Concepts intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-6-concepts-intro-lesson-3",
+              "unitId": "cpp-section-7-unit-6-concepts-intro",
+              "title": "Review Concepts intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-7-unit-7-generic-containers",
+          "sectionId": "cpp-section-7",
+          "order": 7,
+          "title": "Generic containers",
+          "lessons": [
+            {
+              "id": "cpp-section-7-unit-7-generic-containers-lesson-1",
+              "unitId": "cpp-section-7-unit-7-generic-containers",
+              "title": "Learn Generic containers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-7-generic-containers-lesson-2",
+              "unitId": "cpp-section-7-unit-7-generic-containers",
+              "title": "Practice Generic containers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-7-generic-containers-lesson-3",
+              "unitId": "cpp-section-7-unit-7-generic-containers",
+              "title": "Review Generic containers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-7-unit-8-template-errors",
+          "sectionId": "cpp-section-7",
+          "order": 8,
+          "title": "Template errors",
+          "lessons": [
+            {
+              "id": "cpp-section-7-unit-8-template-errors-lesson-1",
+              "unitId": "cpp-section-7-unit-8-template-errors",
+              "title": "Learn Template errors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-8-template-errors-lesson-2",
+              "unitId": "cpp-section-7-unit-8-template-errors",
+              "title": "Practice Template errors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-8-template-errors-lesson-3",
+              "unitId": "cpp-section-7-unit-8-template-errors",
+              "title": "Review Template errors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-7-unit-9-template-utilities",
+          "sectionId": "cpp-section-7",
+          "order": 9,
+          "title": "Template utilities",
+          "lessons": [
+            {
+              "id": "cpp-section-7-unit-9-template-utilities-lesson-1",
+              "unitId": "cpp-section-7-unit-9-template-utilities",
+              "title": "Learn Template utilities",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-9-template-utilities-lesson-2",
+              "unitId": "cpp-section-7-unit-9-template-utilities",
+              "title": "Practice Template utilities",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-9-template-utilities-lesson-3",
+              "unitId": "cpp-section-7-unit-9-template-utilities",
+              "title": "Review Template utilities",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-7-unit-10-template-project",
+          "sectionId": "cpp-section-7",
+          "order": 10,
+          "title": "Template project",
+          "lessons": [
+            {
+              "id": "cpp-section-7-unit-10-template-project-lesson-1",
+              "unitId": "cpp-section-7-unit-10-template-project",
+              "title": "Learn Template project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-10-template-project-lesson-2",
+              "unitId": "cpp-section-7-unit-10-template-project",
+              "title": "Practice Template project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-7-unit-10-template-project-lesson-3",
+              "unitId": "cpp-section-7-unit-10-template-project",
+              "title": "Review Template project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cpp-section-8",
+      "trackId": "cpp",
+      "order": 8,
+      "title": "Section 8: Operator Overloading",
+      "bannerColor": "#1899D6",
+      "units": [
+        {
+          "id": "cpp-section-8-unit-1-why-overload",
+          "sectionId": "cpp-section-8",
+          "order": 1,
+          "title": "Why overload",
+          "lessons": [
+            {
+              "id": "cpp-section-8-unit-1-why-overload-lesson-1",
+              "unitId": "cpp-section-8-unit-1-why-overload",
+              "title": "Learn Why overload",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-1-why-overload-lesson-2",
+              "unitId": "cpp-section-8-unit-1-why-overload",
+              "title": "Practice Why overload",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-1-why-overload-lesson-3",
+              "unitId": "cpp-section-8-unit-1-why-overload",
+              "title": "Review Why overload",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-8-unit-2-arithmetic-operators",
+          "sectionId": "cpp-section-8",
+          "order": 2,
+          "title": "Arithmetic operators",
+          "lessons": [
+            {
+              "id": "cpp-section-8-unit-2-arithmetic-operators-lesson-1",
+              "unitId": "cpp-section-8-unit-2-arithmetic-operators",
+              "title": "Learn Arithmetic operators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-2-arithmetic-operators-lesson-2",
+              "unitId": "cpp-section-8-unit-2-arithmetic-operators",
+              "title": "Practice Arithmetic operators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-2-arithmetic-operators-lesson-3",
+              "unitId": "cpp-section-8-unit-2-arithmetic-operators",
+              "title": "Review Arithmetic operators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-8-unit-3-comparison-operators",
+          "sectionId": "cpp-section-8",
+          "order": 3,
+          "title": "Comparison operators",
+          "lessons": [
+            {
+              "id": "cpp-section-8-unit-3-comparison-operators-lesson-1",
+              "unitId": "cpp-section-8-unit-3-comparison-operators",
+              "title": "Learn Comparison operators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-3-comparison-operators-lesson-2",
+              "unitId": "cpp-section-8-unit-3-comparison-operators",
+              "title": "Practice Comparison operators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-3-comparison-operators-lesson-3",
+              "unitId": "cpp-section-8-unit-3-comparison-operators",
+              "title": "Review Comparison operators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-8-unit-4-stream-operators",
+          "sectionId": "cpp-section-8",
+          "order": 4,
+          "title": "Stream operators",
+          "lessons": [
+            {
+              "id": "cpp-section-8-unit-4-stream-operators-lesson-1",
+              "unitId": "cpp-section-8-unit-4-stream-operators",
+              "title": "Learn Stream operators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-4-stream-operators-lesson-2",
+              "unitId": "cpp-section-8-unit-4-stream-operators",
+              "title": "Practice Stream operators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-4-stream-operators-lesson-3",
+              "unitId": "cpp-section-8-unit-4-stream-operators",
+              "title": "Review Stream operators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-8-unit-5-assignment-operator",
+          "sectionId": "cpp-section-8",
+          "order": 5,
+          "title": "Assignment operator",
+          "lessons": [
+            {
+              "id": "cpp-section-8-unit-5-assignment-operator-lesson-1",
+              "unitId": "cpp-section-8-unit-5-assignment-operator",
+              "title": "Learn Assignment operator",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-5-assignment-operator-lesson-2",
+              "unitId": "cpp-section-8-unit-5-assignment-operator",
+              "title": "Practice Assignment operator",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-5-assignment-operator-lesson-3",
+              "unitId": "cpp-section-8-unit-5-assignment-operator",
+              "title": "Review Assignment operator",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-8-unit-6-index-operator",
+          "sectionId": "cpp-section-8",
+          "order": 6,
+          "title": "Index operator",
+          "lessons": [
+            {
+              "id": "cpp-section-8-unit-6-index-operator-lesson-1",
+              "unitId": "cpp-section-8-unit-6-index-operator",
+              "title": "Learn Index operator",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-6-index-operator-lesson-2",
+              "unitId": "cpp-section-8-unit-6-index-operator",
+              "title": "Practice Index operator",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-6-index-operator-lesson-3",
+              "unitId": "cpp-section-8-unit-6-index-operator",
+              "title": "Review Index operator",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-8-unit-7-call-operator",
+          "sectionId": "cpp-section-8",
+          "order": 7,
+          "title": "Call operator",
+          "lessons": [
+            {
+              "id": "cpp-section-8-unit-7-call-operator-lesson-1",
+              "unitId": "cpp-section-8-unit-7-call-operator",
+              "title": "Learn Call operator",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-7-call-operator-lesson-2",
+              "unitId": "cpp-section-8-unit-7-call-operator",
+              "title": "Practice Call operator",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-7-call-operator-lesson-3",
+              "unitId": "cpp-section-8-unit-7-call-operator",
+              "title": "Review Call operator",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-8-unit-8-conversion-operators",
+          "sectionId": "cpp-section-8",
+          "order": 8,
+          "title": "Conversion operators",
+          "lessons": [
+            {
+              "id": "cpp-section-8-unit-8-conversion-operators-lesson-1",
+              "unitId": "cpp-section-8-unit-8-conversion-operators",
+              "title": "Learn Conversion operators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-8-conversion-operators-lesson-2",
+              "unitId": "cpp-section-8-unit-8-conversion-operators",
+              "title": "Practice Conversion operators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-8-conversion-operators-lesson-3",
+              "unitId": "cpp-section-8-unit-8-conversion-operators",
+              "title": "Review Conversion operators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-8-unit-9-overload-pitfalls",
+          "sectionId": "cpp-section-8",
+          "order": 9,
+          "title": "Overload pitfalls",
+          "lessons": [
+            {
+              "id": "cpp-section-8-unit-9-overload-pitfalls-lesson-1",
+              "unitId": "cpp-section-8-unit-9-overload-pitfalls",
+              "title": "Learn Overload pitfalls",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-9-overload-pitfalls-lesson-2",
+              "unitId": "cpp-section-8-unit-9-overload-pitfalls",
+              "title": "Practice Overload pitfalls",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-9-overload-pitfalls-lesson-3",
+              "unitId": "cpp-section-8-unit-9-overload-pitfalls",
+              "title": "Review Overload pitfalls",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-8-unit-10-overload-project",
+          "sectionId": "cpp-section-8",
+          "order": 10,
+          "title": "Overload project",
+          "lessons": [
+            {
+              "id": "cpp-section-8-unit-10-overload-project-lesson-1",
+              "unitId": "cpp-section-8-unit-10-overload-project",
+              "title": "Learn Overload project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-10-overload-project-lesson-2",
+              "unitId": "cpp-section-8-unit-10-overload-project",
+              "title": "Practice Overload project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-8-unit-10-overload-project-lesson-3",
+              "unitId": "cpp-section-8-unit-10-overload-project",
+              "title": "Review Overload project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cpp-section-9",
+      "trackId": "cpp",
+      "order": 9,
+      "title": "Section 9: Modern C++",
+      "bannerColor": "#1899D6",
+      "units": [
+        {
+          "id": "cpp-section-9-unit-1-range-based-loops",
+          "sectionId": "cpp-section-9",
+          "order": 1,
+          "title": "Range-based loops",
+          "lessons": [
+            {
+              "id": "cpp-section-9-unit-1-range-based-loops-lesson-1",
+              "unitId": "cpp-section-9-unit-1-range-based-loops",
+              "title": "Learn Range-based loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-1-range-based-loops-lesson-2",
+              "unitId": "cpp-section-9-unit-1-range-based-loops",
+              "title": "Practice Range-based loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-1-range-based-loops-lesson-3",
+              "unitId": "cpp-section-9-unit-1-range-based-loops",
+              "title": "Review Range-based loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-9-unit-2-structured-bindings",
+          "sectionId": "cpp-section-9",
+          "order": 2,
+          "title": "Structured bindings",
+          "lessons": [
+            {
+              "id": "cpp-section-9-unit-2-structured-bindings-lesson-1",
+              "unitId": "cpp-section-9-unit-2-structured-bindings",
+              "title": "Learn Structured bindings",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-2-structured-bindings-lesson-2",
+              "unitId": "cpp-section-9-unit-2-structured-bindings",
+              "title": "Practice Structured bindings",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-2-structured-bindings-lesson-3",
+              "unitId": "cpp-section-9-unit-2-structured-bindings",
+              "title": "Review Structured bindings",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-9-unit-3-optional",
+          "sectionId": "cpp-section-9",
+          "order": 3,
+          "title": "optional",
+          "lessons": [
+            {
+              "id": "cpp-section-9-unit-3-optional-lesson-1",
+              "unitId": "cpp-section-9-unit-3-optional",
+              "title": "Learn optional",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-3-optional-lesson-2",
+              "unitId": "cpp-section-9-unit-3-optional",
+              "title": "Practice optional",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-3-optional-lesson-3",
+              "unitId": "cpp-section-9-unit-3-optional",
+              "title": "Review optional",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-9-unit-4-variant",
+          "sectionId": "cpp-section-9",
+          "order": 4,
+          "title": "variant",
+          "lessons": [
+            {
+              "id": "cpp-section-9-unit-4-variant-lesson-1",
+              "unitId": "cpp-section-9-unit-4-variant",
+              "title": "Learn variant",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-4-variant-lesson-2",
+              "unitId": "cpp-section-9-unit-4-variant",
+              "title": "Practice variant",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-4-variant-lesson-3",
+              "unitId": "cpp-section-9-unit-4-variant",
+              "title": "Review variant",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-9-unit-5-string-view",
+          "sectionId": "cpp-section-9",
+          "order": 5,
+          "title": "string_view",
+          "lessons": [
+            {
+              "id": "cpp-section-9-unit-5-string-view-lesson-1",
+              "unitId": "cpp-section-9-unit-5-string-view",
+              "title": "Learn string_view",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-5-string-view-lesson-2",
+              "unitId": "cpp-section-9-unit-5-string-view",
+              "title": "Practice string_view",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-5-string-view-lesson-3",
+              "unitId": "cpp-section-9-unit-5-string-view",
+              "title": "Review string_view",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-9-unit-6-constexpr",
+          "sectionId": "cpp-section-9",
+          "order": 6,
+          "title": "constexpr",
+          "lessons": [
+            {
+              "id": "cpp-section-9-unit-6-constexpr-lesson-1",
+              "unitId": "cpp-section-9-unit-6-constexpr",
+              "title": "Learn constexpr",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-6-constexpr-lesson-2",
+              "unitId": "cpp-section-9-unit-6-constexpr",
+              "title": "Practice constexpr",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-6-constexpr-lesson-3",
+              "unitId": "cpp-section-9-unit-6-constexpr",
+              "title": "Review constexpr",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-9-unit-7-modules-concept",
+          "sectionId": "cpp-section-9",
+          "order": 7,
+          "title": "Modules concept",
+          "lessons": [
+            {
+              "id": "cpp-section-9-unit-7-modules-concept-lesson-1",
+              "unitId": "cpp-section-9-unit-7-modules-concept",
+              "title": "Learn Modules concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-7-modules-concept-lesson-2",
+              "unitId": "cpp-section-9-unit-7-modules-concept",
+              "title": "Practice Modules concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-7-modules-concept-lesson-3",
+              "unitId": "cpp-section-9-unit-7-modules-concept",
+              "title": "Review Modules concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-9-unit-8-exceptions",
+          "sectionId": "cpp-section-9",
+          "order": 8,
+          "title": "Exceptions",
+          "lessons": [
+            {
+              "id": "cpp-section-9-unit-8-exceptions-lesson-1",
+              "unitId": "cpp-section-9-unit-8-exceptions",
+              "title": "Learn Exceptions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-8-exceptions-lesson-2",
+              "unitId": "cpp-section-9-unit-8-exceptions",
+              "title": "Practice Exceptions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-8-exceptions-lesson-3",
+              "unitId": "cpp-section-9-unit-8-exceptions",
+              "title": "Review Exceptions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-9-unit-9-testing-basics",
+          "sectionId": "cpp-section-9",
+          "order": 9,
+          "title": "Testing basics",
+          "lessons": [
+            {
+              "id": "cpp-section-9-unit-9-testing-basics-lesson-1",
+              "unitId": "cpp-section-9-unit-9-testing-basics",
+              "title": "Learn Testing basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-9-testing-basics-lesson-2",
+              "unitId": "cpp-section-9-unit-9-testing-basics",
+              "title": "Practice Testing basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-9-testing-basics-lesson-3",
+              "unitId": "cpp-section-9-unit-9-testing-basics",
+              "title": "Review Testing basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-9-unit-10-modern-refactor",
+          "sectionId": "cpp-section-9",
+          "order": 10,
+          "title": "Modern refactor",
+          "lessons": [
+            {
+              "id": "cpp-section-9-unit-10-modern-refactor-lesson-1",
+              "unitId": "cpp-section-9-unit-10-modern-refactor",
+              "title": "Learn Modern refactor",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-10-modern-refactor-lesson-2",
+              "unitId": "cpp-section-9-unit-10-modern-refactor",
+              "title": "Practice Modern refactor",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-9-unit-10-modern-refactor-lesson-3",
+              "unitId": "cpp-section-9-unit-10-modern-refactor",
+              "title": "Review Modern refactor",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cpp-section-10",
+      "trackId": "cpp",
+      "order": 10,
+      "title": "Section 10: C++ Capstones",
+      "bannerColor": "#1899D6",
+      "units": [
+        {
+          "id": "cpp-section-10-unit-1-cli-calculator",
+          "sectionId": "cpp-section-10",
+          "order": 1,
+          "title": "CLI calculator",
+          "lessons": [
+            {
+              "id": "cpp-section-10-unit-1-cli-calculator-lesson-1",
+              "unitId": "cpp-section-10-unit-1-cli-calculator",
+              "title": "Learn CLI calculator",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-1-cli-calculator-lesson-2",
+              "unitId": "cpp-section-10-unit-1-cli-calculator",
+              "title": "Practice CLI calculator",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-1-cli-calculator-lesson-3",
+              "unitId": "cpp-section-10-unit-1-cli-calculator",
+              "title": "Review CLI calculator",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-10-unit-2-vector-library",
+          "sectionId": "cpp-section-10",
+          "order": 2,
+          "title": "Vector library",
+          "lessons": [
+            {
+              "id": "cpp-section-10-unit-2-vector-library-lesson-1",
+              "unitId": "cpp-section-10-unit-2-vector-library",
+              "title": "Learn Vector library",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-2-vector-library-lesson-2",
+              "unitId": "cpp-section-10-unit-2-vector-library",
+              "title": "Practice Vector library",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-2-vector-library-lesson-3",
+              "unitId": "cpp-section-10-unit-2-vector-library",
+              "title": "Review Vector library",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-10-unit-3-inventory-app",
+          "sectionId": "cpp-section-10",
+          "order": 3,
+          "title": "Inventory app",
+          "lessons": [
+            {
+              "id": "cpp-section-10-unit-3-inventory-app-lesson-1",
+              "unitId": "cpp-section-10-unit-3-inventory-app",
+              "title": "Learn Inventory app",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-3-inventory-app-lesson-2",
+              "unitId": "cpp-section-10-unit-3-inventory-app",
+              "title": "Practice Inventory app",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-3-inventory-app-lesson-3",
+              "unitId": "cpp-section-10-unit-3-inventory-app",
+              "title": "Review Inventory app",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-10-unit-4-stl-challenge-set",
+          "sectionId": "cpp-section-10",
+          "order": 4,
+          "title": "STL challenge set",
+          "lessons": [
+            {
+              "id": "cpp-section-10-unit-4-stl-challenge-set-lesson-1",
+              "unitId": "cpp-section-10-unit-4-stl-challenge-set",
+              "title": "Learn STL challenge set",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-4-stl-challenge-set-lesson-2",
+              "unitId": "cpp-section-10-unit-4-stl-challenge-set",
+              "title": "Practice STL challenge set",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-4-stl-challenge-set-lesson-3",
+              "unitId": "cpp-section-10-unit-4-stl-challenge-set",
+              "title": "Review STL challenge set",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-10-unit-5-template-matrix",
+          "sectionId": "cpp-section-10",
+          "order": 5,
+          "title": "Template matrix",
+          "lessons": [
+            {
+              "id": "cpp-section-10-unit-5-template-matrix-lesson-1",
+              "unitId": "cpp-section-10-unit-5-template-matrix",
+              "title": "Learn Template matrix",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-5-template-matrix-lesson-2",
+              "unitId": "cpp-section-10-unit-5-template-matrix",
+              "title": "Practice Template matrix",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-5-template-matrix-lesson-3",
+              "unitId": "cpp-section-10-unit-5-template-matrix",
+              "title": "Review Template matrix",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-10-unit-6-smart-pointer-refactor",
+          "sectionId": "cpp-section-10",
+          "order": 6,
+          "title": "Smart pointer refactor",
+          "lessons": [
+            {
+              "id": "cpp-section-10-unit-6-smart-pointer-refactor-lesson-1",
+              "unitId": "cpp-section-10-unit-6-smart-pointer-refactor",
+              "title": "Learn Smart pointer refactor",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-6-smart-pointer-refactor-lesson-2",
+              "unitId": "cpp-section-10-unit-6-smart-pointer-refactor",
+              "title": "Practice Smart pointer refactor",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-6-smart-pointer-refactor-lesson-3",
+              "unitId": "cpp-section-10-unit-6-smart-pointer-refactor",
+              "title": "Review Smart pointer refactor",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-10-unit-7-file-parser",
+          "sectionId": "cpp-section-10",
+          "order": 7,
+          "title": "File parser",
+          "lessons": [
+            {
+              "id": "cpp-section-10-unit-7-file-parser-lesson-1",
+              "unitId": "cpp-section-10-unit-7-file-parser",
+              "title": "Learn File parser",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-7-file-parser-lesson-2",
+              "unitId": "cpp-section-10-unit-7-file-parser",
+              "title": "Practice File parser",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-7-file-parser-lesson-3",
+              "unitId": "cpp-section-10-unit-7-file-parser",
+              "title": "Review File parser",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-10-unit-8-oop-game-model",
+          "sectionId": "cpp-section-10",
+          "order": 8,
+          "title": "OOP game model",
+          "lessons": [
+            {
+              "id": "cpp-section-10-unit-8-oop-game-model-lesson-1",
+              "unitId": "cpp-section-10-unit-8-oop-game-model",
+              "title": "Learn OOP game model",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-8-oop-game-model-lesson-2",
+              "unitId": "cpp-section-10-unit-8-oop-game-model",
+              "title": "Practice OOP game model",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-8-oop-game-model-lesson-3",
+              "unitId": "cpp-section-10-unit-8-oop-game-model",
+              "title": "Review OOP game model",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-10-unit-9-performance-pass",
+          "sectionId": "cpp-section-10",
+          "order": 9,
+          "title": "Performance pass",
+          "lessons": [
+            {
+              "id": "cpp-section-10-unit-9-performance-pass-lesson-1",
+              "unitId": "cpp-section-10-unit-9-performance-pass",
+              "title": "Learn Performance pass",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-9-performance-pass-lesson-2",
+              "unitId": "cpp-section-10-unit-9-performance-pass",
+              "title": "Practice Performance pass",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-9-performance-pass-lesson-3",
+              "unitId": "cpp-section-10-unit-9-performance-pass",
+              "title": "Review Performance pass",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "cpp-section-10-unit-10-final-c-project",
+          "sectionId": "cpp-section-10",
+          "order": 10,
+          "title": "Final C++ project",
+          "lessons": [
+            {
+              "id": "cpp-section-10-unit-10-final-c-project-lesson-1",
+              "unitId": "cpp-section-10-unit-10-final-c-project",
+              "title": "Learn Final C++ project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-10-final-c-project-lesson-2",
+              "unitId": "cpp-section-10-unit-10-final-c-project",
+              "title": "Practice Final C++ project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "cpp-section-10-unit-10-final-c-project-lesson-3",
+              "unitId": "cpp-section-10-unit-10-final-c-project",
+              "title": "Review Final C++ project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+"use client";
+
+import {
+  Atom,
+  Binary,
+  Boxes,
+  Braces,
+  CodeXml,
+  Coffee,
+  Cpu,
+  Database,
+  DatabaseZap,
+  FileCode,
+  FileCode2,
+  GitBranch,
+  LucideIcon,
+  Network,
+  Router,
+  Server,
+  Sigma,
+  Terminal,
+  Workflow,
+} from "lucide-react";
+import type { Track } from "../../../types/content";
+import { cn } from "@/lib/cn";
+
+const icons: Record<string, LucideIcon> = {
+  atom: Atom,
+  binary: Binary,
+  boxes: Boxes,
+  braces: Braces,
+  "code-xml": CodeXml,
+  coffee: Coffee,
+  cpu: Cpu,
+  database: Database,
+  "database-zap": DatabaseZap,
+  "file-code": FileCode,
+  "file-code-2": FileCode2,
+  "git-branch": GitBranch,
+  network: Network,
+  router: Router,
+  server: Server,
+  sigma: Sigma,
+  terminal: Terminal,
+  workflow: Workflow,
+};
+
+type TrackCardProps = {
+  track: Track;
+  selected?: boolean;
+  onClick?: () => void;
+};
+
+export function TrackCard({ track, selected, onClick }: TrackCardProps) {
+  const Icon = icons[track.icon] ?? FileCode;
+
+  return (
+    <button
+      aria-pressed={selected}
+      className={cn(
+        "touch-target no-select-interactive group flex min-h-[168px] w-full flex-col items-start rounded-duo-lg border-2 bg-duo-snow p-4 text-left transition",
+        "focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25",
+        "active:translate-y-1",
+        selected
+          ? "border-duo-green bg-[#F1FFE8]"
+          : "border-duo-swan hover:border-duo-green",
+      )}
+      onClick={onClick}
+      type="button"
+    >
+      <span
+        className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl border-b-4 text-white"
+        style={{
+          backgroundColor: track.color,
+          borderColor: "rgb(75 75 75 / 0.18)",
+        }}
+      >
+        <Icon className="h-7 w-7" />
+      </span>
+      <span className="text-lg font-black text-duo-eel">{track.title}</span>
+      <span className="mt-1 line-clamp-2 text-sm font-bold leading-5 text-duo-grey-text">
+        {track.description}
+      </span>
+      <span className="mt-auto pt-3 text-xs font-black text-duo-grey-disabled">
+        {track.sections.length} sections -{" "}
+        {track.sections.reduce((sum, section) => sum + section.units.length, 0)} units
+      </span>
+    </button>
+  );
+}

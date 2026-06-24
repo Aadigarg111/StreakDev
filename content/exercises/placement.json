@@ -1,0 +1,279 @@
+[
+  {
+    "id": "placement-javascript-1",
+    "trackId": "javascript",
+    "sectionOrder": 1,
+    "type": "multiple_choice",
+    "prompt": "Which declaration can be reassigned but is block-scoped?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "function"
+    ],
+    "correctAnswer": "let",
+    "explanation": "let is block-scoped and allows reassignment. const is block-scoped but cannot be reassigned.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "placement-javascript-2",
+    "trackId": "javascript",
+    "sectionOrder": 2,
+    "type": "predict_output",
+    "prompt": "What does this log?",
+    "codeSnippet": "const score = 0;\nconsole.log(score || 10);",
+    "options": [
+      "0",
+      "10",
+      "undefined",
+      "false"
+    ],
+    "correctAnswer": "10",
+    "explanation": "0 is falsy, so the || expression returns the fallback value 10.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "placement-javascript-3",
+    "trackId": "javascript",
+    "sectionOrder": 3,
+    "type": "fill_blank",
+    "prompt": "Fill the blank to return a value from the function.",
+    "codeSnippet": "function double(n) {\n  ____ n * 2;\n}",
+    "correctAnswer": "return",
+    "explanation": "A function sends a value back to its caller with return.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "placement-javascript-4",
+    "trackId": "javascript",
+    "sectionOrder": 4,
+    "type": "multiple_choice",
+    "prompt": "Which array method creates a new array by transforming every item?",
+    "options": [
+      "forEach",
+      "map",
+      "push",
+      "find"
+    ],
+    "correctAnswer": "map",
+    "explanation": "map returns a new array with one transformed value for each source item.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "placement-javascript-5",
+    "trackId": "javascript",
+    "sectionOrder": 5,
+    "type": "predict_output",
+    "prompt": "What does this log?",
+    "codeSnippet": "const user = { name: 'Ada' };\nconst copy = { ...user, role: 'dev' };\nconsole.log(copy.name);",
+    "options": [
+      "Ada",
+      "dev",
+      "undefined",
+      "user"
+    ],
+    "correctAnswer": "Ada",
+    "explanation": "The spread copies name into the new object, then role is added.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "placement-javascript-6",
+    "trackId": "javascript",
+    "sectionOrder": 6,
+    "type": "multiple_choice",
+    "prompt": "Which event behavior lets a click on a child element also reach its parent?",
+    "options": [
+      "Debouncing",
+      "Bubbling",
+      "Hoisting",
+      "Serialization"
+    ],
+    "correctAnswer": "Bubbling",
+    "explanation": "Event bubbling moves an event from the target element up through its ancestors.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "placement-javascript-7",
+    "trackId": "javascript",
+    "sectionOrder": 7,
+    "type": "predict_output",
+    "prompt": "What does this async function resolve to?",
+    "codeSnippet": "async function load() {\n  return 42;\n}\nload().then(console.log);",
+    "options": [
+      "42",
+      "Promise",
+      "undefined",
+      "Error"
+    ],
+    "correctAnswer": "42",
+    "explanation": "async functions wrap returned values in a resolved Promise.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "placement-javascript-8",
+    "trackId": "javascript",
+    "sectionOrder": 8,
+    "type": "multiple_choice",
+    "prompt": "What does a closure let a function keep access to?",
+    "options": [
+      "Only global variables",
+      "Variables from its lexical scope",
+      "Only DOM nodes",
+      "The latest HTTP response"
+    ],
+    "correctAnswer": "Variables from its lexical scope",
+    "explanation": "Closures preserve access to variables from the scope where a function was created.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "placement-javascript-9",
+    "trackId": "javascript",
+    "sectionOrder": 9,
+    "type": "fill_blank",
+    "prompt": "Fill the blank to export a function from an ES module.",
+    "codeSnippet": "____ function sum(a, b) {\n  return a + b;\n}",
+    "correctAnswer": "export",
+    "explanation": "The export keyword makes a binding available to other modules.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "placement-javascript-10",
+    "trackId": "javascript",
+    "sectionOrder": 10,
+    "type": "multiple_choice",
+    "prompt": "Which practice helps prevent a fetch request from updating state after a component unmounts?",
+    "options": [
+      "AbortController",
+      "parseInt",
+      "Object.freeze",
+      "setInterval"
+    ],
+    "correctAnswer": "AbortController",
+    "explanation": "AbortController can cancel in-flight requests during cleanup.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "placement-python-1",
+    "trackId": "python",
+    "sectionOrder": 1,
+    "type": "predict_output",
+    "prompt": "What does this print?",
+    "codeSnippet": "name = 'Ada'\nprint(f'Hi {name}')",
+    "options": [
+      "Hi Ada",
+      "Hi {name}",
+      "Ada Hi",
+      "Error"
+    ],
+    "correctAnswer": "Hi Ada",
+    "explanation": "An f-string evaluates expressions inside braces.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "placement-python-2",
+    "trackId": "python",
+    "sectionOrder": 2,
+    "type": "multiple_choice",
+    "prompt": "Which loop is best when you know you want to visit every item in a list?",
+    "options": [
+      "for item in list",
+      "while True only",
+      "try loop",
+      "class loop"
+    ],
+    "correctAnswer": "for item in list",
+    "explanation": "Python for loops iterate directly over iterable values like lists.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "placement-python-3",
+    "trackId": "python",
+    "sectionOrder": 3,
+    "type": "multiple_choice",
+    "prompt": "Which data structure stores key-value pairs?",
+    "options": [
+      "list",
+      "tuple",
+      "dict",
+      "set"
+    ],
+    "correctAnswer": "dict",
+    "explanation": "A dictionary maps keys to values.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "placement-python-4",
+    "trackId": "python",
+    "sectionOrder": 4,
+    "type": "fill_blank",
+    "prompt": "Fill the blank to define a function.",
+    "codeSnippet": "____ greet(name):\n    return 'Hi ' + name",
+    "correctAnswer": "def",
+    "explanation": "Python function definitions start with def.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "placement-dsa-1",
+    "trackId": "dsa",
+    "sectionOrder": 1,
+    "type": "multiple_choice",
+    "prompt": "Which pattern often solves 'longest substring without repeating characters'?",
+    "options": [
+      "Sliding window",
+      "Binary heap",
+      "Topological sort",
+      "Union find"
+    ],
+    "correctAnswer": "Sliding window",
+    "explanation": "A sliding window tracks a moving range while maintaining constraints.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "placement-dsa-2",
+    "trackId": "dsa",
+    "sectionOrder": 4,
+    "type": "multiple_choice",
+    "prompt": "Which data structure gives average O(1) lookup by key?",
+    "options": [
+      "Array",
+      "Hash map",
+      "Linked list",
+      "Stack"
+    ],
+    "correctAnswer": "Hash map",
+    "explanation": "Hash maps use a hash function to find keys in average constant time.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "placement-html-css-1",
+    "trackId": "html-css",
+    "sectionOrder": 1,
+    "type": "multiple_choice",
+    "prompt": "Which element best represents page navigation links?",
+    "options": [
+      "div",
+      "nav",
+      "span",
+      "b"
+    ],
+    "correctAnswer": "nav",
+    "explanation": "nav communicates that a region contains navigation links.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "placement-html-css-2",
+    "trackId": "html-css",
+    "sectionOrder": 4,
+    "type": "multiple_choice",
+    "prompt": "Which flexbox property distributes items along the main axis?",
+    "options": [
+      "align-items",
+      "justify-content",
+      "font-weight",
+      "z-index"
+    ],
+    "correctAnswer": "justify-content",
+    "explanation": "justify-content controls spacing along the main axis in a flex container.",
+    "difficulty": "medium"
+  }
+]

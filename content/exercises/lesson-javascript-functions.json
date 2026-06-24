@@ -1,0 +1,80 @@
+[
+  {
+    "id": "js-functions-mc-declaration",
+    "type": "multiple_choice",
+    "prompt": "Which snippet correctly declares a function named greet?",
+    "options": [
+      "function greet() { return 'hi'; }",
+      "function = greet() { return 'hi'; }",
+      "greet function() { return 'hi'; }",
+      "def greet(): return 'hi'"
+    ],
+    "correctAnswer": "function greet() { return 'hi'; }",
+    "explanation": "A JavaScript function declaration starts with function, then the function name, parentheses, and a body.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "js-functions-fill-return",
+    "type": "fill_blank",
+    "prompt": "Fill in the missing keyword so the function sends a value back.",
+    "codeSnippet": "function double(n) {\n  ____ n * 2;\n}",
+    "correctAnswer": "return",
+    "explanation": "return exits the function and gives the caller the computed value.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "js-functions-spot-bug",
+    "type": "spot_bug",
+    "prompt": "Tap the line that contains the bug.",
+    "codeSnippet": "function add(a, b) {\n  const total = a + b;\n  retrn total;\n}\nconsole.log(add(2, 3));",
+    "correctAnswer": "line-3",
+    "explanation": "Line 3 misspells return as retrn, so JavaScript treats it as an unknown identifier.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "js-functions-predict-output",
+    "type": "predict_output",
+    "prompt": "What does this code print?",
+    "codeSnippet": "function shout(word) {\n  return word.toUpperCase() + '!';\n}\nconsole.log(shout('code'));",
+    "options": [
+      "CODE!",
+      "code!",
+      "undefined",
+      "word!"
+    ],
+    "correctAnswer": "CODE!",
+    "explanation": "toUpperCase changes code to CODE, then the function adds an exclamation mark.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "js-functions-drag-reorder",
+    "type": "drag_reorder",
+    "prompt": "Reorder the blocks to create and call a working function.",
+    "options": [
+      "}",
+      "console.log(square(4));",
+      "  return n * n;",
+      "function square(n) {"
+    ],
+    "correctAnswer": [
+      "function square(n) {",
+      "  return n * n;",
+      "}",
+      "console.log(square(4));"
+    ],
+    "explanation": "Define the function, return the squared value inside its body, close the body, then call it.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "js-functions-type-function",
+    "type": "type_function",
+    "prompt": "Write a function named isEven that returns true when n is evenly divisible by 2.",
+    "codeSnippet": "function isEven(n) {\n  // your code here\n}",
+    "correctAnswer": [
+      "function isEven(n) { return n % 2 === 0; }",
+      "function isEven(n){return n%2===0;}"
+    ],
+    "explanation": "The remainder operator (%) gives 0 when n divides evenly by 2.",
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,3013 @@
+{
+  "id": "javascript",
+  "title": "JavaScript",
+  "category": "web-dev",
+  "icon": "braces",
+  "color": "#FFC800",
+  "description": "Master the language of the web, from syntax to async and browser APIs.",
+  "sections": [
+    {
+      "id": "javascript-section-1",
+      "trackId": "javascript",
+      "order": 1,
+      "title": "Section 1: Fundamentals",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "javascript-section-1-unit-1-variables",
+          "sectionId": "javascript-section-1",
+          "order": 1,
+          "title": "Variables",
+          "lessons": [
+            {
+              "id": "javascript-section-1-unit-1-variables-lesson-1",
+              "unitId": "javascript-section-1-unit-1-variables",
+              "title": "Learn Variables",
+              "order": 1,
+              "exerciseIds": [
+                "javascript-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "javascript-section-1-unit-1-variables-lesson-2",
+              "unitId": "javascript-section-1-unit-1-variables",
+              "title": "Practice Variables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-1-variables-lesson-3",
+              "unitId": "javascript-section-1-unit-1-variables",
+              "title": "Review Variables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-1-unit-2-data-types",
+          "sectionId": "javascript-section-1",
+          "order": 2,
+          "title": "Data types",
+          "lessons": [
+            {
+              "id": "javascript-section-1-unit-2-data-types-lesson-1",
+              "unitId": "javascript-section-1-unit-2-data-types",
+              "title": "Learn Data types",
+              "order": 1,
+              "exerciseIds": [
+                "javascript-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "javascript-section-1-unit-2-data-types-lesson-2",
+              "unitId": "javascript-section-1-unit-2-data-types",
+              "title": "Practice Data types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-2-data-types-lesson-3",
+              "unitId": "javascript-section-1-unit-2-data-types",
+              "title": "Review Data types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-1-unit-3-operators",
+          "sectionId": "javascript-section-1",
+          "order": 3,
+          "title": "Operators",
+          "lessons": [
+            {
+              "id": "javascript-section-1-unit-3-operators-lesson-1",
+              "unitId": "javascript-section-1-unit-3-operators",
+              "title": "Learn Operators",
+              "order": 1,
+              "exerciseIds": [
+                "javascript-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "javascript-section-1-unit-3-operators-lesson-2",
+              "unitId": "javascript-section-1-unit-3-operators",
+              "title": "Practice Operators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-3-operators-lesson-3",
+              "unitId": "javascript-section-1-unit-3-operators",
+              "title": "Review Operators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-1-unit-4-type-coercion",
+          "sectionId": "javascript-section-1",
+          "order": 4,
+          "title": "Type coercion",
+          "lessons": [
+            {
+              "id": "javascript-section-1-unit-4-type-coercion-lesson-1",
+              "unitId": "javascript-section-1-unit-4-type-coercion",
+              "title": "Learn Type coercion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-4-type-coercion-lesson-2",
+              "unitId": "javascript-section-1-unit-4-type-coercion",
+              "title": "Practice Type coercion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-4-type-coercion-lesson-3",
+              "unitId": "javascript-section-1-unit-4-type-coercion",
+              "title": "Review Type coercion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-1-unit-5-comments",
+          "sectionId": "javascript-section-1",
+          "order": 5,
+          "title": "Comments",
+          "lessons": [
+            {
+              "id": "javascript-section-1-unit-5-comments-lesson-1",
+              "unitId": "javascript-section-1-unit-5-comments",
+              "title": "Learn Comments",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-5-comments-lesson-2",
+              "unitId": "javascript-section-1-unit-5-comments",
+              "title": "Practice Comments",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-5-comments-lesson-3",
+              "unitId": "javascript-section-1-unit-5-comments",
+              "title": "Review Comments",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-1-unit-6-console-basics",
+          "sectionId": "javascript-section-1",
+          "order": 6,
+          "title": "Console basics",
+          "lessons": [
+            {
+              "id": "javascript-section-1-unit-6-console-basics-lesson-1",
+              "unitId": "javascript-section-1-unit-6-console-basics",
+              "title": "Learn Console basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-6-console-basics-lesson-2",
+              "unitId": "javascript-section-1-unit-6-console-basics",
+              "title": "Practice Console basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-6-console-basics-lesson-3",
+              "unitId": "javascript-section-1-unit-6-console-basics",
+              "title": "Review Console basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-1-unit-7-strict-mode",
+          "sectionId": "javascript-section-1",
+          "order": 7,
+          "title": "Strict mode",
+          "lessons": [
+            {
+              "id": "javascript-section-1-unit-7-strict-mode-lesson-1",
+              "unitId": "javascript-section-1-unit-7-strict-mode",
+              "title": "Learn Strict mode",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-7-strict-mode-lesson-2",
+              "unitId": "javascript-section-1-unit-7-strict-mode",
+              "title": "Practice Strict mode",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-7-strict-mode-lesson-3",
+              "unitId": "javascript-section-1-unit-7-strict-mode",
+              "title": "Review Strict mode",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-1-unit-8-template-literals",
+          "sectionId": "javascript-section-1",
+          "order": 8,
+          "title": "Template literals",
+          "lessons": [
+            {
+              "id": "javascript-section-1-unit-8-template-literals-lesson-1",
+              "unitId": "javascript-section-1-unit-8-template-literals",
+              "title": "Learn Template literals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-8-template-literals-lesson-2",
+              "unitId": "javascript-section-1-unit-8-template-literals",
+              "title": "Practice Template literals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-8-template-literals-lesson-3",
+              "unitId": "javascript-section-1-unit-8-template-literals",
+              "title": "Review Template literals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-1-unit-9-var-vs-let-vs-const",
+          "sectionId": "javascript-section-1",
+          "order": 9,
+          "title": "var vs let vs const",
+          "lessons": [
+            {
+              "id": "javascript-section-1-unit-9-var-vs-let-vs-const-lesson-1",
+              "unitId": "javascript-section-1-unit-9-var-vs-let-vs-const",
+              "title": "Learn var vs let vs const",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-9-var-vs-let-vs-const-lesson-2",
+              "unitId": "javascript-section-1-unit-9-var-vs-let-vs-const",
+              "title": "Practice var vs let vs const",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-9-var-vs-let-vs-const-lesson-3",
+              "unitId": "javascript-section-1-unit-9-var-vs-let-vs-const",
+              "title": "Review var vs let vs const",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-1-unit-10-basic-input-and-output",
+          "sectionId": "javascript-section-1",
+          "order": 10,
+          "title": "Basic input and output",
+          "lessons": [
+            {
+              "id": "javascript-section-1-unit-10-basic-input-and-output-lesson-1",
+              "unitId": "javascript-section-1-unit-10-basic-input-and-output",
+              "title": "Learn Basic input and output",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-10-basic-input-and-output-lesson-2",
+              "unitId": "javascript-section-1-unit-10-basic-input-and-output",
+              "title": "Practice Basic input and output",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-1-unit-10-basic-input-and-output-lesson-3",
+              "unitId": "javascript-section-1-unit-10-basic-input-and-output",
+              "title": "Review Basic input and output",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "javascript-section-2",
+      "trackId": "javascript",
+      "order": 2,
+      "title": "Section 2: Control Flow",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "javascript-section-2-unit-1-if-and-else",
+          "sectionId": "javascript-section-2",
+          "order": 1,
+          "title": "if and else",
+          "lessons": [
+            {
+              "id": "javascript-section-2-unit-1-if-and-else-lesson-1",
+              "unitId": "javascript-section-2-unit-1-if-and-else",
+              "title": "Learn if and else",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-1-if-and-else-lesson-2",
+              "unitId": "javascript-section-2-unit-1-if-and-else",
+              "title": "Practice if and else",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-1-if-and-else-lesson-3",
+              "unitId": "javascript-section-2-unit-1-if-and-else",
+              "title": "Review if and else",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-2-unit-2-switch-statements",
+          "sectionId": "javascript-section-2",
+          "order": 2,
+          "title": "switch statements",
+          "lessons": [
+            {
+              "id": "javascript-section-2-unit-2-switch-statements-lesson-1",
+              "unitId": "javascript-section-2-unit-2-switch-statements",
+              "title": "Learn switch statements",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-2-switch-statements-lesson-2",
+              "unitId": "javascript-section-2-unit-2-switch-statements",
+              "title": "Practice switch statements",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-2-switch-statements-lesson-3",
+              "unitId": "javascript-section-2-unit-2-switch-statements",
+              "title": "Review switch statements",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-2-unit-3-ternary-expressions",
+          "sectionId": "javascript-section-2",
+          "order": 3,
+          "title": "Ternary expressions",
+          "lessons": [
+            {
+              "id": "javascript-section-2-unit-3-ternary-expressions-lesson-1",
+              "unitId": "javascript-section-2-unit-3-ternary-expressions",
+              "title": "Learn Ternary expressions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-3-ternary-expressions-lesson-2",
+              "unitId": "javascript-section-2-unit-3-ternary-expressions",
+              "title": "Practice Ternary expressions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-3-ternary-expressions-lesson-3",
+              "unitId": "javascript-section-2-unit-3-ternary-expressions",
+              "title": "Review Ternary expressions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-2-unit-4-for-loops",
+          "sectionId": "javascript-section-2",
+          "order": 4,
+          "title": "for loops",
+          "lessons": [
+            {
+              "id": "javascript-section-2-unit-4-for-loops-lesson-1",
+              "unitId": "javascript-section-2-unit-4-for-loops",
+              "title": "Learn for loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-4-for-loops-lesson-2",
+              "unitId": "javascript-section-2-unit-4-for-loops",
+              "title": "Practice for loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-4-for-loops-lesson-3",
+              "unitId": "javascript-section-2-unit-4-for-loops",
+              "title": "Review for loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-2-unit-5-while-loops",
+          "sectionId": "javascript-section-2",
+          "order": 5,
+          "title": "while loops",
+          "lessons": [
+            {
+              "id": "javascript-section-2-unit-5-while-loops-lesson-1",
+              "unitId": "javascript-section-2-unit-5-while-loops",
+              "title": "Learn while loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-5-while-loops-lesson-2",
+              "unitId": "javascript-section-2-unit-5-while-loops",
+              "title": "Practice while loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-5-while-loops-lesson-3",
+              "unitId": "javascript-section-2-unit-5-while-loops",
+              "title": "Review while loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-2-unit-6-break-and-continue",
+          "sectionId": "javascript-section-2",
+          "order": 6,
+          "title": "break and continue",
+          "lessons": [
+            {
+              "id": "javascript-section-2-unit-6-break-and-continue-lesson-1",
+              "unitId": "javascript-section-2-unit-6-break-and-continue",
+              "title": "Learn break and continue",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-6-break-and-continue-lesson-2",
+              "unitId": "javascript-section-2-unit-6-break-and-continue",
+              "title": "Practice break and continue",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-6-break-and-continue-lesson-3",
+              "unitId": "javascript-section-2-unit-6-break-and-continue",
+              "title": "Review break and continue",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-2-unit-7-nested-conditionals",
+          "sectionId": "javascript-section-2",
+          "order": 7,
+          "title": "Nested conditionals",
+          "lessons": [
+            {
+              "id": "javascript-section-2-unit-7-nested-conditionals-lesson-1",
+              "unitId": "javascript-section-2-unit-7-nested-conditionals",
+              "title": "Learn Nested conditionals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-7-nested-conditionals-lesson-2",
+              "unitId": "javascript-section-2-unit-7-nested-conditionals",
+              "title": "Practice Nested conditionals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-7-nested-conditionals-lesson-3",
+              "unitId": "javascript-section-2-unit-7-nested-conditionals",
+              "title": "Review Nested conditionals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-2-unit-8-truthy-and-falsy-values",
+          "sectionId": "javascript-section-2",
+          "order": 8,
+          "title": "Truthy and falsy values",
+          "lessons": [
+            {
+              "id": "javascript-section-2-unit-8-truthy-and-falsy-values-lesson-1",
+              "unitId": "javascript-section-2-unit-8-truthy-and-falsy-values",
+              "title": "Learn Truthy and falsy values",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-8-truthy-and-falsy-values-lesson-2",
+              "unitId": "javascript-section-2-unit-8-truthy-and-falsy-values",
+              "title": "Practice Truthy and falsy values",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-8-truthy-and-falsy-values-lesson-3",
+              "unitId": "javascript-section-2-unit-8-truthy-and-falsy-values",
+              "title": "Review Truthy and falsy values",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-2-unit-9-logical-operators",
+          "sectionId": "javascript-section-2",
+          "order": 9,
+          "title": "Logical operators",
+          "lessons": [
+            {
+              "id": "javascript-section-2-unit-9-logical-operators-lesson-1",
+              "unitId": "javascript-section-2-unit-9-logical-operators",
+              "title": "Learn Logical operators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-9-logical-operators-lesson-2",
+              "unitId": "javascript-section-2-unit-9-logical-operators",
+              "title": "Practice Logical operators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-9-logical-operators-lesson-3",
+              "unitId": "javascript-section-2-unit-9-logical-operators",
+              "title": "Review Logical operators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-2-unit-10-guard-clauses",
+          "sectionId": "javascript-section-2",
+          "order": 10,
+          "title": "Guard clauses",
+          "lessons": [
+            {
+              "id": "javascript-section-2-unit-10-guard-clauses-lesson-1",
+              "unitId": "javascript-section-2-unit-10-guard-clauses",
+              "title": "Learn Guard clauses",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-10-guard-clauses-lesson-2",
+              "unitId": "javascript-section-2-unit-10-guard-clauses",
+              "title": "Practice Guard clauses",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-2-unit-10-guard-clauses-lesson-3",
+              "unitId": "javascript-section-2-unit-10-guard-clauses",
+              "title": "Review Guard clauses",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "javascript-section-3",
+      "trackId": "javascript",
+      "order": 3,
+      "title": "Section 3: Functions",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "javascript-section-3-unit-1-function-declarations",
+          "sectionId": "javascript-section-3",
+          "order": 1,
+          "title": "Function declarations",
+          "lessons": [
+            {
+              "id": "javascript-section-3-unit-1-function-declarations-lesson-1",
+              "unitId": "javascript-section-3-unit-1-function-declarations",
+              "title": "Learn Function declarations",
+              "order": 1,
+              "exerciseIds": [
+                "js-functions-mc-declaration",
+                "js-functions-fill-return",
+                "js-functions-spot-bug",
+                "js-functions-predict-output",
+                "js-functions-drag-reorder",
+                "js-functions-type-function"
+              ]
+            },
+            {
+              "id": "javascript-section-3-unit-1-function-declarations-lesson-2",
+              "unitId": "javascript-section-3-unit-1-function-declarations",
+              "title": "Practice Function declarations",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-1-function-declarations-lesson-3",
+              "unitId": "javascript-section-3-unit-1-function-declarations",
+              "title": "Review Function declarations",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-3-unit-2-function-expressions",
+          "sectionId": "javascript-section-3",
+          "order": 2,
+          "title": "Function expressions",
+          "lessons": [
+            {
+              "id": "javascript-section-3-unit-2-function-expressions-lesson-1",
+              "unitId": "javascript-section-3-unit-2-function-expressions",
+              "title": "Learn Function expressions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-2-function-expressions-lesson-2",
+              "unitId": "javascript-section-3-unit-2-function-expressions",
+              "title": "Practice Function expressions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-2-function-expressions-lesson-3",
+              "unitId": "javascript-section-3-unit-2-function-expressions",
+              "title": "Review Function expressions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-3-unit-3-arrow-functions",
+          "sectionId": "javascript-section-3",
+          "order": 3,
+          "title": "Arrow functions",
+          "lessons": [
+            {
+              "id": "javascript-section-3-unit-3-arrow-functions-lesson-1",
+              "unitId": "javascript-section-3-unit-3-arrow-functions",
+              "title": "Learn Arrow functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-3-arrow-functions-lesson-2",
+              "unitId": "javascript-section-3-unit-3-arrow-functions",
+              "title": "Practice Arrow functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-3-arrow-functions-lesson-3",
+              "unitId": "javascript-section-3-unit-3-arrow-functions",
+              "title": "Review Arrow functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-3-unit-4-parameters-and-arguments",
+          "sectionId": "javascript-section-3",
+          "order": 4,
+          "title": "Parameters and arguments",
+          "lessons": [
+            {
+              "id": "javascript-section-3-unit-4-parameters-and-arguments-lesson-1",
+              "unitId": "javascript-section-3-unit-4-parameters-and-arguments",
+              "title": "Learn Parameters and arguments",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-4-parameters-and-arguments-lesson-2",
+              "unitId": "javascript-section-3-unit-4-parameters-and-arguments",
+              "title": "Practice Parameters and arguments",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-4-parameters-and-arguments-lesson-3",
+              "unitId": "javascript-section-3-unit-4-parameters-and-arguments",
+              "title": "Review Parameters and arguments",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-3-unit-5-default-parameters",
+          "sectionId": "javascript-section-3",
+          "order": 5,
+          "title": "Default parameters",
+          "lessons": [
+            {
+              "id": "javascript-section-3-unit-5-default-parameters-lesson-1",
+              "unitId": "javascript-section-3-unit-5-default-parameters",
+              "title": "Learn Default parameters",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-5-default-parameters-lesson-2",
+              "unitId": "javascript-section-3-unit-5-default-parameters",
+              "title": "Practice Default parameters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-5-default-parameters-lesson-3",
+              "unitId": "javascript-section-3-unit-5-default-parameters",
+              "title": "Review Default parameters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-3-unit-6-rest-parameters",
+          "sectionId": "javascript-section-3",
+          "order": 6,
+          "title": "Rest parameters",
+          "lessons": [
+            {
+              "id": "javascript-section-3-unit-6-rest-parameters-lesson-1",
+              "unitId": "javascript-section-3-unit-6-rest-parameters",
+              "title": "Learn Rest parameters",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-6-rest-parameters-lesson-2",
+              "unitId": "javascript-section-3-unit-6-rest-parameters",
+              "title": "Practice Rest parameters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-6-rest-parameters-lesson-3",
+              "unitId": "javascript-section-3-unit-6-rest-parameters",
+              "title": "Review Rest parameters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-3-unit-7-return-values",
+          "sectionId": "javascript-section-3",
+          "order": 7,
+          "title": "Return values",
+          "lessons": [
+            {
+              "id": "javascript-section-3-unit-7-return-values-lesson-1",
+              "unitId": "javascript-section-3-unit-7-return-values",
+              "title": "Learn Return values",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-7-return-values-lesson-2",
+              "unitId": "javascript-section-3-unit-7-return-values",
+              "title": "Practice Return values",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-7-return-values-lesson-3",
+              "unitId": "javascript-section-3-unit-7-return-values",
+              "title": "Review Return values",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-3-unit-8-scope",
+          "sectionId": "javascript-section-3",
+          "order": 8,
+          "title": "Scope",
+          "lessons": [
+            {
+              "id": "javascript-section-3-unit-8-scope-lesson-1",
+              "unitId": "javascript-section-3-unit-8-scope",
+              "title": "Learn Scope",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-8-scope-lesson-2",
+              "unitId": "javascript-section-3-unit-8-scope",
+              "title": "Practice Scope",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-8-scope-lesson-3",
+              "unitId": "javascript-section-3-unit-8-scope",
+              "title": "Review Scope",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-3-unit-9-hoisting",
+          "sectionId": "javascript-section-3",
+          "order": 9,
+          "title": "Hoisting",
+          "lessons": [
+            {
+              "id": "javascript-section-3-unit-9-hoisting-lesson-1",
+              "unitId": "javascript-section-3-unit-9-hoisting",
+              "title": "Learn Hoisting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-9-hoisting-lesson-2",
+              "unitId": "javascript-section-3-unit-9-hoisting",
+              "title": "Practice Hoisting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-9-hoisting-lesson-3",
+              "unitId": "javascript-section-3-unit-9-hoisting",
+              "title": "Review Hoisting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-3-unit-10-recursion",
+          "sectionId": "javascript-section-3",
+          "order": 10,
+          "title": "Recursion",
+          "lessons": [
+            {
+              "id": "javascript-section-3-unit-10-recursion-lesson-1",
+              "unitId": "javascript-section-3-unit-10-recursion",
+              "title": "Learn Recursion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-10-recursion-lesson-2",
+              "unitId": "javascript-section-3-unit-10-recursion",
+              "title": "Practice Recursion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-3-unit-10-recursion-lesson-3",
+              "unitId": "javascript-section-3-unit-10-recursion",
+              "title": "Review Recursion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "javascript-section-4",
+      "trackId": "javascript",
+      "order": 4,
+      "title": "Section 4: Arrays",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "javascript-section-4-unit-1-array-creation",
+          "sectionId": "javascript-section-4",
+          "order": 1,
+          "title": "Array creation",
+          "lessons": [
+            {
+              "id": "javascript-section-4-unit-1-array-creation-lesson-1",
+              "unitId": "javascript-section-4-unit-1-array-creation",
+              "title": "Learn Array creation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-1-array-creation-lesson-2",
+              "unitId": "javascript-section-4-unit-1-array-creation",
+              "title": "Practice Array creation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-1-array-creation-lesson-3",
+              "unitId": "javascript-section-4-unit-1-array-creation",
+              "title": "Review Array creation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-4-unit-2-indexing",
+          "sectionId": "javascript-section-4",
+          "order": 2,
+          "title": "Indexing",
+          "lessons": [
+            {
+              "id": "javascript-section-4-unit-2-indexing-lesson-1",
+              "unitId": "javascript-section-4-unit-2-indexing",
+              "title": "Learn Indexing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-2-indexing-lesson-2",
+              "unitId": "javascript-section-4-unit-2-indexing",
+              "title": "Practice Indexing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-2-indexing-lesson-3",
+              "unitId": "javascript-section-4-unit-2-indexing",
+              "title": "Review Indexing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-4-unit-3-mutation-methods",
+          "sectionId": "javascript-section-4",
+          "order": 3,
+          "title": "Mutation methods",
+          "lessons": [
+            {
+              "id": "javascript-section-4-unit-3-mutation-methods-lesson-1",
+              "unitId": "javascript-section-4-unit-3-mutation-methods",
+              "title": "Learn Mutation methods",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-3-mutation-methods-lesson-2",
+              "unitId": "javascript-section-4-unit-3-mutation-methods",
+              "title": "Practice Mutation methods",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-3-mutation-methods-lesson-3",
+              "unitId": "javascript-section-4-unit-3-mutation-methods",
+              "title": "Review Mutation methods",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-4-unit-4-iteration-methods",
+          "sectionId": "javascript-section-4",
+          "order": 4,
+          "title": "Iteration methods",
+          "lessons": [
+            {
+              "id": "javascript-section-4-unit-4-iteration-methods-lesson-1",
+              "unitId": "javascript-section-4-unit-4-iteration-methods",
+              "title": "Learn Iteration methods",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-4-iteration-methods-lesson-2",
+              "unitId": "javascript-section-4-unit-4-iteration-methods",
+              "title": "Practice Iteration methods",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-4-iteration-methods-lesson-3",
+              "unitId": "javascript-section-4-unit-4-iteration-methods",
+              "title": "Review Iteration methods",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-4-unit-5-map",
+          "sectionId": "javascript-section-4",
+          "order": 5,
+          "title": "map",
+          "lessons": [
+            {
+              "id": "javascript-section-4-unit-5-map-lesson-1",
+              "unitId": "javascript-section-4-unit-5-map",
+              "title": "Learn map",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-5-map-lesson-2",
+              "unitId": "javascript-section-4-unit-5-map",
+              "title": "Practice map",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-5-map-lesson-3",
+              "unitId": "javascript-section-4-unit-5-map",
+              "title": "Review map",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-4-unit-6-filter",
+          "sectionId": "javascript-section-4",
+          "order": 6,
+          "title": "filter",
+          "lessons": [
+            {
+              "id": "javascript-section-4-unit-6-filter-lesson-1",
+              "unitId": "javascript-section-4-unit-6-filter",
+              "title": "Learn filter",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-6-filter-lesson-2",
+              "unitId": "javascript-section-4-unit-6-filter",
+              "title": "Practice filter",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-6-filter-lesson-3",
+              "unitId": "javascript-section-4-unit-6-filter",
+              "title": "Review filter",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-4-unit-7-reduce",
+          "sectionId": "javascript-section-4",
+          "order": 7,
+          "title": "reduce",
+          "lessons": [
+            {
+              "id": "javascript-section-4-unit-7-reduce-lesson-1",
+              "unitId": "javascript-section-4-unit-7-reduce",
+              "title": "Learn reduce",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-7-reduce-lesson-2",
+              "unitId": "javascript-section-4-unit-7-reduce",
+              "title": "Practice reduce",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-7-reduce-lesson-3",
+              "unitId": "javascript-section-4-unit-7-reduce",
+              "title": "Review reduce",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-4-unit-8-find-and-some",
+          "sectionId": "javascript-section-4",
+          "order": 8,
+          "title": "find and some",
+          "lessons": [
+            {
+              "id": "javascript-section-4-unit-8-find-and-some-lesson-1",
+              "unitId": "javascript-section-4-unit-8-find-and-some",
+              "title": "Learn find and some",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-8-find-and-some-lesson-2",
+              "unitId": "javascript-section-4-unit-8-find-and-some",
+              "title": "Practice find and some",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-8-find-and-some-lesson-3",
+              "unitId": "javascript-section-4-unit-8-find-and-some",
+              "title": "Review find and some",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-4-unit-9-sorting-arrays",
+          "sectionId": "javascript-section-4",
+          "order": 9,
+          "title": "Sorting arrays",
+          "lessons": [
+            {
+              "id": "javascript-section-4-unit-9-sorting-arrays-lesson-1",
+              "unitId": "javascript-section-4-unit-9-sorting-arrays",
+              "title": "Learn Sorting arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-9-sorting-arrays-lesson-2",
+              "unitId": "javascript-section-4-unit-9-sorting-arrays",
+              "title": "Practice Sorting arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-9-sorting-arrays-lesson-3",
+              "unitId": "javascript-section-4-unit-9-sorting-arrays",
+              "title": "Review Sorting arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-4-unit-10-nested-arrays",
+          "sectionId": "javascript-section-4",
+          "order": 10,
+          "title": "Nested arrays",
+          "lessons": [
+            {
+              "id": "javascript-section-4-unit-10-nested-arrays-lesson-1",
+              "unitId": "javascript-section-4-unit-10-nested-arrays",
+              "title": "Learn Nested arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-10-nested-arrays-lesson-2",
+              "unitId": "javascript-section-4-unit-10-nested-arrays",
+              "title": "Practice Nested arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-4-unit-10-nested-arrays-lesson-3",
+              "unitId": "javascript-section-4-unit-10-nested-arrays",
+              "title": "Review Nested arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "javascript-section-5",
+      "trackId": "javascript",
+      "order": 5,
+      "title": "Section 5: Objects",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "javascript-section-5-unit-1-object-literals",
+          "sectionId": "javascript-section-5",
+          "order": 1,
+          "title": "Object literals",
+          "lessons": [
+            {
+              "id": "javascript-section-5-unit-1-object-literals-lesson-1",
+              "unitId": "javascript-section-5-unit-1-object-literals",
+              "title": "Learn Object literals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-1-object-literals-lesson-2",
+              "unitId": "javascript-section-5-unit-1-object-literals",
+              "title": "Practice Object literals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-1-object-literals-lesson-3",
+              "unitId": "javascript-section-5-unit-1-object-literals",
+              "title": "Review Object literals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-5-unit-2-property-access",
+          "sectionId": "javascript-section-5",
+          "order": 2,
+          "title": "Property access",
+          "lessons": [
+            {
+              "id": "javascript-section-5-unit-2-property-access-lesson-1",
+              "unitId": "javascript-section-5-unit-2-property-access",
+              "title": "Learn Property access",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-2-property-access-lesson-2",
+              "unitId": "javascript-section-5-unit-2-property-access",
+              "title": "Practice Property access",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-2-property-access-lesson-3",
+              "unitId": "javascript-section-5-unit-2-property-access",
+              "title": "Review Property access",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-5-unit-3-methods",
+          "sectionId": "javascript-section-5",
+          "order": 3,
+          "title": "Methods",
+          "lessons": [
+            {
+              "id": "javascript-section-5-unit-3-methods-lesson-1",
+              "unitId": "javascript-section-5-unit-3-methods",
+              "title": "Learn Methods",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-3-methods-lesson-2",
+              "unitId": "javascript-section-5-unit-3-methods",
+              "title": "Practice Methods",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-3-methods-lesson-3",
+              "unitId": "javascript-section-5-unit-3-methods",
+              "title": "Review Methods",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-5-unit-4-this-basics",
+          "sectionId": "javascript-section-5",
+          "order": 4,
+          "title": "this basics",
+          "lessons": [
+            {
+              "id": "javascript-section-5-unit-4-this-basics-lesson-1",
+              "unitId": "javascript-section-5-unit-4-this-basics",
+              "title": "Learn this basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-4-this-basics-lesson-2",
+              "unitId": "javascript-section-5-unit-4-this-basics",
+              "title": "Practice this basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-4-this-basics-lesson-3",
+              "unitId": "javascript-section-5-unit-4-this-basics",
+              "title": "Review this basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-5-unit-5-destructuring",
+          "sectionId": "javascript-section-5",
+          "order": 5,
+          "title": "Destructuring",
+          "lessons": [
+            {
+              "id": "javascript-section-5-unit-5-destructuring-lesson-1",
+              "unitId": "javascript-section-5-unit-5-destructuring",
+              "title": "Learn Destructuring",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-5-destructuring-lesson-2",
+              "unitId": "javascript-section-5-unit-5-destructuring",
+              "title": "Practice Destructuring",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-5-destructuring-lesson-3",
+              "unitId": "javascript-section-5-unit-5-destructuring",
+              "title": "Review Destructuring",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-5-unit-6-spread-and-clone",
+          "sectionId": "javascript-section-5",
+          "order": 6,
+          "title": "Spread and clone",
+          "lessons": [
+            {
+              "id": "javascript-section-5-unit-6-spread-and-clone-lesson-1",
+              "unitId": "javascript-section-5-unit-6-spread-and-clone",
+              "title": "Learn Spread and clone",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-6-spread-and-clone-lesson-2",
+              "unitId": "javascript-section-5-unit-6-spread-and-clone",
+              "title": "Practice Spread and clone",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-6-spread-and-clone-lesson-3",
+              "unitId": "javascript-section-5-unit-6-spread-and-clone",
+              "title": "Review Spread and clone",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-5-unit-7-object-keys",
+          "sectionId": "javascript-section-5",
+          "order": 7,
+          "title": "Object.keys",
+          "lessons": [
+            {
+              "id": "javascript-section-5-unit-7-object-keys-lesson-1",
+              "unitId": "javascript-section-5-unit-7-object-keys",
+              "title": "Learn Object.keys",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-7-object-keys-lesson-2",
+              "unitId": "javascript-section-5-unit-7-object-keys",
+              "title": "Practice Object.keys",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-7-object-keys-lesson-3",
+              "unitId": "javascript-section-5-unit-7-object-keys",
+              "title": "Review Object.keys",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-5-unit-8-optional-chaining",
+          "sectionId": "javascript-section-5",
+          "order": 8,
+          "title": "Optional chaining",
+          "lessons": [
+            {
+              "id": "javascript-section-5-unit-8-optional-chaining-lesson-1",
+              "unitId": "javascript-section-5-unit-8-optional-chaining",
+              "title": "Learn Optional chaining",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-8-optional-chaining-lesson-2",
+              "unitId": "javascript-section-5-unit-8-optional-chaining",
+              "title": "Practice Optional chaining",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-8-optional-chaining-lesson-3",
+              "unitId": "javascript-section-5-unit-8-optional-chaining",
+              "title": "Review Optional chaining",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-5-unit-9-json-basics",
+          "sectionId": "javascript-section-5",
+          "order": 9,
+          "title": "JSON basics",
+          "lessons": [
+            {
+              "id": "javascript-section-5-unit-9-json-basics-lesson-1",
+              "unitId": "javascript-section-5-unit-9-json-basics",
+              "title": "Learn JSON basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-9-json-basics-lesson-2",
+              "unitId": "javascript-section-5-unit-9-json-basics",
+              "title": "Practice JSON basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-9-json-basics-lesson-3",
+              "unitId": "javascript-section-5-unit-9-json-basics",
+              "title": "Review JSON basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-5-unit-10-object-patterns",
+          "sectionId": "javascript-section-5",
+          "order": 10,
+          "title": "Object patterns",
+          "lessons": [
+            {
+              "id": "javascript-section-5-unit-10-object-patterns-lesson-1",
+              "unitId": "javascript-section-5-unit-10-object-patterns",
+              "title": "Learn Object patterns",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-10-object-patterns-lesson-2",
+              "unitId": "javascript-section-5-unit-10-object-patterns",
+              "title": "Practice Object patterns",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-5-unit-10-object-patterns-lesson-3",
+              "unitId": "javascript-section-5-unit-10-object-patterns",
+              "title": "Review Object patterns",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "javascript-section-6",
+      "trackId": "javascript",
+      "order": 6,
+      "title": "Section 6: DOM & Events",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "javascript-section-6-unit-1-selecting-elements",
+          "sectionId": "javascript-section-6",
+          "order": 1,
+          "title": "Selecting elements",
+          "lessons": [
+            {
+              "id": "javascript-section-6-unit-1-selecting-elements-lesson-1",
+              "unitId": "javascript-section-6-unit-1-selecting-elements",
+              "title": "Learn Selecting elements",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-1-selecting-elements-lesson-2",
+              "unitId": "javascript-section-6-unit-1-selecting-elements",
+              "title": "Practice Selecting elements",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-1-selecting-elements-lesson-3",
+              "unitId": "javascript-section-6-unit-1-selecting-elements",
+              "title": "Review Selecting elements",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-6-unit-2-changing-text",
+          "sectionId": "javascript-section-6",
+          "order": 2,
+          "title": "Changing text",
+          "lessons": [
+            {
+              "id": "javascript-section-6-unit-2-changing-text-lesson-1",
+              "unitId": "javascript-section-6-unit-2-changing-text",
+              "title": "Learn Changing text",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-2-changing-text-lesson-2",
+              "unitId": "javascript-section-6-unit-2-changing-text",
+              "title": "Practice Changing text",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-2-changing-text-lesson-3",
+              "unitId": "javascript-section-6-unit-2-changing-text",
+              "title": "Review Changing text",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-6-unit-3-changing-styles",
+          "sectionId": "javascript-section-6",
+          "order": 3,
+          "title": "Changing styles",
+          "lessons": [
+            {
+              "id": "javascript-section-6-unit-3-changing-styles-lesson-1",
+              "unitId": "javascript-section-6-unit-3-changing-styles",
+              "title": "Learn Changing styles",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-3-changing-styles-lesson-2",
+              "unitId": "javascript-section-6-unit-3-changing-styles",
+              "title": "Practice Changing styles",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-3-changing-styles-lesson-3",
+              "unitId": "javascript-section-6-unit-3-changing-styles",
+              "title": "Review Changing styles",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-6-unit-4-creating-elements",
+          "sectionId": "javascript-section-6",
+          "order": 4,
+          "title": "Creating elements",
+          "lessons": [
+            {
+              "id": "javascript-section-6-unit-4-creating-elements-lesson-1",
+              "unitId": "javascript-section-6-unit-4-creating-elements",
+              "title": "Learn Creating elements",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-4-creating-elements-lesson-2",
+              "unitId": "javascript-section-6-unit-4-creating-elements",
+              "title": "Practice Creating elements",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-4-creating-elements-lesson-3",
+              "unitId": "javascript-section-6-unit-4-creating-elements",
+              "title": "Review Creating elements",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-6-unit-5-event-listeners",
+          "sectionId": "javascript-section-6",
+          "order": 5,
+          "title": "Event listeners",
+          "lessons": [
+            {
+              "id": "javascript-section-6-unit-5-event-listeners-lesson-1",
+              "unitId": "javascript-section-6-unit-5-event-listeners",
+              "title": "Learn Event listeners",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-5-event-listeners-lesson-2",
+              "unitId": "javascript-section-6-unit-5-event-listeners",
+              "title": "Practice Event listeners",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-5-event-listeners-lesson-3",
+              "unitId": "javascript-section-6-unit-5-event-listeners",
+              "title": "Review Event listeners",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-6-unit-6-event-object",
+          "sectionId": "javascript-section-6",
+          "order": 6,
+          "title": "Event object",
+          "lessons": [
+            {
+              "id": "javascript-section-6-unit-6-event-object-lesson-1",
+              "unitId": "javascript-section-6-unit-6-event-object",
+              "title": "Learn Event object",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-6-event-object-lesson-2",
+              "unitId": "javascript-section-6-unit-6-event-object",
+              "title": "Practice Event object",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-6-event-object-lesson-3",
+              "unitId": "javascript-section-6-unit-6-event-object",
+              "title": "Review Event object",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-6-unit-7-event-bubbling",
+          "sectionId": "javascript-section-6",
+          "order": 7,
+          "title": "Event bubbling",
+          "lessons": [
+            {
+              "id": "javascript-section-6-unit-7-event-bubbling-lesson-1",
+              "unitId": "javascript-section-6-unit-7-event-bubbling",
+              "title": "Learn Event bubbling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-7-event-bubbling-lesson-2",
+              "unitId": "javascript-section-6-unit-7-event-bubbling",
+              "title": "Practice Event bubbling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-7-event-bubbling-lesson-3",
+              "unitId": "javascript-section-6-unit-7-event-bubbling",
+              "title": "Review Event bubbling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-6-unit-8-forms-and-input",
+          "sectionId": "javascript-section-6",
+          "order": 8,
+          "title": "Forms and input",
+          "lessons": [
+            {
+              "id": "javascript-section-6-unit-8-forms-and-input-lesson-1",
+              "unitId": "javascript-section-6-unit-8-forms-and-input",
+              "title": "Learn Forms and input",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-8-forms-and-input-lesson-2",
+              "unitId": "javascript-section-6-unit-8-forms-and-input",
+              "title": "Practice Forms and input",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-8-forms-and-input-lesson-3",
+              "unitId": "javascript-section-6-unit-8-forms-and-input",
+              "title": "Review Forms and input",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-6-unit-9-local-storage",
+          "sectionId": "javascript-section-6",
+          "order": 9,
+          "title": "Local storage",
+          "lessons": [
+            {
+              "id": "javascript-section-6-unit-9-local-storage-lesson-1",
+              "unitId": "javascript-section-6-unit-9-local-storage",
+              "title": "Learn Local storage",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-9-local-storage-lesson-2",
+              "unitId": "javascript-section-6-unit-9-local-storage",
+              "title": "Practice Local storage",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-9-local-storage-lesson-3",
+              "unitId": "javascript-section-6-unit-9-local-storage",
+              "title": "Review Local storage",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-6-unit-10-dom-project",
+          "sectionId": "javascript-section-6",
+          "order": 10,
+          "title": "DOM project",
+          "lessons": [
+            {
+              "id": "javascript-section-6-unit-10-dom-project-lesson-1",
+              "unitId": "javascript-section-6-unit-10-dom-project",
+              "title": "Learn DOM project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-10-dom-project-lesson-2",
+              "unitId": "javascript-section-6-unit-10-dom-project",
+              "title": "Practice DOM project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-6-unit-10-dom-project-lesson-3",
+              "unitId": "javascript-section-6-unit-10-dom-project",
+              "title": "Review DOM project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "javascript-section-7",
+      "trackId": "javascript",
+      "order": 7,
+      "title": "Section 7: Async JavaScript",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "javascript-section-7-unit-1-callbacks",
+          "sectionId": "javascript-section-7",
+          "order": 1,
+          "title": "Callbacks",
+          "lessons": [
+            {
+              "id": "javascript-section-7-unit-1-callbacks-lesson-1",
+              "unitId": "javascript-section-7-unit-1-callbacks",
+              "title": "Learn Callbacks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-1-callbacks-lesson-2",
+              "unitId": "javascript-section-7-unit-1-callbacks",
+              "title": "Practice Callbacks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-1-callbacks-lesson-3",
+              "unitId": "javascript-section-7-unit-1-callbacks",
+              "title": "Review Callbacks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-7-unit-2-timers",
+          "sectionId": "javascript-section-7",
+          "order": 2,
+          "title": "Timers",
+          "lessons": [
+            {
+              "id": "javascript-section-7-unit-2-timers-lesson-1",
+              "unitId": "javascript-section-7-unit-2-timers",
+              "title": "Learn Timers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-2-timers-lesson-2",
+              "unitId": "javascript-section-7-unit-2-timers",
+              "title": "Practice Timers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-2-timers-lesson-3",
+              "unitId": "javascript-section-7-unit-2-timers",
+              "title": "Review Timers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-7-unit-3-promises",
+          "sectionId": "javascript-section-7",
+          "order": 3,
+          "title": "Promises",
+          "lessons": [
+            {
+              "id": "javascript-section-7-unit-3-promises-lesson-1",
+              "unitId": "javascript-section-7-unit-3-promises",
+              "title": "Learn Promises",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-3-promises-lesson-2",
+              "unitId": "javascript-section-7-unit-3-promises",
+              "title": "Practice Promises",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-3-promises-lesson-3",
+              "unitId": "javascript-section-7-unit-3-promises",
+              "title": "Review Promises",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-7-unit-4-promise-chains",
+          "sectionId": "javascript-section-7",
+          "order": 4,
+          "title": "Promise chains",
+          "lessons": [
+            {
+              "id": "javascript-section-7-unit-4-promise-chains-lesson-1",
+              "unitId": "javascript-section-7-unit-4-promise-chains",
+              "title": "Learn Promise chains",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-4-promise-chains-lesson-2",
+              "unitId": "javascript-section-7-unit-4-promise-chains",
+              "title": "Practice Promise chains",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-4-promise-chains-lesson-3",
+              "unitId": "javascript-section-7-unit-4-promise-chains",
+              "title": "Review Promise chains",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-7-unit-5-async-and-await",
+          "sectionId": "javascript-section-7",
+          "order": 5,
+          "title": "async and await",
+          "lessons": [
+            {
+              "id": "javascript-section-7-unit-5-async-and-await-lesson-1",
+              "unitId": "javascript-section-7-unit-5-async-and-await",
+              "title": "Learn async and await",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-5-async-and-await-lesson-2",
+              "unitId": "javascript-section-7-unit-5-async-and-await",
+              "title": "Practice async and await",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-5-async-and-await-lesson-3",
+              "unitId": "javascript-section-7-unit-5-async-and-await",
+              "title": "Review async and await",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-7-unit-6-try-and-catch",
+          "sectionId": "javascript-section-7",
+          "order": 6,
+          "title": "try and catch",
+          "lessons": [
+            {
+              "id": "javascript-section-7-unit-6-try-and-catch-lesson-1",
+              "unitId": "javascript-section-7-unit-6-try-and-catch",
+              "title": "Learn try and catch",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-6-try-and-catch-lesson-2",
+              "unitId": "javascript-section-7-unit-6-try-and-catch",
+              "title": "Practice try and catch",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-6-try-and-catch-lesson-3",
+              "unitId": "javascript-section-7-unit-6-try-and-catch",
+              "title": "Review try and catch",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-7-unit-7-fetch",
+          "sectionId": "javascript-section-7",
+          "order": 7,
+          "title": "fetch",
+          "lessons": [
+            {
+              "id": "javascript-section-7-unit-7-fetch-lesson-1",
+              "unitId": "javascript-section-7-unit-7-fetch",
+              "title": "Learn fetch",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-7-fetch-lesson-2",
+              "unitId": "javascript-section-7-unit-7-fetch",
+              "title": "Practice fetch",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-7-fetch-lesson-3",
+              "unitId": "javascript-section-7-unit-7-fetch",
+              "title": "Review fetch",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-7-unit-8-parallel-requests",
+          "sectionId": "javascript-section-7",
+          "order": 8,
+          "title": "Parallel requests",
+          "lessons": [
+            {
+              "id": "javascript-section-7-unit-8-parallel-requests-lesson-1",
+              "unitId": "javascript-section-7-unit-8-parallel-requests",
+              "title": "Learn Parallel requests",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-8-parallel-requests-lesson-2",
+              "unitId": "javascript-section-7-unit-8-parallel-requests",
+              "title": "Practice Parallel requests",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-8-parallel-requests-lesson-3",
+              "unitId": "javascript-section-7-unit-8-parallel-requests",
+              "title": "Review Parallel requests",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-7-unit-9-race-conditions",
+          "sectionId": "javascript-section-7",
+          "order": 9,
+          "title": "Race conditions",
+          "lessons": [
+            {
+              "id": "javascript-section-7-unit-9-race-conditions-lesson-1",
+              "unitId": "javascript-section-7-unit-9-race-conditions",
+              "title": "Learn Race conditions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-9-race-conditions-lesson-2",
+              "unitId": "javascript-section-7-unit-9-race-conditions",
+              "title": "Practice Race conditions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-9-race-conditions-lesson-3",
+              "unitId": "javascript-section-7-unit-9-race-conditions",
+              "title": "Review Race conditions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-7-unit-10-async-project",
+          "sectionId": "javascript-section-7",
+          "order": 10,
+          "title": "Async project",
+          "lessons": [
+            {
+              "id": "javascript-section-7-unit-10-async-project-lesson-1",
+              "unitId": "javascript-section-7-unit-10-async-project",
+              "title": "Learn Async project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-10-async-project-lesson-2",
+              "unitId": "javascript-section-7-unit-10-async-project",
+              "title": "Practice Async project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-7-unit-10-async-project-lesson-3",
+              "unitId": "javascript-section-7-unit-10-async-project",
+              "title": "Review Async project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "javascript-section-8",
+      "trackId": "javascript",
+      "order": 8,
+      "title": "Section 8: Closures & Functional JS",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "javascript-section-8-unit-1-lexical-scope",
+          "sectionId": "javascript-section-8",
+          "order": 1,
+          "title": "Lexical scope",
+          "lessons": [
+            {
+              "id": "javascript-section-8-unit-1-lexical-scope-lesson-1",
+              "unitId": "javascript-section-8-unit-1-lexical-scope",
+              "title": "Learn Lexical scope",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-1-lexical-scope-lesson-2",
+              "unitId": "javascript-section-8-unit-1-lexical-scope",
+              "title": "Practice Lexical scope",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-1-lexical-scope-lesson-3",
+              "unitId": "javascript-section-8-unit-1-lexical-scope",
+              "title": "Review Lexical scope",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-8-unit-2-closures",
+          "sectionId": "javascript-section-8",
+          "order": 2,
+          "title": "Closures",
+          "lessons": [
+            {
+              "id": "javascript-section-8-unit-2-closures-lesson-1",
+              "unitId": "javascript-section-8-unit-2-closures",
+              "title": "Learn Closures",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-2-closures-lesson-2",
+              "unitId": "javascript-section-8-unit-2-closures",
+              "title": "Practice Closures",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-2-closures-lesson-3",
+              "unitId": "javascript-section-8-unit-2-closures",
+              "title": "Review Closures",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-8-unit-3-factory-functions",
+          "sectionId": "javascript-section-8",
+          "order": 3,
+          "title": "Factory functions",
+          "lessons": [
+            {
+              "id": "javascript-section-8-unit-3-factory-functions-lesson-1",
+              "unitId": "javascript-section-8-unit-3-factory-functions",
+              "title": "Learn Factory functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-3-factory-functions-lesson-2",
+              "unitId": "javascript-section-8-unit-3-factory-functions",
+              "title": "Practice Factory functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-3-factory-functions-lesson-3",
+              "unitId": "javascript-section-8-unit-3-factory-functions",
+              "title": "Review Factory functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-8-unit-4-higher-order-functions",
+          "sectionId": "javascript-section-8",
+          "order": 4,
+          "title": "Higher-order functions",
+          "lessons": [
+            {
+              "id": "javascript-section-8-unit-4-higher-order-functions-lesson-1",
+              "unitId": "javascript-section-8-unit-4-higher-order-functions",
+              "title": "Learn Higher-order functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-4-higher-order-functions-lesson-2",
+              "unitId": "javascript-section-8-unit-4-higher-order-functions",
+              "title": "Practice Higher-order functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-4-higher-order-functions-lesson-3",
+              "unitId": "javascript-section-8-unit-4-higher-order-functions",
+              "title": "Review Higher-order functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-8-unit-5-callback-patterns",
+          "sectionId": "javascript-section-8",
+          "order": 5,
+          "title": "Callback patterns",
+          "lessons": [
+            {
+              "id": "javascript-section-8-unit-5-callback-patterns-lesson-1",
+              "unitId": "javascript-section-8-unit-5-callback-patterns",
+              "title": "Learn Callback patterns",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-5-callback-patterns-lesson-2",
+              "unitId": "javascript-section-8-unit-5-callback-patterns",
+              "title": "Practice Callback patterns",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-5-callback-patterns-lesson-3",
+              "unitId": "javascript-section-8-unit-5-callback-patterns",
+              "title": "Review Callback patterns",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-8-unit-6-pure-functions",
+          "sectionId": "javascript-section-8",
+          "order": 6,
+          "title": "Pure functions",
+          "lessons": [
+            {
+              "id": "javascript-section-8-unit-6-pure-functions-lesson-1",
+              "unitId": "javascript-section-8-unit-6-pure-functions",
+              "title": "Learn Pure functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-6-pure-functions-lesson-2",
+              "unitId": "javascript-section-8-unit-6-pure-functions",
+              "title": "Practice Pure functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-6-pure-functions-lesson-3",
+              "unitId": "javascript-section-8-unit-6-pure-functions",
+              "title": "Review Pure functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-8-unit-7-immutability",
+          "sectionId": "javascript-section-8",
+          "order": 7,
+          "title": "Immutability",
+          "lessons": [
+            {
+              "id": "javascript-section-8-unit-7-immutability-lesson-1",
+              "unitId": "javascript-section-8-unit-7-immutability",
+              "title": "Learn Immutability",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-7-immutability-lesson-2",
+              "unitId": "javascript-section-8-unit-7-immutability",
+              "title": "Practice Immutability",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-7-immutability-lesson-3",
+              "unitId": "javascript-section-8-unit-7-immutability",
+              "title": "Review Immutability",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-8-unit-8-composition",
+          "sectionId": "javascript-section-8",
+          "order": 8,
+          "title": "Composition",
+          "lessons": [
+            {
+              "id": "javascript-section-8-unit-8-composition-lesson-1",
+              "unitId": "javascript-section-8-unit-8-composition",
+              "title": "Learn Composition",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-8-composition-lesson-2",
+              "unitId": "javascript-section-8-unit-8-composition",
+              "title": "Practice Composition",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-8-composition-lesson-3",
+              "unitId": "javascript-section-8-unit-8-composition",
+              "title": "Review Composition",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-8-unit-9-currying-basics",
+          "sectionId": "javascript-section-8",
+          "order": 9,
+          "title": "Currying basics",
+          "lessons": [
+            {
+              "id": "javascript-section-8-unit-9-currying-basics-lesson-1",
+              "unitId": "javascript-section-8-unit-9-currying-basics",
+              "title": "Learn Currying basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-9-currying-basics-lesson-2",
+              "unitId": "javascript-section-8-unit-9-currying-basics",
+              "title": "Practice Currying basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-9-currying-basics-lesson-3",
+              "unitId": "javascript-section-8-unit-9-currying-basics",
+              "title": "Review Currying basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-8-unit-10-functional-refactor",
+          "sectionId": "javascript-section-8",
+          "order": 10,
+          "title": "Functional refactor",
+          "lessons": [
+            {
+              "id": "javascript-section-8-unit-10-functional-refactor-lesson-1",
+              "unitId": "javascript-section-8-unit-10-functional-refactor",
+              "title": "Learn Functional refactor",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-10-functional-refactor-lesson-2",
+              "unitId": "javascript-section-8-unit-10-functional-refactor",
+              "title": "Practice Functional refactor",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-8-unit-10-functional-refactor-lesson-3",
+              "unitId": "javascript-section-8-unit-10-functional-refactor",
+              "title": "Review Functional refactor",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "javascript-section-9",
+      "trackId": "javascript",
+      "order": 9,
+      "title": "Section 9: Modern JavaScript",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "javascript-section-9-unit-1-modules",
+          "sectionId": "javascript-section-9",
+          "order": 1,
+          "title": "Modules",
+          "lessons": [
+            {
+              "id": "javascript-section-9-unit-1-modules-lesson-1",
+              "unitId": "javascript-section-9-unit-1-modules",
+              "title": "Learn Modules",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-1-modules-lesson-2",
+              "unitId": "javascript-section-9-unit-1-modules",
+              "title": "Practice Modules",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-1-modules-lesson-3",
+              "unitId": "javascript-section-9-unit-1-modules",
+              "title": "Review Modules",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-9-unit-2-import-and-export",
+          "sectionId": "javascript-section-9",
+          "order": 2,
+          "title": "Import and export",
+          "lessons": [
+            {
+              "id": "javascript-section-9-unit-2-import-and-export-lesson-1",
+              "unitId": "javascript-section-9-unit-2-import-and-export",
+              "title": "Learn Import and export",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-2-import-and-export-lesson-2",
+              "unitId": "javascript-section-9-unit-2-import-and-export",
+              "title": "Practice Import and export",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-2-import-and-export-lesson-3",
+              "unitId": "javascript-section-9-unit-2-import-and-export",
+              "title": "Review Import and export",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-9-unit-3-classes",
+          "sectionId": "javascript-section-9",
+          "order": 3,
+          "title": "Classes",
+          "lessons": [
+            {
+              "id": "javascript-section-9-unit-3-classes-lesson-1",
+              "unitId": "javascript-section-9-unit-3-classes",
+              "title": "Learn Classes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-3-classes-lesson-2",
+              "unitId": "javascript-section-9-unit-3-classes",
+              "title": "Practice Classes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-3-classes-lesson-3",
+              "unitId": "javascript-section-9-unit-3-classes",
+              "title": "Review Classes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-9-unit-4-private-fields",
+          "sectionId": "javascript-section-9",
+          "order": 4,
+          "title": "Private fields",
+          "lessons": [
+            {
+              "id": "javascript-section-9-unit-4-private-fields-lesson-1",
+              "unitId": "javascript-section-9-unit-4-private-fields",
+              "title": "Learn Private fields",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-4-private-fields-lesson-2",
+              "unitId": "javascript-section-9-unit-4-private-fields",
+              "title": "Practice Private fields",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-4-private-fields-lesson-3",
+              "unitId": "javascript-section-9-unit-4-private-fields",
+              "title": "Review Private fields",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-9-unit-5-sets",
+          "sectionId": "javascript-section-9",
+          "order": 5,
+          "title": "Sets",
+          "lessons": [
+            {
+              "id": "javascript-section-9-unit-5-sets-lesson-1",
+              "unitId": "javascript-section-9-unit-5-sets",
+              "title": "Learn Sets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-5-sets-lesson-2",
+              "unitId": "javascript-section-9-unit-5-sets",
+              "title": "Practice Sets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-5-sets-lesson-3",
+              "unitId": "javascript-section-9-unit-5-sets",
+              "title": "Review Sets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-9-unit-6-maps",
+          "sectionId": "javascript-section-9",
+          "order": 6,
+          "title": "Maps",
+          "lessons": [
+            {
+              "id": "javascript-section-9-unit-6-maps-lesson-1",
+              "unitId": "javascript-section-9-unit-6-maps",
+              "title": "Learn Maps",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-6-maps-lesson-2",
+              "unitId": "javascript-section-9-unit-6-maps",
+              "title": "Practice Maps",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-6-maps-lesson-3",
+              "unitId": "javascript-section-9-unit-6-maps",
+              "title": "Review Maps",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-9-unit-7-symbols",
+          "sectionId": "javascript-section-9",
+          "order": 7,
+          "title": "Symbols",
+          "lessons": [
+            {
+              "id": "javascript-section-9-unit-7-symbols-lesson-1",
+              "unitId": "javascript-section-9-unit-7-symbols",
+              "title": "Learn Symbols",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-7-symbols-lesson-2",
+              "unitId": "javascript-section-9-unit-7-symbols",
+              "title": "Practice Symbols",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-7-symbols-lesson-3",
+              "unitId": "javascript-section-9-unit-7-symbols",
+              "title": "Review Symbols",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-9-unit-8-iterators",
+          "sectionId": "javascript-section-9",
+          "order": 8,
+          "title": "Iterators",
+          "lessons": [
+            {
+              "id": "javascript-section-9-unit-8-iterators-lesson-1",
+              "unitId": "javascript-section-9-unit-8-iterators",
+              "title": "Learn Iterators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-8-iterators-lesson-2",
+              "unitId": "javascript-section-9-unit-8-iterators",
+              "title": "Practice Iterators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-8-iterators-lesson-3",
+              "unitId": "javascript-section-9-unit-8-iterators",
+              "title": "Review Iterators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-9-unit-9-generators-basics",
+          "sectionId": "javascript-section-9",
+          "order": 9,
+          "title": "Generators basics",
+          "lessons": [
+            {
+              "id": "javascript-section-9-unit-9-generators-basics-lesson-1",
+              "unitId": "javascript-section-9-unit-9-generators-basics",
+              "title": "Learn Generators basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-9-generators-basics-lesson-2",
+              "unitId": "javascript-section-9-unit-9-generators-basics",
+              "title": "Practice Generators basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-9-generators-basics-lesson-3",
+              "unitId": "javascript-section-9-unit-9-generators-basics",
+              "title": "Review Generators basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-9-unit-10-tooling-basics",
+          "sectionId": "javascript-section-9",
+          "order": 10,
+          "title": "Tooling basics",
+          "lessons": [
+            {
+              "id": "javascript-section-9-unit-10-tooling-basics-lesson-1",
+              "unitId": "javascript-section-9-unit-10-tooling-basics",
+              "title": "Learn Tooling basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-10-tooling-basics-lesson-2",
+              "unitId": "javascript-section-9-unit-10-tooling-basics",
+              "title": "Practice Tooling basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-9-unit-10-tooling-basics-lesson-3",
+              "unitId": "javascript-section-9-unit-10-tooling-basics",
+              "title": "Review Tooling basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "javascript-section-10",
+      "trackId": "javascript",
+      "order": 10,
+      "title": "Section 10: Advanced Practice",
+      "bannerColor": "#FFC800",
+      "units": [
+        {
+          "id": "javascript-section-10-unit-1-error-handling",
+          "sectionId": "javascript-section-10",
+          "order": 1,
+          "title": "Error handling",
+          "lessons": [
+            {
+              "id": "javascript-section-10-unit-1-error-handling-lesson-1",
+              "unitId": "javascript-section-10-unit-1-error-handling",
+              "title": "Learn Error handling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-1-error-handling-lesson-2",
+              "unitId": "javascript-section-10-unit-1-error-handling",
+              "title": "Practice Error handling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-1-error-handling-lesson-3",
+              "unitId": "javascript-section-10-unit-1-error-handling",
+              "title": "Review Error handling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-10-unit-2-debugging",
+          "sectionId": "javascript-section-10",
+          "order": 2,
+          "title": "Debugging",
+          "lessons": [
+            {
+              "id": "javascript-section-10-unit-2-debugging-lesson-1",
+              "unitId": "javascript-section-10-unit-2-debugging",
+              "title": "Learn Debugging",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-2-debugging-lesson-2",
+              "unitId": "javascript-section-10-unit-2-debugging",
+              "title": "Practice Debugging",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-2-debugging-lesson-3",
+              "unitId": "javascript-section-10-unit-2-debugging",
+              "title": "Review Debugging",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-10-unit-3-performance-basics",
+          "sectionId": "javascript-section-10",
+          "order": 3,
+          "title": "Performance basics",
+          "lessons": [
+            {
+              "id": "javascript-section-10-unit-3-performance-basics-lesson-1",
+              "unitId": "javascript-section-10-unit-3-performance-basics",
+              "title": "Learn Performance basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-3-performance-basics-lesson-2",
+              "unitId": "javascript-section-10-unit-3-performance-basics",
+              "title": "Practice Performance basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-3-performance-basics-lesson-3",
+              "unitId": "javascript-section-10-unit-3-performance-basics",
+              "title": "Review Performance basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-10-unit-4-memory-basics",
+          "sectionId": "javascript-section-10",
+          "order": 4,
+          "title": "Memory basics",
+          "lessons": [
+            {
+              "id": "javascript-section-10-unit-4-memory-basics-lesson-1",
+              "unitId": "javascript-section-10-unit-4-memory-basics",
+              "title": "Learn Memory basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-4-memory-basics-lesson-2",
+              "unitId": "javascript-section-10-unit-4-memory-basics",
+              "title": "Practice Memory basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-4-memory-basics-lesson-3",
+              "unitId": "javascript-section-10-unit-4-memory-basics",
+              "title": "Review Memory basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-10-unit-5-testing-basics",
+          "sectionId": "javascript-section-10",
+          "order": 5,
+          "title": "Testing basics",
+          "lessons": [
+            {
+              "id": "javascript-section-10-unit-5-testing-basics-lesson-1",
+              "unitId": "javascript-section-10-unit-5-testing-basics",
+              "title": "Learn Testing basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-5-testing-basics-lesson-2",
+              "unitId": "javascript-section-10-unit-5-testing-basics",
+              "title": "Practice Testing basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-5-testing-basics-lesson-3",
+              "unitId": "javascript-section-10-unit-5-testing-basics",
+              "title": "Review Testing basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-10-unit-6-browser-apis",
+          "sectionId": "javascript-section-10",
+          "order": 6,
+          "title": "Browser APIs",
+          "lessons": [
+            {
+              "id": "javascript-section-10-unit-6-browser-apis-lesson-1",
+              "unitId": "javascript-section-10-unit-6-browser-apis",
+              "title": "Learn Browser APIs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-6-browser-apis-lesson-2",
+              "unitId": "javascript-section-10-unit-6-browser-apis",
+              "title": "Practice Browser APIs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-6-browser-apis-lesson-3",
+              "unitId": "javascript-section-10-unit-6-browser-apis",
+              "title": "Review Browser APIs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-10-unit-7-date-and-intl",
+          "sectionId": "javascript-section-10",
+          "order": 7,
+          "title": "Date and Intl",
+          "lessons": [
+            {
+              "id": "javascript-section-10-unit-7-date-and-intl-lesson-1",
+              "unitId": "javascript-section-10-unit-7-date-and-intl",
+              "title": "Learn Date and Intl",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-7-date-and-intl-lesson-2",
+              "unitId": "javascript-section-10-unit-7-date-and-intl",
+              "title": "Practice Date and Intl",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-7-date-and-intl-lesson-3",
+              "unitId": "javascript-section-10-unit-7-date-and-intl",
+              "title": "Review Date and Intl",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-10-unit-8-regular-expressions",
+          "sectionId": "javascript-section-10",
+          "order": 8,
+          "title": "Regular expressions",
+          "lessons": [
+            {
+              "id": "javascript-section-10-unit-8-regular-expressions-lesson-1",
+              "unitId": "javascript-section-10-unit-8-regular-expressions",
+              "title": "Learn Regular expressions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-8-regular-expressions-lesson-2",
+              "unitId": "javascript-section-10-unit-8-regular-expressions",
+              "title": "Practice Regular expressions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-8-regular-expressions-lesson-3",
+              "unitId": "javascript-section-10-unit-8-regular-expressions",
+              "title": "Review Regular expressions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-10-unit-9-security-basics",
+          "sectionId": "javascript-section-10",
+          "order": 9,
+          "title": "Security basics",
+          "lessons": [
+            {
+              "id": "javascript-section-10-unit-9-security-basics-lesson-1",
+              "unitId": "javascript-section-10-unit-9-security-basics",
+              "title": "Learn Security basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-9-security-basics-lesson-2",
+              "unitId": "javascript-section-10-unit-9-security-basics",
+              "title": "Practice Security basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-9-security-basics-lesson-3",
+              "unitId": "javascript-section-10-unit-9-security-basics",
+              "title": "Review Security basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "javascript-section-10-unit-10-final-js-app",
+          "sectionId": "javascript-section-10",
+          "order": 10,
+          "title": "Final JS app",
+          "lessons": [
+            {
+              "id": "javascript-section-10-unit-10-final-js-app-lesson-1",
+              "unitId": "javascript-section-10-unit-10-final-js-app",
+              "title": "Learn Final JS app",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-10-final-js-app-lesson-2",
+              "unitId": "javascript-section-10-unit-10-final-js-app",
+              "title": "Practice Final JS app",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "javascript-section-10-unit-10-final-js-app-lesson-3",
+              "unitId": "javascript-section-10-unit-10-final-js-app",
+              "title": "Review Final JS app",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

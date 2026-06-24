@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Devlingo app icon">
+  <rect width="512" height="512" rx="112" fill="#58CC02"/>
+  <path fill="#4CAA00" d="M101 343c30 61 86 95 155 95s125-34 155-95c-31 23-82 38-155 38s-124-15-155-38Z"/>
+  <path fill="#fff" d="M132 233c0-79 53-143 124-143s124 64 124 143c0 82-50 149-124 149s-124-67-124-149Z"/>
+  <circle cx="213" cy="224" r="55" fill="#fff"/>
+  <circle cx="299" cy="224" r="55" fill="#fff"/>
+  <circle cx="213" cy="224" r="28" fill="#4B4B4B"/>
+  <circle cx="299" cy="224" r="28" fill="#4B4B4B"/>
+  <circle cx="224" cy="211" r="9" fill="#fff"/>
+  <circle cx="310" cy="211" r="9" fill="#fff"/>
+  <path fill="#FFC800" d="M235 277h42l-21 30-21-30Z"/>
+  <path fill="#4B4B4B" d="M185 161c24-17 54-18 76-3l-17 22c-14-9-31-8-45 2l-14-21Zm66-3c22-15 52-14 76 3l-14 21c-14-10-31-11-45-2l-17-22Z" opacity=".16"/>
+</svg>

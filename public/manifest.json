@@ -1,0 +1,19 @@
+{
+  "name": "Devlingo",
+  "short_name": "Devlingo",
+  "description": "A gamified coding-practice platform for streaks, XP, and live battles.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#58CC02",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

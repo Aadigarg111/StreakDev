@@ -1,0 +1,3006 @@
+{
+  "id": "networks",
+  "title": "Computer Networks",
+  "category": "core-cs",
+  "icon": "router",
+  "color": "#CE82FF",
+  "description": "Learn how data moves through HTTP, DNS, TCP/IP, sockets, and secure networks.",
+  "sections": [
+    {
+      "id": "networks-section-1",
+      "trackId": "networks",
+      "order": 1,
+      "title": "Section 1: Network Foundations",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "networks-section-1-unit-1-why-networks",
+          "sectionId": "networks-section-1",
+          "order": 1,
+          "title": "Why networks",
+          "lessons": [
+            {
+              "id": "networks-section-1-unit-1-why-networks-lesson-1",
+              "unitId": "networks-section-1-unit-1-why-networks",
+              "title": "Learn Why networks",
+              "order": 1,
+              "exerciseIds": [
+                "networks-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "networks-section-1-unit-1-why-networks-lesson-2",
+              "unitId": "networks-section-1-unit-1-why-networks",
+              "title": "Practice Why networks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-1-why-networks-lesson-3",
+              "unitId": "networks-section-1-unit-1-why-networks",
+              "title": "Review Why networks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-1-unit-2-hosts-and-links",
+          "sectionId": "networks-section-1",
+          "order": 2,
+          "title": "Hosts and links",
+          "lessons": [
+            {
+              "id": "networks-section-1-unit-2-hosts-and-links-lesson-1",
+              "unitId": "networks-section-1-unit-2-hosts-and-links",
+              "title": "Learn Hosts and links",
+              "order": 1,
+              "exerciseIds": [
+                "networks-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "networks-section-1-unit-2-hosts-and-links-lesson-2",
+              "unitId": "networks-section-1-unit-2-hosts-and-links",
+              "title": "Practice Hosts and links",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-2-hosts-and-links-lesson-3",
+              "unitId": "networks-section-1-unit-2-hosts-and-links",
+              "title": "Review Hosts and links",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-1-unit-3-packets",
+          "sectionId": "networks-section-1",
+          "order": 3,
+          "title": "Packets",
+          "lessons": [
+            {
+              "id": "networks-section-1-unit-3-packets-lesson-1",
+              "unitId": "networks-section-1-unit-3-packets",
+              "title": "Learn Packets",
+              "order": 1,
+              "exerciseIds": [
+                "networks-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "networks-section-1-unit-3-packets-lesson-2",
+              "unitId": "networks-section-1-unit-3-packets",
+              "title": "Practice Packets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-3-packets-lesson-3",
+              "unitId": "networks-section-1-unit-3-packets",
+              "title": "Review Packets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-1-unit-4-latency",
+          "sectionId": "networks-section-1",
+          "order": 4,
+          "title": "Latency",
+          "lessons": [
+            {
+              "id": "networks-section-1-unit-4-latency-lesson-1",
+              "unitId": "networks-section-1-unit-4-latency",
+              "title": "Learn Latency",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-4-latency-lesson-2",
+              "unitId": "networks-section-1-unit-4-latency",
+              "title": "Practice Latency",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-4-latency-lesson-3",
+              "unitId": "networks-section-1-unit-4-latency",
+              "title": "Review Latency",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-1-unit-5-bandwidth",
+          "sectionId": "networks-section-1",
+          "order": 5,
+          "title": "Bandwidth",
+          "lessons": [
+            {
+              "id": "networks-section-1-unit-5-bandwidth-lesson-1",
+              "unitId": "networks-section-1-unit-5-bandwidth",
+              "title": "Learn Bandwidth",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-5-bandwidth-lesson-2",
+              "unitId": "networks-section-1-unit-5-bandwidth",
+              "title": "Practice Bandwidth",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-5-bandwidth-lesson-3",
+              "unitId": "networks-section-1-unit-5-bandwidth",
+              "title": "Review Bandwidth",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-1-unit-6-throughput",
+          "sectionId": "networks-section-1",
+          "order": 6,
+          "title": "Throughput",
+          "lessons": [
+            {
+              "id": "networks-section-1-unit-6-throughput-lesson-1",
+              "unitId": "networks-section-1-unit-6-throughput",
+              "title": "Learn Throughput",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-6-throughput-lesson-2",
+              "unitId": "networks-section-1-unit-6-throughput",
+              "title": "Practice Throughput",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-6-throughput-lesson-3",
+              "unitId": "networks-section-1-unit-6-throughput",
+              "title": "Review Throughput",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-1-unit-7-clients-and-servers",
+          "sectionId": "networks-section-1",
+          "order": 7,
+          "title": "Clients and servers",
+          "lessons": [
+            {
+              "id": "networks-section-1-unit-7-clients-and-servers-lesson-1",
+              "unitId": "networks-section-1-unit-7-clients-and-servers",
+              "title": "Learn Clients and servers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-7-clients-and-servers-lesson-2",
+              "unitId": "networks-section-1-unit-7-clients-and-servers",
+              "title": "Practice Clients and servers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-7-clients-and-servers-lesson-3",
+              "unitId": "networks-section-1-unit-7-clients-and-servers",
+              "title": "Review Clients and servers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-1-unit-8-protocols",
+          "sectionId": "networks-section-1",
+          "order": 8,
+          "title": "Protocols",
+          "lessons": [
+            {
+              "id": "networks-section-1-unit-8-protocols-lesson-1",
+              "unitId": "networks-section-1-unit-8-protocols",
+              "title": "Learn Protocols",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-8-protocols-lesson-2",
+              "unitId": "networks-section-1-unit-8-protocols",
+              "title": "Practice Protocols",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-8-protocols-lesson-3",
+              "unitId": "networks-section-1-unit-8-protocols",
+              "title": "Review Protocols",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-1-unit-9-encapsulation",
+          "sectionId": "networks-section-1",
+          "order": 9,
+          "title": "Encapsulation",
+          "lessons": [
+            {
+              "id": "networks-section-1-unit-9-encapsulation-lesson-1",
+              "unitId": "networks-section-1-unit-9-encapsulation",
+              "title": "Learn Encapsulation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-9-encapsulation-lesson-2",
+              "unitId": "networks-section-1-unit-9-encapsulation",
+              "title": "Practice Encapsulation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-9-encapsulation-lesson-3",
+              "unitId": "networks-section-1-unit-9-encapsulation",
+              "title": "Review Encapsulation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-1-unit-10-network-vocabulary",
+          "sectionId": "networks-section-1",
+          "order": 10,
+          "title": "Network vocabulary",
+          "lessons": [
+            {
+              "id": "networks-section-1-unit-10-network-vocabulary-lesson-1",
+              "unitId": "networks-section-1-unit-10-network-vocabulary",
+              "title": "Learn Network vocabulary",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-10-network-vocabulary-lesson-2",
+              "unitId": "networks-section-1-unit-10-network-vocabulary",
+              "title": "Practice Network vocabulary",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-1-unit-10-network-vocabulary-lesson-3",
+              "unitId": "networks-section-1-unit-10-network-vocabulary",
+              "title": "Review Network vocabulary",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networks-section-2",
+      "trackId": "networks",
+      "order": 2,
+      "title": "Section 2: Models",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "networks-section-2-unit-1-osi-overview",
+          "sectionId": "networks-section-2",
+          "order": 1,
+          "title": "OSI overview",
+          "lessons": [
+            {
+              "id": "networks-section-2-unit-1-osi-overview-lesson-1",
+              "unitId": "networks-section-2-unit-1-osi-overview",
+              "title": "Learn OSI overview",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-1-osi-overview-lesson-2",
+              "unitId": "networks-section-2-unit-1-osi-overview",
+              "title": "Practice OSI overview",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-1-osi-overview-lesson-3",
+              "unitId": "networks-section-2-unit-1-osi-overview",
+              "title": "Review OSI overview",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-2-unit-2-tcp-ip-overview",
+          "sectionId": "networks-section-2",
+          "order": 2,
+          "title": "TCP/IP overview",
+          "lessons": [
+            {
+              "id": "networks-section-2-unit-2-tcp-ip-overview-lesson-1",
+              "unitId": "networks-section-2-unit-2-tcp-ip-overview",
+              "title": "Learn TCP/IP overview",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-2-tcp-ip-overview-lesson-2",
+              "unitId": "networks-section-2-unit-2-tcp-ip-overview",
+              "title": "Practice TCP/IP overview",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-2-tcp-ip-overview-lesson-3",
+              "unitId": "networks-section-2-unit-2-tcp-ip-overview",
+              "title": "Review TCP/IP overview",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-2-unit-3-application-layer",
+          "sectionId": "networks-section-2",
+          "order": 3,
+          "title": "Application layer",
+          "lessons": [
+            {
+              "id": "networks-section-2-unit-3-application-layer-lesson-1",
+              "unitId": "networks-section-2-unit-3-application-layer",
+              "title": "Learn Application layer",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-3-application-layer-lesson-2",
+              "unitId": "networks-section-2-unit-3-application-layer",
+              "title": "Practice Application layer",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-3-application-layer-lesson-3",
+              "unitId": "networks-section-2-unit-3-application-layer",
+              "title": "Review Application layer",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-2-unit-4-transport-layer",
+          "sectionId": "networks-section-2",
+          "order": 4,
+          "title": "Transport layer",
+          "lessons": [
+            {
+              "id": "networks-section-2-unit-4-transport-layer-lesson-1",
+              "unitId": "networks-section-2-unit-4-transport-layer",
+              "title": "Learn Transport layer",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-4-transport-layer-lesson-2",
+              "unitId": "networks-section-2-unit-4-transport-layer",
+              "title": "Practice Transport layer",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-4-transport-layer-lesson-3",
+              "unitId": "networks-section-2-unit-4-transport-layer",
+              "title": "Review Transport layer",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-2-unit-5-network-layer",
+          "sectionId": "networks-section-2",
+          "order": 5,
+          "title": "Network layer",
+          "lessons": [
+            {
+              "id": "networks-section-2-unit-5-network-layer-lesson-1",
+              "unitId": "networks-section-2-unit-5-network-layer",
+              "title": "Learn Network layer",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-5-network-layer-lesson-2",
+              "unitId": "networks-section-2-unit-5-network-layer",
+              "title": "Practice Network layer",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-5-network-layer-lesson-3",
+              "unitId": "networks-section-2-unit-5-network-layer",
+              "title": "Review Network layer",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-2-unit-6-link-layer",
+          "sectionId": "networks-section-2",
+          "order": 6,
+          "title": "Link layer",
+          "lessons": [
+            {
+              "id": "networks-section-2-unit-6-link-layer-lesson-1",
+              "unitId": "networks-section-2-unit-6-link-layer",
+              "title": "Learn Link layer",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-6-link-layer-lesson-2",
+              "unitId": "networks-section-2-unit-6-link-layer",
+              "title": "Practice Link layer",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-6-link-layer-lesson-3",
+              "unitId": "networks-section-2-unit-6-link-layer",
+              "title": "Review Link layer",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-2-unit-7-physical-layer-concept",
+          "sectionId": "networks-section-2",
+          "order": 7,
+          "title": "Physical layer concept",
+          "lessons": [
+            {
+              "id": "networks-section-2-unit-7-physical-layer-concept-lesson-1",
+              "unitId": "networks-section-2-unit-7-physical-layer-concept",
+              "title": "Learn Physical layer concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-7-physical-layer-concept-lesson-2",
+              "unitId": "networks-section-2-unit-7-physical-layer-concept",
+              "title": "Practice Physical layer concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-7-physical-layer-concept-lesson-3",
+              "unitId": "networks-section-2-unit-7-physical-layer-concept",
+              "title": "Review Physical layer concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-2-unit-8-layer-responsibilities",
+          "sectionId": "networks-section-2",
+          "order": 8,
+          "title": "Layer responsibilities",
+          "lessons": [
+            {
+              "id": "networks-section-2-unit-8-layer-responsibilities-lesson-1",
+              "unitId": "networks-section-2-unit-8-layer-responsibilities",
+              "title": "Learn Layer responsibilities",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-8-layer-responsibilities-lesson-2",
+              "unitId": "networks-section-2-unit-8-layer-responsibilities",
+              "title": "Practice Layer responsibilities",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-8-layer-responsibilities-lesson-3",
+              "unitId": "networks-section-2-unit-8-layer-responsibilities",
+              "title": "Review Layer responsibilities",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-2-unit-9-encapsulation-drills",
+          "sectionId": "networks-section-2",
+          "order": 9,
+          "title": "Encapsulation drills",
+          "lessons": [
+            {
+              "id": "networks-section-2-unit-9-encapsulation-drills-lesson-1",
+              "unitId": "networks-section-2-unit-9-encapsulation-drills",
+              "title": "Learn Encapsulation drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-9-encapsulation-drills-lesson-2",
+              "unitId": "networks-section-2-unit-9-encapsulation-drills",
+              "title": "Practice Encapsulation drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-9-encapsulation-drills-lesson-3",
+              "unitId": "networks-section-2-unit-9-encapsulation-drills",
+              "title": "Review Encapsulation drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-2-unit-10-model-comparison",
+          "sectionId": "networks-section-2",
+          "order": 10,
+          "title": "Model comparison",
+          "lessons": [
+            {
+              "id": "networks-section-2-unit-10-model-comparison-lesson-1",
+              "unitId": "networks-section-2-unit-10-model-comparison",
+              "title": "Learn Model comparison",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-10-model-comparison-lesson-2",
+              "unitId": "networks-section-2-unit-10-model-comparison",
+              "title": "Practice Model comparison",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-2-unit-10-model-comparison-lesson-3",
+              "unitId": "networks-section-2-unit-10-model-comparison",
+              "title": "Review Model comparison",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networks-section-3",
+      "trackId": "networks",
+      "order": 3,
+      "title": "Section 3: HTTP & HTTPS",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "networks-section-3-unit-1-http-requests",
+          "sectionId": "networks-section-3",
+          "order": 1,
+          "title": "HTTP requests",
+          "lessons": [
+            {
+              "id": "networks-section-3-unit-1-http-requests-lesson-1",
+              "unitId": "networks-section-3-unit-1-http-requests",
+              "title": "Learn HTTP requests",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-1-http-requests-lesson-2",
+              "unitId": "networks-section-3-unit-1-http-requests",
+              "title": "Practice HTTP requests",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-1-http-requests-lesson-3",
+              "unitId": "networks-section-3-unit-1-http-requests",
+              "title": "Review HTTP requests",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-3-unit-2-http-responses",
+          "sectionId": "networks-section-3",
+          "order": 2,
+          "title": "HTTP responses",
+          "lessons": [
+            {
+              "id": "networks-section-3-unit-2-http-responses-lesson-1",
+              "unitId": "networks-section-3-unit-2-http-responses",
+              "title": "Learn HTTP responses",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-2-http-responses-lesson-2",
+              "unitId": "networks-section-3-unit-2-http-responses",
+              "title": "Practice HTTP responses",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-2-http-responses-lesson-3",
+              "unitId": "networks-section-3-unit-2-http-responses",
+              "title": "Review HTTP responses",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-3-unit-3-methods",
+          "sectionId": "networks-section-3",
+          "order": 3,
+          "title": "Methods",
+          "lessons": [
+            {
+              "id": "networks-section-3-unit-3-methods-lesson-1",
+              "unitId": "networks-section-3-unit-3-methods",
+              "title": "Learn Methods",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-3-methods-lesson-2",
+              "unitId": "networks-section-3-unit-3-methods",
+              "title": "Practice Methods",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-3-methods-lesson-3",
+              "unitId": "networks-section-3-unit-3-methods",
+              "title": "Review Methods",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-3-unit-4-status-codes",
+          "sectionId": "networks-section-3",
+          "order": 4,
+          "title": "Status codes",
+          "lessons": [
+            {
+              "id": "networks-section-3-unit-4-status-codes-lesson-1",
+              "unitId": "networks-section-3-unit-4-status-codes",
+              "title": "Learn Status codes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-4-status-codes-lesson-2",
+              "unitId": "networks-section-3-unit-4-status-codes",
+              "title": "Practice Status codes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-4-status-codes-lesson-3",
+              "unitId": "networks-section-3-unit-4-status-codes",
+              "title": "Review Status codes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-3-unit-5-headers",
+          "sectionId": "networks-section-3",
+          "order": 5,
+          "title": "Headers",
+          "lessons": [
+            {
+              "id": "networks-section-3-unit-5-headers-lesson-1",
+              "unitId": "networks-section-3-unit-5-headers",
+              "title": "Learn Headers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-5-headers-lesson-2",
+              "unitId": "networks-section-3-unit-5-headers",
+              "title": "Practice Headers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-5-headers-lesson-3",
+              "unitId": "networks-section-3-unit-5-headers",
+              "title": "Review Headers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-3-unit-6-cookies",
+          "sectionId": "networks-section-3",
+          "order": 6,
+          "title": "Cookies",
+          "lessons": [
+            {
+              "id": "networks-section-3-unit-6-cookies-lesson-1",
+              "unitId": "networks-section-3-unit-6-cookies",
+              "title": "Learn Cookies",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-6-cookies-lesson-2",
+              "unitId": "networks-section-3-unit-6-cookies",
+              "title": "Practice Cookies",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-6-cookies-lesson-3",
+              "unitId": "networks-section-3-unit-6-cookies",
+              "title": "Review Cookies",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-3-unit-7-caching",
+          "sectionId": "networks-section-3",
+          "order": 7,
+          "title": "Caching",
+          "lessons": [
+            {
+              "id": "networks-section-3-unit-7-caching-lesson-1",
+              "unitId": "networks-section-3-unit-7-caching",
+              "title": "Learn Caching",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-7-caching-lesson-2",
+              "unitId": "networks-section-3-unit-7-caching",
+              "title": "Practice Caching",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-7-caching-lesson-3",
+              "unitId": "networks-section-3-unit-7-caching",
+              "title": "Review Caching",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-3-unit-8-tls-basics",
+          "sectionId": "networks-section-3",
+          "order": 8,
+          "title": "TLS basics",
+          "lessons": [
+            {
+              "id": "networks-section-3-unit-8-tls-basics-lesson-1",
+              "unitId": "networks-section-3-unit-8-tls-basics",
+              "title": "Learn TLS basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-8-tls-basics-lesson-2",
+              "unitId": "networks-section-3-unit-8-tls-basics",
+              "title": "Practice TLS basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-8-tls-basics-lesson-3",
+              "unitId": "networks-section-3-unit-8-tls-basics",
+              "title": "Review TLS basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-3-unit-9-http-2-concept",
+          "sectionId": "networks-section-3",
+          "order": 9,
+          "title": "HTTP/2 concept",
+          "lessons": [
+            {
+              "id": "networks-section-3-unit-9-http-2-concept-lesson-1",
+              "unitId": "networks-section-3-unit-9-http-2-concept",
+              "title": "Learn HTTP/2 concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-9-http-2-concept-lesson-2",
+              "unitId": "networks-section-3-unit-9-http-2-concept",
+              "title": "Practice HTTP/2 concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-9-http-2-concept-lesson-3",
+              "unitId": "networks-section-3-unit-9-http-2-concept",
+              "title": "Review HTTP/2 concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-3-unit-10-http-debugging",
+          "sectionId": "networks-section-3",
+          "order": 10,
+          "title": "HTTP debugging",
+          "lessons": [
+            {
+              "id": "networks-section-3-unit-10-http-debugging-lesson-1",
+              "unitId": "networks-section-3-unit-10-http-debugging",
+              "title": "Learn HTTP debugging",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-10-http-debugging-lesson-2",
+              "unitId": "networks-section-3-unit-10-http-debugging",
+              "title": "Practice HTTP debugging",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-3-unit-10-http-debugging-lesson-3",
+              "unitId": "networks-section-3-unit-10-http-debugging",
+              "title": "Review HTTP debugging",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networks-section-4",
+      "trackId": "networks",
+      "order": 4,
+      "title": "Section 4: DNS",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "networks-section-4-unit-1-domain-names",
+          "sectionId": "networks-section-4",
+          "order": 1,
+          "title": "Domain names",
+          "lessons": [
+            {
+              "id": "networks-section-4-unit-1-domain-names-lesson-1",
+              "unitId": "networks-section-4-unit-1-domain-names",
+              "title": "Learn Domain names",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-1-domain-names-lesson-2",
+              "unitId": "networks-section-4-unit-1-domain-names",
+              "title": "Practice Domain names",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-1-domain-names-lesson-3",
+              "unitId": "networks-section-4-unit-1-domain-names",
+              "title": "Review Domain names",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-4-unit-2-resolvers",
+          "sectionId": "networks-section-4",
+          "order": 2,
+          "title": "Resolvers",
+          "lessons": [
+            {
+              "id": "networks-section-4-unit-2-resolvers-lesson-1",
+              "unitId": "networks-section-4-unit-2-resolvers",
+              "title": "Learn Resolvers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-2-resolvers-lesson-2",
+              "unitId": "networks-section-4-unit-2-resolvers",
+              "title": "Practice Resolvers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-2-resolvers-lesson-3",
+              "unitId": "networks-section-4-unit-2-resolvers",
+              "title": "Review Resolvers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-4-unit-3-root-servers",
+          "sectionId": "networks-section-4",
+          "order": 3,
+          "title": "Root servers",
+          "lessons": [
+            {
+              "id": "networks-section-4-unit-3-root-servers-lesson-1",
+              "unitId": "networks-section-4-unit-3-root-servers",
+              "title": "Learn Root servers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-3-root-servers-lesson-2",
+              "unitId": "networks-section-4-unit-3-root-servers",
+              "title": "Practice Root servers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-3-root-servers-lesson-3",
+              "unitId": "networks-section-4-unit-3-root-servers",
+              "title": "Review Root servers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-4-unit-4-tld-servers",
+          "sectionId": "networks-section-4",
+          "order": 4,
+          "title": "TLD servers",
+          "lessons": [
+            {
+              "id": "networks-section-4-unit-4-tld-servers-lesson-1",
+              "unitId": "networks-section-4-unit-4-tld-servers",
+              "title": "Learn TLD servers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-4-tld-servers-lesson-2",
+              "unitId": "networks-section-4-unit-4-tld-servers",
+              "title": "Practice TLD servers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-4-tld-servers-lesson-3",
+              "unitId": "networks-section-4-unit-4-tld-servers",
+              "title": "Review TLD servers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-4-unit-5-authoritative-servers",
+          "sectionId": "networks-section-4",
+          "order": 5,
+          "title": "Authoritative servers",
+          "lessons": [
+            {
+              "id": "networks-section-4-unit-5-authoritative-servers-lesson-1",
+              "unitId": "networks-section-4-unit-5-authoritative-servers",
+              "title": "Learn Authoritative servers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-5-authoritative-servers-lesson-2",
+              "unitId": "networks-section-4-unit-5-authoritative-servers",
+              "title": "Practice Authoritative servers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-5-authoritative-servers-lesson-3",
+              "unitId": "networks-section-4-unit-5-authoritative-servers",
+              "title": "Review Authoritative servers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-4-unit-6-record-types",
+          "sectionId": "networks-section-4",
+          "order": 6,
+          "title": "Record types",
+          "lessons": [
+            {
+              "id": "networks-section-4-unit-6-record-types-lesson-1",
+              "unitId": "networks-section-4-unit-6-record-types",
+              "title": "Learn Record types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-6-record-types-lesson-2",
+              "unitId": "networks-section-4-unit-6-record-types",
+              "title": "Practice Record types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-6-record-types-lesson-3",
+              "unitId": "networks-section-4-unit-6-record-types",
+              "title": "Review Record types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-4-unit-7-ttl",
+          "sectionId": "networks-section-4",
+          "order": 7,
+          "title": "TTL",
+          "lessons": [
+            {
+              "id": "networks-section-4-unit-7-ttl-lesson-1",
+              "unitId": "networks-section-4-unit-7-ttl",
+              "title": "Learn TTL",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-7-ttl-lesson-2",
+              "unitId": "networks-section-4-unit-7-ttl",
+              "title": "Practice TTL",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-7-ttl-lesson-3",
+              "unitId": "networks-section-4-unit-7-ttl",
+              "title": "Review TTL",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-4-unit-8-caching",
+          "sectionId": "networks-section-4",
+          "order": 8,
+          "title": "Caching",
+          "lessons": [
+            {
+              "id": "networks-section-4-unit-8-caching-lesson-1",
+              "unitId": "networks-section-4-unit-8-caching",
+              "title": "Learn Caching",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-8-caching-lesson-2",
+              "unitId": "networks-section-4-unit-8-caching",
+              "title": "Practice Caching",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-8-caching-lesson-3",
+              "unitId": "networks-section-4-unit-8-caching",
+              "title": "Review Caching",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-4-unit-9-dns-lookup-flow",
+          "sectionId": "networks-section-4",
+          "order": 9,
+          "title": "DNS lookup flow",
+          "lessons": [
+            {
+              "id": "networks-section-4-unit-9-dns-lookup-flow-lesson-1",
+              "unitId": "networks-section-4-unit-9-dns-lookup-flow",
+              "title": "Learn DNS lookup flow",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-9-dns-lookup-flow-lesson-2",
+              "unitId": "networks-section-4-unit-9-dns-lookup-flow",
+              "title": "Practice DNS lookup flow",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-9-dns-lookup-flow-lesson-3",
+              "unitId": "networks-section-4-unit-9-dns-lookup-flow",
+              "title": "Review DNS lookup flow",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-4-unit-10-dns-troubleshooting",
+          "sectionId": "networks-section-4",
+          "order": 10,
+          "title": "DNS troubleshooting",
+          "lessons": [
+            {
+              "id": "networks-section-4-unit-10-dns-troubleshooting-lesson-1",
+              "unitId": "networks-section-4-unit-10-dns-troubleshooting",
+              "title": "Learn DNS troubleshooting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-10-dns-troubleshooting-lesson-2",
+              "unitId": "networks-section-4-unit-10-dns-troubleshooting",
+              "title": "Practice DNS troubleshooting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-4-unit-10-dns-troubleshooting-lesson-3",
+              "unitId": "networks-section-4-unit-10-dns-troubleshooting",
+              "title": "Review DNS troubleshooting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networks-section-5",
+      "trackId": "networks",
+      "order": 5,
+      "title": "Section 5: TCP",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "networks-section-5-unit-1-tcp-goals",
+          "sectionId": "networks-section-5",
+          "order": 1,
+          "title": "TCP goals",
+          "lessons": [
+            {
+              "id": "networks-section-5-unit-1-tcp-goals-lesson-1",
+              "unitId": "networks-section-5-unit-1-tcp-goals",
+              "title": "Learn TCP goals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-1-tcp-goals-lesson-2",
+              "unitId": "networks-section-5-unit-1-tcp-goals",
+              "title": "Practice TCP goals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-1-tcp-goals-lesson-3",
+              "unitId": "networks-section-5-unit-1-tcp-goals",
+              "title": "Review TCP goals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-5-unit-2-three-way-handshake",
+          "sectionId": "networks-section-5",
+          "order": 2,
+          "title": "Three-way handshake",
+          "lessons": [
+            {
+              "id": "networks-section-5-unit-2-three-way-handshake-lesson-1",
+              "unitId": "networks-section-5-unit-2-three-way-handshake",
+              "title": "Learn Three-way handshake",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-2-three-way-handshake-lesson-2",
+              "unitId": "networks-section-5-unit-2-three-way-handshake",
+              "title": "Practice Three-way handshake",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-2-three-way-handshake-lesson-3",
+              "unitId": "networks-section-5-unit-2-three-way-handshake",
+              "title": "Review Three-way handshake",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-5-unit-3-sequence-numbers",
+          "sectionId": "networks-section-5",
+          "order": 3,
+          "title": "Sequence numbers",
+          "lessons": [
+            {
+              "id": "networks-section-5-unit-3-sequence-numbers-lesson-1",
+              "unitId": "networks-section-5-unit-3-sequence-numbers",
+              "title": "Learn Sequence numbers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-3-sequence-numbers-lesson-2",
+              "unitId": "networks-section-5-unit-3-sequence-numbers",
+              "title": "Practice Sequence numbers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-3-sequence-numbers-lesson-3",
+              "unitId": "networks-section-5-unit-3-sequence-numbers",
+              "title": "Review Sequence numbers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-5-unit-4-acknowledgements",
+          "sectionId": "networks-section-5",
+          "order": 4,
+          "title": "Acknowledgements",
+          "lessons": [
+            {
+              "id": "networks-section-5-unit-4-acknowledgements-lesson-1",
+              "unitId": "networks-section-5-unit-4-acknowledgements",
+              "title": "Learn Acknowledgements",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-4-acknowledgements-lesson-2",
+              "unitId": "networks-section-5-unit-4-acknowledgements",
+              "title": "Practice Acknowledgements",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-4-acknowledgements-lesson-3",
+              "unitId": "networks-section-5-unit-4-acknowledgements",
+              "title": "Review Acknowledgements",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-5-unit-5-flow-control",
+          "sectionId": "networks-section-5",
+          "order": 5,
+          "title": "Flow control",
+          "lessons": [
+            {
+              "id": "networks-section-5-unit-5-flow-control-lesson-1",
+              "unitId": "networks-section-5-unit-5-flow-control",
+              "title": "Learn Flow control",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-5-flow-control-lesson-2",
+              "unitId": "networks-section-5-unit-5-flow-control",
+              "title": "Practice Flow control",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-5-flow-control-lesson-3",
+              "unitId": "networks-section-5-unit-5-flow-control",
+              "title": "Review Flow control",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-5-unit-6-congestion-control",
+          "sectionId": "networks-section-5",
+          "order": 6,
+          "title": "Congestion control",
+          "lessons": [
+            {
+              "id": "networks-section-5-unit-6-congestion-control-lesson-1",
+              "unitId": "networks-section-5-unit-6-congestion-control",
+              "title": "Learn Congestion control",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-6-congestion-control-lesson-2",
+              "unitId": "networks-section-5-unit-6-congestion-control",
+              "title": "Practice Congestion control",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-6-congestion-control-lesson-3",
+              "unitId": "networks-section-5-unit-6-congestion-control",
+              "title": "Review Congestion control",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-5-unit-7-retransmission",
+          "sectionId": "networks-section-5",
+          "order": 7,
+          "title": "Retransmission",
+          "lessons": [
+            {
+              "id": "networks-section-5-unit-7-retransmission-lesson-1",
+              "unitId": "networks-section-5-unit-7-retransmission",
+              "title": "Learn Retransmission",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-7-retransmission-lesson-2",
+              "unitId": "networks-section-5-unit-7-retransmission",
+              "title": "Practice Retransmission",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-7-retransmission-lesson-3",
+              "unitId": "networks-section-5-unit-7-retransmission",
+              "title": "Review Retransmission",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-5-unit-8-connection-teardown",
+          "sectionId": "networks-section-5",
+          "order": 8,
+          "title": "Connection teardown",
+          "lessons": [
+            {
+              "id": "networks-section-5-unit-8-connection-teardown-lesson-1",
+              "unitId": "networks-section-5-unit-8-connection-teardown",
+              "title": "Learn Connection teardown",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-8-connection-teardown-lesson-2",
+              "unitId": "networks-section-5-unit-8-connection-teardown",
+              "title": "Practice Connection teardown",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-8-connection-teardown-lesson-3",
+              "unitId": "networks-section-5-unit-8-connection-teardown",
+              "title": "Review Connection teardown",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-5-unit-9-tcp-costs",
+          "sectionId": "networks-section-5",
+          "order": 9,
+          "title": "TCP costs",
+          "lessons": [
+            {
+              "id": "networks-section-5-unit-9-tcp-costs-lesson-1",
+              "unitId": "networks-section-5-unit-9-tcp-costs",
+              "title": "Learn TCP costs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-9-tcp-costs-lesson-2",
+              "unitId": "networks-section-5-unit-9-tcp-costs",
+              "title": "Practice TCP costs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-9-tcp-costs-lesson-3",
+              "unitId": "networks-section-5-unit-9-tcp-costs",
+              "title": "Review TCP costs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-5-unit-10-tcp-drills",
+          "sectionId": "networks-section-5",
+          "order": 10,
+          "title": "TCP drills",
+          "lessons": [
+            {
+              "id": "networks-section-5-unit-10-tcp-drills-lesson-1",
+              "unitId": "networks-section-5-unit-10-tcp-drills",
+              "title": "Learn TCP drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-10-tcp-drills-lesson-2",
+              "unitId": "networks-section-5-unit-10-tcp-drills",
+              "title": "Practice TCP drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-5-unit-10-tcp-drills-lesson-3",
+              "unitId": "networks-section-5-unit-10-tcp-drills",
+              "title": "Review TCP drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networks-section-6",
+      "trackId": "networks",
+      "order": 6,
+      "title": "Section 6: UDP",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "networks-section-6-unit-1-udp-goals",
+          "sectionId": "networks-section-6",
+          "order": 1,
+          "title": "UDP goals",
+          "lessons": [
+            {
+              "id": "networks-section-6-unit-1-udp-goals-lesson-1",
+              "unitId": "networks-section-6-unit-1-udp-goals",
+              "title": "Learn UDP goals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-1-udp-goals-lesson-2",
+              "unitId": "networks-section-6-unit-1-udp-goals",
+              "title": "Practice UDP goals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-1-udp-goals-lesson-3",
+              "unitId": "networks-section-6-unit-1-udp-goals",
+              "title": "Review UDP goals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-6-unit-2-datagrams",
+          "sectionId": "networks-section-6",
+          "order": 2,
+          "title": "Datagrams",
+          "lessons": [
+            {
+              "id": "networks-section-6-unit-2-datagrams-lesson-1",
+              "unitId": "networks-section-6-unit-2-datagrams",
+              "title": "Learn Datagrams",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-2-datagrams-lesson-2",
+              "unitId": "networks-section-6-unit-2-datagrams",
+              "title": "Practice Datagrams",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-2-datagrams-lesson-3",
+              "unitId": "networks-section-6-unit-2-datagrams",
+              "title": "Review Datagrams",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-6-unit-3-udp-vs-tcp",
+          "sectionId": "networks-section-6",
+          "order": 3,
+          "title": "UDP vs TCP",
+          "lessons": [
+            {
+              "id": "networks-section-6-unit-3-udp-vs-tcp-lesson-1",
+              "unitId": "networks-section-6-unit-3-udp-vs-tcp",
+              "title": "Learn UDP vs TCP",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-3-udp-vs-tcp-lesson-2",
+              "unitId": "networks-section-6-unit-3-udp-vs-tcp",
+              "title": "Practice UDP vs TCP",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-3-udp-vs-tcp-lesson-3",
+              "unitId": "networks-section-6-unit-3-udp-vs-tcp",
+              "title": "Review UDP vs TCP",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-6-unit-4-loss-tolerance",
+          "sectionId": "networks-section-6",
+          "order": 4,
+          "title": "Loss tolerance",
+          "lessons": [
+            {
+              "id": "networks-section-6-unit-4-loss-tolerance-lesson-1",
+              "unitId": "networks-section-6-unit-4-loss-tolerance",
+              "title": "Learn Loss tolerance",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-4-loss-tolerance-lesson-2",
+              "unitId": "networks-section-6-unit-4-loss-tolerance",
+              "title": "Practice Loss tolerance",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-4-loss-tolerance-lesson-3",
+              "unitId": "networks-section-6-unit-4-loss-tolerance",
+              "title": "Review Loss tolerance",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-6-unit-5-realtime-apps",
+          "sectionId": "networks-section-6",
+          "order": 5,
+          "title": "Realtime apps",
+          "lessons": [
+            {
+              "id": "networks-section-6-unit-5-realtime-apps-lesson-1",
+              "unitId": "networks-section-6-unit-5-realtime-apps",
+              "title": "Learn Realtime apps",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-5-realtime-apps-lesson-2",
+              "unitId": "networks-section-6-unit-5-realtime-apps",
+              "title": "Practice Realtime apps",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-5-realtime-apps-lesson-3",
+              "unitId": "networks-section-6-unit-5-realtime-apps",
+              "title": "Review Realtime apps",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-6-unit-6-dns-over-udp",
+          "sectionId": "networks-section-6",
+          "order": 6,
+          "title": "DNS over UDP",
+          "lessons": [
+            {
+              "id": "networks-section-6-unit-6-dns-over-udp-lesson-1",
+              "unitId": "networks-section-6-unit-6-dns-over-udp",
+              "title": "Learn DNS over UDP",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-6-dns-over-udp-lesson-2",
+              "unitId": "networks-section-6-unit-6-dns-over-udp",
+              "title": "Practice DNS over UDP",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-6-dns-over-udp-lesson-3",
+              "unitId": "networks-section-6-unit-6-dns-over-udp",
+              "title": "Review DNS over UDP",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-6-unit-7-quic-concept",
+          "sectionId": "networks-section-6",
+          "order": 7,
+          "title": "QUIC concept",
+          "lessons": [
+            {
+              "id": "networks-section-6-unit-7-quic-concept-lesson-1",
+              "unitId": "networks-section-6-unit-7-quic-concept",
+              "title": "Learn QUIC concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-7-quic-concept-lesson-2",
+              "unitId": "networks-section-6-unit-7-quic-concept",
+              "title": "Practice QUIC concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-7-quic-concept-lesson-3",
+              "unitId": "networks-section-6-unit-7-quic-concept",
+              "title": "Review QUIC concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-6-unit-8-reliability-on-udp",
+          "sectionId": "networks-section-6",
+          "order": 8,
+          "title": "Reliability on UDP",
+          "lessons": [
+            {
+              "id": "networks-section-6-unit-8-reliability-on-udp-lesson-1",
+              "unitId": "networks-section-6-unit-8-reliability-on-udp",
+              "title": "Learn Reliability on UDP",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-8-reliability-on-udp-lesson-2",
+              "unitId": "networks-section-6-unit-8-reliability-on-udp",
+              "title": "Practice Reliability on UDP",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-8-reliability-on-udp-lesson-3",
+              "unitId": "networks-section-6-unit-8-reliability-on-udp",
+              "title": "Review Reliability on UDP",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-6-unit-9-udp-tradeoffs",
+          "sectionId": "networks-section-6",
+          "order": 9,
+          "title": "UDP tradeoffs",
+          "lessons": [
+            {
+              "id": "networks-section-6-unit-9-udp-tradeoffs-lesson-1",
+              "unitId": "networks-section-6-unit-9-udp-tradeoffs",
+              "title": "Learn UDP tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-9-udp-tradeoffs-lesson-2",
+              "unitId": "networks-section-6-unit-9-udp-tradeoffs",
+              "title": "Practice UDP tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-9-udp-tradeoffs-lesson-3",
+              "unitId": "networks-section-6-unit-9-udp-tradeoffs",
+              "title": "Review UDP tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-6-unit-10-udp-drills",
+          "sectionId": "networks-section-6",
+          "order": 10,
+          "title": "UDP drills",
+          "lessons": [
+            {
+              "id": "networks-section-6-unit-10-udp-drills-lesson-1",
+              "unitId": "networks-section-6-unit-10-udp-drills",
+              "title": "Learn UDP drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-10-udp-drills-lesson-2",
+              "unitId": "networks-section-6-unit-10-udp-drills",
+              "title": "Practice UDP drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-6-unit-10-udp-drills-lesson-3",
+              "unitId": "networks-section-6-unit-10-udp-drills",
+              "title": "Review UDP drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networks-section-7",
+      "trackId": "networks",
+      "order": 7,
+      "title": "Section 7: IP & Routing",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "networks-section-7-unit-1-ip-addresses",
+          "sectionId": "networks-section-7",
+          "order": 1,
+          "title": "IP addresses",
+          "lessons": [
+            {
+              "id": "networks-section-7-unit-1-ip-addresses-lesson-1",
+              "unitId": "networks-section-7-unit-1-ip-addresses",
+              "title": "Learn IP addresses",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-1-ip-addresses-lesson-2",
+              "unitId": "networks-section-7-unit-1-ip-addresses",
+              "title": "Practice IP addresses",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-1-ip-addresses-lesson-3",
+              "unitId": "networks-section-7-unit-1-ip-addresses",
+              "title": "Review IP addresses",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-7-unit-2-subnets",
+          "sectionId": "networks-section-7",
+          "order": 2,
+          "title": "Subnets",
+          "lessons": [
+            {
+              "id": "networks-section-7-unit-2-subnets-lesson-1",
+              "unitId": "networks-section-7-unit-2-subnets",
+              "title": "Learn Subnets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-2-subnets-lesson-2",
+              "unitId": "networks-section-7-unit-2-subnets",
+              "title": "Practice Subnets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-2-subnets-lesson-3",
+              "unitId": "networks-section-7-unit-2-subnets",
+              "title": "Review Subnets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-7-unit-3-cidr",
+          "sectionId": "networks-section-7",
+          "order": 3,
+          "title": "CIDR",
+          "lessons": [
+            {
+              "id": "networks-section-7-unit-3-cidr-lesson-1",
+              "unitId": "networks-section-7-unit-3-cidr",
+              "title": "Learn CIDR",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-3-cidr-lesson-2",
+              "unitId": "networks-section-7-unit-3-cidr",
+              "title": "Practice CIDR",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-3-cidr-lesson-3",
+              "unitId": "networks-section-7-unit-3-cidr",
+              "title": "Review CIDR",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-7-unit-4-gateways",
+          "sectionId": "networks-section-7",
+          "order": 4,
+          "title": "Gateways",
+          "lessons": [
+            {
+              "id": "networks-section-7-unit-4-gateways-lesson-1",
+              "unitId": "networks-section-7-unit-4-gateways",
+              "title": "Learn Gateways",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-4-gateways-lesson-2",
+              "unitId": "networks-section-7-unit-4-gateways",
+              "title": "Practice Gateways",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-4-gateways-lesson-3",
+              "unitId": "networks-section-7-unit-4-gateways",
+              "title": "Review Gateways",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-7-unit-5-routing-tables",
+          "sectionId": "networks-section-7",
+          "order": 5,
+          "title": "Routing tables",
+          "lessons": [
+            {
+              "id": "networks-section-7-unit-5-routing-tables-lesson-1",
+              "unitId": "networks-section-7-unit-5-routing-tables",
+              "title": "Learn Routing tables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-5-routing-tables-lesson-2",
+              "unitId": "networks-section-7-unit-5-routing-tables",
+              "title": "Practice Routing tables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-5-routing-tables-lesson-3",
+              "unitId": "networks-section-7-unit-5-routing-tables",
+              "title": "Review Routing tables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-7-unit-6-nat",
+          "sectionId": "networks-section-7",
+          "order": 6,
+          "title": "NAT",
+          "lessons": [
+            {
+              "id": "networks-section-7-unit-6-nat-lesson-1",
+              "unitId": "networks-section-7-unit-6-nat",
+              "title": "Learn NAT",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-6-nat-lesson-2",
+              "unitId": "networks-section-7-unit-6-nat",
+              "title": "Practice NAT",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-6-nat-lesson-3",
+              "unitId": "networks-section-7-unit-6-nat",
+              "title": "Review NAT",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-7-unit-7-ipv4-vs-ipv6",
+          "sectionId": "networks-section-7",
+          "order": 7,
+          "title": "IPv4 vs IPv6",
+          "lessons": [
+            {
+              "id": "networks-section-7-unit-7-ipv4-vs-ipv6-lesson-1",
+              "unitId": "networks-section-7-unit-7-ipv4-vs-ipv6",
+              "title": "Learn IPv4 vs IPv6",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-7-ipv4-vs-ipv6-lesson-2",
+              "unitId": "networks-section-7-unit-7-ipv4-vs-ipv6",
+              "title": "Practice IPv4 vs IPv6",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-7-ipv4-vs-ipv6-lesson-3",
+              "unitId": "networks-section-7-unit-7-ipv4-vs-ipv6",
+              "title": "Review IPv4 vs IPv6",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-7-unit-8-icmp",
+          "sectionId": "networks-section-7",
+          "order": 8,
+          "title": "ICMP",
+          "lessons": [
+            {
+              "id": "networks-section-7-unit-8-icmp-lesson-1",
+              "unitId": "networks-section-7-unit-8-icmp",
+              "title": "Learn ICMP",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-8-icmp-lesson-2",
+              "unitId": "networks-section-7-unit-8-icmp",
+              "title": "Practice ICMP",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-8-icmp-lesson-3",
+              "unitId": "networks-section-7-unit-8-icmp",
+              "title": "Review ICMP",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-7-unit-9-traceroute-concept",
+          "sectionId": "networks-section-7",
+          "order": 9,
+          "title": "Traceroute concept",
+          "lessons": [
+            {
+              "id": "networks-section-7-unit-9-traceroute-concept-lesson-1",
+              "unitId": "networks-section-7-unit-9-traceroute-concept",
+              "title": "Learn Traceroute concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-9-traceroute-concept-lesson-2",
+              "unitId": "networks-section-7-unit-9-traceroute-concept",
+              "title": "Practice Traceroute concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-9-traceroute-concept-lesson-3",
+              "unitId": "networks-section-7-unit-9-traceroute-concept",
+              "title": "Review Traceroute concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-7-unit-10-routing-drills",
+          "sectionId": "networks-section-7",
+          "order": 10,
+          "title": "Routing drills",
+          "lessons": [
+            {
+              "id": "networks-section-7-unit-10-routing-drills-lesson-1",
+              "unitId": "networks-section-7-unit-10-routing-drills",
+              "title": "Learn Routing drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-10-routing-drills-lesson-2",
+              "unitId": "networks-section-7-unit-10-routing-drills",
+              "title": "Practice Routing drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-7-unit-10-routing-drills-lesson-3",
+              "unitId": "networks-section-7-unit-10-routing-drills",
+              "title": "Review Routing drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networks-section-8",
+      "trackId": "networks",
+      "order": 8,
+      "title": "Section 8: Sockets",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "networks-section-8-unit-1-socket-concept",
+          "sectionId": "networks-section-8",
+          "order": 1,
+          "title": "Socket concept",
+          "lessons": [
+            {
+              "id": "networks-section-8-unit-1-socket-concept-lesson-1",
+              "unitId": "networks-section-8-unit-1-socket-concept",
+              "title": "Learn Socket concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-1-socket-concept-lesson-2",
+              "unitId": "networks-section-8-unit-1-socket-concept",
+              "title": "Practice Socket concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-1-socket-concept-lesson-3",
+              "unitId": "networks-section-8-unit-1-socket-concept",
+              "title": "Review Socket concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-8-unit-2-client-sockets",
+          "sectionId": "networks-section-8",
+          "order": 2,
+          "title": "Client sockets",
+          "lessons": [
+            {
+              "id": "networks-section-8-unit-2-client-sockets-lesson-1",
+              "unitId": "networks-section-8-unit-2-client-sockets",
+              "title": "Learn Client sockets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-2-client-sockets-lesson-2",
+              "unitId": "networks-section-8-unit-2-client-sockets",
+              "title": "Practice Client sockets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-2-client-sockets-lesson-3",
+              "unitId": "networks-section-8-unit-2-client-sockets",
+              "title": "Review Client sockets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-8-unit-3-server-sockets",
+          "sectionId": "networks-section-8",
+          "order": 3,
+          "title": "Server sockets",
+          "lessons": [
+            {
+              "id": "networks-section-8-unit-3-server-sockets-lesson-1",
+              "unitId": "networks-section-8-unit-3-server-sockets",
+              "title": "Learn Server sockets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-3-server-sockets-lesson-2",
+              "unitId": "networks-section-8-unit-3-server-sockets",
+              "title": "Practice Server sockets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-3-server-sockets-lesson-3",
+              "unitId": "networks-section-8-unit-3-server-sockets",
+              "title": "Review Server sockets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-8-unit-4-ports",
+          "sectionId": "networks-section-8",
+          "order": 4,
+          "title": "Ports",
+          "lessons": [
+            {
+              "id": "networks-section-8-unit-4-ports-lesson-1",
+              "unitId": "networks-section-8-unit-4-ports",
+              "title": "Learn Ports",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-4-ports-lesson-2",
+              "unitId": "networks-section-8-unit-4-ports",
+              "title": "Practice Ports",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-4-ports-lesson-3",
+              "unitId": "networks-section-8-unit-4-ports",
+              "title": "Review Ports",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-8-unit-5-binding",
+          "sectionId": "networks-section-8",
+          "order": 5,
+          "title": "Binding",
+          "lessons": [
+            {
+              "id": "networks-section-8-unit-5-binding-lesson-1",
+              "unitId": "networks-section-8-unit-5-binding",
+              "title": "Learn Binding",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-5-binding-lesson-2",
+              "unitId": "networks-section-8-unit-5-binding",
+              "title": "Practice Binding",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-5-binding-lesson-3",
+              "unitId": "networks-section-8-unit-5-binding",
+              "title": "Review Binding",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-8-unit-6-listening",
+          "sectionId": "networks-section-8",
+          "order": 6,
+          "title": "Listening",
+          "lessons": [
+            {
+              "id": "networks-section-8-unit-6-listening-lesson-1",
+              "unitId": "networks-section-8-unit-6-listening",
+              "title": "Learn Listening",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-6-listening-lesson-2",
+              "unitId": "networks-section-8-unit-6-listening",
+              "title": "Practice Listening",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-6-listening-lesson-3",
+              "unitId": "networks-section-8-unit-6-listening",
+              "title": "Review Listening",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-8-unit-7-accepting",
+          "sectionId": "networks-section-8",
+          "order": 7,
+          "title": "Accepting",
+          "lessons": [
+            {
+              "id": "networks-section-8-unit-7-accepting-lesson-1",
+              "unitId": "networks-section-8-unit-7-accepting",
+              "title": "Learn Accepting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-7-accepting-lesson-2",
+              "unitId": "networks-section-8-unit-7-accepting",
+              "title": "Practice Accepting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-7-accepting-lesson-3",
+              "unitId": "networks-section-8-unit-7-accepting",
+              "title": "Review Accepting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-8-unit-8-blocking-io",
+          "sectionId": "networks-section-8",
+          "order": 8,
+          "title": "Blocking IO",
+          "lessons": [
+            {
+              "id": "networks-section-8-unit-8-blocking-io-lesson-1",
+              "unitId": "networks-section-8-unit-8-blocking-io",
+              "title": "Learn Blocking IO",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-8-blocking-io-lesson-2",
+              "unitId": "networks-section-8-unit-8-blocking-io",
+              "title": "Practice Blocking IO",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-8-blocking-io-lesson-3",
+              "unitId": "networks-section-8-unit-8-blocking-io",
+              "title": "Review Blocking IO",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-8-unit-9-socket-errors",
+          "sectionId": "networks-section-8",
+          "order": 9,
+          "title": "Socket errors",
+          "lessons": [
+            {
+              "id": "networks-section-8-unit-9-socket-errors-lesson-1",
+              "unitId": "networks-section-8-unit-9-socket-errors",
+              "title": "Learn Socket errors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-9-socket-errors-lesson-2",
+              "unitId": "networks-section-8-unit-9-socket-errors",
+              "title": "Practice Socket errors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-9-socket-errors-lesson-3",
+              "unitId": "networks-section-8-unit-9-socket-errors",
+              "title": "Review Socket errors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-8-unit-10-socket-project",
+          "sectionId": "networks-section-8",
+          "order": 10,
+          "title": "Socket project",
+          "lessons": [
+            {
+              "id": "networks-section-8-unit-10-socket-project-lesson-1",
+              "unitId": "networks-section-8-unit-10-socket-project",
+              "title": "Learn Socket project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-10-socket-project-lesson-2",
+              "unitId": "networks-section-8-unit-10-socket-project",
+              "title": "Practice Socket project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-8-unit-10-socket-project-lesson-3",
+              "unitId": "networks-section-8-unit-10-socket-project",
+              "title": "Review Socket project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networks-section-9",
+      "trackId": "networks",
+      "order": 9,
+      "title": "Section 9: Security",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "networks-section-9-unit-1-tls-certificates",
+          "sectionId": "networks-section-9",
+          "order": 1,
+          "title": "TLS certificates",
+          "lessons": [
+            {
+              "id": "networks-section-9-unit-1-tls-certificates-lesson-1",
+              "unitId": "networks-section-9-unit-1-tls-certificates",
+              "title": "Learn TLS certificates",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-1-tls-certificates-lesson-2",
+              "unitId": "networks-section-9-unit-1-tls-certificates",
+              "title": "Practice TLS certificates",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-1-tls-certificates-lesson-3",
+              "unitId": "networks-section-9-unit-1-tls-certificates",
+              "title": "Review TLS certificates",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-9-unit-2-certificate-chains",
+          "sectionId": "networks-section-9",
+          "order": 2,
+          "title": "Certificate chains",
+          "lessons": [
+            {
+              "id": "networks-section-9-unit-2-certificate-chains-lesson-1",
+              "unitId": "networks-section-9-unit-2-certificate-chains",
+              "title": "Learn Certificate chains",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-2-certificate-chains-lesson-2",
+              "unitId": "networks-section-9-unit-2-certificate-chains",
+              "title": "Practice Certificate chains",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-2-certificate-chains-lesson-3",
+              "unitId": "networks-section-9-unit-2-certificate-chains",
+              "title": "Review Certificate chains",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-9-unit-3-firewalls",
+          "sectionId": "networks-section-9",
+          "order": 3,
+          "title": "Firewalls",
+          "lessons": [
+            {
+              "id": "networks-section-9-unit-3-firewalls-lesson-1",
+              "unitId": "networks-section-9-unit-3-firewalls",
+              "title": "Learn Firewalls",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-3-firewalls-lesson-2",
+              "unitId": "networks-section-9-unit-3-firewalls",
+              "title": "Practice Firewalls",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-3-firewalls-lesson-3",
+              "unitId": "networks-section-9-unit-3-firewalls",
+              "title": "Review Firewalls",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-9-unit-4-vpn-concept",
+          "sectionId": "networks-section-9",
+          "order": 4,
+          "title": "VPN concept",
+          "lessons": [
+            {
+              "id": "networks-section-9-unit-4-vpn-concept-lesson-1",
+              "unitId": "networks-section-9-unit-4-vpn-concept",
+              "title": "Learn VPN concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-4-vpn-concept-lesson-2",
+              "unitId": "networks-section-9-unit-4-vpn-concept",
+              "title": "Practice VPN concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-4-vpn-concept-lesson-3",
+              "unitId": "networks-section-9-unit-4-vpn-concept",
+              "title": "Review VPN concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-9-unit-5-ddos-basics",
+          "sectionId": "networks-section-9",
+          "order": 5,
+          "title": "DDoS basics",
+          "lessons": [
+            {
+              "id": "networks-section-9-unit-5-ddos-basics-lesson-1",
+              "unitId": "networks-section-9-unit-5-ddos-basics",
+              "title": "Learn DDoS basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-5-ddos-basics-lesson-2",
+              "unitId": "networks-section-9-unit-5-ddos-basics",
+              "title": "Practice DDoS basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-5-ddos-basics-lesson-3",
+              "unitId": "networks-section-9-unit-5-ddos-basics",
+              "title": "Review DDoS basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-9-unit-6-cors",
+          "sectionId": "networks-section-9",
+          "order": 6,
+          "title": "CORS",
+          "lessons": [
+            {
+              "id": "networks-section-9-unit-6-cors-lesson-1",
+              "unitId": "networks-section-9-unit-6-cors",
+              "title": "Learn CORS",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-6-cors-lesson-2",
+              "unitId": "networks-section-9-unit-6-cors",
+              "title": "Practice CORS",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-6-cors-lesson-3",
+              "unitId": "networks-section-9-unit-6-cors",
+              "title": "Review CORS",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-9-unit-7-csrf-concept",
+          "sectionId": "networks-section-9",
+          "order": 7,
+          "title": "CSRF concept",
+          "lessons": [
+            {
+              "id": "networks-section-9-unit-7-csrf-concept-lesson-1",
+              "unitId": "networks-section-9-unit-7-csrf-concept",
+              "title": "Learn CSRF concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-7-csrf-concept-lesson-2",
+              "unitId": "networks-section-9-unit-7-csrf-concept",
+              "title": "Practice CSRF concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-7-csrf-concept-lesson-3",
+              "unitId": "networks-section-9-unit-7-csrf-concept",
+              "title": "Review CSRF concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-9-unit-8-secure-headers",
+          "sectionId": "networks-section-9",
+          "order": 8,
+          "title": "Secure headers",
+          "lessons": [
+            {
+              "id": "networks-section-9-unit-8-secure-headers-lesson-1",
+              "unitId": "networks-section-9-unit-8-secure-headers",
+              "title": "Learn Secure headers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-8-secure-headers-lesson-2",
+              "unitId": "networks-section-9-unit-8-secure-headers",
+              "title": "Practice Secure headers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-8-secure-headers-lesson-3",
+              "unitId": "networks-section-9-unit-8-secure-headers",
+              "title": "Review Secure headers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-9-unit-9-network-monitoring",
+          "sectionId": "networks-section-9",
+          "order": 9,
+          "title": "Network monitoring",
+          "lessons": [
+            {
+              "id": "networks-section-9-unit-9-network-monitoring-lesson-1",
+              "unitId": "networks-section-9-unit-9-network-monitoring",
+              "title": "Learn Network monitoring",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-9-network-monitoring-lesson-2",
+              "unitId": "networks-section-9-unit-9-network-monitoring",
+              "title": "Practice Network monitoring",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-9-network-monitoring-lesson-3",
+              "unitId": "networks-section-9-unit-9-network-monitoring",
+              "title": "Review Network monitoring",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-9-unit-10-security-drills",
+          "sectionId": "networks-section-9",
+          "order": 10,
+          "title": "Security drills",
+          "lessons": [
+            {
+              "id": "networks-section-9-unit-10-security-drills-lesson-1",
+              "unitId": "networks-section-9-unit-10-security-drills",
+              "title": "Learn Security drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-10-security-drills-lesson-2",
+              "unitId": "networks-section-9-unit-10-security-drills",
+              "title": "Practice Security drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-9-unit-10-security-drills-lesson-3",
+              "unitId": "networks-section-9-unit-10-security-drills",
+              "title": "Review Security drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networks-section-10",
+      "trackId": "networks",
+      "order": 10,
+      "title": "Section 10: Network Capstones",
+      "bannerColor": "#CE82FF",
+      "units": [
+        {
+          "id": "networks-section-10-unit-1-http-inspector",
+          "sectionId": "networks-section-10",
+          "order": 1,
+          "title": "HTTP inspector",
+          "lessons": [
+            {
+              "id": "networks-section-10-unit-1-http-inspector-lesson-1",
+              "unitId": "networks-section-10-unit-1-http-inspector",
+              "title": "Learn HTTP inspector",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-1-http-inspector-lesson-2",
+              "unitId": "networks-section-10-unit-1-http-inspector",
+              "title": "Practice HTTP inspector",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-1-http-inspector-lesson-3",
+              "unitId": "networks-section-10-unit-1-http-inspector",
+              "title": "Review HTTP inspector",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-10-unit-2-dns-trace",
+          "sectionId": "networks-section-10",
+          "order": 2,
+          "title": "DNS trace",
+          "lessons": [
+            {
+              "id": "networks-section-10-unit-2-dns-trace-lesson-1",
+              "unitId": "networks-section-10-unit-2-dns-trace",
+              "title": "Learn DNS trace",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-2-dns-trace-lesson-2",
+              "unitId": "networks-section-10-unit-2-dns-trace",
+              "title": "Practice DNS trace",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-2-dns-trace-lesson-3",
+              "unitId": "networks-section-10-unit-2-dns-trace",
+              "title": "Review DNS trace",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-10-unit-3-subnet-planner",
+          "sectionId": "networks-section-10",
+          "order": 3,
+          "title": "Subnet planner",
+          "lessons": [
+            {
+              "id": "networks-section-10-unit-3-subnet-planner-lesson-1",
+              "unitId": "networks-section-10-unit-3-subnet-planner",
+              "title": "Learn Subnet planner",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-3-subnet-planner-lesson-2",
+              "unitId": "networks-section-10-unit-3-subnet-planner",
+              "title": "Practice Subnet planner",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-3-subnet-planner-lesson-3",
+              "unitId": "networks-section-10-unit-3-subnet-planner",
+              "title": "Review Subnet planner",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-10-unit-4-socket-chat-intro",
+          "sectionId": "networks-section-10",
+          "order": 4,
+          "title": "Socket chat intro",
+          "lessons": [
+            {
+              "id": "networks-section-10-unit-4-socket-chat-intro-lesson-1",
+              "unitId": "networks-section-10-unit-4-socket-chat-intro",
+              "title": "Learn Socket chat intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-4-socket-chat-intro-lesson-2",
+              "unitId": "networks-section-10-unit-4-socket-chat-intro",
+              "title": "Practice Socket chat intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-4-socket-chat-intro-lesson-3",
+              "unitId": "networks-section-10-unit-4-socket-chat-intro",
+              "title": "Review Socket chat intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-10-unit-5-packet-flow-diagram",
+          "sectionId": "networks-section-10",
+          "order": 5,
+          "title": "Packet flow diagram",
+          "lessons": [
+            {
+              "id": "networks-section-10-unit-5-packet-flow-diagram-lesson-1",
+              "unitId": "networks-section-10-unit-5-packet-flow-diagram",
+              "title": "Learn Packet flow diagram",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-5-packet-flow-diagram-lesson-2",
+              "unitId": "networks-section-10-unit-5-packet-flow-diagram",
+              "title": "Practice Packet flow diagram",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-5-packet-flow-diagram-lesson-3",
+              "unitId": "networks-section-10-unit-5-packet-flow-diagram",
+              "title": "Review Packet flow diagram",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-10-unit-6-latency-analysis",
+          "sectionId": "networks-section-10",
+          "order": 6,
+          "title": "Latency analysis",
+          "lessons": [
+            {
+              "id": "networks-section-10-unit-6-latency-analysis-lesson-1",
+              "unitId": "networks-section-10-unit-6-latency-analysis",
+              "title": "Learn Latency analysis",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-6-latency-analysis-lesson-2",
+              "unitId": "networks-section-10-unit-6-latency-analysis",
+              "title": "Practice Latency analysis",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-6-latency-analysis-lesson-3",
+              "unitId": "networks-section-10-unit-6-latency-analysis",
+              "title": "Review Latency analysis",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-10-unit-7-cache-behavior",
+          "sectionId": "networks-section-10",
+          "order": 7,
+          "title": "Cache behavior",
+          "lessons": [
+            {
+              "id": "networks-section-10-unit-7-cache-behavior-lesson-1",
+              "unitId": "networks-section-10-unit-7-cache-behavior",
+              "title": "Learn Cache behavior",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-7-cache-behavior-lesson-2",
+              "unitId": "networks-section-10-unit-7-cache-behavior",
+              "title": "Practice Cache behavior",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-7-cache-behavior-lesson-3",
+              "unitId": "networks-section-10-unit-7-cache-behavior",
+              "title": "Review Cache behavior",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-10-unit-8-tls-walkthrough",
+          "sectionId": "networks-section-10",
+          "order": 8,
+          "title": "TLS walkthrough",
+          "lessons": [
+            {
+              "id": "networks-section-10-unit-8-tls-walkthrough-lesson-1",
+              "unitId": "networks-section-10-unit-8-tls-walkthrough",
+              "title": "Learn TLS walkthrough",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-8-tls-walkthrough-lesson-2",
+              "unitId": "networks-section-10-unit-8-tls-walkthrough",
+              "title": "Practice TLS walkthrough",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-8-tls-walkthrough-lesson-3",
+              "unitId": "networks-section-10-unit-8-tls-walkthrough",
+              "title": "Review TLS walkthrough",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-10-unit-9-troubleshooting-lab",
+          "sectionId": "networks-section-10",
+          "order": 9,
+          "title": "Troubleshooting lab",
+          "lessons": [
+            {
+              "id": "networks-section-10-unit-9-troubleshooting-lab-lesson-1",
+              "unitId": "networks-section-10-unit-9-troubleshooting-lab",
+              "title": "Learn Troubleshooting lab",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-9-troubleshooting-lab-lesson-2",
+              "unitId": "networks-section-10-unit-9-troubleshooting-lab",
+              "title": "Practice Troubleshooting lab",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-9-troubleshooting-lab-lesson-3",
+              "unitId": "networks-section-10-unit-9-troubleshooting-lab",
+              "title": "Review Troubleshooting lab",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "networks-section-10-unit-10-final-networks-project",
+          "sectionId": "networks-section-10",
+          "order": 10,
+          "title": "Final networks project",
+          "lessons": [
+            {
+              "id": "networks-section-10-unit-10-final-networks-project-lesson-1",
+              "unitId": "networks-section-10-unit-10-final-networks-project",
+              "title": "Learn Final networks project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-10-final-networks-project-lesson-2",
+              "unitId": "networks-section-10-unit-10-final-networks-project",
+              "title": "Practice Final networks project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "networks-section-10-unit-10-final-networks-project-lesson-3",
+              "unitId": "networks-section-10-unit-10-final-networks-project",
+              "title": "Review Final networks project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

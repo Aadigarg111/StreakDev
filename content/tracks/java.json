@@ -1,0 +1,3006 @@
+{
+  "id": "java",
+  "title": "Java",
+  "category": "languages",
+  "icon": "coffee",
+  "color": "#EA2B2B",
+  "description": "Learn Java syntax, OOP, collections, exceptions, and concurrency basics.",
+  "sections": [
+    {
+      "id": "java-section-1",
+      "trackId": "java",
+      "order": 1,
+      "title": "Section 1: Java Foundations",
+      "bannerColor": "#EA2B2B",
+      "units": [
+        {
+          "id": "java-section-1-unit-1-jdk-setup",
+          "sectionId": "java-section-1",
+          "order": 1,
+          "title": "JDK setup",
+          "lessons": [
+            {
+              "id": "java-section-1-unit-1-jdk-setup-lesson-1",
+              "unitId": "java-section-1-unit-1-jdk-setup",
+              "title": "Learn JDK setup",
+              "order": 1,
+              "exerciseIds": [
+                "java-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "java-section-1-unit-1-jdk-setup-lesson-2",
+              "unitId": "java-section-1-unit-1-jdk-setup",
+              "title": "Practice JDK setup",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-1-jdk-setup-lesson-3",
+              "unitId": "java-section-1-unit-1-jdk-setup",
+              "title": "Review JDK setup",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-1-unit-2-hello-java",
+          "sectionId": "java-section-1",
+          "order": 2,
+          "title": "Hello Java",
+          "lessons": [
+            {
+              "id": "java-section-1-unit-2-hello-java-lesson-1",
+              "unitId": "java-section-1-unit-2-hello-java",
+              "title": "Learn Hello Java",
+              "order": 1,
+              "exerciseIds": [
+                "java-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "java-section-1-unit-2-hello-java-lesson-2",
+              "unitId": "java-section-1-unit-2-hello-java",
+              "title": "Practice Hello Java",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-2-hello-java-lesson-3",
+              "unitId": "java-section-1-unit-2-hello-java",
+              "title": "Review Hello Java",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-1-unit-3-classes-and-files",
+          "sectionId": "java-section-1",
+          "order": 3,
+          "title": "Classes and files",
+          "lessons": [
+            {
+              "id": "java-section-1-unit-3-classes-and-files-lesson-1",
+              "unitId": "java-section-1-unit-3-classes-and-files",
+              "title": "Learn Classes and files",
+              "order": 1,
+              "exerciseIds": [
+                "java-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "java-section-1-unit-3-classes-and-files-lesson-2",
+              "unitId": "java-section-1-unit-3-classes-and-files",
+              "title": "Practice Classes and files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-3-classes-and-files-lesson-3",
+              "unitId": "java-section-1-unit-3-classes-and-files",
+              "title": "Review Classes and files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-1-unit-4-variables",
+          "sectionId": "java-section-1",
+          "order": 4,
+          "title": "Variables",
+          "lessons": [
+            {
+              "id": "java-section-1-unit-4-variables-lesson-1",
+              "unitId": "java-section-1-unit-4-variables",
+              "title": "Learn Variables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-4-variables-lesson-2",
+              "unitId": "java-section-1-unit-4-variables",
+              "title": "Practice Variables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-4-variables-lesson-3",
+              "unitId": "java-section-1-unit-4-variables",
+              "title": "Review Variables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-1-unit-5-primitive-types",
+          "sectionId": "java-section-1",
+          "order": 5,
+          "title": "Primitive types",
+          "lessons": [
+            {
+              "id": "java-section-1-unit-5-primitive-types-lesson-1",
+              "unitId": "java-section-1-unit-5-primitive-types",
+              "title": "Learn Primitive types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-5-primitive-types-lesson-2",
+              "unitId": "java-section-1-unit-5-primitive-types",
+              "title": "Practice Primitive types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-5-primitive-types-lesson-3",
+              "unitId": "java-section-1-unit-5-primitive-types",
+              "title": "Review Primitive types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-1-unit-6-strings",
+          "sectionId": "java-section-1",
+          "order": 6,
+          "title": "Strings",
+          "lessons": [
+            {
+              "id": "java-section-1-unit-6-strings-lesson-1",
+              "unitId": "java-section-1-unit-6-strings",
+              "title": "Learn Strings",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-6-strings-lesson-2",
+              "unitId": "java-section-1-unit-6-strings",
+              "title": "Practice Strings",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-6-strings-lesson-3",
+              "unitId": "java-section-1-unit-6-strings",
+              "title": "Review Strings",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-1-unit-7-operators",
+          "sectionId": "java-section-1",
+          "order": 7,
+          "title": "Operators",
+          "lessons": [
+            {
+              "id": "java-section-1-unit-7-operators-lesson-1",
+              "unitId": "java-section-1-unit-7-operators",
+              "title": "Learn Operators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-7-operators-lesson-2",
+              "unitId": "java-section-1-unit-7-operators",
+              "title": "Practice Operators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-7-operators-lesson-3",
+              "unitId": "java-section-1-unit-7-operators",
+              "title": "Review Operators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-1-unit-8-input",
+          "sectionId": "java-section-1",
+          "order": 8,
+          "title": "Input",
+          "lessons": [
+            {
+              "id": "java-section-1-unit-8-input-lesson-1",
+              "unitId": "java-section-1-unit-8-input",
+              "title": "Learn Input",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-8-input-lesson-2",
+              "unitId": "java-section-1-unit-8-input",
+              "title": "Practice Input",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-8-input-lesson-3",
+              "unitId": "java-section-1-unit-8-input",
+              "title": "Review Input",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-1-unit-9-conditionals",
+          "sectionId": "java-section-1",
+          "order": 9,
+          "title": "Conditionals",
+          "lessons": [
+            {
+              "id": "java-section-1-unit-9-conditionals-lesson-1",
+              "unitId": "java-section-1-unit-9-conditionals",
+              "title": "Learn Conditionals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-9-conditionals-lesson-2",
+              "unitId": "java-section-1-unit-9-conditionals",
+              "title": "Practice Conditionals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-9-conditionals-lesson-3",
+              "unitId": "java-section-1-unit-9-conditionals",
+              "title": "Review Conditionals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-1-unit-10-loops",
+          "sectionId": "java-section-1",
+          "order": 10,
+          "title": "Loops",
+          "lessons": [
+            {
+              "id": "java-section-1-unit-10-loops-lesson-1",
+              "unitId": "java-section-1-unit-10-loops",
+              "title": "Learn Loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-10-loops-lesson-2",
+              "unitId": "java-section-1-unit-10-loops",
+              "title": "Practice Loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-1-unit-10-loops-lesson-3",
+              "unitId": "java-section-1-unit-10-loops",
+              "title": "Review Loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "java-section-2",
+      "trackId": "java",
+      "order": 2,
+      "title": "Section 2: Methods",
+      "bannerColor": "#EA2B2B",
+      "units": [
+        {
+          "id": "java-section-2-unit-1-method-syntax",
+          "sectionId": "java-section-2",
+          "order": 1,
+          "title": "Method syntax",
+          "lessons": [
+            {
+              "id": "java-section-2-unit-1-method-syntax-lesson-1",
+              "unitId": "java-section-2-unit-1-method-syntax",
+              "title": "Learn Method syntax",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-1-method-syntax-lesson-2",
+              "unitId": "java-section-2-unit-1-method-syntax",
+              "title": "Practice Method syntax",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-1-method-syntax-lesson-3",
+              "unitId": "java-section-2-unit-1-method-syntax",
+              "title": "Review Method syntax",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-2-unit-2-parameters",
+          "sectionId": "java-section-2",
+          "order": 2,
+          "title": "Parameters",
+          "lessons": [
+            {
+              "id": "java-section-2-unit-2-parameters-lesson-1",
+              "unitId": "java-section-2-unit-2-parameters",
+              "title": "Learn Parameters",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-2-parameters-lesson-2",
+              "unitId": "java-section-2-unit-2-parameters",
+              "title": "Practice Parameters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-2-parameters-lesson-3",
+              "unitId": "java-section-2-unit-2-parameters",
+              "title": "Review Parameters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-2-unit-3-return-values",
+          "sectionId": "java-section-2",
+          "order": 3,
+          "title": "Return values",
+          "lessons": [
+            {
+              "id": "java-section-2-unit-3-return-values-lesson-1",
+              "unitId": "java-section-2-unit-3-return-values",
+              "title": "Learn Return values",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-3-return-values-lesson-2",
+              "unitId": "java-section-2-unit-3-return-values",
+              "title": "Practice Return values",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-3-return-values-lesson-3",
+              "unitId": "java-section-2-unit-3-return-values",
+              "title": "Review Return values",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-2-unit-4-overloading",
+          "sectionId": "java-section-2",
+          "order": 4,
+          "title": "Overloading",
+          "lessons": [
+            {
+              "id": "java-section-2-unit-4-overloading-lesson-1",
+              "unitId": "java-section-2-unit-4-overloading",
+              "title": "Learn Overloading",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-4-overloading-lesson-2",
+              "unitId": "java-section-2-unit-4-overloading",
+              "title": "Practice Overloading",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-4-overloading-lesson-3",
+              "unitId": "java-section-2-unit-4-overloading",
+              "title": "Review Overloading",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-2-unit-5-static-methods",
+          "sectionId": "java-section-2",
+          "order": 5,
+          "title": "Static methods",
+          "lessons": [
+            {
+              "id": "java-section-2-unit-5-static-methods-lesson-1",
+              "unitId": "java-section-2-unit-5-static-methods",
+              "title": "Learn Static methods",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-5-static-methods-lesson-2",
+              "unitId": "java-section-2-unit-5-static-methods",
+              "title": "Practice Static methods",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-5-static-methods-lesson-3",
+              "unitId": "java-section-2-unit-5-static-methods",
+              "title": "Review Static methods",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-2-unit-6-scope",
+          "sectionId": "java-section-2",
+          "order": 6,
+          "title": "Scope",
+          "lessons": [
+            {
+              "id": "java-section-2-unit-6-scope-lesson-1",
+              "unitId": "java-section-2-unit-6-scope",
+              "title": "Learn Scope",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-6-scope-lesson-2",
+              "unitId": "java-section-2-unit-6-scope",
+              "title": "Practice Scope",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-6-scope-lesson-3",
+              "unitId": "java-section-2-unit-6-scope",
+              "title": "Review Scope",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-2-unit-7-recursion",
+          "sectionId": "java-section-2",
+          "order": 7,
+          "title": "Recursion",
+          "lessons": [
+            {
+              "id": "java-section-2-unit-7-recursion-lesson-1",
+              "unitId": "java-section-2-unit-7-recursion",
+              "title": "Learn Recursion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-7-recursion-lesson-2",
+              "unitId": "java-section-2-unit-7-recursion",
+              "title": "Practice Recursion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-7-recursion-lesson-3",
+              "unitId": "java-section-2-unit-7-recursion",
+              "title": "Review Recursion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-2-unit-8-math-library",
+          "sectionId": "java-section-2",
+          "order": 8,
+          "title": "Math library",
+          "lessons": [
+            {
+              "id": "java-section-2-unit-8-math-library-lesson-1",
+              "unitId": "java-section-2-unit-8-math-library",
+              "title": "Learn Math library",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-8-math-library-lesson-2",
+              "unitId": "java-section-2-unit-8-math-library",
+              "title": "Practice Math library",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-8-math-library-lesson-3",
+              "unitId": "java-section-2-unit-8-math-library",
+              "title": "Review Math library",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-2-unit-9-string-methods",
+          "sectionId": "java-section-2",
+          "order": 9,
+          "title": "String methods",
+          "lessons": [
+            {
+              "id": "java-section-2-unit-9-string-methods-lesson-1",
+              "unitId": "java-section-2-unit-9-string-methods",
+              "title": "Learn String methods",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-9-string-methods-lesson-2",
+              "unitId": "java-section-2-unit-9-string-methods",
+              "title": "Practice String methods",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-9-string-methods-lesson-3",
+              "unitId": "java-section-2-unit-9-string-methods",
+              "title": "Review String methods",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-2-unit-10-method-project",
+          "sectionId": "java-section-2",
+          "order": 10,
+          "title": "Method project",
+          "lessons": [
+            {
+              "id": "java-section-2-unit-10-method-project-lesson-1",
+              "unitId": "java-section-2-unit-10-method-project",
+              "title": "Learn Method project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-10-method-project-lesson-2",
+              "unitId": "java-section-2-unit-10-method-project",
+              "title": "Practice Method project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-2-unit-10-method-project-lesson-3",
+              "unitId": "java-section-2-unit-10-method-project",
+              "title": "Review Method project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "java-section-3",
+      "trackId": "java",
+      "order": 3,
+      "title": "Section 3: OOP Fundamentals",
+      "bannerColor": "#EA2B2B",
+      "units": [
+        {
+          "id": "java-section-3-unit-1-classes",
+          "sectionId": "java-section-3",
+          "order": 1,
+          "title": "Classes",
+          "lessons": [
+            {
+              "id": "java-section-3-unit-1-classes-lesson-1",
+              "unitId": "java-section-3-unit-1-classes",
+              "title": "Learn Classes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-1-classes-lesson-2",
+              "unitId": "java-section-3-unit-1-classes",
+              "title": "Practice Classes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-1-classes-lesson-3",
+              "unitId": "java-section-3-unit-1-classes",
+              "title": "Review Classes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-3-unit-2-objects",
+          "sectionId": "java-section-3",
+          "order": 2,
+          "title": "Objects",
+          "lessons": [
+            {
+              "id": "java-section-3-unit-2-objects-lesson-1",
+              "unitId": "java-section-3-unit-2-objects",
+              "title": "Learn Objects",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-2-objects-lesson-2",
+              "unitId": "java-section-3-unit-2-objects",
+              "title": "Practice Objects",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-2-objects-lesson-3",
+              "unitId": "java-section-3-unit-2-objects",
+              "title": "Review Objects",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-3-unit-3-constructors",
+          "sectionId": "java-section-3",
+          "order": 3,
+          "title": "Constructors",
+          "lessons": [
+            {
+              "id": "java-section-3-unit-3-constructors-lesson-1",
+              "unitId": "java-section-3-unit-3-constructors",
+              "title": "Learn Constructors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-3-constructors-lesson-2",
+              "unitId": "java-section-3-unit-3-constructors",
+              "title": "Practice Constructors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-3-constructors-lesson-3",
+              "unitId": "java-section-3-unit-3-constructors",
+              "title": "Review Constructors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-3-unit-4-fields",
+          "sectionId": "java-section-3",
+          "order": 4,
+          "title": "Fields",
+          "lessons": [
+            {
+              "id": "java-section-3-unit-4-fields-lesson-1",
+              "unitId": "java-section-3-unit-4-fields",
+              "title": "Learn Fields",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-4-fields-lesson-2",
+              "unitId": "java-section-3-unit-4-fields",
+              "title": "Practice Fields",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-4-fields-lesson-3",
+              "unitId": "java-section-3-unit-4-fields",
+              "title": "Review Fields",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-3-unit-5-methods",
+          "sectionId": "java-section-3",
+          "order": 5,
+          "title": "Methods",
+          "lessons": [
+            {
+              "id": "java-section-3-unit-5-methods-lesson-1",
+              "unitId": "java-section-3-unit-5-methods",
+              "title": "Learn Methods",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-5-methods-lesson-2",
+              "unitId": "java-section-3-unit-5-methods",
+              "title": "Practice Methods",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-5-methods-lesson-3",
+              "unitId": "java-section-3-unit-5-methods",
+              "title": "Review Methods",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-3-unit-6-encapsulation",
+          "sectionId": "java-section-3",
+          "order": 6,
+          "title": "Encapsulation",
+          "lessons": [
+            {
+              "id": "java-section-3-unit-6-encapsulation-lesson-1",
+              "unitId": "java-section-3-unit-6-encapsulation",
+              "title": "Learn Encapsulation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-6-encapsulation-lesson-2",
+              "unitId": "java-section-3-unit-6-encapsulation",
+              "title": "Practice Encapsulation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-6-encapsulation-lesson-3",
+              "unitId": "java-section-3-unit-6-encapsulation",
+              "title": "Review Encapsulation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-3-unit-7-this-keyword",
+          "sectionId": "java-section-3",
+          "order": 7,
+          "title": "this keyword",
+          "lessons": [
+            {
+              "id": "java-section-3-unit-7-this-keyword-lesson-1",
+              "unitId": "java-section-3-unit-7-this-keyword",
+              "title": "Learn this keyword",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-7-this-keyword-lesson-2",
+              "unitId": "java-section-3-unit-7-this-keyword",
+              "title": "Practice this keyword",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-7-this-keyword-lesson-3",
+              "unitId": "java-section-3-unit-7-this-keyword",
+              "title": "Review this keyword",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-3-unit-8-packages",
+          "sectionId": "java-section-3",
+          "order": 8,
+          "title": "Packages",
+          "lessons": [
+            {
+              "id": "java-section-3-unit-8-packages-lesson-1",
+              "unitId": "java-section-3-unit-8-packages",
+              "title": "Learn Packages",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-8-packages-lesson-2",
+              "unitId": "java-section-3-unit-8-packages",
+              "title": "Practice Packages",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-8-packages-lesson-3",
+              "unitId": "java-section-3-unit-8-packages",
+              "title": "Review Packages",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-3-unit-9-access-modifiers",
+          "sectionId": "java-section-3",
+          "order": 9,
+          "title": "Access modifiers",
+          "lessons": [
+            {
+              "id": "java-section-3-unit-9-access-modifiers-lesson-1",
+              "unitId": "java-section-3-unit-9-access-modifiers",
+              "title": "Learn Access modifiers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-9-access-modifiers-lesson-2",
+              "unitId": "java-section-3-unit-9-access-modifiers",
+              "title": "Practice Access modifiers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-9-access-modifiers-lesson-3",
+              "unitId": "java-section-3-unit-9-access-modifiers",
+              "title": "Review Access modifiers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-3-unit-10-oop-project",
+          "sectionId": "java-section-3",
+          "order": 10,
+          "title": "OOP project",
+          "lessons": [
+            {
+              "id": "java-section-3-unit-10-oop-project-lesson-1",
+              "unitId": "java-section-3-unit-10-oop-project",
+              "title": "Learn OOP project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-10-oop-project-lesson-2",
+              "unitId": "java-section-3-unit-10-oop-project",
+              "title": "Practice OOP project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-3-unit-10-oop-project-lesson-3",
+              "unitId": "java-section-3-unit-10-oop-project",
+              "title": "Review OOP project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "java-section-4",
+      "trackId": "java",
+      "order": 4,
+      "title": "Section 4: Inheritance & Polymorphism",
+      "bannerColor": "#EA2B2B",
+      "units": [
+        {
+          "id": "java-section-4-unit-1-inheritance",
+          "sectionId": "java-section-4",
+          "order": 1,
+          "title": "Inheritance",
+          "lessons": [
+            {
+              "id": "java-section-4-unit-1-inheritance-lesson-1",
+              "unitId": "java-section-4-unit-1-inheritance",
+              "title": "Learn Inheritance",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-1-inheritance-lesson-2",
+              "unitId": "java-section-4-unit-1-inheritance",
+              "title": "Practice Inheritance",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-1-inheritance-lesson-3",
+              "unitId": "java-section-4-unit-1-inheritance",
+              "title": "Review Inheritance",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-4-unit-2-super",
+          "sectionId": "java-section-4",
+          "order": 2,
+          "title": "super",
+          "lessons": [
+            {
+              "id": "java-section-4-unit-2-super-lesson-1",
+              "unitId": "java-section-4-unit-2-super",
+              "title": "Learn super",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-2-super-lesson-2",
+              "unitId": "java-section-4-unit-2-super",
+              "title": "Practice super",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-2-super-lesson-3",
+              "unitId": "java-section-4-unit-2-super",
+              "title": "Review super",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-4-unit-3-overriding",
+          "sectionId": "java-section-4",
+          "order": 3,
+          "title": "Overriding",
+          "lessons": [
+            {
+              "id": "java-section-4-unit-3-overriding-lesson-1",
+              "unitId": "java-section-4-unit-3-overriding",
+              "title": "Learn Overriding",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-3-overriding-lesson-2",
+              "unitId": "java-section-4-unit-3-overriding",
+              "title": "Practice Overriding",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-3-overriding-lesson-3",
+              "unitId": "java-section-4-unit-3-overriding",
+              "title": "Review Overriding",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-4-unit-4-polymorphism",
+          "sectionId": "java-section-4",
+          "order": 4,
+          "title": "Polymorphism",
+          "lessons": [
+            {
+              "id": "java-section-4-unit-4-polymorphism-lesson-1",
+              "unitId": "java-section-4-unit-4-polymorphism",
+              "title": "Learn Polymorphism",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-4-polymorphism-lesson-2",
+              "unitId": "java-section-4-unit-4-polymorphism",
+              "title": "Practice Polymorphism",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-4-polymorphism-lesson-3",
+              "unitId": "java-section-4-unit-4-polymorphism",
+              "title": "Review Polymorphism",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-4-unit-5-abstract-classes",
+          "sectionId": "java-section-4",
+          "order": 5,
+          "title": "Abstract classes",
+          "lessons": [
+            {
+              "id": "java-section-4-unit-5-abstract-classes-lesson-1",
+              "unitId": "java-section-4-unit-5-abstract-classes",
+              "title": "Learn Abstract classes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-5-abstract-classes-lesson-2",
+              "unitId": "java-section-4-unit-5-abstract-classes",
+              "title": "Practice Abstract classes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-5-abstract-classes-lesson-3",
+              "unitId": "java-section-4-unit-5-abstract-classes",
+              "title": "Review Abstract classes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-4-unit-6-interfaces",
+          "sectionId": "java-section-4",
+          "order": 6,
+          "title": "Interfaces",
+          "lessons": [
+            {
+              "id": "java-section-4-unit-6-interfaces-lesson-1",
+              "unitId": "java-section-4-unit-6-interfaces",
+              "title": "Learn Interfaces",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-6-interfaces-lesson-2",
+              "unitId": "java-section-4-unit-6-interfaces",
+              "title": "Practice Interfaces",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-6-interfaces-lesson-3",
+              "unitId": "java-section-4-unit-6-interfaces",
+              "title": "Review Interfaces",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-4-unit-7-composition",
+          "sectionId": "java-section-4",
+          "order": 7,
+          "title": "Composition",
+          "lessons": [
+            {
+              "id": "java-section-4-unit-7-composition-lesson-1",
+              "unitId": "java-section-4-unit-7-composition",
+              "title": "Learn Composition",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-7-composition-lesson-2",
+              "unitId": "java-section-4-unit-7-composition",
+              "title": "Practice Composition",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-7-composition-lesson-3",
+              "unitId": "java-section-4-unit-7-composition",
+              "title": "Review Composition",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-4-unit-8-final-keyword",
+          "sectionId": "java-section-4",
+          "order": 8,
+          "title": "Final keyword",
+          "lessons": [
+            {
+              "id": "java-section-4-unit-8-final-keyword-lesson-1",
+              "unitId": "java-section-4-unit-8-final-keyword",
+              "title": "Learn Final keyword",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-8-final-keyword-lesson-2",
+              "unitId": "java-section-4-unit-8-final-keyword",
+              "title": "Practice Final keyword",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-8-final-keyword-lesson-3",
+              "unitId": "java-section-4-unit-8-final-keyword",
+              "title": "Review Final keyword",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-4-unit-9-object-class",
+          "sectionId": "java-section-4",
+          "order": 9,
+          "title": "Object class",
+          "lessons": [
+            {
+              "id": "java-section-4-unit-9-object-class-lesson-1",
+              "unitId": "java-section-4-unit-9-object-class",
+              "title": "Learn Object class",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-9-object-class-lesson-2",
+              "unitId": "java-section-4-unit-9-object-class",
+              "title": "Practice Object class",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-9-object-class-lesson-3",
+              "unitId": "java-section-4-unit-9-object-class",
+              "title": "Review Object class",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-4-unit-10-design-practice",
+          "sectionId": "java-section-4",
+          "order": 10,
+          "title": "Design practice",
+          "lessons": [
+            {
+              "id": "java-section-4-unit-10-design-practice-lesson-1",
+              "unitId": "java-section-4-unit-10-design-practice",
+              "title": "Learn Design practice",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-10-design-practice-lesson-2",
+              "unitId": "java-section-4-unit-10-design-practice",
+              "title": "Practice Design practice",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-4-unit-10-design-practice-lesson-3",
+              "unitId": "java-section-4-unit-10-design-practice",
+              "title": "Review Design practice",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "java-section-5",
+      "trackId": "java",
+      "order": 5,
+      "title": "Section 5: Collections",
+      "bannerColor": "#EA2B2B",
+      "units": [
+        {
+          "id": "java-section-5-unit-1-arrays",
+          "sectionId": "java-section-5",
+          "order": 1,
+          "title": "Arrays",
+          "lessons": [
+            {
+              "id": "java-section-5-unit-1-arrays-lesson-1",
+              "unitId": "java-section-5-unit-1-arrays",
+              "title": "Learn Arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-1-arrays-lesson-2",
+              "unitId": "java-section-5-unit-1-arrays",
+              "title": "Practice Arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-1-arrays-lesson-3",
+              "unitId": "java-section-5-unit-1-arrays",
+              "title": "Review Arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-5-unit-2-arraylist",
+          "sectionId": "java-section-5",
+          "order": 2,
+          "title": "ArrayList",
+          "lessons": [
+            {
+              "id": "java-section-5-unit-2-arraylist-lesson-1",
+              "unitId": "java-section-5-unit-2-arraylist",
+              "title": "Learn ArrayList",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-2-arraylist-lesson-2",
+              "unitId": "java-section-5-unit-2-arraylist",
+              "title": "Practice ArrayList",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-2-arraylist-lesson-3",
+              "unitId": "java-section-5-unit-2-arraylist",
+              "title": "Review ArrayList",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-5-unit-3-linkedlist",
+          "sectionId": "java-section-5",
+          "order": 3,
+          "title": "LinkedList",
+          "lessons": [
+            {
+              "id": "java-section-5-unit-3-linkedlist-lesson-1",
+              "unitId": "java-section-5-unit-3-linkedlist",
+              "title": "Learn LinkedList",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-3-linkedlist-lesson-2",
+              "unitId": "java-section-5-unit-3-linkedlist",
+              "title": "Practice LinkedList",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-3-linkedlist-lesson-3",
+              "unitId": "java-section-5-unit-3-linkedlist",
+              "title": "Review LinkedList",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-5-unit-4-hashmap",
+          "sectionId": "java-section-5",
+          "order": 4,
+          "title": "HashMap",
+          "lessons": [
+            {
+              "id": "java-section-5-unit-4-hashmap-lesson-1",
+              "unitId": "java-section-5-unit-4-hashmap",
+              "title": "Learn HashMap",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-4-hashmap-lesson-2",
+              "unitId": "java-section-5-unit-4-hashmap",
+              "title": "Practice HashMap",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-4-hashmap-lesson-3",
+              "unitId": "java-section-5-unit-4-hashmap",
+              "title": "Review HashMap",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-5-unit-5-hashset",
+          "sectionId": "java-section-5",
+          "order": 5,
+          "title": "HashSet",
+          "lessons": [
+            {
+              "id": "java-section-5-unit-5-hashset-lesson-1",
+              "unitId": "java-section-5-unit-5-hashset",
+              "title": "Learn HashSet",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-5-hashset-lesson-2",
+              "unitId": "java-section-5-unit-5-hashset",
+              "title": "Practice HashSet",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-5-hashset-lesson-3",
+              "unitId": "java-section-5-unit-5-hashset",
+              "title": "Review HashSet",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-5-unit-6-iterator",
+          "sectionId": "java-section-5",
+          "order": 6,
+          "title": "Iterator",
+          "lessons": [
+            {
+              "id": "java-section-5-unit-6-iterator-lesson-1",
+              "unitId": "java-section-5-unit-6-iterator",
+              "title": "Learn Iterator",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-6-iterator-lesson-2",
+              "unitId": "java-section-5-unit-6-iterator",
+              "title": "Practice Iterator",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-6-iterator-lesson-3",
+              "unitId": "java-section-5-unit-6-iterator",
+              "title": "Review Iterator",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-5-unit-7-collections-utility",
+          "sectionId": "java-section-5",
+          "order": 7,
+          "title": "Collections utility",
+          "lessons": [
+            {
+              "id": "java-section-5-unit-7-collections-utility-lesson-1",
+              "unitId": "java-section-5-unit-7-collections-utility",
+              "title": "Learn Collections utility",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-7-collections-utility-lesson-2",
+              "unitId": "java-section-5-unit-7-collections-utility",
+              "title": "Practice Collections utility",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-7-collections-utility-lesson-3",
+              "unitId": "java-section-5-unit-7-collections-utility",
+              "title": "Review Collections utility",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-5-unit-8-generics-intro",
+          "sectionId": "java-section-5",
+          "order": 8,
+          "title": "Generics intro",
+          "lessons": [
+            {
+              "id": "java-section-5-unit-8-generics-intro-lesson-1",
+              "unitId": "java-section-5-unit-8-generics-intro",
+              "title": "Learn Generics intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-8-generics-intro-lesson-2",
+              "unitId": "java-section-5-unit-8-generics-intro",
+              "title": "Practice Generics intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-8-generics-intro-lesson-3",
+              "unitId": "java-section-5-unit-8-generics-intro",
+              "title": "Review Generics intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-5-unit-9-comparable",
+          "sectionId": "java-section-5",
+          "order": 9,
+          "title": "Comparable",
+          "lessons": [
+            {
+              "id": "java-section-5-unit-9-comparable-lesson-1",
+              "unitId": "java-section-5-unit-9-comparable",
+              "title": "Learn Comparable",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-9-comparable-lesson-2",
+              "unitId": "java-section-5-unit-9-comparable",
+              "title": "Practice Comparable",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-9-comparable-lesson-3",
+              "unitId": "java-section-5-unit-9-comparable",
+              "title": "Review Comparable",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-5-unit-10-collection-project",
+          "sectionId": "java-section-5",
+          "order": 10,
+          "title": "Collection project",
+          "lessons": [
+            {
+              "id": "java-section-5-unit-10-collection-project-lesson-1",
+              "unitId": "java-section-5-unit-10-collection-project",
+              "title": "Learn Collection project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-10-collection-project-lesson-2",
+              "unitId": "java-section-5-unit-10-collection-project",
+              "title": "Practice Collection project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-5-unit-10-collection-project-lesson-3",
+              "unitId": "java-section-5-unit-10-collection-project",
+              "title": "Review Collection project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "java-section-6",
+      "trackId": "java",
+      "order": 6,
+      "title": "Section 6: Exceptions",
+      "bannerColor": "#EA2B2B",
+      "units": [
+        {
+          "id": "java-section-6-unit-1-exception-types",
+          "sectionId": "java-section-6",
+          "order": 1,
+          "title": "Exception types",
+          "lessons": [
+            {
+              "id": "java-section-6-unit-1-exception-types-lesson-1",
+              "unitId": "java-section-6-unit-1-exception-types",
+              "title": "Learn Exception types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-1-exception-types-lesson-2",
+              "unitId": "java-section-6-unit-1-exception-types",
+              "title": "Practice Exception types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-1-exception-types-lesson-3",
+              "unitId": "java-section-6-unit-1-exception-types",
+              "title": "Review Exception types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-6-unit-2-try-and-catch",
+          "sectionId": "java-section-6",
+          "order": 2,
+          "title": "try and catch",
+          "lessons": [
+            {
+              "id": "java-section-6-unit-2-try-and-catch-lesson-1",
+              "unitId": "java-section-6-unit-2-try-and-catch",
+              "title": "Learn try and catch",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-2-try-and-catch-lesson-2",
+              "unitId": "java-section-6-unit-2-try-and-catch",
+              "title": "Practice try and catch",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-2-try-and-catch-lesson-3",
+              "unitId": "java-section-6-unit-2-try-and-catch",
+              "title": "Review try and catch",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-6-unit-3-finally",
+          "sectionId": "java-section-6",
+          "order": 3,
+          "title": "finally",
+          "lessons": [
+            {
+              "id": "java-section-6-unit-3-finally-lesson-1",
+              "unitId": "java-section-6-unit-3-finally",
+              "title": "Learn finally",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-3-finally-lesson-2",
+              "unitId": "java-section-6-unit-3-finally",
+              "title": "Practice finally",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-3-finally-lesson-3",
+              "unitId": "java-section-6-unit-3-finally",
+              "title": "Review finally",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-6-unit-4-throw",
+          "sectionId": "java-section-6",
+          "order": 4,
+          "title": "throw",
+          "lessons": [
+            {
+              "id": "java-section-6-unit-4-throw-lesson-1",
+              "unitId": "java-section-6-unit-4-throw",
+              "title": "Learn throw",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-4-throw-lesson-2",
+              "unitId": "java-section-6-unit-4-throw",
+              "title": "Practice throw",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-4-throw-lesson-3",
+              "unitId": "java-section-6-unit-4-throw",
+              "title": "Review throw",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-6-unit-5-throws",
+          "sectionId": "java-section-6",
+          "order": 5,
+          "title": "throws",
+          "lessons": [
+            {
+              "id": "java-section-6-unit-5-throws-lesson-1",
+              "unitId": "java-section-6-unit-5-throws",
+              "title": "Learn throws",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-5-throws-lesson-2",
+              "unitId": "java-section-6-unit-5-throws",
+              "title": "Practice throws",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-5-throws-lesson-3",
+              "unitId": "java-section-6-unit-5-throws",
+              "title": "Review throws",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-6-unit-6-custom-exceptions",
+          "sectionId": "java-section-6",
+          "order": 6,
+          "title": "Custom exceptions",
+          "lessons": [
+            {
+              "id": "java-section-6-unit-6-custom-exceptions-lesson-1",
+              "unitId": "java-section-6-unit-6-custom-exceptions",
+              "title": "Learn Custom exceptions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-6-custom-exceptions-lesson-2",
+              "unitId": "java-section-6-unit-6-custom-exceptions",
+              "title": "Practice Custom exceptions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-6-custom-exceptions-lesson-3",
+              "unitId": "java-section-6-unit-6-custom-exceptions",
+              "title": "Review Custom exceptions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-6-unit-7-resource-handling",
+          "sectionId": "java-section-6",
+          "order": 7,
+          "title": "Resource handling",
+          "lessons": [
+            {
+              "id": "java-section-6-unit-7-resource-handling-lesson-1",
+              "unitId": "java-section-6-unit-7-resource-handling",
+              "title": "Learn Resource handling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-7-resource-handling-lesson-2",
+              "unitId": "java-section-6-unit-7-resource-handling",
+              "title": "Practice Resource handling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-7-resource-handling-lesson-3",
+              "unitId": "java-section-6-unit-7-resource-handling",
+              "title": "Review Resource handling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-6-unit-8-validation-errors",
+          "sectionId": "java-section-6",
+          "order": 8,
+          "title": "Validation errors",
+          "lessons": [
+            {
+              "id": "java-section-6-unit-8-validation-errors-lesson-1",
+              "unitId": "java-section-6-unit-8-validation-errors",
+              "title": "Learn Validation errors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-8-validation-errors-lesson-2",
+              "unitId": "java-section-6-unit-8-validation-errors",
+              "title": "Practice Validation errors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-8-validation-errors-lesson-3",
+              "unitId": "java-section-6-unit-8-validation-errors",
+              "title": "Review Validation errors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-6-unit-9-error-design",
+          "sectionId": "java-section-6",
+          "order": 9,
+          "title": "Error design",
+          "lessons": [
+            {
+              "id": "java-section-6-unit-9-error-design-lesson-1",
+              "unitId": "java-section-6-unit-9-error-design",
+              "title": "Learn Error design",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-9-error-design-lesson-2",
+              "unitId": "java-section-6-unit-9-error-design",
+              "title": "Practice Error design",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-9-error-design-lesson-3",
+              "unitId": "java-section-6-unit-9-error-design",
+              "title": "Review Error design",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-6-unit-10-exception-project",
+          "sectionId": "java-section-6",
+          "order": 10,
+          "title": "Exception project",
+          "lessons": [
+            {
+              "id": "java-section-6-unit-10-exception-project-lesson-1",
+              "unitId": "java-section-6-unit-10-exception-project",
+              "title": "Learn Exception project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-10-exception-project-lesson-2",
+              "unitId": "java-section-6-unit-10-exception-project",
+              "title": "Practice Exception project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-6-unit-10-exception-project-lesson-3",
+              "unitId": "java-section-6-unit-10-exception-project",
+              "title": "Review Exception project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "java-section-7",
+      "trackId": "java",
+      "order": 7,
+      "title": "Section 7: Files & Streams",
+      "bannerColor": "#EA2B2B",
+      "units": [
+        {
+          "id": "java-section-7-unit-1-file-class",
+          "sectionId": "java-section-7",
+          "order": 1,
+          "title": "File class",
+          "lessons": [
+            {
+              "id": "java-section-7-unit-1-file-class-lesson-1",
+              "unitId": "java-section-7-unit-1-file-class",
+              "title": "Learn File class",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-1-file-class-lesson-2",
+              "unitId": "java-section-7-unit-1-file-class",
+              "title": "Practice File class",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-1-file-class-lesson-3",
+              "unitId": "java-section-7-unit-1-file-class",
+              "title": "Review File class",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-7-unit-2-reading-files",
+          "sectionId": "java-section-7",
+          "order": 2,
+          "title": "Reading files",
+          "lessons": [
+            {
+              "id": "java-section-7-unit-2-reading-files-lesson-1",
+              "unitId": "java-section-7-unit-2-reading-files",
+              "title": "Learn Reading files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-2-reading-files-lesson-2",
+              "unitId": "java-section-7-unit-2-reading-files",
+              "title": "Practice Reading files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-2-reading-files-lesson-3",
+              "unitId": "java-section-7-unit-2-reading-files",
+              "title": "Review Reading files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-7-unit-3-writing-files",
+          "sectionId": "java-section-7",
+          "order": 3,
+          "title": "Writing files",
+          "lessons": [
+            {
+              "id": "java-section-7-unit-3-writing-files-lesson-1",
+              "unitId": "java-section-7-unit-3-writing-files",
+              "title": "Learn Writing files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-3-writing-files-lesson-2",
+              "unitId": "java-section-7-unit-3-writing-files",
+              "title": "Practice Writing files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-3-writing-files-lesson-3",
+              "unitId": "java-section-7-unit-3-writing-files",
+              "title": "Review Writing files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-7-unit-4-buffered-io",
+          "sectionId": "java-section-7",
+          "order": 4,
+          "title": "Buffered IO",
+          "lessons": [
+            {
+              "id": "java-section-7-unit-4-buffered-io-lesson-1",
+              "unitId": "java-section-7-unit-4-buffered-io",
+              "title": "Learn Buffered IO",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-4-buffered-io-lesson-2",
+              "unitId": "java-section-7-unit-4-buffered-io",
+              "title": "Practice Buffered IO",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-4-buffered-io-lesson-3",
+              "unitId": "java-section-7-unit-4-buffered-io",
+              "title": "Review Buffered IO",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-7-unit-5-serialization-intro",
+          "sectionId": "java-section-7",
+          "order": 5,
+          "title": "Serialization intro",
+          "lessons": [
+            {
+              "id": "java-section-7-unit-5-serialization-intro-lesson-1",
+              "unitId": "java-section-7-unit-5-serialization-intro",
+              "title": "Learn Serialization intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-5-serialization-intro-lesson-2",
+              "unitId": "java-section-7-unit-5-serialization-intro",
+              "title": "Practice Serialization intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-5-serialization-intro-lesson-3",
+              "unitId": "java-section-7-unit-5-serialization-intro",
+              "title": "Review Serialization intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-7-unit-6-streams-intro",
+          "sectionId": "java-section-7",
+          "order": 6,
+          "title": "Streams intro",
+          "lessons": [
+            {
+              "id": "java-section-7-unit-6-streams-intro-lesson-1",
+              "unitId": "java-section-7-unit-6-streams-intro",
+              "title": "Learn Streams intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-6-streams-intro-lesson-2",
+              "unitId": "java-section-7-unit-6-streams-intro",
+              "title": "Practice Streams intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-6-streams-intro-lesson-3",
+              "unitId": "java-section-7-unit-6-streams-intro",
+              "title": "Review Streams intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-7-unit-7-map-and-filter",
+          "sectionId": "java-section-7",
+          "order": 7,
+          "title": "map and filter",
+          "lessons": [
+            {
+              "id": "java-section-7-unit-7-map-and-filter-lesson-1",
+              "unitId": "java-section-7-unit-7-map-and-filter",
+              "title": "Learn map and filter",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-7-map-and-filter-lesson-2",
+              "unitId": "java-section-7-unit-7-map-and-filter",
+              "title": "Practice map and filter",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-7-map-and-filter-lesson-3",
+              "unitId": "java-section-7-unit-7-map-and-filter",
+              "title": "Review map and filter",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-7-unit-8-collectors",
+          "sectionId": "java-section-7",
+          "order": 8,
+          "title": "Collectors",
+          "lessons": [
+            {
+              "id": "java-section-7-unit-8-collectors-lesson-1",
+              "unitId": "java-section-7-unit-8-collectors",
+              "title": "Learn Collectors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-8-collectors-lesson-2",
+              "unitId": "java-section-7-unit-8-collectors",
+              "title": "Practice Collectors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-8-collectors-lesson-3",
+              "unitId": "java-section-7-unit-8-collectors",
+              "title": "Review Collectors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-7-unit-9-lambda-expressions",
+          "sectionId": "java-section-7",
+          "order": 9,
+          "title": "Lambda expressions",
+          "lessons": [
+            {
+              "id": "java-section-7-unit-9-lambda-expressions-lesson-1",
+              "unitId": "java-section-7-unit-9-lambda-expressions",
+              "title": "Learn Lambda expressions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-9-lambda-expressions-lesson-2",
+              "unitId": "java-section-7-unit-9-lambda-expressions",
+              "title": "Practice Lambda expressions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-9-lambda-expressions-lesson-3",
+              "unitId": "java-section-7-unit-9-lambda-expressions",
+              "title": "Review Lambda expressions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-7-unit-10-file-project",
+          "sectionId": "java-section-7",
+          "order": 10,
+          "title": "File project",
+          "lessons": [
+            {
+              "id": "java-section-7-unit-10-file-project-lesson-1",
+              "unitId": "java-section-7-unit-10-file-project",
+              "title": "Learn File project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-10-file-project-lesson-2",
+              "unitId": "java-section-7-unit-10-file-project",
+              "title": "Practice File project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-7-unit-10-file-project-lesson-3",
+              "unitId": "java-section-7-unit-10-file-project",
+              "title": "Review File project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "java-section-8",
+      "trackId": "java",
+      "order": 8,
+      "title": "Section 8: Testing & Tooling",
+      "bannerColor": "#EA2B2B",
+      "units": [
+        {
+          "id": "java-section-8-unit-1-maven-basics",
+          "sectionId": "java-section-8",
+          "order": 1,
+          "title": "Maven basics",
+          "lessons": [
+            {
+              "id": "java-section-8-unit-1-maven-basics-lesson-1",
+              "unitId": "java-section-8-unit-1-maven-basics",
+              "title": "Learn Maven basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-1-maven-basics-lesson-2",
+              "unitId": "java-section-8-unit-1-maven-basics",
+              "title": "Practice Maven basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-1-maven-basics-lesson-3",
+              "unitId": "java-section-8-unit-1-maven-basics",
+              "title": "Review Maven basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-8-unit-2-gradle-basics",
+          "sectionId": "java-section-8",
+          "order": 2,
+          "title": "Gradle basics",
+          "lessons": [
+            {
+              "id": "java-section-8-unit-2-gradle-basics-lesson-1",
+              "unitId": "java-section-8-unit-2-gradle-basics",
+              "title": "Learn Gradle basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-2-gradle-basics-lesson-2",
+              "unitId": "java-section-8-unit-2-gradle-basics",
+              "title": "Practice Gradle basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-2-gradle-basics-lesson-3",
+              "unitId": "java-section-8-unit-2-gradle-basics",
+              "title": "Review Gradle basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-8-unit-3-junit-basics",
+          "sectionId": "java-section-8",
+          "order": 3,
+          "title": "JUnit basics",
+          "lessons": [
+            {
+              "id": "java-section-8-unit-3-junit-basics-lesson-1",
+              "unitId": "java-section-8-unit-3-junit-basics",
+              "title": "Learn JUnit basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-3-junit-basics-lesson-2",
+              "unitId": "java-section-8-unit-3-junit-basics",
+              "title": "Practice JUnit basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-3-junit-basics-lesson-3",
+              "unitId": "java-section-8-unit-3-junit-basics",
+              "title": "Review JUnit basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-8-unit-4-assertions",
+          "sectionId": "java-section-8",
+          "order": 4,
+          "title": "Assertions",
+          "lessons": [
+            {
+              "id": "java-section-8-unit-4-assertions-lesson-1",
+              "unitId": "java-section-8-unit-4-assertions",
+              "title": "Learn Assertions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-4-assertions-lesson-2",
+              "unitId": "java-section-8-unit-4-assertions",
+              "title": "Practice Assertions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-4-assertions-lesson-3",
+              "unitId": "java-section-8-unit-4-assertions",
+              "title": "Review Assertions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-8-unit-5-test-fixtures",
+          "sectionId": "java-section-8",
+          "order": 5,
+          "title": "Test fixtures",
+          "lessons": [
+            {
+              "id": "java-section-8-unit-5-test-fixtures-lesson-1",
+              "unitId": "java-section-8-unit-5-test-fixtures",
+              "title": "Learn Test fixtures",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-5-test-fixtures-lesson-2",
+              "unitId": "java-section-8-unit-5-test-fixtures",
+              "title": "Practice Test fixtures",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-5-test-fixtures-lesson-3",
+              "unitId": "java-section-8-unit-5-test-fixtures",
+              "title": "Review Test fixtures",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-8-unit-6-debugging",
+          "sectionId": "java-section-8",
+          "order": 6,
+          "title": "Debugging",
+          "lessons": [
+            {
+              "id": "java-section-8-unit-6-debugging-lesson-1",
+              "unitId": "java-section-8-unit-6-debugging",
+              "title": "Learn Debugging",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-6-debugging-lesson-2",
+              "unitId": "java-section-8-unit-6-debugging",
+              "title": "Practice Debugging",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-6-debugging-lesson-3",
+              "unitId": "java-section-8-unit-6-debugging",
+              "title": "Review Debugging",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-8-unit-7-formatting",
+          "sectionId": "java-section-8",
+          "order": 7,
+          "title": "Formatting",
+          "lessons": [
+            {
+              "id": "java-section-8-unit-7-formatting-lesson-1",
+              "unitId": "java-section-8-unit-7-formatting",
+              "title": "Learn Formatting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-7-formatting-lesson-2",
+              "unitId": "java-section-8-unit-7-formatting",
+              "title": "Practice Formatting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-7-formatting-lesson-3",
+              "unitId": "java-section-8-unit-7-formatting",
+              "title": "Review Formatting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-8-unit-8-packages",
+          "sectionId": "java-section-8",
+          "order": 8,
+          "title": "Packages",
+          "lessons": [
+            {
+              "id": "java-section-8-unit-8-packages-lesson-1",
+              "unitId": "java-section-8-unit-8-packages",
+              "title": "Learn Packages",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-8-packages-lesson-2",
+              "unitId": "java-section-8-unit-8-packages",
+              "title": "Practice Packages",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-8-packages-lesson-3",
+              "unitId": "java-section-8-unit-8-packages",
+              "title": "Review Packages",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-8-unit-9-jar-basics",
+          "sectionId": "java-section-8",
+          "order": 9,
+          "title": "JAR basics",
+          "lessons": [
+            {
+              "id": "java-section-8-unit-9-jar-basics-lesson-1",
+              "unitId": "java-section-8-unit-9-jar-basics",
+              "title": "Learn JAR basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-9-jar-basics-lesson-2",
+              "unitId": "java-section-8-unit-9-jar-basics",
+              "title": "Practice JAR basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-9-jar-basics-lesson-3",
+              "unitId": "java-section-8-unit-9-jar-basics",
+              "title": "Review JAR basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-8-unit-10-tooling-project",
+          "sectionId": "java-section-8",
+          "order": 10,
+          "title": "Tooling project",
+          "lessons": [
+            {
+              "id": "java-section-8-unit-10-tooling-project-lesson-1",
+              "unitId": "java-section-8-unit-10-tooling-project",
+              "title": "Learn Tooling project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-10-tooling-project-lesson-2",
+              "unitId": "java-section-8-unit-10-tooling-project",
+              "title": "Practice Tooling project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-8-unit-10-tooling-project-lesson-3",
+              "unitId": "java-section-8-unit-10-tooling-project",
+              "title": "Review Tooling project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "java-section-9",
+      "trackId": "java",
+      "order": 9,
+      "title": "Section 9: Multithreading Basics",
+      "bannerColor": "#EA2B2B",
+      "units": [
+        {
+          "id": "java-section-9-unit-1-threads",
+          "sectionId": "java-section-9",
+          "order": 1,
+          "title": "Threads",
+          "lessons": [
+            {
+              "id": "java-section-9-unit-1-threads-lesson-1",
+              "unitId": "java-section-9-unit-1-threads",
+              "title": "Learn Threads",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-1-threads-lesson-2",
+              "unitId": "java-section-9-unit-1-threads",
+              "title": "Practice Threads",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-1-threads-lesson-3",
+              "unitId": "java-section-9-unit-1-threads",
+              "title": "Review Threads",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-9-unit-2-runnable",
+          "sectionId": "java-section-9",
+          "order": 2,
+          "title": "Runnable",
+          "lessons": [
+            {
+              "id": "java-section-9-unit-2-runnable-lesson-1",
+              "unitId": "java-section-9-unit-2-runnable",
+              "title": "Learn Runnable",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-2-runnable-lesson-2",
+              "unitId": "java-section-9-unit-2-runnable",
+              "title": "Practice Runnable",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-2-runnable-lesson-3",
+              "unitId": "java-section-9-unit-2-runnable",
+              "title": "Review Runnable",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-9-unit-3-synchronization",
+          "sectionId": "java-section-9",
+          "order": 3,
+          "title": "Synchronization",
+          "lessons": [
+            {
+              "id": "java-section-9-unit-3-synchronization-lesson-1",
+              "unitId": "java-section-9-unit-3-synchronization",
+              "title": "Learn Synchronization",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-3-synchronization-lesson-2",
+              "unitId": "java-section-9-unit-3-synchronization",
+              "title": "Practice Synchronization",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-3-synchronization-lesson-3",
+              "unitId": "java-section-9-unit-3-synchronization",
+              "title": "Review Synchronization",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-9-unit-4-locks-intro",
+          "sectionId": "java-section-9",
+          "order": 4,
+          "title": "Locks intro",
+          "lessons": [
+            {
+              "id": "java-section-9-unit-4-locks-intro-lesson-1",
+              "unitId": "java-section-9-unit-4-locks-intro",
+              "title": "Learn Locks intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-4-locks-intro-lesson-2",
+              "unitId": "java-section-9-unit-4-locks-intro",
+              "title": "Practice Locks intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-4-locks-intro-lesson-3",
+              "unitId": "java-section-9-unit-4-locks-intro",
+              "title": "Review Locks intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-9-unit-5-executors",
+          "sectionId": "java-section-9",
+          "order": 5,
+          "title": "Executors",
+          "lessons": [
+            {
+              "id": "java-section-9-unit-5-executors-lesson-1",
+              "unitId": "java-section-9-unit-5-executors",
+              "title": "Learn Executors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-5-executors-lesson-2",
+              "unitId": "java-section-9-unit-5-executors",
+              "title": "Practice Executors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-5-executors-lesson-3",
+              "unitId": "java-section-9-unit-5-executors",
+              "title": "Review Executors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-9-unit-6-futures",
+          "sectionId": "java-section-9",
+          "order": 6,
+          "title": "Futures",
+          "lessons": [
+            {
+              "id": "java-section-9-unit-6-futures-lesson-1",
+              "unitId": "java-section-9-unit-6-futures",
+              "title": "Learn Futures",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-6-futures-lesson-2",
+              "unitId": "java-section-9-unit-6-futures",
+              "title": "Practice Futures",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-6-futures-lesson-3",
+              "unitId": "java-section-9-unit-6-futures",
+              "title": "Review Futures",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-9-unit-7-race-conditions",
+          "sectionId": "java-section-9",
+          "order": 7,
+          "title": "Race conditions",
+          "lessons": [
+            {
+              "id": "java-section-9-unit-7-race-conditions-lesson-1",
+              "unitId": "java-section-9-unit-7-race-conditions",
+              "title": "Learn Race conditions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-7-race-conditions-lesson-2",
+              "unitId": "java-section-9-unit-7-race-conditions",
+              "title": "Practice Race conditions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-7-race-conditions-lesson-3",
+              "unitId": "java-section-9-unit-7-race-conditions",
+              "title": "Review Race conditions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-9-unit-8-thread-safety",
+          "sectionId": "java-section-9",
+          "order": 8,
+          "title": "Thread safety",
+          "lessons": [
+            {
+              "id": "java-section-9-unit-8-thread-safety-lesson-1",
+              "unitId": "java-section-9-unit-8-thread-safety",
+              "title": "Learn Thread safety",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-8-thread-safety-lesson-2",
+              "unitId": "java-section-9-unit-8-thread-safety",
+              "title": "Practice Thread safety",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-8-thread-safety-lesson-3",
+              "unitId": "java-section-9-unit-8-thread-safety",
+              "title": "Review Thread safety",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-9-unit-9-concurrent-collections",
+          "sectionId": "java-section-9",
+          "order": 9,
+          "title": "Concurrent collections",
+          "lessons": [
+            {
+              "id": "java-section-9-unit-9-concurrent-collections-lesson-1",
+              "unitId": "java-section-9-unit-9-concurrent-collections",
+              "title": "Learn Concurrent collections",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-9-concurrent-collections-lesson-2",
+              "unitId": "java-section-9-unit-9-concurrent-collections",
+              "title": "Practice Concurrent collections",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-9-concurrent-collections-lesson-3",
+              "unitId": "java-section-9-unit-9-concurrent-collections",
+              "title": "Review Concurrent collections",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-9-unit-10-concurrency-project",
+          "sectionId": "java-section-9",
+          "order": 10,
+          "title": "Concurrency project",
+          "lessons": [
+            {
+              "id": "java-section-9-unit-10-concurrency-project-lesson-1",
+              "unitId": "java-section-9-unit-10-concurrency-project",
+              "title": "Learn Concurrency project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-10-concurrency-project-lesson-2",
+              "unitId": "java-section-9-unit-10-concurrency-project",
+              "title": "Practice Concurrency project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-9-unit-10-concurrency-project-lesson-3",
+              "unitId": "java-section-9-unit-10-concurrency-project",
+              "title": "Review Concurrency project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "java-section-10",
+      "trackId": "java",
+      "order": 10,
+      "title": "Section 10: Java Capstones",
+      "bannerColor": "#EA2B2B",
+      "units": [
+        {
+          "id": "java-section-10-unit-1-bank-account-model",
+          "sectionId": "java-section-10",
+          "order": 1,
+          "title": "Bank account model",
+          "lessons": [
+            {
+              "id": "java-section-10-unit-1-bank-account-model-lesson-1",
+              "unitId": "java-section-10-unit-1-bank-account-model",
+              "title": "Learn Bank account model",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-1-bank-account-model-lesson-2",
+              "unitId": "java-section-10-unit-1-bank-account-model",
+              "title": "Practice Bank account model",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-1-bank-account-model-lesson-3",
+              "unitId": "java-section-10-unit-1-bank-account-model",
+              "title": "Review Bank account model",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-10-unit-2-library-app",
+          "sectionId": "java-section-10",
+          "order": 2,
+          "title": "Library app",
+          "lessons": [
+            {
+              "id": "java-section-10-unit-2-library-app-lesson-1",
+              "unitId": "java-section-10-unit-2-library-app",
+              "title": "Learn Library app",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-2-library-app-lesson-2",
+              "unitId": "java-section-10-unit-2-library-app",
+              "title": "Practice Library app",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-2-library-app-lesson-3",
+              "unitId": "java-section-10-unit-2-library-app",
+              "title": "Review Library app",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-10-unit-3-collections-challenge",
+          "sectionId": "java-section-10",
+          "order": 3,
+          "title": "Collections challenge",
+          "lessons": [
+            {
+              "id": "java-section-10-unit-3-collections-challenge-lesson-1",
+              "unitId": "java-section-10-unit-3-collections-challenge",
+              "title": "Learn Collections challenge",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-3-collections-challenge-lesson-2",
+              "unitId": "java-section-10-unit-3-collections-challenge",
+              "title": "Practice Collections challenge",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-3-collections-challenge-lesson-3",
+              "unitId": "java-section-10-unit-3-collections-challenge",
+              "title": "Review Collections challenge",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-10-unit-4-file-report-tool",
+          "sectionId": "java-section-10",
+          "order": 4,
+          "title": "File report tool",
+          "lessons": [
+            {
+              "id": "java-section-10-unit-4-file-report-tool-lesson-1",
+              "unitId": "java-section-10-unit-4-file-report-tool",
+              "title": "Learn File report tool",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-4-file-report-tool-lesson-2",
+              "unitId": "java-section-10-unit-4-file-report-tool",
+              "title": "Practice File report tool",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-4-file-report-tool-lesson-3",
+              "unitId": "java-section-10-unit-4-file-report-tool",
+              "title": "Review File report tool",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-10-unit-5-rest-client-intro",
+          "sectionId": "java-section-10",
+          "order": 5,
+          "title": "REST client intro",
+          "lessons": [
+            {
+              "id": "java-section-10-unit-5-rest-client-intro-lesson-1",
+              "unitId": "java-section-10-unit-5-rest-client-intro",
+              "title": "Learn REST client intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-5-rest-client-intro-lesson-2",
+              "unitId": "java-section-10-unit-5-rest-client-intro",
+              "title": "Practice REST client intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-5-rest-client-intro-lesson-3",
+              "unitId": "java-section-10-unit-5-rest-client-intro",
+              "title": "Review REST client intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-10-unit-6-junit-suite",
+          "sectionId": "java-section-10",
+          "order": 6,
+          "title": "JUnit suite",
+          "lessons": [
+            {
+              "id": "java-section-10-unit-6-junit-suite-lesson-1",
+              "unitId": "java-section-10-unit-6-junit-suite",
+              "title": "Learn JUnit suite",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-6-junit-suite-lesson-2",
+              "unitId": "java-section-10-unit-6-junit-suite",
+              "title": "Practice JUnit suite",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-6-junit-suite-lesson-3",
+              "unitId": "java-section-10-unit-6-junit-suite",
+              "title": "Review JUnit suite",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-10-unit-7-concurrent-counter",
+          "sectionId": "java-section-10",
+          "order": 7,
+          "title": "Concurrent counter",
+          "lessons": [
+            {
+              "id": "java-section-10-unit-7-concurrent-counter-lesson-1",
+              "unitId": "java-section-10-unit-7-concurrent-counter",
+              "title": "Learn Concurrent counter",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-7-concurrent-counter-lesson-2",
+              "unitId": "java-section-10-unit-7-concurrent-counter",
+              "title": "Practice Concurrent counter",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-7-concurrent-counter-lesson-3",
+              "unitId": "java-section-10-unit-7-concurrent-counter",
+              "title": "Review Concurrent counter",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-10-unit-8-oop-refactor",
+          "sectionId": "java-section-10",
+          "order": 8,
+          "title": "OOP refactor",
+          "lessons": [
+            {
+              "id": "java-section-10-unit-8-oop-refactor-lesson-1",
+              "unitId": "java-section-10-unit-8-oop-refactor",
+              "title": "Learn OOP refactor",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-8-oop-refactor-lesson-2",
+              "unitId": "java-section-10-unit-8-oop-refactor",
+              "title": "Practice OOP refactor",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-8-oop-refactor-lesson-3",
+              "unitId": "java-section-10-unit-8-oop-refactor",
+              "title": "Review OOP refactor",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-10-unit-9-packaging-pass",
+          "sectionId": "java-section-10",
+          "order": 9,
+          "title": "Packaging pass",
+          "lessons": [
+            {
+              "id": "java-section-10-unit-9-packaging-pass-lesson-1",
+              "unitId": "java-section-10-unit-9-packaging-pass",
+              "title": "Learn Packaging pass",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-9-packaging-pass-lesson-2",
+              "unitId": "java-section-10-unit-9-packaging-pass",
+              "title": "Practice Packaging pass",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-9-packaging-pass-lesson-3",
+              "unitId": "java-section-10-unit-9-packaging-pass",
+              "title": "Review Packaging pass",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "java-section-10-unit-10-final-java-project",
+          "sectionId": "java-section-10",
+          "order": 10,
+          "title": "Final Java project",
+          "lessons": [
+            {
+              "id": "java-section-10-unit-10-final-java-project-lesson-1",
+              "unitId": "java-section-10-unit-10-final-java-project",
+              "title": "Learn Final Java project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-10-final-java-project-lesson-2",
+              "unitId": "java-section-10-unit-10-final-java-project",
+              "title": "Practice Final Java project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "java-section-10-unit-10-final-java-project-lesson-3",
+              "unitId": "java-section-10-unit-10-final-java-project",
+              "title": "Review Final Java project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

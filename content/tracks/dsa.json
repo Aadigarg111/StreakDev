@@ -1,0 +1,3006 @@
+{
+  "id": "dsa",
+  "title": "Data Structures & Algorithms",
+  "category": "core-cs",
+  "icon": "network",
+  "color": "#58CC02",
+  "description": "Practice the data structures and problem patterns behind technical interviews.",
+  "sections": [
+    {
+      "id": "dsa-section-1",
+      "trackId": "dsa",
+      "order": 1,
+      "title": "Section 1: Arrays & Strings",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "dsa-section-1-unit-1-array-traversal",
+          "sectionId": "dsa-section-1",
+          "order": 1,
+          "title": "Array traversal",
+          "lessons": [
+            {
+              "id": "dsa-section-1-unit-1-array-traversal-lesson-1",
+              "unitId": "dsa-section-1-unit-1-array-traversal",
+              "title": "Learn Array traversal",
+              "order": 1,
+              "exerciseIds": [
+                "dsa-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "dsa-section-1-unit-1-array-traversal-lesson-2",
+              "unitId": "dsa-section-1-unit-1-array-traversal",
+              "title": "Practice Array traversal",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-1-array-traversal-lesson-3",
+              "unitId": "dsa-section-1-unit-1-array-traversal",
+              "title": "Review Array traversal",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-1-unit-2-two-pointers",
+          "sectionId": "dsa-section-1",
+          "order": 2,
+          "title": "Two pointers",
+          "lessons": [
+            {
+              "id": "dsa-section-1-unit-2-two-pointers-lesson-1",
+              "unitId": "dsa-section-1-unit-2-two-pointers",
+              "title": "Learn Two pointers",
+              "order": 1,
+              "exerciseIds": [
+                "dsa-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "dsa-section-1-unit-2-two-pointers-lesson-2",
+              "unitId": "dsa-section-1-unit-2-two-pointers",
+              "title": "Practice Two pointers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-2-two-pointers-lesson-3",
+              "unitId": "dsa-section-1-unit-2-two-pointers",
+              "title": "Review Two pointers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-1-unit-3-sliding-window",
+          "sectionId": "dsa-section-1",
+          "order": 3,
+          "title": "Sliding window",
+          "lessons": [
+            {
+              "id": "dsa-section-1-unit-3-sliding-window-lesson-1",
+              "unitId": "dsa-section-1-unit-3-sliding-window",
+              "title": "Learn Sliding window",
+              "order": 1,
+              "exerciseIds": [
+                "dsa-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "dsa-section-1-unit-3-sliding-window-lesson-2",
+              "unitId": "dsa-section-1-unit-3-sliding-window",
+              "title": "Practice Sliding window",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-3-sliding-window-lesson-3",
+              "unitId": "dsa-section-1-unit-3-sliding-window",
+              "title": "Review Sliding window",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-1-unit-4-prefix-sums",
+          "sectionId": "dsa-section-1",
+          "order": 4,
+          "title": "Prefix sums",
+          "lessons": [
+            {
+              "id": "dsa-section-1-unit-4-prefix-sums-lesson-1",
+              "unitId": "dsa-section-1-unit-4-prefix-sums",
+              "title": "Learn Prefix sums",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-4-prefix-sums-lesson-2",
+              "unitId": "dsa-section-1-unit-4-prefix-sums",
+              "title": "Practice Prefix sums",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-4-prefix-sums-lesson-3",
+              "unitId": "dsa-section-1-unit-4-prefix-sums",
+              "title": "Review Prefix sums",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-1-unit-5-string-traversal",
+          "sectionId": "dsa-section-1",
+          "order": 5,
+          "title": "String traversal",
+          "lessons": [
+            {
+              "id": "dsa-section-1-unit-5-string-traversal-lesson-1",
+              "unitId": "dsa-section-1-unit-5-string-traversal",
+              "title": "Learn String traversal",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-5-string-traversal-lesson-2",
+              "unitId": "dsa-section-1-unit-5-string-traversal",
+              "title": "Practice String traversal",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-5-string-traversal-lesson-3",
+              "unitId": "dsa-section-1-unit-5-string-traversal",
+              "title": "Review String traversal",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-1-unit-6-string-frequency",
+          "sectionId": "dsa-section-1",
+          "order": 6,
+          "title": "String frequency",
+          "lessons": [
+            {
+              "id": "dsa-section-1-unit-6-string-frequency-lesson-1",
+              "unitId": "dsa-section-1-unit-6-string-frequency",
+              "title": "Learn String frequency",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-6-string-frequency-lesson-2",
+              "unitId": "dsa-section-1-unit-6-string-frequency",
+              "title": "Practice String frequency",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-6-string-frequency-lesson-3",
+              "unitId": "dsa-section-1-unit-6-string-frequency",
+              "title": "Review String frequency",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-1-unit-7-in-place-updates",
+          "sectionId": "dsa-section-1",
+          "order": 7,
+          "title": "In-place updates",
+          "lessons": [
+            {
+              "id": "dsa-section-1-unit-7-in-place-updates-lesson-1",
+              "unitId": "dsa-section-1-unit-7-in-place-updates",
+              "title": "Learn In-place updates",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-7-in-place-updates-lesson-2",
+              "unitId": "dsa-section-1-unit-7-in-place-updates",
+              "title": "Practice In-place updates",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-7-in-place-updates-lesson-3",
+              "unitId": "dsa-section-1-unit-7-in-place-updates",
+              "title": "Review In-place updates",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-1-unit-8-matrix-basics",
+          "sectionId": "dsa-section-1",
+          "order": 8,
+          "title": "Matrix basics",
+          "lessons": [
+            {
+              "id": "dsa-section-1-unit-8-matrix-basics-lesson-1",
+              "unitId": "dsa-section-1-unit-8-matrix-basics",
+              "title": "Learn Matrix basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-8-matrix-basics-lesson-2",
+              "unitId": "dsa-section-1-unit-8-matrix-basics",
+              "title": "Practice Matrix basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-8-matrix-basics-lesson-3",
+              "unitId": "dsa-section-1-unit-8-matrix-basics",
+              "title": "Review Matrix basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-1-unit-9-array-edge-cases",
+          "sectionId": "dsa-section-1",
+          "order": 9,
+          "title": "Array edge cases",
+          "lessons": [
+            {
+              "id": "dsa-section-1-unit-9-array-edge-cases-lesson-1",
+              "unitId": "dsa-section-1-unit-9-array-edge-cases",
+              "title": "Learn Array edge cases",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-9-array-edge-cases-lesson-2",
+              "unitId": "dsa-section-1-unit-9-array-edge-cases",
+              "title": "Practice Array edge cases",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-9-array-edge-cases-lesson-3",
+              "unitId": "dsa-section-1-unit-9-array-edge-cases",
+              "title": "Review Array edge cases",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-1-unit-10-array-challenge-set",
+          "sectionId": "dsa-section-1",
+          "order": 10,
+          "title": "Array challenge set",
+          "lessons": [
+            {
+              "id": "dsa-section-1-unit-10-array-challenge-set-lesson-1",
+              "unitId": "dsa-section-1-unit-10-array-challenge-set",
+              "title": "Learn Array challenge set",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-10-array-challenge-set-lesson-2",
+              "unitId": "dsa-section-1-unit-10-array-challenge-set",
+              "title": "Practice Array challenge set",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-1-unit-10-array-challenge-set-lesson-3",
+              "unitId": "dsa-section-1-unit-10-array-challenge-set",
+              "title": "Review Array challenge set",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsa-section-2",
+      "trackId": "dsa",
+      "order": 2,
+      "title": "Section 2: Linked Lists",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "dsa-section-2-unit-1-node-structure",
+          "sectionId": "dsa-section-2",
+          "order": 1,
+          "title": "Node structure",
+          "lessons": [
+            {
+              "id": "dsa-section-2-unit-1-node-structure-lesson-1",
+              "unitId": "dsa-section-2-unit-1-node-structure",
+              "title": "Learn Node structure",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-1-node-structure-lesson-2",
+              "unitId": "dsa-section-2-unit-1-node-structure",
+              "title": "Practice Node structure",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-1-node-structure-lesson-3",
+              "unitId": "dsa-section-2-unit-1-node-structure",
+              "title": "Review Node structure",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-2-unit-2-traversal",
+          "sectionId": "dsa-section-2",
+          "order": 2,
+          "title": "Traversal",
+          "lessons": [
+            {
+              "id": "dsa-section-2-unit-2-traversal-lesson-1",
+              "unitId": "dsa-section-2-unit-2-traversal",
+              "title": "Learn Traversal",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-2-traversal-lesson-2",
+              "unitId": "dsa-section-2-unit-2-traversal",
+              "title": "Practice Traversal",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-2-traversal-lesson-3",
+              "unitId": "dsa-section-2-unit-2-traversal",
+              "title": "Review Traversal",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-2-unit-3-insertion",
+          "sectionId": "dsa-section-2",
+          "order": 3,
+          "title": "Insertion",
+          "lessons": [
+            {
+              "id": "dsa-section-2-unit-3-insertion-lesson-1",
+              "unitId": "dsa-section-2-unit-3-insertion",
+              "title": "Learn Insertion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-3-insertion-lesson-2",
+              "unitId": "dsa-section-2-unit-3-insertion",
+              "title": "Practice Insertion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-3-insertion-lesson-3",
+              "unitId": "dsa-section-2-unit-3-insertion",
+              "title": "Review Insertion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-2-unit-4-deletion",
+          "sectionId": "dsa-section-2",
+          "order": 4,
+          "title": "Deletion",
+          "lessons": [
+            {
+              "id": "dsa-section-2-unit-4-deletion-lesson-1",
+              "unitId": "dsa-section-2-unit-4-deletion",
+              "title": "Learn Deletion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-4-deletion-lesson-2",
+              "unitId": "dsa-section-2-unit-4-deletion",
+              "title": "Practice Deletion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-4-deletion-lesson-3",
+              "unitId": "dsa-section-2-unit-4-deletion",
+              "title": "Review Deletion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-2-unit-5-dummy-nodes",
+          "sectionId": "dsa-section-2",
+          "order": 5,
+          "title": "Dummy nodes",
+          "lessons": [
+            {
+              "id": "dsa-section-2-unit-5-dummy-nodes-lesson-1",
+              "unitId": "dsa-section-2-unit-5-dummy-nodes",
+              "title": "Learn Dummy nodes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-5-dummy-nodes-lesson-2",
+              "unitId": "dsa-section-2-unit-5-dummy-nodes",
+              "title": "Practice Dummy nodes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-5-dummy-nodes-lesson-3",
+              "unitId": "dsa-section-2-unit-5-dummy-nodes",
+              "title": "Review Dummy nodes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-2-unit-6-fast-and-slow-pointers",
+          "sectionId": "dsa-section-2",
+          "order": 6,
+          "title": "Fast and slow pointers",
+          "lessons": [
+            {
+              "id": "dsa-section-2-unit-6-fast-and-slow-pointers-lesson-1",
+              "unitId": "dsa-section-2-unit-6-fast-and-slow-pointers",
+              "title": "Learn Fast and slow pointers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-6-fast-and-slow-pointers-lesson-2",
+              "unitId": "dsa-section-2-unit-6-fast-and-slow-pointers",
+              "title": "Practice Fast and slow pointers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-6-fast-and-slow-pointers-lesson-3",
+              "unitId": "dsa-section-2-unit-6-fast-and-slow-pointers",
+              "title": "Review Fast and slow pointers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-2-unit-7-reverse-list",
+          "sectionId": "dsa-section-2",
+          "order": 7,
+          "title": "Reverse list",
+          "lessons": [
+            {
+              "id": "dsa-section-2-unit-7-reverse-list-lesson-1",
+              "unitId": "dsa-section-2-unit-7-reverse-list",
+              "title": "Learn Reverse list",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-7-reverse-list-lesson-2",
+              "unitId": "dsa-section-2-unit-7-reverse-list",
+              "title": "Practice Reverse list",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-7-reverse-list-lesson-3",
+              "unitId": "dsa-section-2-unit-7-reverse-list",
+              "title": "Review Reverse list",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-2-unit-8-cycle-detection",
+          "sectionId": "dsa-section-2",
+          "order": 8,
+          "title": "Cycle detection",
+          "lessons": [
+            {
+              "id": "dsa-section-2-unit-8-cycle-detection-lesson-1",
+              "unitId": "dsa-section-2-unit-8-cycle-detection",
+              "title": "Learn Cycle detection",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-8-cycle-detection-lesson-2",
+              "unitId": "dsa-section-2-unit-8-cycle-detection",
+              "title": "Practice Cycle detection",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-8-cycle-detection-lesson-3",
+              "unitId": "dsa-section-2-unit-8-cycle-detection",
+              "title": "Review Cycle detection",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-2-unit-9-merge-lists",
+          "sectionId": "dsa-section-2",
+          "order": 9,
+          "title": "Merge lists",
+          "lessons": [
+            {
+              "id": "dsa-section-2-unit-9-merge-lists-lesson-1",
+              "unitId": "dsa-section-2-unit-9-merge-lists",
+              "title": "Learn Merge lists",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-9-merge-lists-lesson-2",
+              "unitId": "dsa-section-2-unit-9-merge-lists",
+              "title": "Practice Merge lists",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-9-merge-lists-lesson-3",
+              "unitId": "dsa-section-2-unit-9-merge-lists",
+              "title": "Review Merge lists",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-2-unit-10-linked-list-challenges",
+          "sectionId": "dsa-section-2",
+          "order": 10,
+          "title": "Linked list challenges",
+          "lessons": [
+            {
+              "id": "dsa-section-2-unit-10-linked-list-challenges-lesson-1",
+              "unitId": "dsa-section-2-unit-10-linked-list-challenges",
+              "title": "Learn Linked list challenges",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-10-linked-list-challenges-lesson-2",
+              "unitId": "dsa-section-2-unit-10-linked-list-challenges",
+              "title": "Practice Linked list challenges",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-2-unit-10-linked-list-challenges-lesson-3",
+              "unitId": "dsa-section-2-unit-10-linked-list-challenges",
+              "title": "Review Linked list challenges",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsa-section-3",
+      "trackId": "dsa",
+      "order": 3,
+      "title": "Section 3: Stacks & Queues",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "dsa-section-3-unit-1-stack-basics",
+          "sectionId": "dsa-section-3",
+          "order": 1,
+          "title": "Stack basics",
+          "lessons": [
+            {
+              "id": "dsa-section-3-unit-1-stack-basics-lesson-1",
+              "unitId": "dsa-section-3-unit-1-stack-basics",
+              "title": "Learn Stack basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-1-stack-basics-lesson-2",
+              "unitId": "dsa-section-3-unit-1-stack-basics",
+              "title": "Practice Stack basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-1-stack-basics-lesson-3",
+              "unitId": "dsa-section-3-unit-1-stack-basics",
+              "title": "Review Stack basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-3-unit-2-queue-basics",
+          "sectionId": "dsa-section-3",
+          "order": 2,
+          "title": "Queue basics",
+          "lessons": [
+            {
+              "id": "dsa-section-3-unit-2-queue-basics-lesson-1",
+              "unitId": "dsa-section-3-unit-2-queue-basics",
+              "title": "Learn Queue basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-2-queue-basics-lesson-2",
+              "unitId": "dsa-section-3-unit-2-queue-basics",
+              "title": "Practice Queue basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-2-queue-basics-lesson-3",
+              "unitId": "dsa-section-3-unit-2-queue-basics",
+              "title": "Review Queue basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-3-unit-3-deque",
+          "sectionId": "dsa-section-3",
+          "order": 3,
+          "title": "Deque",
+          "lessons": [
+            {
+              "id": "dsa-section-3-unit-3-deque-lesson-1",
+              "unitId": "dsa-section-3-unit-3-deque",
+              "title": "Learn Deque",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-3-deque-lesson-2",
+              "unitId": "dsa-section-3-unit-3-deque",
+              "title": "Practice Deque",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-3-deque-lesson-3",
+              "unitId": "dsa-section-3-unit-3-deque",
+              "title": "Review Deque",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-3-unit-4-monotonic-stack",
+          "sectionId": "dsa-section-3",
+          "order": 4,
+          "title": "Monotonic stack",
+          "lessons": [
+            {
+              "id": "dsa-section-3-unit-4-monotonic-stack-lesson-1",
+              "unitId": "dsa-section-3-unit-4-monotonic-stack",
+              "title": "Learn Monotonic stack",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-4-monotonic-stack-lesson-2",
+              "unitId": "dsa-section-3-unit-4-monotonic-stack",
+              "title": "Practice Monotonic stack",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-4-monotonic-stack-lesson-3",
+              "unitId": "dsa-section-3-unit-4-monotonic-stack",
+              "title": "Review Monotonic stack",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-3-unit-5-valid-parentheses",
+          "sectionId": "dsa-section-3",
+          "order": 5,
+          "title": "Valid parentheses",
+          "lessons": [
+            {
+              "id": "dsa-section-3-unit-5-valid-parentheses-lesson-1",
+              "unitId": "dsa-section-3-unit-5-valid-parentheses",
+              "title": "Learn Valid parentheses",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-5-valid-parentheses-lesson-2",
+              "unitId": "dsa-section-3-unit-5-valid-parentheses",
+              "title": "Practice Valid parentheses",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-5-valid-parentheses-lesson-3",
+              "unitId": "dsa-section-3-unit-5-valid-parentheses",
+              "title": "Review Valid parentheses",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-3-unit-6-next-greater-element",
+          "sectionId": "dsa-section-3",
+          "order": 6,
+          "title": "Next greater element",
+          "lessons": [
+            {
+              "id": "dsa-section-3-unit-6-next-greater-element-lesson-1",
+              "unitId": "dsa-section-3-unit-6-next-greater-element",
+              "title": "Learn Next greater element",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-6-next-greater-element-lesson-2",
+              "unitId": "dsa-section-3-unit-6-next-greater-element",
+              "title": "Practice Next greater element",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-6-next-greater-element-lesson-3",
+              "unitId": "dsa-section-3-unit-6-next-greater-element",
+              "title": "Review Next greater element",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-3-unit-7-queue-simulation",
+          "sectionId": "dsa-section-3",
+          "order": 7,
+          "title": "Queue simulation",
+          "lessons": [
+            {
+              "id": "dsa-section-3-unit-7-queue-simulation-lesson-1",
+              "unitId": "dsa-section-3-unit-7-queue-simulation",
+              "title": "Learn Queue simulation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-7-queue-simulation-lesson-2",
+              "unitId": "dsa-section-3-unit-7-queue-simulation",
+              "title": "Practice Queue simulation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-7-queue-simulation-lesson-3",
+              "unitId": "dsa-section-3-unit-7-queue-simulation",
+              "title": "Review Queue simulation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-3-unit-8-bfs-queue-usage",
+          "sectionId": "dsa-section-3",
+          "order": 8,
+          "title": "BFS queue usage",
+          "lessons": [
+            {
+              "id": "dsa-section-3-unit-8-bfs-queue-usage-lesson-1",
+              "unitId": "dsa-section-3-unit-8-bfs-queue-usage",
+              "title": "Learn BFS queue usage",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-8-bfs-queue-usage-lesson-2",
+              "unitId": "dsa-section-3-unit-8-bfs-queue-usage",
+              "title": "Practice BFS queue usage",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-8-bfs-queue-usage-lesson-3",
+              "unitId": "dsa-section-3-unit-8-bfs-queue-usage",
+              "title": "Review BFS queue usage",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-3-unit-9-stack-recursion",
+          "sectionId": "dsa-section-3",
+          "order": 9,
+          "title": "Stack recursion",
+          "lessons": [
+            {
+              "id": "dsa-section-3-unit-9-stack-recursion-lesson-1",
+              "unitId": "dsa-section-3-unit-9-stack-recursion",
+              "title": "Learn Stack recursion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-9-stack-recursion-lesson-2",
+              "unitId": "dsa-section-3-unit-9-stack-recursion",
+              "title": "Practice Stack recursion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-9-stack-recursion-lesson-3",
+              "unitId": "dsa-section-3-unit-9-stack-recursion",
+              "title": "Review Stack recursion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-3-unit-10-stack-queue-challenges",
+          "sectionId": "dsa-section-3",
+          "order": 10,
+          "title": "Stack queue challenges",
+          "lessons": [
+            {
+              "id": "dsa-section-3-unit-10-stack-queue-challenges-lesson-1",
+              "unitId": "dsa-section-3-unit-10-stack-queue-challenges",
+              "title": "Learn Stack queue challenges",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-10-stack-queue-challenges-lesson-2",
+              "unitId": "dsa-section-3-unit-10-stack-queue-challenges",
+              "title": "Practice Stack queue challenges",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-3-unit-10-stack-queue-challenges-lesson-3",
+              "unitId": "dsa-section-3-unit-10-stack-queue-challenges",
+              "title": "Review Stack queue challenges",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsa-section-4",
+      "trackId": "dsa",
+      "order": 4,
+      "title": "Section 4: Hashing",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "dsa-section-4-unit-1-hash-maps",
+          "sectionId": "dsa-section-4",
+          "order": 1,
+          "title": "Hash maps",
+          "lessons": [
+            {
+              "id": "dsa-section-4-unit-1-hash-maps-lesson-1",
+              "unitId": "dsa-section-4-unit-1-hash-maps",
+              "title": "Learn Hash maps",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-1-hash-maps-lesson-2",
+              "unitId": "dsa-section-4-unit-1-hash-maps",
+              "title": "Practice Hash maps",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-1-hash-maps-lesson-3",
+              "unitId": "dsa-section-4-unit-1-hash-maps",
+              "title": "Review Hash maps",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-4-unit-2-hash-sets",
+          "sectionId": "dsa-section-4",
+          "order": 2,
+          "title": "Hash sets",
+          "lessons": [
+            {
+              "id": "dsa-section-4-unit-2-hash-sets-lesson-1",
+              "unitId": "dsa-section-4-unit-2-hash-sets",
+              "title": "Learn Hash sets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-2-hash-sets-lesson-2",
+              "unitId": "dsa-section-4-unit-2-hash-sets",
+              "title": "Practice Hash sets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-2-hash-sets-lesson-3",
+              "unitId": "dsa-section-4-unit-2-hash-sets",
+              "title": "Review Hash sets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-4-unit-3-frequency-maps",
+          "sectionId": "dsa-section-4",
+          "order": 3,
+          "title": "Frequency maps",
+          "lessons": [
+            {
+              "id": "dsa-section-4-unit-3-frequency-maps-lesson-1",
+              "unitId": "dsa-section-4-unit-3-frequency-maps",
+              "title": "Learn Frequency maps",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-3-frequency-maps-lesson-2",
+              "unitId": "dsa-section-4-unit-3-frequency-maps",
+              "title": "Practice Frequency maps",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-3-frequency-maps-lesson-3",
+              "unitId": "dsa-section-4-unit-3-frequency-maps",
+              "title": "Review Frequency maps",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-4-unit-4-two-sum-pattern",
+          "sectionId": "dsa-section-4",
+          "order": 4,
+          "title": "Two-sum pattern",
+          "lessons": [
+            {
+              "id": "dsa-section-4-unit-4-two-sum-pattern-lesson-1",
+              "unitId": "dsa-section-4-unit-4-two-sum-pattern",
+              "title": "Learn Two-sum pattern",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-4-two-sum-pattern-lesson-2",
+              "unitId": "dsa-section-4-unit-4-two-sum-pattern",
+              "title": "Practice Two-sum pattern",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-4-two-sum-pattern-lesson-3",
+              "unitId": "dsa-section-4-unit-4-two-sum-pattern",
+              "title": "Review Two-sum pattern",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-4-unit-5-grouping",
+          "sectionId": "dsa-section-4",
+          "order": 5,
+          "title": "Grouping",
+          "lessons": [
+            {
+              "id": "dsa-section-4-unit-5-grouping-lesson-1",
+              "unitId": "dsa-section-4-unit-5-grouping",
+              "title": "Learn Grouping",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-5-grouping-lesson-2",
+              "unitId": "dsa-section-4-unit-5-grouping",
+              "title": "Practice Grouping",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-5-grouping-lesson-3",
+              "unitId": "dsa-section-4-unit-5-grouping",
+              "title": "Review Grouping",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-4-unit-6-deduplication",
+          "sectionId": "dsa-section-4",
+          "order": 6,
+          "title": "Deduplication",
+          "lessons": [
+            {
+              "id": "dsa-section-4-unit-6-deduplication-lesson-1",
+              "unitId": "dsa-section-4-unit-6-deduplication",
+              "title": "Learn Deduplication",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-6-deduplication-lesson-2",
+              "unitId": "dsa-section-4-unit-6-deduplication",
+              "title": "Practice Deduplication",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-6-deduplication-lesson-3",
+              "unitId": "dsa-section-4-unit-6-deduplication",
+              "title": "Review Deduplication",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-4-unit-7-prefix-hash",
+          "sectionId": "dsa-section-4",
+          "order": 7,
+          "title": "Prefix hash",
+          "lessons": [
+            {
+              "id": "dsa-section-4-unit-7-prefix-hash-lesson-1",
+              "unitId": "dsa-section-4-unit-7-prefix-hash",
+              "title": "Learn Prefix hash",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-7-prefix-hash-lesson-2",
+              "unitId": "dsa-section-4-unit-7-prefix-hash",
+              "title": "Practice Prefix hash",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-7-prefix-hash-lesson-3",
+              "unitId": "dsa-section-4-unit-7-prefix-hash",
+              "title": "Review Prefix hash",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-4-unit-8-collision-concept",
+          "sectionId": "dsa-section-4",
+          "order": 8,
+          "title": "Collision concept",
+          "lessons": [
+            {
+              "id": "dsa-section-4-unit-8-collision-concept-lesson-1",
+              "unitId": "dsa-section-4-unit-8-collision-concept",
+              "title": "Learn Collision concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-8-collision-concept-lesson-2",
+              "unitId": "dsa-section-4-unit-8-collision-concept",
+              "title": "Practice Collision concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-8-collision-concept-lesson-3",
+              "unitId": "dsa-section-4-unit-8-collision-concept",
+              "title": "Review Collision concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-4-unit-9-hash-tradeoffs",
+          "sectionId": "dsa-section-4",
+          "order": 9,
+          "title": "Hash tradeoffs",
+          "lessons": [
+            {
+              "id": "dsa-section-4-unit-9-hash-tradeoffs-lesson-1",
+              "unitId": "dsa-section-4-unit-9-hash-tradeoffs",
+              "title": "Learn Hash tradeoffs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-9-hash-tradeoffs-lesson-2",
+              "unitId": "dsa-section-4-unit-9-hash-tradeoffs",
+              "title": "Practice Hash tradeoffs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-9-hash-tradeoffs-lesson-3",
+              "unitId": "dsa-section-4-unit-9-hash-tradeoffs",
+              "title": "Review Hash tradeoffs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-4-unit-10-hashing-challenges",
+          "sectionId": "dsa-section-4",
+          "order": 10,
+          "title": "Hashing challenges",
+          "lessons": [
+            {
+              "id": "dsa-section-4-unit-10-hashing-challenges-lesson-1",
+              "unitId": "dsa-section-4-unit-10-hashing-challenges",
+              "title": "Learn Hashing challenges",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-10-hashing-challenges-lesson-2",
+              "unitId": "dsa-section-4-unit-10-hashing-challenges",
+              "title": "Practice Hashing challenges",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-4-unit-10-hashing-challenges-lesson-3",
+              "unitId": "dsa-section-4-unit-10-hashing-challenges",
+              "title": "Review Hashing challenges",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsa-section-5",
+      "trackId": "dsa",
+      "order": 5,
+      "title": "Section 5: Trees",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "dsa-section-5-unit-1-tree-nodes",
+          "sectionId": "dsa-section-5",
+          "order": 1,
+          "title": "Tree nodes",
+          "lessons": [
+            {
+              "id": "dsa-section-5-unit-1-tree-nodes-lesson-1",
+              "unitId": "dsa-section-5-unit-1-tree-nodes",
+              "title": "Learn Tree nodes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-1-tree-nodes-lesson-2",
+              "unitId": "dsa-section-5-unit-1-tree-nodes",
+              "title": "Practice Tree nodes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-1-tree-nodes-lesson-3",
+              "unitId": "dsa-section-5-unit-1-tree-nodes",
+              "title": "Review Tree nodes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-5-unit-2-dfs-traversal",
+          "sectionId": "dsa-section-5",
+          "order": 2,
+          "title": "DFS traversal",
+          "lessons": [
+            {
+              "id": "dsa-section-5-unit-2-dfs-traversal-lesson-1",
+              "unitId": "dsa-section-5-unit-2-dfs-traversal",
+              "title": "Learn DFS traversal",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-2-dfs-traversal-lesson-2",
+              "unitId": "dsa-section-5-unit-2-dfs-traversal",
+              "title": "Practice DFS traversal",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-2-dfs-traversal-lesson-3",
+              "unitId": "dsa-section-5-unit-2-dfs-traversal",
+              "title": "Review DFS traversal",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-5-unit-3-bfs-traversal",
+          "sectionId": "dsa-section-5",
+          "order": 3,
+          "title": "BFS traversal",
+          "lessons": [
+            {
+              "id": "dsa-section-5-unit-3-bfs-traversal-lesson-1",
+              "unitId": "dsa-section-5-unit-3-bfs-traversal",
+              "title": "Learn BFS traversal",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-3-bfs-traversal-lesson-2",
+              "unitId": "dsa-section-5-unit-3-bfs-traversal",
+              "title": "Practice BFS traversal",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-3-bfs-traversal-lesson-3",
+              "unitId": "dsa-section-5-unit-3-bfs-traversal",
+              "title": "Review BFS traversal",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-5-unit-4-binary-search-trees",
+          "sectionId": "dsa-section-5",
+          "order": 4,
+          "title": "Binary search trees",
+          "lessons": [
+            {
+              "id": "dsa-section-5-unit-4-binary-search-trees-lesson-1",
+              "unitId": "dsa-section-5-unit-4-binary-search-trees",
+              "title": "Learn Binary search trees",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-4-binary-search-trees-lesson-2",
+              "unitId": "dsa-section-5-unit-4-binary-search-trees",
+              "title": "Practice Binary search trees",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-4-binary-search-trees-lesson-3",
+              "unitId": "dsa-section-5-unit-4-binary-search-trees",
+              "title": "Review Binary search trees",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-5-unit-5-tree-height",
+          "sectionId": "dsa-section-5",
+          "order": 5,
+          "title": "Tree height",
+          "lessons": [
+            {
+              "id": "dsa-section-5-unit-5-tree-height-lesson-1",
+              "unitId": "dsa-section-5-unit-5-tree-height",
+              "title": "Learn Tree height",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-5-tree-height-lesson-2",
+              "unitId": "dsa-section-5-unit-5-tree-height",
+              "title": "Practice Tree height",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-5-tree-height-lesson-3",
+              "unitId": "dsa-section-5-unit-5-tree-height",
+              "title": "Review Tree height",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-5-unit-6-balanced-trees",
+          "sectionId": "dsa-section-5",
+          "order": 6,
+          "title": "Balanced trees",
+          "lessons": [
+            {
+              "id": "dsa-section-5-unit-6-balanced-trees-lesson-1",
+              "unitId": "dsa-section-5-unit-6-balanced-trees",
+              "title": "Learn Balanced trees",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-6-balanced-trees-lesson-2",
+              "unitId": "dsa-section-5-unit-6-balanced-trees",
+              "title": "Practice Balanced trees",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-6-balanced-trees-lesson-3",
+              "unitId": "dsa-section-5-unit-6-balanced-trees",
+              "title": "Review Balanced trees",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-5-unit-7-lowest-common-ancestor",
+          "sectionId": "dsa-section-5",
+          "order": 7,
+          "title": "Lowest common ancestor",
+          "lessons": [
+            {
+              "id": "dsa-section-5-unit-7-lowest-common-ancestor-lesson-1",
+              "unitId": "dsa-section-5-unit-7-lowest-common-ancestor",
+              "title": "Learn Lowest common ancestor",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-7-lowest-common-ancestor-lesson-2",
+              "unitId": "dsa-section-5-unit-7-lowest-common-ancestor",
+              "title": "Practice Lowest common ancestor",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-7-lowest-common-ancestor-lesson-3",
+              "unitId": "dsa-section-5-unit-7-lowest-common-ancestor",
+              "title": "Review Lowest common ancestor",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-5-unit-8-path-sums",
+          "sectionId": "dsa-section-5",
+          "order": 8,
+          "title": "Path sums",
+          "lessons": [
+            {
+              "id": "dsa-section-5-unit-8-path-sums-lesson-1",
+              "unitId": "dsa-section-5-unit-8-path-sums",
+              "title": "Learn Path sums",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-8-path-sums-lesson-2",
+              "unitId": "dsa-section-5-unit-8-path-sums",
+              "title": "Practice Path sums",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-8-path-sums-lesson-3",
+              "unitId": "dsa-section-5-unit-8-path-sums",
+              "title": "Review Path sums",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-5-unit-9-serialization-concept",
+          "sectionId": "dsa-section-5",
+          "order": 9,
+          "title": "Serialization concept",
+          "lessons": [
+            {
+              "id": "dsa-section-5-unit-9-serialization-concept-lesson-1",
+              "unitId": "dsa-section-5-unit-9-serialization-concept",
+              "title": "Learn Serialization concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-9-serialization-concept-lesson-2",
+              "unitId": "dsa-section-5-unit-9-serialization-concept",
+              "title": "Practice Serialization concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-9-serialization-concept-lesson-3",
+              "unitId": "dsa-section-5-unit-9-serialization-concept",
+              "title": "Review Serialization concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-5-unit-10-tree-challenges",
+          "sectionId": "dsa-section-5",
+          "order": 10,
+          "title": "Tree challenges",
+          "lessons": [
+            {
+              "id": "dsa-section-5-unit-10-tree-challenges-lesson-1",
+              "unitId": "dsa-section-5-unit-10-tree-challenges",
+              "title": "Learn Tree challenges",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-10-tree-challenges-lesson-2",
+              "unitId": "dsa-section-5-unit-10-tree-challenges",
+              "title": "Practice Tree challenges",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-5-unit-10-tree-challenges-lesson-3",
+              "unitId": "dsa-section-5-unit-10-tree-challenges",
+              "title": "Review Tree challenges",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsa-section-6",
+      "trackId": "dsa",
+      "order": 6,
+      "title": "Section 6: Heaps",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "dsa-section-6-unit-1-heap-concept",
+          "sectionId": "dsa-section-6",
+          "order": 1,
+          "title": "Heap concept",
+          "lessons": [
+            {
+              "id": "dsa-section-6-unit-1-heap-concept-lesson-1",
+              "unitId": "dsa-section-6-unit-1-heap-concept",
+              "title": "Learn Heap concept",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-1-heap-concept-lesson-2",
+              "unitId": "dsa-section-6-unit-1-heap-concept",
+              "title": "Practice Heap concept",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-1-heap-concept-lesson-3",
+              "unitId": "dsa-section-6-unit-1-heap-concept",
+              "title": "Review Heap concept",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-6-unit-2-priority-queues",
+          "sectionId": "dsa-section-6",
+          "order": 2,
+          "title": "Priority queues",
+          "lessons": [
+            {
+              "id": "dsa-section-6-unit-2-priority-queues-lesson-1",
+              "unitId": "dsa-section-6-unit-2-priority-queues",
+              "title": "Learn Priority queues",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-2-priority-queues-lesson-2",
+              "unitId": "dsa-section-6-unit-2-priority-queues",
+              "title": "Practice Priority queues",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-2-priority-queues-lesson-3",
+              "unitId": "dsa-section-6-unit-2-priority-queues",
+              "title": "Review Priority queues",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-6-unit-3-top-k",
+          "sectionId": "dsa-section-6",
+          "order": 3,
+          "title": "Top K",
+          "lessons": [
+            {
+              "id": "dsa-section-6-unit-3-top-k-lesson-1",
+              "unitId": "dsa-section-6-unit-3-top-k",
+              "title": "Learn Top K",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-3-top-k-lesson-2",
+              "unitId": "dsa-section-6-unit-3-top-k",
+              "title": "Practice Top K",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-3-top-k-lesson-3",
+              "unitId": "dsa-section-6-unit-3-top-k",
+              "title": "Review Top K",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-6-unit-4-k-way-merge",
+          "sectionId": "dsa-section-6",
+          "order": 4,
+          "title": "K-way merge",
+          "lessons": [
+            {
+              "id": "dsa-section-6-unit-4-k-way-merge-lesson-1",
+              "unitId": "dsa-section-6-unit-4-k-way-merge",
+              "title": "Learn K-way merge",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-4-k-way-merge-lesson-2",
+              "unitId": "dsa-section-6-unit-4-k-way-merge",
+              "title": "Practice K-way merge",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-4-k-way-merge-lesson-3",
+              "unitId": "dsa-section-6-unit-4-k-way-merge",
+              "title": "Review K-way merge",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-6-unit-5-median-stream",
+          "sectionId": "dsa-section-6",
+          "order": 5,
+          "title": "Median stream",
+          "lessons": [
+            {
+              "id": "dsa-section-6-unit-5-median-stream-lesson-1",
+              "unitId": "dsa-section-6-unit-5-median-stream",
+              "title": "Learn Median stream",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-5-median-stream-lesson-2",
+              "unitId": "dsa-section-6-unit-5-median-stream",
+              "title": "Practice Median stream",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-5-median-stream-lesson-3",
+              "unitId": "dsa-section-6-unit-5-median-stream",
+              "title": "Review Median stream",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-6-unit-6-heap-operations",
+          "sectionId": "dsa-section-6",
+          "order": 6,
+          "title": "Heap operations",
+          "lessons": [
+            {
+              "id": "dsa-section-6-unit-6-heap-operations-lesson-1",
+              "unitId": "dsa-section-6-unit-6-heap-operations",
+              "title": "Learn Heap operations",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-6-heap-operations-lesson-2",
+              "unitId": "dsa-section-6-unit-6-heap-operations",
+              "title": "Practice Heap operations",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-6-heap-operations-lesson-3",
+              "unitId": "dsa-section-6-unit-6-heap-operations",
+              "title": "Review Heap operations",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-6-unit-7-min-vs-max-heap",
+          "sectionId": "dsa-section-6",
+          "order": 7,
+          "title": "Min vs max heap",
+          "lessons": [
+            {
+              "id": "dsa-section-6-unit-7-min-vs-max-heap-lesson-1",
+              "unitId": "dsa-section-6-unit-7-min-vs-max-heap",
+              "title": "Learn Min vs max heap",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-7-min-vs-max-heap-lesson-2",
+              "unitId": "dsa-section-6-unit-7-min-vs-max-heap",
+              "title": "Practice Min vs max heap",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-7-min-vs-max-heap-lesson-3",
+              "unitId": "dsa-section-6-unit-7-min-vs-max-heap",
+              "title": "Review Min vs max heap",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-6-unit-8-custom-comparators",
+          "sectionId": "dsa-section-6",
+          "order": 8,
+          "title": "Custom comparators",
+          "lessons": [
+            {
+              "id": "dsa-section-6-unit-8-custom-comparators-lesson-1",
+              "unitId": "dsa-section-6-unit-8-custom-comparators",
+              "title": "Learn Custom comparators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-8-custom-comparators-lesson-2",
+              "unitId": "dsa-section-6-unit-8-custom-comparators",
+              "title": "Practice Custom comparators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-8-custom-comparators-lesson-3",
+              "unitId": "dsa-section-6-unit-8-custom-comparators",
+              "title": "Review Custom comparators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-6-unit-9-heap-complexity",
+          "sectionId": "dsa-section-6",
+          "order": 9,
+          "title": "Heap complexity",
+          "lessons": [
+            {
+              "id": "dsa-section-6-unit-9-heap-complexity-lesson-1",
+              "unitId": "dsa-section-6-unit-9-heap-complexity",
+              "title": "Learn Heap complexity",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-9-heap-complexity-lesson-2",
+              "unitId": "dsa-section-6-unit-9-heap-complexity",
+              "title": "Practice Heap complexity",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-9-heap-complexity-lesson-3",
+              "unitId": "dsa-section-6-unit-9-heap-complexity",
+              "title": "Review Heap complexity",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-6-unit-10-heap-challenges",
+          "sectionId": "dsa-section-6",
+          "order": 10,
+          "title": "Heap challenges",
+          "lessons": [
+            {
+              "id": "dsa-section-6-unit-10-heap-challenges-lesson-1",
+              "unitId": "dsa-section-6-unit-10-heap-challenges",
+              "title": "Learn Heap challenges",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-10-heap-challenges-lesson-2",
+              "unitId": "dsa-section-6-unit-10-heap-challenges",
+              "title": "Practice Heap challenges",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-6-unit-10-heap-challenges-lesson-3",
+              "unitId": "dsa-section-6-unit-10-heap-challenges",
+              "title": "Review Heap challenges",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsa-section-7",
+      "trackId": "dsa",
+      "order": 7,
+      "title": "Section 7: Graphs",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "dsa-section-7-unit-1-graph-representation",
+          "sectionId": "dsa-section-7",
+          "order": 1,
+          "title": "Graph representation",
+          "lessons": [
+            {
+              "id": "dsa-section-7-unit-1-graph-representation-lesson-1",
+              "unitId": "dsa-section-7-unit-1-graph-representation",
+              "title": "Learn Graph representation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-1-graph-representation-lesson-2",
+              "unitId": "dsa-section-7-unit-1-graph-representation",
+              "title": "Practice Graph representation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-1-graph-representation-lesson-3",
+              "unitId": "dsa-section-7-unit-1-graph-representation",
+              "title": "Review Graph representation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-7-unit-2-dfs",
+          "sectionId": "dsa-section-7",
+          "order": 2,
+          "title": "DFS",
+          "lessons": [
+            {
+              "id": "dsa-section-7-unit-2-dfs-lesson-1",
+              "unitId": "dsa-section-7-unit-2-dfs",
+              "title": "Learn DFS",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-2-dfs-lesson-2",
+              "unitId": "dsa-section-7-unit-2-dfs",
+              "title": "Practice DFS",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-2-dfs-lesson-3",
+              "unitId": "dsa-section-7-unit-2-dfs",
+              "title": "Review DFS",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-7-unit-3-bfs",
+          "sectionId": "dsa-section-7",
+          "order": 3,
+          "title": "BFS",
+          "lessons": [
+            {
+              "id": "dsa-section-7-unit-3-bfs-lesson-1",
+              "unitId": "dsa-section-7-unit-3-bfs",
+              "title": "Learn BFS",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-3-bfs-lesson-2",
+              "unitId": "dsa-section-7-unit-3-bfs",
+              "title": "Practice BFS",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-3-bfs-lesson-3",
+              "unitId": "dsa-section-7-unit-3-bfs",
+              "title": "Review BFS",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-7-unit-4-visited-sets",
+          "sectionId": "dsa-section-7",
+          "order": 4,
+          "title": "Visited sets",
+          "lessons": [
+            {
+              "id": "dsa-section-7-unit-4-visited-sets-lesson-1",
+              "unitId": "dsa-section-7-unit-4-visited-sets",
+              "title": "Learn Visited sets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-4-visited-sets-lesson-2",
+              "unitId": "dsa-section-7-unit-4-visited-sets",
+              "title": "Practice Visited sets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-4-visited-sets-lesson-3",
+              "unitId": "dsa-section-7-unit-4-visited-sets",
+              "title": "Review Visited sets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-7-unit-5-connected-components",
+          "sectionId": "dsa-section-7",
+          "order": 5,
+          "title": "Connected components",
+          "lessons": [
+            {
+              "id": "dsa-section-7-unit-5-connected-components-lesson-1",
+              "unitId": "dsa-section-7-unit-5-connected-components",
+              "title": "Learn Connected components",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-5-connected-components-lesson-2",
+              "unitId": "dsa-section-7-unit-5-connected-components",
+              "title": "Practice Connected components",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-5-connected-components-lesson-3",
+              "unitId": "dsa-section-7-unit-5-connected-components",
+              "title": "Review Connected components",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-7-unit-6-cycle-detection",
+          "sectionId": "dsa-section-7",
+          "order": 6,
+          "title": "Cycle detection",
+          "lessons": [
+            {
+              "id": "dsa-section-7-unit-6-cycle-detection-lesson-1",
+              "unitId": "dsa-section-7-unit-6-cycle-detection",
+              "title": "Learn Cycle detection",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-6-cycle-detection-lesson-2",
+              "unitId": "dsa-section-7-unit-6-cycle-detection",
+              "title": "Practice Cycle detection",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-6-cycle-detection-lesson-3",
+              "unitId": "dsa-section-7-unit-6-cycle-detection",
+              "title": "Review Cycle detection",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-7-unit-7-topological-sort",
+          "sectionId": "dsa-section-7",
+          "order": 7,
+          "title": "Topological sort",
+          "lessons": [
+            {
+              "id": "dsa-section-7-unit-7-topological-sort-lesson-1",
+              "unitId": "dsa-section-7-unit-7-topological-sort",
+              "title": "Learn Topological sort",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-7-topological-sort-lesson-2",
+              "unitId": "dsa-section-7-unit-7-topological-sort",
+              "title": "Practice Topological sort",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-7-topological-sort-lesson-3",
+              "unitId": "dsa-section-7-unit-7-topological-sort",
+              "title": "Review Topological sort",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-7-unit-8-shortest-path-basics",
+          "sectionId": "dsa-section-7",
+          "order": 8,
+          "title": "Shortest path basics",
+          "lessons": [
+            {
+              "id": "dsa-section-7-unit-8-shortest-path-basics-lesson-1",
+              "unitId": "dsa-section-7-unit-8-shortest-path-basics",
+              "title": "Learn Shortest path basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-8-shortest-path-basics-lesson-2",
+              "unitId": "dsa-section-7-unit-8-shortest-path-basics",
+              "title": "Practice Shortest path basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-8-shortest-path-basics-lesson-3",
+              "unitId": "dsa-section-7-unit-8-shortest-path-basics",
+              "title": "Review Shortest path basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-7-unit-9-grid-graphs",
+          "sectionId": "dsa-section-7",
+          "order": 9,
+          "title": "Grid graphs",
+          "lessons": [
+            {
+              "id": "dsa-section-7-unit-9-grid-graphs-lesson-1",
+              "unitId": "dsa-section-7-unit-9-grid-graphs",
+              "title": "Learn Grid graphs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-9-grid-graphs-lesson-2",
+              "unitId": "dsa-section-7-unit-9-grid-graphs",
+              "title": "Practice Grid graphs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-9-grid-graphs-lesson-3",
+              "unitId": "dsa-section-7-unit-9-grid-graphs",
+              "title": "Review Grid graphs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-7-unit-10-graph-challenges",
+          "sectionId": "dsa-section-7",
+          "order": 10,
+          "title": "Graph challenges",
+          "lessons": [
+            {
+              "id": "dsa-section-7-unit-10-graph-challenges-lesson-1",
+              "unitId": "dsa-section-7-unit-10-graph-challenges",
+              "title": "Learn Graph challenges",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-10-graph-challenges-lesson-2",
+              "unitId": "dsa-section-7-unit-10-graph-challenges",
+              "title": "Practice Graph challenges",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-7-unit-10-graph-challenges-lesson-3",
+              "unitId": "dsa-section-7-unit-10-graph-challenges",
+              "title": "Review Graph challenges",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsa-section-8",
+      "trackId": "dsa",
+      "order": 8,
+      "title": "Section 8: Sorting & Searching",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "dsa-section-8-unit-1-bubble-and-selection-sort",
+          "sectionId": "dsa-section-8",
+          "order": 1,
+          "title": "Bubble and selection sort",
+          "lessons": [
+            {
+              "id": "dsa-section-8-unit-1-bubble-and-selection-sort-lesson-1",
+              "unitId": "dsa-section-8-unit-1-bubble-and-selection-sort",
+              "title": "Learn Bubble and selection sort",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-1-bubble-and-selection-sort-lesson-2",
+              "unitId": "dsa-section-8-unit-1-bubble-and-selection-sort",
+              "title": "Practice Bubble and selection sort",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-1-bubble-and-selection-sort-lesson-3",
+              "unitId": "dsa-section-8-unit-1-bubble-and-selection-sort",
+              "title": "Review Bubble and selection sort",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-8-unit-2-insertion-sort",
+          "sectionId": "dsa-section-8",
+          "order": 2,
+          "title": "Insertion sort",
+          "lessons": [
+            {
+              "id": "dsa-section-8-unit-2-insertion-sort-lesson-1",
+              "unitId": "dsa-section-8-unit-2-insertion-sort",
+              "title": "Learn Insertion sort",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-2-insertion-sort-lesson-2",
+              "unitId": "dsa-section-8-unit-2-insertion-sort",
+              "title": "Practice Insertion sort",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-2-insertion-sort-lesson-3",
+              "unitId": "dsa-section-8-unit-2-insertion-sort",
+              "title": "Review Insertion sort",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-8-unit-3-merge-sort",
+          "sectionId": "dsa-section-8",
+          "order": 3,
+          "title": "Merge sort",
+          "lessons": [
+            {
+              "id": "dsa-section-8-unit-3-merge-sort-lesson-1",
+              "unitId": "dsa-section-8-unit-3-merge-sort",
+              "title": "Learn Merge sort",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-3-merge-sort-lesson-2",
+              "unitId": "dsa-section-8-unit-3-merge-sort",
+              "title": "Practice Merge sort",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-3-merge-sort-lesson-3",
+              "unitId": "dsa-section-8-unit-3-merge-sort",
+              "title": "Review Merge sort",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-8-unit-4-quick-sort",
+          "sectionId": "dsa-section-8",
+          "order": 4,
+          "title": "Quick sort",
+          "lessons": [
+            {
+              "id": "dsa-section-8-unit-4-quick-sort-lesson-1",
+              "unitId": "dsa-section-8-unit-4-quick-sort",
+              "title": "Learn Quick sort",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-4-quick-sort-lesson-2",
+              "unitId": "dsa-section-8-unit-4-quick-sort",
+              "title": "Practice Quick sort",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-4-quick-sort-lesson-3",
+              "unitId": "dsa-section-8-unit-4-quick-sort",
+              "title": "Review Quick sort",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-8-unit-5-counting-sort",
+          "sectionId": "dsa-section-8",
+          "order": 5,
+          "title": "Counting sort",
+          "lessons": [
+            {
+              "id": "dsa-section-8-unit-5-counting-sort-lesson-1",
+              "unitId": "dsa-section-8-unit-5-counting-sort",
+              "title": "Learn Counting sort",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-5-counting-sort-lesson-2",
+              "unitId": "dsa-section-8-unit-5-counting-sort",
+              "title": "Practice Counting sort",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-5-counting-sort-lesson-3",
+              "unitId": "dsa-section-8-unit-5-counting-sort",
+              "title": "Review Counting sort",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-8-unit-6-binary-search",
+          "sectionId": "dsa-section-8",
+          "order": 6,
+          "title": "Binary search",
+          "lessons": [
+            {
+              "id": "dsa-section-8-unit-6-binary-search-lesson-1",
+              "unitId": "dsa-section-8-unit-6-binary-search",
+              "title": "Learn Binary search",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-6-binary-search-lesson-2",
+              "unitId": "dsa-section-8-unit-6-binary-search",
+              "title": "Practice Binary search",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-6-binary-search-lesson-3",
+              "unitId": "dsa-section-8-unit-6-binary-search",
+              "title": "Review Binary search",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-8-unit-7-search-boundaries",
+          "sectionId": "dsa-section-8",
+          "order": 7,
+          "title": "Search boundaries",
+          "lessons": [
+            {
+              "id": "dsa-section-8-unit-7-search-boundaries-lesson-1",
+              "unitId": "dsa-section-8-unit-7-search-boundaries",
+              "title": "Learn Search boundaries",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-7-search-boundaries-lesson-2",
+              "unitId": "dsa-section-8-unit-7-search-boundaries",
+              "title": "Practice Search boundaries",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-7-search-boundaries-lesson-3",
+              "unitId": "dsa-section-8-unit-7-search-boundaries",
+              "title": "Review Search boundaries",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-8-unit-8-rotated-arrays",
+          "sectionId": "dsa-section-8",
+          "order": 8,
+          "title": "Rotated arrays",
+          "lessons": [
+            {
+              "id": "dsa-section-8-unit-8-rotated-arrays-lesson-1",
+              "unitId": "dsa-section-8-unit-8-rotated-arrays",
+              "title": "Learn Rotated arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-8-rotated-arrays-lesson-2",
+              "unitId": "dsa-section-8-unit-8-rotated-arrays",
+              "title": "Practice Rotated arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-8-rotated-arrays-lesson-3",
+              "unitId": "dsa-section-8-unit-8-rotated-arrays",
+              "title": "Review Rotated arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-8-unit-9-sort-stability",
+          "sectionId": "dsa-section-8",
+          "order": 9,
+          "title": "Sort stability",
+          "lessons": [
+            {
+              "id": "dsa-section-8-unit-9-sort-stability-lesson-1",
+              "unitId": "dsa-section-8-unit-9-sort-stability",
+              "title": "Learn Sort stability",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-9-sort-stability-lesson-2",
+              "unitId": "dsa-section-8-unit-9-sort-stability",
+              "title": "Practice Sort stability",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-9-sort-stability-lesson-3",
+              "unitId": "dsa-section-8-unit-9-sort-stability",
+              "title": "Review Sort stability",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-8-unit-10-sort-search-challenges",
+          "sectionId": "dsa-section-8",
+          "order": 10,
+          "title": "Sort search challenges",
+          "lessons": [
+            {
+              "id": "dsa-section-8-unit-10-sort-search-challenges-lesson-1",
+              "unitId": "dsa-section-8-unit-10-sort-search-challenges",
+              "title": "Learn Sort search challenges",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-10-sort-search-challenges-lesson-2",
+              "unitId": "dsa-section-8-unit-10-sort-search-challenges",
+              "title": "Practice Sort search challenges",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-8-unit-10-sort-search-challenges-lesson-3",
+              "unitId": "dsa-section-8-unit-10-sort-search-challenges",
+              "title": "Review Sort search challenges",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsa-section-9",
+      "trackId": "dsa",
+      "order": 9,
+      "title": "Section 9: Dynamic Programming",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "dsa-section-9-unit-1-dp-mindset",
+          "sectionId": "dsa-section-9",
+          "order": 1,
+          "title": "DP mindset",
+          "lessons": [
+            {
+              "id": "dsa-section-9-unit-1-dp-mindset-lesson-1",
+              "unitId": "dsa-section-9-unit-1-dp-mindset",
+              "title": "Learn DP mindset",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-1-dp-mindset-lesson-2",
+              "unitId": "dsa-section-9-unit-1-dp-mindset",
+              "title": "Practice DP mindset",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-1-dp-mindset-lesson-3",
+              "unitId": "dsa-section-9-unit-1-dp-mindset",
+              "title": "Review DP mindset",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-9-unit-2-memoization",
+          "sectionId": "dsa-section-9",
+          "order": 2,
+          "title": "Memoization",
+          "lessons": [
+            {
+              "id": "dsa-section-9-unit-2-memoization-lesson-1",
+              "unitId": "dsa-section-9-unit-2-memoization",
+              "title": "Learn Memoization",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-2-memoization-lesson-2",
+              "unitId": "dsa-section-9-unit-2-memoization",
+              "title": "Practice Memoization",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-2-memoization-lesson-3",
+              "unitId": "dsa-section-9-unit-2-memoization",
+              "title": "Review Memoization",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-9-unit-3-tabulation",
+          "sectionId": "dsa-section-9",
+          "order": 3,
+          "title": "Tabulation",
+          "lessons": [
+            {
+              "id": "dsa-section-9-unit-3-tabulation-lesson-1",
+              "unitId": "dsa-section-9-unit-3-tabulation",
+              "title": "Learn Tabulation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-3-tabulation-lesson-2",
+              "unitId": "dsa-section-9-unit-3-tabulation",
+              "title": "Practice Tabulation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-3-tabulation-lesson-3",
+              "unitId": "dsa-section-9-unit-3-tabulation",
+              "title": "Review Tabulation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-9-unit-4-1d-dp",
+          "sectionId": "dsa-section-9",
+          "order": 4,
+          "title": "1D DP",
+          "lessons": [
+            {
+              "id": "dsa-section-9-unit-4-1d-dp-lesson-1",
+              "unitId": "dsa-section-9-unit-4-1d-dp",
+              "title": "Learn 1D DP",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-4-1d-dp-lesson-2",
+              "unitId": "dsa-section-9-unit-4-1d-dp",
+              "title": "Practice 1D DP",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-4-1d-dp-lesson-3",
+              "unitId": "dsa-section-9-unit-4-1d-dp",
+              "title": "Review 1D DP",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-9-unit-5-2d-dp",
+          "sectionId": "dsa-section-9",
+          "order": 5,
+          "title": "2D DP",
+          "lessons": [
+            {
+              "id": "dsa-section-9-unit-5-2d-dp-lesson-1",
+              "unitId": "dsa-section-9-unit-5-2d-dp",
+              "title": "Learn 2D DP",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-5-2d-dp-lesson-2",
+              "unitId": "dsa-section-9-unit-5-2d-dp",
+              "title": "Practice 2D DP",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-5-2d-dp-lesson-3",
+              "unitId": "dsa-section-9-unit-5-2d-dp",
+              "title": "Review 2D DP",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-9-unit-6-knapsack-basics",
+          "sectionId": "dsa-section-9",
+          "order": 6,
+          "title": "Knapsack basics",
+          "lessons": [
+            {
+              "id": "dsa-section-9-unit-6-knapsack-basics-lesson-1",
+              "unitId": "dsa-section-9-unit-6-knapsack-basics",
+              "title": "Learn Knapsack basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-6-knapsack-basics-lesson-2",
+              "unitId": "dsa-section-9-unit-6-knapsack-basics",
+              "title": "Practice Knapsack basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-6-knapsack-basics-lesson-3",
+              "unitId": "dsa-section-9-unit-6-knapsack-basics",
+              "title": "Review Knapsack basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-9-unit-7-subsequence-dp",
+          "sectionId": "dsa-section-9",
+          "order": 7,
+          "title": "Subsequence DP",
+          "lessons": [
+            {
+              "id": "dsa-section-9-unit-7-subsequence-dp-lesson-1",
+              "unitId": "dsa-section-9-unit-7-subsequence-dp",
+              "title": "Learn Subsequence DP",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-7-subsequence-dp-lesson-2",
+              "unitId": "dsa-section-9-unit-7-subsequence-dp",
+              "title": "Practice Subsequence DP",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-7-subsequence-dp-lesson-3",
+              "unitId": "dsa-section-9-unit-7-subsequence-dp",
+              "title": "Review Subsequence DP",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-9-unit-8-grid-dp",
+          "sectionId": "dsa-section-9",
+          "order": 8,
+          "title": "Grid DP",
+          "lessons": [
+            {
+              "id": "dsa-section-9-unit-8-grid-dp-lesson-1",
+              "unitId": "dsa-section-9-unit-8-grid-dp",
+              "title": "Learn Grid DP",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-8-grid-dp-lesson-2",
+              "unitId": "dsa-section-9-unit-8-grid-dp",
+              "title": "Practice Grid DP",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-8-grid-dp-lesson-3",
+              "unitId": "dsa-section-9-unit-8-grid-dp",
+              "title": "Review Grid DP",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-9-unit-9-state-compression",
+          "sectionId": "dsa-section-9",
+          "order": 9,
+          "title": "State compression",
+          "lessons": [
+            {
+              "id": "dsa-section-9-unit-9-state-compression-lesson-1",
+              "unitId": "dsa-section-9-unit-9-state-compression",
+              "title": "Learn State compression",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-9-state-compression-lesson-2",
+              "unitId": "dsa-section-9-unit-9-state-compression",
+              "title": "Practice State compression",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-9-state-compression-lesson-3",
+              "unitId": "dsa-section-9-unit-9-state-compression",
+              "title": "Review State compression",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-9-unit-10-dp-challenges",
+          "sectionId": "dsa-section-9",
+          "order": 10,
+          "title": "DP challenges",
+          "lessons": [
+            {
+              "id": "dsa-section-9-unit-10-dp-challenges-lesson-1",
+              "unitId": "dsa-section-9-unit-10-dp-challenges",
+              "title": "Learn DP challenges",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-10-dp-challenges-lesson-2",
+              "unitId": "dsa-section-9-unit-10-dp-challenges",
+              "title": "Practice DP challenges",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-9-unit-10-dp-challenges-lesson-3",
+              "unitId": "dsa-section-9-unit-10-dp-challenges",
+              "title": "Review DP challenges",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsa-section-10",
+      "trackId": "dsa",
+      "order": 10,
+      "title": "Section 10: Greedy & Backtracking",
+      "bannerColor": "#58CC02",
+      "units": [
+        {
+          "id": "dsa-section-10-unit-1-greedy-choice",
+          "sectionId": "dsa-section-10",
+          "order": 1,
+          "title": "Greedy choice",
+          "lessons": [
+            {
+              "id": "dsa-section-10-unit-1-greedy-choice-lesson-1",
+              "unitId": "dsa-section-10-unit-1-greedy-choice",
+              "title": "Learn Greedy choice",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-1-greedy-choice-lesson-2",
+              "unitId": "dsa-section-10-unit-1-greedy-choice",
+              "title": "Practice Greedy choice",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-1-greedy-choice-lesson-3",
+              "unitId": "dsa-section-10-unit-1-greedy-choice",
+              "title": "Review Greedy choice",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-10-unit-2-interval-scheduling",
+          "sectionId": "dsa-section-10",
+          "order": 2,
+          "title": "Interval scheduling",
+          "lessons": [
+            {
+              "id": "dsa-section-10-unit-2-interval-scheduling-lesson-1",
+              "unitId": "dsa-section-10-unit-2-interval-scheduling",
+              "title": "Learn Interval scheduling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-2-interval-scheduling-lesson-2",
+              "unitId": "dsa-section-10-unit-2-interval-scheduling",
+              "title": "Practice Interval scheduling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-2-interval-scheduling-lesson-3",
+              "unitId": "dsa-section-10-unit-2-interval-scheduling",
+              "title": "Review Interval scheduling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-10-unit-3-heap-greedy",
+          "sectionId": "dsa-section-10",
+          "order": 3,
+          "title": "Heap greedy",
+          "lessons": [
+            {
+              "id": "dsa-section-10-unit-3-heap-greedy-lesson-1",
+              "unitId": "dsa-section-10-unit-3-heap-greedy",
+              "title": "Learn Heap greedy",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-3-heap-greedy-lesson-2",
+              "unitId": "dsa-section-10-unit-3-heap-greedy",
+              "title": "Practice Heap greedy",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-3-heap-greedy-lesson-3",
+              "unitId": "dsa-section-10-unit-3-heap-greedy",
+              "title": "Review Heap greedy",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-10-unit-4-sorting-greedy",
+          "sectionId": "dsa-section-10",
+          "order": 4,
+          "title": "Sorting greedy",
+          "lessons": [
+            {
+              "id": "dsa-section-10-unit-4-sorting-greedy-lesson-1",
+              "unitId": "dsa-section-10-unit-4-sorting-greedy",
+              "title": "Learn Sorting greedy",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-4-sorting-greedy-lesson-2",
+              "unitId": "dsa-section-10-unit-4-sorting-greedy",
+              "title": "Practice Sorting greedy",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-4-sorting-greedy-lesson-3",
+              "unitId": "dsa-section-10-unit-4-sorting-greedy",
+              "title": "Review Sorting greedy",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-10-unit-5-backtracking-basics",
+          "sectionId": "dsa-section-10",
+          "order": 5,
+          "title": "Backtracking basics",
+          "lessons": [
+            {
+              "id": "dsa-section-10-unit-5-backtracking-basics-lesson-1",
+              "unitId": "dsa-section-10-unit-5-backtracking-basics",
+              "title": "Learn Backtracking basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-5-backtracking-basics-lesson-2",
+              "unitId": "dsa-section-10-unit-5-backtracking-basics",
+              "title": "Practice Backtracking basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-5-backtracking-basics-lesson-3",
+              "unitId": "dsa-section-10-unit-5-backtracking-basics",
+              "title": "Review Backtracking basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-10-unit-6-permutations",
+          "sectionId": "dsa-section-10",
+          "order": 6,
+          "title": "Permutations",
+          "lessons": [
+            {
+              "id": "dsa-section-10-unit-6-permutations-lesson-1",
+              "unitId": "dsa-section-10-unit-6-permutations",
+              "title": "Learn Permutations",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-6-permutations-lesson-2",
+              "unitId": "dsa-section-10-unit-6-permutations",
+              "title": "Practice Permutations",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-6-permutations-lesson-3",
+              "unitId": "dsa-section-10-unit-6-permutations",
+              "title": "Review Permutations",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-10-unit-7-combinations",
+          "sectionId": "dsa-section-10",
+          "order": 7,
+          "title": "Combinations",
+          "lessons": [
+            {
+              "id": "dsa-section-10-unit-7-combinations-lesson-1",
+              "unitId": "dsa-section-10-unit-7-combinations",
+              "title": "Learn Combinations",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-7-combinations-lesson-2",
+              "unitId": "dsa-section-10-unit-7-combinations",
+              "title": "Practice Combinations",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-7-combinations-lesson-3",
+              "unitId": "dsa-section-10-unit-7-combinations",
+              "title": "Review Combinations",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-10-unit-8-subsets",
+          "sectionId": "dsa-section-10",
+          "order": 8,
+          "title": "Subsets",
+          "lessons": [
+            {
+              "id": "dsa-section-10-unit-8-subsets-lesson-1",
+              "unitId": "dsa-section-10-unit-8-subsets",
+              "title": "Learn Subsets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-8-subsets-lesson-2",
+              "unitId": "dsa-section-10-unit-8-subsets",
+              "title": "Practice Subsets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-8-subsets-lesson-3",
+              "unitId": "dsa-section-10-unit-8-subsets",
+              "title": "Review Subsets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-10-unit-9-pruning",
+          "sectionId": "dsa-section-10",
+          "order": 9,
+          "title": "Pruning",
+          "lessons": [
+            {
+              "id": "dsa-section-10-unit-9-pruning-lesson-1",
+              "unitId": "dsa-section-10-unit-9-pruning",
+              "title": "Learn Pruning",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-9-pruning-lesson-2",
+              "unitId": "dsa-section-10-unit-9-pruning",
+              "title": "Practice Pruning",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-9-pruning-lesson-3",
+              "unitId": "dsa-section-10-unit-9-pruning",
+              "title": "Review Pruning",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "dsa-section-10-unit-10-capstone-challenge-set",
+          "sectionId": "dsa-section-10",
+          "order": 10,
+          "title": "Capstone challenge set",
+          "lessons": [
+            {
+              "id": "dsa-section-10-unit-10-capstone-challenge-set-lesson-1",
+              "unitId": "dsa-section-10-unit-10-capstone-challenge-set",
+              "title": "Learn Capstone challenge set",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-10-capstone-challenge-set-lesson-2",
+              "unitId": "dsa-section-10-unit-10-capstone-challenge-set",
+              "title": "Practice Capstone challenge set",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "dsa-section-10-unit-10-capstone-challenge-set-lesson-3",
+              "unitId": "dsa-section-10-unit-10-capstone-challenge-set",
+              "title": "Review Capstone challenge set",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

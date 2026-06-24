@@ -1,0 +1,3006 @@
+{
+  "id": "typescript",
+  "title": "TypeScript",
+  "category": "web-dev",
+  "icon": "file-code-2",
+  "color": "#1CB0F6",
+  "description": "Add strong types to JavaScript and model safer application code.",
+  "sections": [
+    {
+      "id": "typescript-section-1",
+      "trackId": "typescript",
+      "order": 1,
+      "title": "Section 1: Type Foundations",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "typescript-section-1-unit-1-why-typescript",
+          "sectionId": "typescript-section-1",
+          "order": 1,
+          "title": "Why TypeScript",
+          "lessons": [
+            {
+              "id": "typescript-section-1-unit-1-why-typescript-lesson-1",
+              "unitId": "typescript-section-1-unit-1-why-typescript",
+              "title": "Learn Why TypeScript",
+              "order": 1,
+              "exerciseIds": [
+                "typescript-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "typescript-section-1-unit-1-why-typescript-lesson-2",
+              "unitId": "typescript-section-1-unit-1-why-typescript",
+              "title": "Practice Why TypeScript",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-1-why-typescript-lesson-3",
+              "unitId": "typescript-section-1-unit-1-why-typescript",
+              "title": "Review Why TypeScript",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-1-unit-2-primitive-types",
+          "sectionId": "typescript-section-1",
+          "order": 2,
+          "title": "Primitive types",
+          "lessons": [
+            {
+              "id": "typescript-section-1-unit-2-primitive-types-lesson-1",
+              "unitId": "typescript-section-1-unit-2-primitive-types",
+              "title": "Learn Primitive types",
+              "order": 1,
+              "exerciseIds": [
+                "typescript-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "typescript-section-1-unit-2-primitive-types-lesson-2",
+              "unitId": "typescript-section-1-unit-2-primitive-types",
+              "title": "Practice Primitive types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-2-primitive-types-lesson-3",
+              "unitId": "typescript-section-1-unit-2-primitive-types",
+              "title": "Review Primitive types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-1-unit-3-arrays-and-tuples",
+          "sectionId": "typescript-section-1",
+          "order": 3,
+          "title": "Arrays and tuples",
+          "lessons": [
+            {
+              "id": "typescript-section-1-unit-3-arrays-and-tuples-lesson-1",
+              "unitId": "typescript-section-1-unit-3-arrays-and-tuples",
+              "title": "Learn Arrays and tuples",
+              "order": 1,
+              "exerciseIds": [
+                "typescript-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "typescript-section-1-unit-3-arrays-and-tuples-lesson-2",
+              "unitId": "typescript-section-1-unit-3-arrays-and-tuples",
+              "title": "Practice Arrays and tuples",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-3-arrays-and-tuples-lesson-3",
+              "unitId": "typescript-section-1-unit-3-arrays-and-tuples",
+              "title": "Review Arrays and tuples",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-1-unit-4-object-types",
+          "sectionId": "typescript-section-1",
+          "order": 4,
+          "title": "Object types",
+          "lessons": [
+            {
+              "id": "typescript-section-1-unit-4-object-types-lesson-1",
+              "unitId": "typescript-section-1-unit-4-object-types",
+              "title": "Learn Object types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-4-object-types-lesson-2",
+              "unitId": "typescript-section-1-unit-4-object-types",
+              "title": "Practice Object types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-4-object-types-lesson-3",
+              "unitId": "typescript-section-1-unit-4-object-types",
+              "title": "Review Object types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-1-unit-5-optional-properties",
+          "sectionId": "typescript-section-1",
+          "order": 5,
+          "title": "Optional properties",
+          "lessons": [
+            {
+              "id": "typescript-section-1-unit-5-optional-properties-lesson-1",
+              "unitId": "typescript-section-1-unit-5-optional-properties",
+              "title": "Learn Optional properties",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-5-optional-properties-lesson-2",
+              "unitId": "typescript-section-1-unit-5-optional-properties",
+              "title": "Practice Optional properties",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-5-optional-properties-lesson-3",
+              "unitId": "typescript-section-1-unit-5-optional-properties",
+              "title": "Review Optional properties",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-1-unit-6-literal-types",
+          "sectionId": "typescript-section-1",
+          "order": 6,
+          "title": "Literal types",
+          "lessons": [
+            {
+              "id": "typescript-section-1-unit-6-literal-types-lesson-1",
+              "unitId": "typescript-section-1-unit-6-literal-types",
+              "title": "Learn Literal types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-6-literal-types-lesson-2",
+              "unitId": "typescript-section-1-unit-6-literal-types",
+              "title": "Practice Literal types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-6-literal-types-lesson-3",
+              "unitId": "typescript-section-1-unit-6-literal-types",
+              "title": "Review Literal types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-1-unit-7-type-inference",
+          "sectionId": "typescript-section-1",
+          "order": 7,
+          "title": "Type inference",
+          "lessons": [
+            {
+              "id": "typescript-section-1-unit-7-type-inference-lesson-1",
+              "unitId": "typescript-section-1-unit-7-type-inference",
+              "title": "Learn Type inference",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-7-type-inference-lesson-2",
+              "unitId": "typescript-section-1-unit-7-type-inference",
+              "title": "Practice Type inference",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-7-type-inference-lesson-3",
+              "unitId": "typescript-section-1-unit-7-type-inference",
+              "title": "Review Type inference",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-1-unit-8-type-annotations",
+          "sectionId": "typescript-section-1",
+          "order": 8,
+          "title": "Type annotations",
+          "lessons": [
+            {
+              "id": "typescript-section-1-unit-8-type-annotations-lesson-1",
+              "unitId": "typescript-section-1-unit-8-type-annotations",
+              "title": "Learn Type annotations",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-8-type-annotations-lesson-2",
+              "unitId": "typescript-section-1-unit-8-type-annotations",
+              "title": "Practice Type annotations",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-8-type-annotations-lesson-3",
+              "unitId": "typescript-section-1-unit-8-type-annotations",
+              "title": "Review Type annotations",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-1-unit-9-any-and-unknown",
+          "sectionId": "typescript-section-1",
+          "order": 9,
+          "title": "Any and unknown",
+          "lessons": [
+            {
+              "id": "typescript-section-1-unit-9-any-and-unknown-lesson-1",
+              "unitId": "typescript-section-1-unit-9-any-and-unknown",
+              "title": "Learn Any and unknown",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-9-any-and-unknown-lesson-2",
+              "unitId": "typescript-section-1-unit-9-any-and-unknown",
+              "title": "Practice Any and unknown",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-9-any-and-unknown-lesson-3",
+              "unitId": "typescript-section-1-unit-9-any-and-unknown",
+              "title": "Review Any and unknown",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-1-unit-10-compiler-errors",
+          "sectionId": "typescript-section-1",
+          "order": 10,
+          "title": "Compiler errors",
+          "lessons": [
+            {
+              "id": "typescript-section-1-unit-10-compiler-errors-lesson-1",
+              "unitId": "typescript-section-1-unit-10-compiler-errors",
+              "title": "Learn Compiler errors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-10-compiler-errors-lesson-2",
+              "unitId": "typescript-section-1-unit-10-compiler-errors",
+              "title": "Practice Compiler errors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-1-unit-10-compiler-errors-lesson-3",
+              "unitId": "typescript-section-1-unit-10-compiler-errors",
+              "title": "Review Compiler errors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "typescript-section-2",
+      "trackId": "typescript",
+      "order": 2,
+      "title": "Section 2: Interfaces & Aliases",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "typescript-section-2-unit-1-type-aliases",
+          "sectionId": "typescript-section-2",
+          "order": 1,
+          "title": "Type aliases",
+          "lessons": [
+            {
+              "id": "typescript-section-2-unit-1-type-aliases-lesson-1",
+              "unitId": "typescript-section-2-unit-1-type-aliases",
+              "title": "Learn Type aliases",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-1-type-aliases-lesson-2",
+              "unitId": "typescript-section-2-unit-1-type-aliases",
+              "title": "Practice Type aliases",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-1-type-aliases-lesson-3",
+              "unitId": "typescript-section-2-unit-1-type-aliases",
+              "title": "Review Type aliases",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-2-unit-2-interfaces",
+          "sectionId": "typescript-section-2",
+          "order": 2,
+          "title": "Interfaces",
+          "lessons": [
+            {
+              "id": "typescript-section-2-unit-2-interfaces-lesson-1",
+              "unitId": "typescript-section-2-unit-2-interfaces",
+              "title": "Learn Interfaces",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-2-interfaces-lesson-2",
+              "unitId": "typescript-section-2-unit-2-interfaces",
+              "title": "Practice Interfaces",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-2-interfaces-lesson-3",
+              "unitId": "typescript-section-2-unit-2-interfaces",
+              "title": "Review Interfaces",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-2-unit-3-extending-interfaces",
+          "sectionId": "typescript-section-2",
+          "order": 3,
+          "title": "Extending interfaces",
+          "lessons": [
+            {
+              "id": "typescript-section-2-unit-3-extending-interfaces-lesson-1",
+              "unitId": "typescript-section-2-unit-3-extending-interfaces",
+              "title": "Learn Extending interfaces",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-3-extending-interfaces-lesson-2",
+              "unitId": "typescript-section-2-unit-3-extending-interfaces",
+              "title": "Practice Extending interfaces",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-3-extending-interfaces-lesson-3",
+              "unitId": "typescript-section-2-unit-3-extending-interfaces",
+              "title": "Review Extending interfaces",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-2-unit-4-readonly-fields",
+          "sectionId": "typescript-section-2",
+          "order": 4,
+          "title": "Readonly fields",
+          "lessons": [
+            {
+              "id": "typescript-section-2-unit-4-readonly-fields-lesson-1",
+              "unitId": "typescript-section-2-unit-4-readonly-fields",
+              "title": "Learn Readonly fields",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-4-readonly-fields-lesson-2",
+              "unitId": "typescript-section-2-unit-4-readonly-fields",
+              "title": "Practice Readonly fields",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-4-readonly-fields-lesson-3",
+              "unitId": "typescript-section-2-unit-4-readonly-fields",
+              "title": "Review Readonly fields",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-2-unit-5-index-signatures",
+          "sectionId": "typescript-section-2",
+          "order": 5,
+          "title": "Index signatures",
+          "lessons": [
+            {
+              "id": "typescript-section-2-unit-5-index-signatures-lesson-1",
+              "unitId": "typescript-section-2-unit-5-index-signatures",
+              "title": "Learn Index signatures",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-5-index-signatures-lesson-2",
+              "unitId": "typescript-section-2-unit-5-index-signatures",
+              "title": "Practice Index signatures",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-5-index-signatures-lesson-3",
+              "unitId": "typescript-section-2-unit-5-index-signatures",
+              "title": "Review Index signatures",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-2-unit-6-interface-merging",
+          "sectionId": "typescript-section-2",
+          "order": 6,
+          "title": "Interface merging",
+          "lessons": [
+            {
+              "id": "typescript-section-2-unit-6-interface-merging-lesson-1",
+              "unitId": "typescript-section-2-unit-6-interface-merging",
+              "title": "Learn Interface merging",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-6-interface-merging-lesson-2",
+              "unitId": "typescript-section-2-unit-6-interface-merging",
+              "title": "Practice Interface merging",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-6-interface-merging-lesson-3",
+              "unitId": "typescript-section-2-unit-6-interface-merging",
+              "title": "Review Interface merging",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-2-unit-7-structural-typing",
+          "sectionId": "typescript-section-2",
+          "order": 7,
+          "title": "Structural typing",
+          "lessons": [
+            {
+              "id": "typescript-section-2-unit-7-structural-typing-lesson-1",
+              "unitId": "typescript-section-2-unit-7-structural-typing",
+              "title": "Learn Structural typing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-7-structural-typing-lesson-2",
+              "unitId": "typescript-section-2-unit-7-structural-typing",
+              "title": "Practice Structural typing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-7-structural-typing-lesson-3",
+              "unitId": "typescript-section-2-unit-7-structural-typing",
+              "title": "Review Structural typing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-2-unit-8-nested-shapes",
+          "sectionId": "typescript-section-2",
+          "order": 8,
+          "title": "Nested shapes",
+          "lessons": [
+            {
+              "id": "typescript-section-2-unit-8-nested-shapes-lesson-1",
+              "unitId": "typescript-section-2-unit-8-nested-shapes",
+              "title": "Learn Nested shapes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-8-nested-shapes-lesson-2",
+              "unitId": "typescript-section-2-unit-8-nested-shapes",
+              "title": "Practice Nested shapes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-8-nested-shapes-lesson-3",
+              "unitId": "typescript-section-2-unit-8-nested-shapes",
+              "title": "Review Nested shapes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-2-unit-9-api-response-types",
+          "sectionId": "typescript-section-2",
+          "order": 9,
+          "title": "API response types",
+          "lessons": [
+            {
+              "id": "typescript-section-2-unit-9-api-response-types-lesson-1",
+              "unitId": "typescript-section-2-unit-9-api-response-types",
+              "title": "Learn API response types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-9-api-response-types-lesson-2",
+              "unitId": "typescript-section-2-unit-9-api-response-types",
+              "title": "Practice API response types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-9-api-response-types-lesson-3",
+              "unitId": "typescript-section-2-unit-9-api-response-types",
+              "title": "Review API response types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-2-unit-10-modeling-ui-props",
+          "sectionId": "typescript-section-2",
+          "order": 10,
+          "title": "Modeling UI props",
+          "lessons": [
+            {
+              "id": "typescript-section-2-unit-10-modeling-ui-props-lesson-1",
+              "unitId": "typescript-section-2-unit-10-modeling-ui-props",
+              "title": "Learn Modeling UI props",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-10-modeling-ui-props-lesson-2",
+              "unitId": "typescript-section-2-unit-10-modeling-ui-props",
+              "title": "Practice Modeling UI props",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-2-unit-10-modeling-ui-props-lesson-3",
+              "unitId": "typescript-section-2-unit-10-modeling-ui-props",
+              "title": "Review Modeling UI props",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "typescript-section-3",
+      "trackId": "typescript",
+      "order": 3,
+      "title": "Section 3: Functions",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "typescript-section-3-unit-1-function-parameters",
+          "sectionId": "typescript-section-3",
+          "order": 1,
+          "title": "Function parameters",
+          "lessons": [
+            {
+              "id": "typescript-section-3-unit-1-function-parameters-lesson-1",
+              "unitId": "typescript-section-3-unit-1-function-parameters",
+              "title": "Learn Function parameters",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-1-function-parameters-lesson-2",
+              "unitId": "typescript-section-3-unit-1-function-parameters",
+              "title": "Practice Function parameters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-1-function-parameters-lesson-3",
+              "unitId": "typescript-section-3-unit-1-function-parameters",
+              "title": "Review Function parameters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-3-unit-2-return-types",
+          "sectionId": "typescript-section-3",
+          "order": 2,
+          "title": "Return types",
+          "lessons": [
+            {
+              "id": "typescript-section-3-unit-2-return-types-lesson-1",
+              "unitId": "typescript-section-3-unit-2-return-types",
+              "title": "Learn Return types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-2-return-types-lesson-2",
+              "unitId": "typescript-section-3-unit-2-return-types",
+              "title": "Practice Return types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-2-return-types-lesson-3",
+              "unitId": "typescript-section-3-unit-2-return-types",
+              "title": "Review Return types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-3-unit-3-optional-parameters",
+          "sectionId": "typescript-section-3",
+          "order": 3,
+          "title": "Optional parameters",
+          "lessons": [
+            {
+              "id": "typescript-section-3-unit-3-optional-parameters-lesson-1",
+              "unitId": "typescript-section-3-unit-3-optional-parameters",
+              "title": "Learn Optional parameters",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-3-optional-parameters-lesson-2",
+              "unitId": "typescript-section-3-unit-3-optional-parameters",
+              "title": "Practice Optional parameters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-3-optional-parameters-lesson-3",
+              "unitId": "typescript-section-3-unit-3-optional-parameters",
+              "title": "Review Optional parameters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-3-unit-4-default-parameters",
+          "sectionId": "typescript-section-3",
+          "order": 4,
+          "title": "Default parameters",
+          "lessons": [
+            {
+              "id": "typescript-section-3-unit-4-default-parameters-lesson-1",
+              "unitId": "typescript-section-3-unit-4-default-parameters",
+              "title": "Learn Default parameters",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-4-default-parameters-lesson-2",
+              "unitId": "typescript-section-3-unit-4-default-parameters",
+              "title": "Practice Default parameters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-4-default-parameters-lesson-3",
+              "unitId": "typescript-section-3-unit-4-default-parameters",
+              "title": "Review Default parameters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-3-unit-5-rest-parameters",
+          "sectionId": "typescript-section-3",
+          "order": 5,
+          "title": "Rest parameters",
+          "lessons": [
+            {
+              "id": "typescript-section-3-unit-5-rest-parameters-lesson-1",
+              "unitId": "typescript-section-3-unit-5-rest-parameters",
+              "title": "Learn Rest parameters",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-5-rest-parameters-lesson-2",
+              "unitId": "typescript-section-3-unit-5-rest-parameters",
+              "title": "Practice Rest parameters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-5-rest-parameters-lesson-3",
+              "unitId": "typescript-section-3-unit-5-rest-parameters",
+              "title": "Review Rest parameters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-3-unit-6-function-overloads",
+          "sectionId": "typescript-section-3",
+          "order": 6,
+          "title": "Function overloads",
+          "lessons": [
+            {
+              "id": "typescript-section-3-unit-6-function-overloads-lesson-1",
+              "unitId": "typescript-section-3-unit-6-function-overloads",
+              "title": "Learn Function overloads",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-6-function-overloads-lesson-2",
+              "unitId": "typescript-section-3-unit-6-function-overloads",
+              "title": "Practice Function overloads",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-6-function-overloads-lesson-3",
+              "unitId": "typescript-section-3-unit-6-function-overloads",
+              "title": "Review Function overloads",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-3-unit-7-callback-types",
+          "sectionId": "typescript-section-3",
+          "order": 7,
+          "title": "Callback types",
+          "lessons": [
+            {
+              "id": "typescript-section-3-unit-7-callback-types-lesson-1",
+              "unitId": "typescript-section-3-unit-7-callback-types",
+              "title": "Learn Callback types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-7-callback-types-lesson-2",
+              "unitId": "typescript-section-3-unit-7-callback-types",
+              "title": "Practice Callback types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-7-callback-types-lesson-3",
+              "unitId": "typescript-section-3-unit-7-callback-types",
+              "title": "Review Callback types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-3-unit-8-void-and-never",
+          "sectionId": "typescript-section-3",
+          "order": 8,
+          "title": "Void and never",
+          "lessons": [
+            {
+              "id": "typescript-section-3-unit-8-void-and-never-lesson-1",
+              "unitId": "typescript-section-3-unit-8-void-and-never",
+              "title": "Learn Void and never",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-8-void-and-never-lesson-2",
+              "unitId": "typescript-section-3-unit-8-void-and-never",
+              "title": "Practice Void and never",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-8-void-and-never-lesson-3",
+              "unitId": "typescript-section-3-unit-8-void-and-never",
+              "title": "Review Void and never",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-3-unit-9-typing-events",
+          "sectionId": "typescript-section-3",
+          "order": 9,
+          "title": "Typing events",
+          "lessons": [
+            {
+              "id": "typescript-section-3-unit-9-typing-events-lesson-1",
+              "unitId": "typescript-section-3-unit-9-typing-events",
+              "title": "Learn Typing events",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-9-typing-events-lesson-2",
+              "unitId": "typescript-section-3-unit-9-typing-events",
+              "title": "Practice Typing events",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-9-typing-events-lesson-3",
+              "unitId": "typescript-section-3-unit-9-typing-events",
+              "title": "Review Typing events",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-3-unit-10-function-refactors",
+          "sectionId": "typescript-section-3",
+          "order": 10,
+          "title": "Function refactors",
+          "lessons": [
+            {
+              "id": "typescript-section-3-unit-10-function-refactors-lesson-1",
+              "unitId": "typescript-section-3-unit-10-function-refactors",
+              "title": "Learn Function refactors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-10-function-refactors-lesson-2",
+              "unitId": "typescript-section-3-unit-10-function-refactors",
+              "title": "Practice Function refactors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-3-unit-10-function-refactors-lesson-3",
+              "unitId": "typescript-section-3-unit-10-function-refactors",
+              "title": "Review Function refactors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "typescript-section-4",
+      "trackId": "typescript",
+      "order": 4,
+      "title": "Section 4: Unions & Narrowing",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "typescript-section-4-unit-1-union-types",
+          "sectionId": "typescript-section-4",
+          "order": 1,
+          "title": "Union types",
+          "lessons": [
+            {
+              "id": "typescript-section-4-unit-1-union-types-lesson-1",
+              "unitId": "typescript-section-4-unit-1-union-types",
+              "title": "Learn Union types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-1-union-types-lesson-2",
+              "unitId": "typescript-section-4-unit-1-union-types",
+              "title": "Practice Union types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-1-union-types-lesson-3",
+              "unitId": "typescript-section-4-unit-1-union-types",
+              "title": "Review Union types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-4-unit-2-discriminated-unions",
+          "sectionId": "typescript-section-4",
+          "order": 2,
+          "title": "Discriminated unions",
+          "lessons": [
+            {
+              "id": "typescript-section-4-unit-2-discriminated-unions-lesson-1",
+              "unitId": "typescript-section-4-unit-2-discriminated-unions",
+              "title": "Learn Discriminated unions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-2-discriminated-unions-lesson-2",
+              "unitId": "typescript-section-4-unit-2-discriminated-unions",
+              "title": "Practice Discriminated unions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-2-discriminated-unions-lesson-3",
+              "unitId": "typescript-section-4-unit-2-discriminated-unions",
+              "title": "Review Discriminated unions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-4-unit-3-type-guards",
+          "sectionId": "typescript-section-4",
+          "order": 3,
+          "title": "Type guards",
+          "lessons": [
+            {
+              "id": "typescript-section-4-unit-3-type-guards-lesson-1",
+              "unitId": "typescript-section-4-unit-3-type-guards",
+              "title": "Learn Type guards",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-3-type-guards-lesson-2",
+              "unitId": "typescript-section-4-unit-3-type-guards",
+              "title": "Practice Type guards",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-3-type-guards-lesson-3",
+              "unitId": "typescript-section-4-unit-3-type-guards",
+              "title": "Review Type guards",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-4-unit-4-typeof-checks",
+          "sectionId": "typescript-section-4",
+          "order": 4,
+          "title": "typeof checks",
+          "lessons": [
+            {
+              "id": "typescript-section-4-unit-4-typeof-checks-lesson-1",
+              "unitId": "typescript-section-4-unit-4-typeof-checks",
+              "title": "Learn typeof checks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-4-typeof-checks-lesson-2",
+              "unitId": "typescript-section-4-unit-4-typeof-checks",
+              "title": "Practice typeof checks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-4-typeof-checks-lesson-3",
+              "unitId": "typescript-section-4-unit-4-typeof-checks",
+              "title": "Review typeof checks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-4-unit-5-in-checks",
+          "sectionId": "typescript-section-4",
+          "order": 5,
+          "title": "in checks",
+          "lessons": [
+            {
+              "id": "typescript-section-4-unit-5-in-checks-lesson-1",
+              "unitId": "typescript-section-4-unit-5-in-checks",
+              "title": "Learn in checks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-5-in-checks-lesson-2",
+              "unitId": "typescript-section-4-unit-5-in-checks",
+              "title": "Practice in checks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-5-in-checks-lesson-3",
+              "unitId": "typescript-section-4-unit-5-in-checks",
+              "title": "Review in checks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-4-unit-6-instanceof-checks",
+          "sectionId": "typescript-section-4",
+          "order": 6,
+          "title": "instanceof checks",
+          "lessons": [
+            {
+              "id": "typescript-section-4-unit-6-instanceof-checks-lesson-1",
+              "unitId": "typescript-section-4-unit-6-instanceof-checks",
+              "title": "Learn instanceof checks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-6-instanceof-checks-lesson-2",
+              "unitId": "typescript-section-4-unit-6-instanceof-checks",
+              "title": "Practice instanceof checks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-6-instanceof-checks-lesson-3",
+              "unitId": "typescript-section-4-unit-6-instanceof-checks",
+              "title": "Review instanceof checks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-4-unit-7-exhaustive-checks",
+          "sectionId": "typescript-section-4",
+          "order": 7,
+          "title": "Exhaustive checks",
+          "lessons": [
+            {
+              "id": "typescript-section-4-unit-7-exhaustive-checks-lesson-1",
+              "unitId": "typescript-section-4-unit-7-exhaustive-checks",
+              "title": "Learn Exhaustive checks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-7-exhaustive-checks-lesson-2",
+              "unitId": "typescript-section-4-unit-7-exhaustive-checks",
+              "title": "Practice Exhaustive checks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-7-exhaustive-checks-lesson-3",
+              "unitId": "typescript-section-4-unit-7-exhaustive-checks",
+              "title": "Review Exhaustive checks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-4-unit-8-nullable-values",
+          "sectionId": "typescript-section-4",
+          "order": 8,
+          "title": "Nullable values",
+          "lessons": [
+            {
+              "id": "typescript-section-4-unit-8-nullable-values-lesson-1",
+              "unitId": "typescript-section-4-unit-8-nullable-values",
+              "title": "Learn Nullable values",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-8-nullable-values-lesson-2",
+              "unitId": "typescript-section-4-unit-8-nullable-values",
+              "title": "Practice Nullable values",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-8-nullable-values-lesson-3",
+              "unitId": "typescript-section-4-unit-8-nullable-values",
+              "title": "Review Nullable values",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-4-unit-9-control-flow-narrowing",
+          "sectionId": "typescript-section-4",
+          "order": 9,
+          "title": "Control-flow narrowing",
+          "lessons": [
+            {
+              "id": "typescript-section-4-unit-9-control-flow-narrowing-lesson-1",
+              "unitId": "typescript-section-4-unit-9-control-flow-narrowing",
+              "title": "Learn Control-flow narrowing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-9-control-flow-narrowing-lesson-2",
+              "unitId": "typescript-section-4-unit-9-control-flow-narrowing",
+              "title": "Practice Control-flow narrowing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-9-control-flow-narrowing-lesson-3",
+              "unitId": "typescript-section-4-unit-9-control-flow-narrowing",
+              "title": "Review Control-flow narrowing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-4-unit-10-state-modeling",
+          "sectionId": "typescript-section-4",
+          "order": 10,
+          "title": "State modeling",
+          "lessons": [
+            {
+              "id": "typescript-section-4-unit-10-state-modeling-lesson-1",
+              "unitId": "typescript-section-4-unit-10-state-modeling",
+              "title": "Learn State modeling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-10-state-modeling-lesson-2",
+              "unitId": "typescript-section-4-unit-10-state-modeling",
+              "title": "Practice State modeling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-4-unit-10-state-modeling-lesson-3",
+              "unitId": "typescript-section-4-unit-10-state-modeling",
+              "title": "Review State modeling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "typescript-section-5",
+      "trackId": "typescript",
+      "order": 5,
+      "title": "Section 5: Generics",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "typescript-section-5-unit-1-generic-functions",
+          "sectionId": "typescript-section-5",
+          "order": 1,
+          "title": "Generic functions",
+          "lessons": [
+            {
+              "id": "typescript-section-5-unit-1-generic-functions-lesson-1",
+              "unitId": "typescript-section-5-unit-1-generic-functions",
+              "title": "Learn Generic functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-1-generic-functions-lesson-2",
+              "unitId": "typescript-section-5-unit-1-generic-functions",
+              "title": "Practice Generic functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-1-generic-functions-lesson-3",
+              "unitId": "typescript-section-5-unit-1-generic-functions",
+              "title": "Review Generic functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-5-unit-2-generic-arrays",
+          "sectionId": "typescript-section-5",
+          "order": 2,
+          "title": "Generic arrays",
+          "lessons": [
+            {
+              "id": "typescript-section-5-unit-2-generic-arrays-lesson-1",
+              "unitId": "typescript-section-5-unit-2-generic-arrays",
+              "title": "Learn Generic arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-2-generic-arrays-lesson-2",
+              "unitId": "typescript-section-5-unit-2-generic-arrays",
+              "title": "Practice Generic arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-2-generic-arrays-lesson-3",
+              "unitId": "typescript-section-5-unit-2-generic-arrays",
+              "title": "Review Generic arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-5-unit-3-generic-constraints",
+          "sectionId": "typescript-section-5",
+          "order": 3,
+          "title": "Generic constraints",
+          "lessons": [
+            {
+              "id": "typescript-section-5-unit-3-generic-constraints-lesson-1",
+              "unitId": "typescript-section-5-unit-3-generic-constraints",
+              "title": "Learn Generic constraints",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-3-generic-constraints-lesson-2",
+              "unitId": "typescript-section-5-unit-3-generic-constraints",
+              "title": "Practice Generic constraints",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-3-generic-constraints-lesson-3",
+              "unitId": "typescript-section-5-unit-3-generic-constraints",
+              "title": "Review Generic constraints",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-5-unit-4-generic-interfaces",
+          "sectionId": "typescript-section-5",
+          "order": 4,
+          "title": "Generic interfaces",
+          "lessons": [
+            {
+              "id": "typescript-section-5-unit-4-generic-interfaces-lesson-1",
+              "unitId": "typescript-section-5-unit-4-generic-interfaces",
+              "title": "Learn Generic interfaces",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-4-generic-interfaces-lesson-2",
+              "unitId": "typescript-section-5-unit-4-generic-interfaces",
+              "title": "Practice Generic interfaces",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-4-generic-interfaces-lesson-3",
+              "unitId": "typescript-section-5-unit-4-generic-interfaces",
+              "title": "Review Generic interfaces",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-5-unit-5-generic-components",
+          "sectionId": "typescript-section-5",
+          "order": 5,
+          "title": "Generic components",
+          "lessons": [
+            {
+              "id": "typescript-section-5-unit-5-generic-components-lesson-1",
+              "unitId": "typescript-section-5-unit-5-generic-components",
+              "title": "Learn Generic components",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-5-generic-components-lesson-2",
+              "unitId": "typescript-section-5-unit-5-generic-components",
+              "title": "Practice Generic components",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-5-generic-components-lesson-3",
+              "unitId": "typescript-section-5-unit-5-generic-components",
+              "title": "Review Generic components",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-5-unit-6-keyof",
+          "sectionId": "typescript-section-5",
+          "order": 6,
+          "title": "Keyof",
+          "lessons": [
+            {
+              "id": "typescript-section-5-unit-6-keyof-lesson-1",
+              "unitId": "typescript-section-5-unit-6-keyof",
+              "title": "Learn Keyof",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-6-keyof-lesson-2",
+              "unitId": "typescript-section-5-unit-6-keyof",
+              "title": "Practice Keyof",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-6-keyof-lesson-3",
+              "unitId": "typescript-section-5-unit-6-keyof",
+              "title": "Review Keyof",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-5-unit-7-indexed-access",
+          "sectionId": "typescript-section-5",
+          "order": 7,
+          "title": "Indexed access",
+          "lessons": [
+            {
+              "id": "typescript-section-5-unit-7-indexed-access-lesson-1",
+              "unitId": "typescript-section-5-unit-7-indexed-access",
+              "title": "Learn Indexed access",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-7-indexed-access-lesson-2",
+              "unitId": "typescript-section-5-unit-7-indexed-access",
+              "title": "Practice Indexed access",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-7-indexed-access-lesson-3",
+              "unitId": "typescript-section-5-unit-7-indexed-access",
+              "title": "Review Indexed access",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-5-unit-8-mapped-types-intro",
+          "sectionId": "typescript-section-5",
+          "order": 8,
+          "title": "Mapped types intro",
+          "lessons": [
+            {
+              "id": "typescript-section-5-unit-8-mapped-types-intro-lesson-1",
+              "unitId": "typescript-section-5-unit-8-mapped-types-intro",
+              "title": "Learn Mapped types intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-8-mapped-types-intro-lesson-2",
+              "unitId": "typescript-section-5-unit-8-mapped-types-intro",
+              "title": "Practice Mapped types intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-8-mapped-types-intro-lesson-3",
+              "unitId": "typescript-section-5-unit-8-mapped-types-intro",
+              "title": "Review Mapped types intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-5-unit-9-generic-defaults",
+          "sectionId": "typescript-section-5",
+          "order": 9,
+          "title": "Generic defaults",
+          "lessons": [
+            {
+              "id": "typescript-section-5-unit-9-generic-defaults-lesson-1",
+              "unitId": "typescript-section-5-unit-9-generic-defaults",
+              "title": "Learn Generic defaults",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-9-generic-defaults-lesson-2",
+              "unitId": "typescript-section-5-unit-9-generic-defaults",
+              "title": "Practice Generic defaults",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-9-generic-defaults-lesson-3",
+              "unitId": "typescript-section-5-unit-9-generic-defaults",
+              "title": "Review Generic defaults",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-5-unit-10-reusable-helpers",
+          "sectionId": "typescript-section-5",
+          "order": 10,
+          "title": "Reusable helpers",
+          "lessons": [
+            {
+              "id": "typescript-section-5-unit-10-reusable-helpers-lesson-1",
+              "unitId": "typescript-section-5-unit-10-reusable-helpers",
+              "title": "Learn Reusable helpers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-10-reusable-helpers-lesson-2",
+              "unitId": "typescript-section-5-unit-10-reusable-helpers",
+              "title": "Practice Reusable helpers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-5-unit-10-reusable-helpers-lesson-3",
+              "unitId": "typescript-section-5-unit-10-reusable-helpers",
+              "title": "Review Reusable helpers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "typescript-section-6",
+      "trackId": "typescript",
+      "order": 6,
+      "title": "Section 6: Utility Types",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "typescript-section-6-unit-1-partial",
+          "sectionId": "typescript-section-6",
+          "order": 1,
+          "title": "Partial",
+          "lessons": [
+            {
+              "id": "typescript-section-6-unit-1-partial-lesson-1",
+              "unitId": "typescript-section-6-unit-1-partial",
+              "title": "Learn Partial",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-1-partial-lesson-2",
+              "unitId": "typescript-section-6-unit-1-partial",
+              "title": "Practice Partial",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-1-partial-lesson-3",
+              "unitId": "typescript-section-6-unit-1-partial",
+              "title": "Review Partial",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-6-unit-2-required",
+          "sectionId": "typescript-section-6",
+          "order": 2,
+          "title": "Required",
+          "lessons": [
+            {
+              "id": "typescript-section-6-unit-2-required-lesson-1",
+              "unitId": "typescript-section-6-unit-2-required",
+              "title": "Learn Required",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-2-required-lesson-2",
+              "unitId": "typescript-section-6-unit-2-required",
+              "title": "Practice Required",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-2-required-lesson-3",
+              "unitId": "typescript-section-6-unit-2-required",
+              "title": "Review Required",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-6-unit-3-pick",
+          "sectionId": "typescript-section-6",
+          "order": 3,
+          "title": "Pick",
+          "lessons": [
+            {
+              "id": "typescript-section-6-unit-3-pick-lesson-1",
+              "unitId": "typescript-section-6-unit-3-pick",
+              "title": "Learn Pick",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-3-pick-lesson-2",
+              "unitId": "typescript-section-6-unit-3-pick",
+              "title": "Practice Pick",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-3-pick-lesson-3",
+              "unitId": "typescript-section-6-unit-3-pick",
+              "title": "Review Pick",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-6-unit-4-omit",
+          "sectionId": "typescript-section-6",
+          "order": 4,
+          "title": "Omit",
+          "lessons": [
+            {
+              "id": "typescript-section-6-unit-4-omit-lesson-1",
+              "unitId": "typescript-section-6-unit-4-omit",
+              "title": "Learn Omit",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-4-omit-lesson-2",
+              "unitId": "typescript-section-6-unit-4-omit",
+              "title": "Practice Omit",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-4-omit-lesson-3",
+              "unitId": "typescript-section-6-unit-4-omit",
+              "title": "Review Omit",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-6-unit-5-record",
+          "sectionId": "typescript-section-6",
+          "order": 5,
+          "title": "Record",
+          "lessons": [
+            {
+              "id": "typescript-section-6-unit-5-record-lesson-1",
+              "unitId": "typescript-section-6-unit-5-record",
+              "title": "Learn Record",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-5-record-lesson-2",
+              "unitId": "typescript-section-6-unit-5-record",
+              "title": "Practice Record",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-5-record-lesson-3",
+              "unitId": "typescript-section-6-unit-5-record",
+              "title": "Review Record",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-6-unit-6-returntype",
+          "sectionId": "typescript-section-6",
+          "order": 6,
+          "title": "ReturnType",
+          "lessons": [
+            {
+              "id": "typescript-section-6-unit-6-returntype-lesson-1",
+              "unitId": "typescript-section-6-unit-6-returntype",
+              "title": "Learn ReturnType",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-6-returntype-lesson-2",
+              "unitId": "typescript-section-6-unit-6-returntype",
+              "title": "Practice ReturnType",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-6-returntype-lesson-3",
+              "unitId": "typescript-section-6-unit-6-returntype",
+              "title": "Review ReturnType",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-6-unit-7-parameters",
+          "sectionId": "typescript-section-6",
+          "order": 7,
+          "title": "Parameters",
+          "lessons": [
+            {
+              "id": "typescript-section-6-unit-7-parameters-lesson-1",
+              "unitId": "typescript-section-6-unit-7-parameters",
+              "title": "Learn Parameters",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-7-parameters-lesson-2",
+              "unitId": "typescript-section-6-unit-7-parameters",
+              "title": "Practice Parameters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-7-parameters-lesson-3",
+              "unitId": "typescript-section-6-unit-7-parameters",
+              "title": "Review Parameters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-6-unit-8-awaited",
+          "sectionId": "typescript-section-6",
+          "order": 8,
+          "title": "Awaited",
+          "lessons": [
+            {
+              "id": "typescript-section-6-unit-8-awaited-lesson-1",
+              "unitId": "typescript-section-6-unit-8-awaited",
+              "title": "Learn Awaited",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-8-awaited-lesson-2",
+              "unitId": "typescript-section-6-unit-8-awaited",
+              "title": "Practice Awaited",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-8-awaited-lesson-3",
+              "unitId": "typescript-section-6-unit-8-awaited",
+              "title": "Review Awaited",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-6-unit-9-readonly",
+          "sectionId": "typescript-section-6",
+          "order": 9,
+          "title": "Readonly",
+          "lessons": [
+            {
+              "id": "typescript-section-6-unit-9-readonly-lesson-1",
+              "unitId": "typescript-section-6-unit-9-readonly",
+              "title": "Learn Readonly",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-9-readonly-lesson-2",
+              "unitId": "typescript-section-6-unit-9-readonly",
+              "title": "Practice Readonly",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-9-readonly-lesson-3",
+              "unitId": "typescript-section-6-unit-9-readonly",
+              "title": "Review Readonly",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-6-unit-10-composing-utilities",
+          "sectionId": "typescript-section-6",
+          "order": 10,
+          "title": "Composing utilities",
+          "lessons": [
+            {
+              "id": "typescript-section-6-unit-10-composing-utilities-lesson-1",
+              "unitId": "typescript-section-6-unit-10-composing-utilities",
+              "title": "Learn Composing utilities",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-10-composing-utilities-lesson-2",
+              "unitId": "typescript-section-6-unit-10-composing-utilities",
+              "title": "Practice Composing utilities",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-6-unit-10-composing-utilities-lesson-3",
+              "unitId": "typescript-section-6-unit-10-composing-utilities",
+              "title": "Review Composing utilities",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "typescript-section-7",
+      "trackId": "typescript",
+      "order": 7,
+      "title": "Section 7: Enums & Constants",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "typescript-section-7-unit-1-string-enums",
+          "sectionId": "typescript-section-7",
+          "order": 1,
+          "title": "String enums",
+          "lessons": [
+            {
+              "id": "typescript-section-7-unit-1-string-enums-lesson-1",
+              "unitId": "typescript-section-7-unit-1-string-enums",
+              "title": "Learn String enums",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-1-string-enums-lesson-2",
+              "unitId": "typescript-section-7-unit-1-string-enums",
+              "title": "Practice String enums",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-1-string-enums-lesson-3",
+              "unitId": "typescript-section-7-unit-1-string-enums",
+              "title": "Review String enums",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-7-unit-2-numeric-enums",
+          "sectionId": "typescript-section-7",
+          "order": 2,
+          "title": "Numeric enums",
+          "lessons": [
+            {
+              "id": "typescript-section-7-unit-2-numeric-enums-lesson-1",
+              "unitId": "typescript-section-7-unit-2-numeric-enums",
+              "title": "Learn Numeric enums",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-2-numeric-enums-lesson-2",
+              "unitId": "typescript-section-7-unit-2-numeric-enums",
+              "title": "Practice Numeric enums",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-2-numeric-enums-lesson-3",
+              "unitId": "typescript-section-7-unit-2-numeric-enums",
+              "title": "Review Numeric enums",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-7-unit-3-const-objects",
+          "sectionId": "typescript-section-7",
+          "order": 3,
+          "title": "Const objects",
+          "lessons": [
+            {
+              "id": "typescript-section-7-unit-3-const-objects-lesson-1",
+              "unitId": "typescript-section-7-unit-3-const-objects",
+              "title": "Learn Const objects",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-3-const-objects-lesson-2",
+              "unitId": "typescript-section-7-unit-3-const-objects",
+              "title": "Practice Const objects",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-3-const-objects-lesson-3",
+              "unitId": "typescript-section-7-unit-3-const-objects",
+              "title": "Review Const objects",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-7-unit-4-union-alternatives",
+          "sectionId": "typescript-section-7",
+          "order": 4,
+          "title": "Union alternatives",
+          "lessons": [
+            {
+              "id": "typescript-section-7-unit-4-union-alternatives-lesson-1",
+              "unitId": "typescript-section-7-unit-4-union-alternatives",
+              "title": "Learn Union alternatives",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-4-union-alternatives-lesson-2",
+              "unitId": "typescript-section-7-unit-4-union-alternatives",
+              "title": "Practice Union alternatives",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-4-union-alternatives-lesson-3",
+              "unitId": "typescript-section-7-unit-4-union-alternatives",
+              "title": "Review Union alternatives",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-7-unit-5-enum-pitfalls",
+          "sectionId": "typescript-section-7",
+          "order": 5,
+          "title": "Enum pitfalls",
+          "lessons": [
+            {
+              "id": "typescript-section-7-unit-5-enum-pitfalls-lesson-1",
+              "unitId": "typescript-section-7-unit-5-enum-pitfalls",
+              "title": "Learn Enum pitfalls",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-5-enum-pitfalls-lesson-2",
+              "unitId": "typescript-section-7-unit-5-enum-pitfalls",
+              "title": "Practice Enum pitfalls",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-5-enum-pitfalls-lesson-3",
+              "unitId": "typescript-section-7-unit-5-enum-pitfalls",
+              "title": "Review Enum pitfalls",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-7-unit-6-configuration-types",
+          "sectionId": "typescript-section-7",
+          "order": 6,
+          "title": "Configuration types",
+          "lessons": [
+            {
+              "id": "typescript-section-7-unit-6-configuration-types-lesson-1",
+              "unitId": "typescript-section-7-unit-6-configuration-types",
+              "title": "Learn Configuration types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-6-configuration-types-lesson-2",
+              "unitId": "typescript-section-7-unit-6-configuration-types",
+              "title": "Practice Configuration types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-6-configuration-types-lesson-3",
+              "unitId": "typescript-section-7-unit-6-configuration-types",
+              "title": "Review Configuration types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-7-unit-7-status-modeling",
+          "sectionId": "typescript-section-7",
+          "order": 7,
+          "title": "Status modeling",
+          "lessons": [
+            {
+              "id": "typescript-section-7-unit-7-status-modeling-lesson-1",
+              "unitId": "typescript-section-7-unit-7-status-modeling",
+              "title": "Learn Status modeling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-7-status-modeling-lesson-2",
+              "unitId": "typescript-section-7-unit-7-status-modeling",
+              "title": "Practice Status modeling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-7-status-modeling-lesson-3",
+              "unitId": "typescript-section-7-unit-7-status-modeling",
+              "title": "Review Status modeling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-7-unit-8-feature-flags",
+          "sectionId": "typescript-section-7",
+          "order": 8,
+          "title": "Feature flags",
+          "lessons": [
+            {
+              "id": "typescript-section-7-unit-8-feature-flags-lesson-1",
+              "unitId": "typescript-section-7-unit-8-feature-flags",
+              "title": "Learn Feature flags",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-8-feature-flags-lesson-2",
+              "unitId": "typescript-section-7-unit-8-feature-flags",
+              "title": "Practice Feature flags",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-8-feature-flags-lesson-3",
+              "unitId": "typescript-section-7-unit-8-feature-flags",
+              "title": "Review Feature flags",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-7-unit-9-constants-modules",
+          "sectionId": "typescript-section-7",
+          "order": 9,
+          "title": "Constants modules",
+          "lessons": [
+            {
+              "id": "typescript-section-7-unit-9-constants-modules-lesson-1",
+              "unitId": "typescript-section-7-unit-9-constants-modules",
+              "title": "Learn Constants modules",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-9-constants-modules-lesson-2",
+              "unitId": "typescript-section-7-unit-9-constants-modules",
+              "title": "Practice Constants modules",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-9-constants-modules-lesson-3",
+              "unitId": "typescript-section-7-unit-9-constants-modules",
+              "title": "Review Constants modules",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-7-unit-10-migration-choices",
+          "sectionId": "typescript-section-7",
+          "order": 10,
+          "title": "Migration choices",
+          "lessons": [
+            {
+              "id": "typescript-section-7-unit-10-migration-choices-lesson-1",
+              "unitId": "typescript-section-7-unit-10-migration-choices",
+              "title": "Learn Migration choices",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-10-migration-choices-lesson-2",
+              "unitId": "typescript-section-7-unit-10-migration-choices",
+              "title": "Practice Migration choices",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-7-unit-10-migration-choices-lesson-3",
+              "unitId": "typescript-section-7-unit-10-migration-choices",
+              "title": "Review Migration choices",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "typescript-section-8",
+      "trackId": "typescript",
+      "order": 8,
+      "title": "Section 8: React with TypeScript",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "typescript-section-8-unit-1-component-props",
+          "sectionId": "typescript-section-8",
+          "order": 1,
+          "title": "Component props",
+          "lessons": [
+            {
+              "id": "typescript-section-8-unit-1-component-props-lesson-1",
+              "unitId": "typescript-section-8-unit-1-component-props",
+              "title": "Learn Component props",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-1-component-props-lesson-2",
+              "unitId": "typescript-section-8-unit-1-component-props",
+              "title": "Practice Component props",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-1-component-props-lesson-3",
+              "unitId": "typescript-section-8-unit-1-component-props",
+              "title": "Review Component props",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-8-unit-2-children-types",
+          "sectionId": "typescript-section-8",
+          "order": 2,
+          "title": "Children types",
+          "lessons": [
+            {
+              "id": "typescript-section-8-unit-2-children-types-lesson-1",
+              "unitId": "typescript-section-8-unit-2-children-types",
+              "title": "Learn Children types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-2-children-types-lesson-2",
+              "unitId": "typescript-section-8-unit-2-children-types",
+              "title": "Practice Children types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-2-children-types-lesson-3",
+              "unitId": "typescript-section-8-unit-2-children-types",
+              "title": "Review Children types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-8-unit-3-event-types",
+          "sectionId": "typescript-section-8",
+          "order": 3,
+          "title": "Event types",
+          "lessons": [
+            {
+              "id": "typescript-section-8-unit-3-event-types-lesson-1",
+              "unitId": "typescript-section-8-unit-3-event-types",
+              "title": "Learn Event types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-3-event-types-lesson-2",
+              "unitId": "typescript-section-8-unit-3-event-types",
+              "title": "Practice Event types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-3-event-types-lesson-3",
+              "unitId": "typescript-section-8-unit-3-event-types",
+              "title": "Review Event types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-8-unit-4-usestate-types",
+          "sectionId": "typescript-section-8",
+          "order": 4,
+          "title": "useState types",
+          "lessons": [
+            {
+              "id": "typescript-section-8-unit-4-usestate-types-lesson-1",
+              "unitId": "typescript-section-8-unit-4-usestate-types",
+              "title": "Learn useState types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-4-usestate-types-lesson-2",
+              "unitId": "typescript-section-8-unit-4-usestate-types",
+              "title": "Practice useState types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-4-usestate-types-lesson-3",
+              "unitId": "typescript-section-8-unit-4-usestate-types",
+              "title": "Review useState types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-8-unit-5-useref-types",
+          "sectionId": "typescript-section-8",
+          "order": 5,
+          "title": "useRef types",
+          "lessons": [
+            {
+              "id": "typescript-section-8-unit-5-useref-types-lesson-1",
+              "unitId": "typescript-section-8-unit-5-useref-types",
+              "title": "Learn useRef types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-5-useref-types-lesson-2",
+              "unitId": "typescript-section-8-unit-5-useref-types",
+              "title": "Practice useRef types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-5-useref-types-lesson-3",
+              "unitId": "typescript-section-8-unit-5-useref-types",
+              "title": "Review useRef types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-8-unit-6-custom-hooks",
+          "sectionId": "typescript-section-8",
+          "order": 6,
+          "title": "Custom hooks",
+          "lessons": [
+            {
+              "id": "typescript-section-8-unit-6-custom-hooks-lesson-1",
+              "unitId": "typescript-section-8-unit-6-custom-hooks",
+              "title": "Learn Custom hooks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-6-custom-hooks-lesson-2",
+              "unitId": "typescript-section-8-unit-6-custom-hooks",
+              "title": "Practice Custom hooks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-6-custom-hooks-lesson-3",
+              "unitId": "typescript-section-8-unit-6-custom-hooks",
+              "title": "Review Custom hooks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-8-unit-7-context-types",
+          "sectionId": "typescript-section-8",
+          "order": 7,
+          "title": "Context types",
+          "lessons": [
+            {
+              "id": "typescript-section-8-unit-7-context-types-lesson-1",
+              "unitId": "typescript-section-8-unit-7-context-types",
+              "title": "Learn Context types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-7-context-types-lesson-2",
+              "unitId": "typescript-section-8-unit-7-context-types",
+              "title": "Practice Context types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-7-context-types-lesson-3",
+              "unitId": "typescript-section-8-unit-7-context-types",
+              "title": "Review Context types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-8-unit-8-generic-components",
+          "sectionId": "typescript-section-8",
+          "order": 8,
+          "title": "Generic components",
+          "lessons": [
+            {
+              "id": "typescript-section-8-unit-8-generic-components-lesson-1",
+              "unitId": "typescript-section-8-unit-8-generic-components",
+              "title": "Learn Generic components",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-8-generic-components-lesson-2",
+              "unitId": "typescript-section-8-unit-8-generic-components",
+              "title": "Practice Generic components",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-8-generic-components-lesson-3",
+              "unitId": "typescript-section-8-unit-8-generic-components",
+              "title": "Review Generic components",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-8-unit-9-form-types",
+          "sectionId": "typescript-section-8",
+          "order": 9,
+          "title": "Form types",
+          "lessons": [
+            {
+              "id": "typescript-section-8-unit-9-form-types-lesson-1",
+              "unitId": "typescript-section-8-unit-9-form-types",
+              "title": "Learn Form types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-9-form-types-lesson-2",
+              "unitId": "typescript-section-8-unit-9-form-types",
+              "title": "Practice Form types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-9-form-types-lesson-3",
+              "unitId": "typescript-section-8-unit-9-form-types",
+              "title": "Review Form types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-8-unit-10-react-ts-patterns",
+          "sectionId": "typescript-section-8",
+          "order": 10,
+          "title": "React TS patterns",
+          "lessons": [
+            {
+              "id": "typescript-section-8-unit-10-react-ts-patterns-lesson-1",
+              "unitId": "typescript-section-8-unit-10-react-ts-patterns",
+              "title": "Learn React TS patterns",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-10-react-ts-patterns-lesson-2",
+              "unitId": "typescript-section-8-unit-10-react-ts-patterns",
+              "title": "Practice React TS patterns",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-8-unit-10-react-ts-patterns-lesson-3",
+              "unitId": "typescript-section-8-unit-10-react-ts-patterns",
+              "title": "Review React TS patterns",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "typescript-section-9",
+      "trackId": "typescript",
+      "order": 9,
+      "title": "Section 9: API & Runtime Boundaries",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "typescript-section-9-unit-1-json-parsing",
+          "sectionId": "typescript-section-9",
+          "order": 1,
+          "title": "JSON parsing",
+          "lessons": [
+            {
+              "id": "typescript-section-9-unit-1-json-parsing-lesson-1",
+              "unitId": "typescript-section-9-unit-1-json-parsing",
+              "title": "Learn JSON parsing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-1-json-parsing-lesson-2",
+              "unitId": "typescript-section-9-unit-1-json-parsing",
+              "title": "Practice JSON parsing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-1-json-parsing-lesson-3",
+              "unitId": "typescript-section-9-unit-1-json-parsing",
+              "title": "Review JSON parsing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-9-unit-2-runtime-validation",
+          "sectionId": "typescript-section-9",
+          "order": 2,
+          "title": "Runtime validation",
+          "lessons": [
+            {
+              "id": "typescript-section-9-unit-2-runtime-validation-lesson-1",
+              "unitId": "typescript-section-9-unit-2-runtime-validation",
+              "title": "Learn Runtime validation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-2-runtime-validation-lesson-2",
+              "unitId": "typescript-section-9-unit-2-runtime-validation",
+              "title": "Practice Runtime validation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-2-runtime-validation-lesson-3",
+              "unitId": "typescript-section-9-unit-2-runtime-validation",
+              "title": "Review Runtime validation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-9-unit-3-type-predicates",
+          "sectionId": "typescript-section-9",
+          "order": 3,
+          "title": "Type predicates",
+          "lessons": [
+            {
+              "id": "typescript-section-9-unit-3-type-predicates-lesson-1",
+              "unitId": "typescript-section-9-unit-3-type-predicates",
+              "title": "Learn Type predicates",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-3-type-predicates-lesson-2",
+              "unitId": "typescript-section-9-unit-3-type-predicates",
+              "title": "Practice Type predicates",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-3-type-predicates-lesson-3",
+              "unitId": "typescript-section-9-unit-3-type-predicates",
+              "title": "Review Type predicates",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-9-unit-4-dto-types",
+          "sectionId": "typescript-section-9",
+          "order": 4,
+          "title": "DTO types",
+          "lessons": [
+            {
+              "id": "typescript-section-9-unit-4-dto-types-lesson-1",
+              "unitId": "typescript-section-9-unit-4-dto-types",
+              "title": "Learn DTO types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-4-dto-types-lesson-2",
+              "unitId": "typescript-section-9-unit-4-dto-types",
+              "title": "Practice DTO types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-4-dto-types-lesson-3",
+              "unitId": "typescript-section-9-unit-4-dto-types",
+              "title": "Review DTO types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-9-unit-5-error-response-types",
+          "sectionId": "typescript-section-9",
+          "order": 5,
+          "title": "Error response types",
+          "lessons": [
+            {
+              "id": "typescript-section-9-unit-5-error-response-types-lesson-1",
+              "unitId": "typescript-section-9-unit-5-error-response-types",
+              "title": "Learn Error response types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-5-error-response-types-lesson-2",
+              "unitId": "typescript-section-9-unit-5-error-response-types",
+              "title": "Practice Error response types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-5-error-response-types-lesson-3",
+              "unitId": "typescript-section-9-unit-5-error-response-types",
+              "title": "Review Error response types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-9-unit-6-environment-variables",
+          "sectionId": "typescript-section-9",
+          "order": 6,
+          "title": "Environment variables",
+          "lessons": [
+            {
+              "id": "typescript-section-9-unit-6-environment-variables-lesson-1",
+              "unitId": "typescript-section-9-unit-6-environment-variables",
+              "title": "Learn Environment variables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-6-environment-variables-lesson-2",
+              "unitId": "typescript-section-9-unit-6-environment-variables",
+              "title": "Practice Environment variables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-6-environment-variables-lesson-3",
+              "unitId": "typescript-section-9-unit-6-environment-variables",
+              "title": "Review Environment variables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-9-unit-7-third-party-packages",
+          "sectionId": "typescript-section-9",
+          "order": 7,
+          "title": "Third-party packages",
+          "lessons": [
+            {
+              "id": "typescript-section-9-unit-7-third-party-packages-lesson-1",
+              "unitId": "typescript-section-9-unit-7-third-party-packages",
+              "title": "Learn Third-party packages",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-7-third-party-packages-lesson-2",
+              "unitId": "typescript-section-9-unit-7-third-party-packages",
+              "title": "Practice Third-party packages",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-7-third-party-packages-lesson-3",
+              "unitId": "typescript-section-9-unit-7-third-party-packages",
+              "title": "Review Third-party packages",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-9-unit-8-declaration-files",
+          "sectionId": "typescript-section-9",
+          "order": 8,
+          "title": "Declaration files",
+          "lessons": [
+            {
+              "id": "typescript-section-9-unit-8-declaration-files-lesson-1",
+              "unitId": "typescript-section-9-unit-8-declaration-files",
+              "title": "Learn Declaration files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-8-declaration-files-lesson-2",
+              "unitId": "typescript-section-9-unit-8-declaration-files",
+              "title": "Practice Declaration files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-8-declaration-files-lesson-3",
+              "unitId": "typescript-section-9-unit-8-declaration-files",
+              "title": "Review Declaration files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-9-unit-9-module-augmentation",
+          "sectionId": "typescript-section-9",
+          "order": 9,
+          "title": "Module augmentation",
+          "lessons": [
+            {
+              "id": "typescript-section-9-unit-9-module-augmentation-lesson-1",
+              "unitId": "typescript-section-9-unit-9-module-augmentation",
+              "title": "Learn Module augmentation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-9-module-augmentation-lesson-2",
+              "unitId": "typescript-section-9-unit-9-module-augmentation",
+              "title": "Practice Module augmentation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-9-module-augmentation-lesson-3",
+              "unitId": "typescript-section-9-unit-9-module-augmentation",
+              "title": "Review Module augmentation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-9-unit-10-boundary-audits",
+          "sectionId": "typescript-section-9",
+          "order": 10,
+          "title": "Boundary audits",
+          "lessons": [
+            {
+              "id": "typescript-section-9-unit-10-boundary-audits-lesson-1",
+              "unitId": "typescript-section-9-unit-10-boundary-audits",
+              "title": "Learn Boundary audits",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-10-boundary-audits-lesson-2",
+              "unitId": "typescript-section-9-unit-10-boundary-audits",
+              "title": "Practice Boundary audits",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-9-unit-10-boundary-audits-lesson-3",
+              "unitId": "typescript-section-9-unit-10-boundary-audits",
+              "title": "Review Boundary audits",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "typescript-section-10",
+      "trackId": "typescript",
+      "order": 10,
+      "title": "Section 10: TypeScript Capstones",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "typescript-section-10-unit-1-strict-mode-cleanup",
+          "sectionId": "typescript-section-10",
+          "order": 1,
+          "title": "Strict mode cleanup",
+          "lessons": [
+            {
+              "id": "typescript-section-10-unit-1-strict-mode-cleanup-lesson-1",
+              "unitId": "typescript-section-10-unit-1-strict-mode-cleanup",
+              "title": "Learn Strict mode cleanup",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-1-strict-mode-cleanup-lesson-2",
+              "unitId": "typescript-section-10-unit-1-strict-mode-cleanup",
+              "title": "Practice Strict mode cleanup",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-1-strict-mode-cleanup-lesson-3",
+              "unitId": "typescript-section-10-unit-1-strict-mode-cleanup",
+              "title": "Review Strict mode cleanup",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-10-unit-2-domain-modeling",
+          "sectionId": "typescript-section-10",
+          "order": 2,
+          "title": "Domain modeling",
+          "lessons": [
+            {
+              "id": "typescript-section-10-unit-2-domain-modeling-lesson-1",
+              "unitId": "typescript-section-10-unit-2-domain-modeling",
+              "title": "Learn Domain modeling",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-2-domain-modeling-lesson-2",
+              "unitId": "typescript-section-10-unit-2-domain-modeling",
+              "title": "Practice Domain modeling",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-2-domain-modeling-lesson-3",
+              "unitId": "typescript-section-10-unit-2-domain-modeling",
+              "title": "Review Domain modeling",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-10-unit-3-refactor-to-unions",
+          "sectionId": "typescript-section-10",
+          "order": 3,
+          "title": "Refactor to unions",
+          "lessons": [
+            {
+              "id": "typescript-section-10-unit-3-refactor-to-unions-lesson-1",
+              "unitId": "typescript-section-10-unit-3-refactor-to-unions",
+              "title": "Learn Refactor to unions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-3-refactor-to-unions-lesson-2",
+              "unitId": "typescript-section-10-unit-3-refactor-to-unions",
+              "title": "Practice Refactor to unions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-3-refactor-to-unions-lesson-3",
+              "unitId": "typescript-section-10-unit-3-refactor-to-unions",
+              "title": "Review Refactor to unions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-10-unit-4-typed-api-client",
+          "sectionId": "typescript-section-10",
+          "order": 4,
+          "title": "Typed API client",
+          "lessons": [
+            {
+              "id": "typescript-section-10-unit-4-typed-api-client-lesson-1",
+              "unitId": "typescript-section-10-unit-4-typed-api-client",
+              "title": "Learn Typed API client",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-4-typed-api-client-lesson-2",
+              "unitId": "typescript-section-10-unit-4-typed-api-client",
+              "title": "Practice Typed API client",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-4-typed-api-client-lesson-3",
+              "unitId": "typescript-section-10-unit-4-typed-api-client",
+              "title": "Review Typed API client",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-10-unit-5-reusable-form-types",
+          "sectionId": "typescript-section-10",
+          "order": 5,
+          "title": "Reusable form types",
+          "lessons": [
+            {
+              "id": "typescript-section-10-unit-5-reusable-form-types-lesson-1",
+              "unitId": "typescript-section-10-unit-5-reusable-form-types",
+              "title": "Learn Reusable form types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-5-reusable-form-types-lesson-2",
+              "unitId": "typescript-section-10-unit-5-reusable-form-types",
+              "title": "Practice Reusable form types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-5-reusable-form-types-lesson-3",
+              "unitId": "typescript-section-10-unit-5-reusable-form-types",
+              "title": "Review Reusable form types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-10-unit-6-state-machine-types",
+          "sectionId": "typescript-section-10",
+          "order": 6,
+          "title": "State machine types",
+          "lessons": [
+            {
+              "id": "typescript-section-10-unit-6-state-machine-types-lesson-1",
+              "unitId": "typescript-section-10-unit-6-state-machine-types",
+              "title": "Learn State machine types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-6-state-machine-types-lesson-2",
+              "unitId": "typescript-section-10-unit-6-state-machine-types",
+              "title": "Practice State machine types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-6-state-machine-types-lesson-3",
+              "unitId": "typescript-section-10-unit-6-state-machine-types",
+              "title": "Review State machine types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-10-unit-7-test-helper-types",
+          "sectionId": "typescript-section-10",
+          "order": 7,
+          "title": "Test helper types",
+          "lessons": [
+            {
+              "id": "typescript-section-10-unit-7-test-helper-types-lesson-1",
+              "unitId": "typescript-section-10-unit-7-test-helper-types",
+              "title": "Learn Test helper types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-7-test-helper-types-lesson-2",
+              "unitId": "typescript-section-10-unit-7-test-helper-types",
+              "title": "Practice Test helper types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-7-test-helper-types-lesson-3",
+              "unitId": "typescript-section-10-unit-7-test-helper-types",
+              "title": "Review Test helper types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-10-unit-8-library-typing",
+          "sectionId": "typescript-section-10",
+          "order": 8,
+          "title": "Library typing",
+          "lessons": [
+            {
+              "id": "typescript-section-10-unit-8-library-typing-lesson-1",
+              "unitId": "typescript-section-10-unit-8-library-typing",
+              "title": "Learn Library typing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-8-library-typing-lesson-2",
+              "unitId": "typescript-section-10-unit-8-library-typing",
+              "title": "Practice Library typing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-8-library-typing-lesson-3",
+              "unitId": "typescript-section-10-unit-8-library-typing",
+              "title": "Review Library typing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-10-unit-9-build-troubleshooting",
+          "sectionId": "typescript-section-10",
+          "order": 9,
+          "title": "Build troubleshooting",
+          "lessons": [
+            {
+              "id": "typescript-section-10-unit-9-build-troubleshooting-lesson-1",
+              "unitId": "typescript-section-10-unit-9-build-troubleshooting",
+              "title": "Learn Build troubleshooting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-9-build-troubleshooting-lesson-2",
+              "unitId": "typescript-section-10-unit-9-build-troubleshooting",
+              "title": "Practice Build troubleshooting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-9-build-troubleshooting-lesson-3",
+              "unitId": "typescript-section-10-unit-9-build-troubleshooting",
+              "title": "Review Build troubleshooting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "typescript-section-10-unit-10-final-ts-project",
+          "sectionId": "typescript-section-10",
+          "order": 10,
+          "title": "Final TS project",
+          "lessons": [
+            {
+              "id": "typescript-section-10-unit-10-final-ts-project-lesson-1",
+              "unitId": "typescript-section-10-unit-10-final-ts-project",
+              "title": "Learn Final TS project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-10-final-ts-project-lesson-2",
+              "unitId": "typescript-section-10-unit-10-final-ts-project",
+              "title": "Practice Final TS project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "typescript-section-10-unit-10-final-ts-project-lesson-3",
+              "unitId": "typescript-section-10-unit-10-final-ts-project",
+              "title": "Review Final TS project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

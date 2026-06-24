@@ -1,0 +1,3006 @@
+{
+  "id": "python",
+  "title": "Python",
+  "category": "languages",
+  "icon": "file-code",
+  "color": "#1CB0F6",
+  "description": "Learn Python syntax, data structures, functions, files, and practical scripting.",
+  "sections": [
+    {
+      "id": "python-section-1",
+      "trackId": "python",
+      "order": 1,
+      "title": "Section 1: Syntax & Variables",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "python-section-1-unit-1-running-python",
+          "sectionId": "python-section-1",
+          "order": 1,
+          "title": "Running Python",
+          "lessons": [
+            {
+              "id": "python-section-1-unit-1-running-python-lesson-1",
+              "unitId": "python-section-1-unit-1-running-python",
+              "title": "Learn Running Python",
+              "order": 1,
+              "exerciseIds": [
+                "python-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "python-section-1-unit-1-running-python-lesson-2",
+              "unitId": "python-section-1-unit-1-running-python",
+              "title": "Practice Running Python",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-1-running-python-lesson-3",
+              "unitId": "python-section-1-unit-1-running-python",
+              "title": "Review Running Python",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-1-unit-2-variables",
+          "sectionId": "python-section-1",
+          "order": 2,
+          "title": "Variables",
+          "lessons": [
+            {
+              "id": "python-section-1-unit-2-variables-lesson-1",
+              "unitId": "python-section-1-unit-2-variables",
+              "title": "Learn Variables",
+              "order": 1,
+              "exerciseIds": [
+                "python-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "python-section-1-unit-2-variables-lesson-2",
+              "unitId": "python-section-1-unit-2-variables",
+              "title": "Practice Variables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-2-variables-lesson-3",
+              "unitId": "python-section-1-unit-2-variables",
+              "title": "Review Variables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-1-unit-3-numbers",
+          "sectionId": "python-section-1",
+          "order": 3,
+          "title": "Numbers",
+          "lessons": [
+            {
+              "id": "python-section-1-unit-3-numbers-lesson-1",
+              "unitId": "python-section-1-unit-3-numbers",
+              "title": "Learn Numbers",
+              "order": 1,
+              "exerciseIds": [
+                "python-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "python-section-1-unit-3-numbers-lesson-2",
+              "unitId": "python-section-1-unit-3-numbers",
+              "title": "Practice Numbers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-3-numbers-lesson-3",
+              "unitId": "python-section-1-unit-3-numbers",
+              "title": "Review Numbers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-1-unit-4-strings",
+          "sectionId": "python-section-1",
+          "order": 4,
+          "title": "Strings",
+          "lessons": [
+            {
+              "id": "python-section-1-unit-4-strings-lesson-1",
+              "unitId": "python-section-1-unit-4-strings",
+              "title": "Learn Strings",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-4-strings-lesson-2",
+              "unitId": "python-section-1-unit-4-strings",
+              "title": "Practice Strings",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-4-strings-lesson-3",
+              "unitId": "python-section-1-unit-4-strings",
+              "title": "Review Strings",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-1-unit-5-booleans",
+          "sectionId": "python-section-1",
+          "order": 5,
+          "title": "Booleans",
+          "lessons": [
+            {
+              "id": "python-section-1-unit-5-booleans-lesson-1",
+              "unitId": "python-section-1-unit-5-booleans",
+              "title": "Learn Booleans",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-5-booleans-lesson-2",
+              "unitId": "python-section-1-unit-5-booleans",
+              "title": "Practice Booleans",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-5-booleans-lesson-3",
+              "unitId": "python-section-1-unit-5-booleans",
+              "title": "Review Booleans",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-1-unit-6-operators",
+          "sectionId": "python-section-1",
+          "order": 6,
+          "title": "Operators",
+          "lessons": [
+            {
+              "id": "python-section-1-unit-6-operators-lesson-1",
+              "unitId": "python-section-1-unit-6-operators",
+              "title": "Learn Operators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-6-operators-lesson-2",
+              "unitId": "python-section-1-unit-6-operators",
+              "title": "Practice Operators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-6-operators-lesson-3",
+              "unitId": "python-section-1-unit-6-operators",
+              "title": "Review Operators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-1-unit-7-comments",
+          "sectionId": "python-section-1",
+          "order": 7,
+          "title": "Comments",
+          "lessons": [
+            {
+              "id": "python-section-1-unit-7-comments-lesson-1",
+              "unitId": "python-section-1-unit-7-comments",
+              "title": "Learn Comments",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-7-comments-lesson-2",
+              "unitId": "python-section-1-unit-7-comments",
+              "title": "Practice Comments",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-7-comments-lesson-3",
+              "unitId": "python-section-1-unit-7-comments",
+              "title": "Review Comments",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-1-unit-8-input-and-print",
+          "sectionId": "python-section-1",
+          "order": 8,
+          "title": "Input and print",
+          "lessons": [
+            {
+              "id": "python-section-1-unit-8-input-and-print-lesson-1",
+              "unitId": "python-section-1-unit-8-input-and-print",
+              "title": "Learn Input and print",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-8-input-and-print-lesson-2",
+              "unitId": "python-section-1-unit-8-input-and-print",
+              "title": "Practice Input and print",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-8-input-and-print-lesson-3",
+              "unitId": "python-section-1-unit-8-input-and-print",
+              "title": "Review Input and print",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-1-unit-9-type-conversion",
+          "sectionId": "python-section-1",
+          "order": 9,
+          "title": "Type conversion",
+          "lessons": [
+            {
+              "id": "python-section-1-unit-9-type-conversion-lesson-1",
+              "unitId": "python-section-1-unit-9-type-conversion",
+              "title": "Learn Type conversion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-9-type-conversion-lesson-2",
+              "unitId": "python-section-1-unit-9-type-conversion",
+              "title": "Practice Type conversion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-9-type-conversion-lesson-3",
+              "unitId": "python-section-1-unit-9-type-conversion",
+              "title": "Review Type conversion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-1-unit-10-style-basics",
+          "sectionId": "python-section-1",
+          "order": 10,
+          "title": "Style basics",
+          "lessons": [
+            {
+              "id": "python-section-1-unit-10-style-basics-lesson-1",
+              "unitId": "python-section-1-unit-10-style-basics",
+              "title": "Learn Style basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-10-style-basics-lesson-2",
+              "unitId": "python-section-1-unit-10-style-basics",
+              "title": "Practice Style basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-1-unit-10-style-basics-lesson-3",
+              "unitId": "python-section-1-unit-10-style-basics",
+              "title": "Review Style basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "python-section-2",
+      "trackId": "python",
+      "order": 2,
+      "title": "Section 2: Control Flow",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "python-section-2-unit-1-if-statements",
+          "sectionId": "python-section-2",
+          "order": 1,
+          "title": "if statements",
+          "lessons": [
+            {
+              "id": "python-section-2-unit-1-if-statements-lesson-1",
+              "unitId": "python-section-2-unit-1-if-statements",
+              "title": "Learn if statements",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-1-if-statements-lesson-2",
+              "unitId": "python-section-2-unit-1-if-statements",
+              "title": "Practice if statements",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-1-if-statements-lesson-3",
+              "unitId": "python-section-2-unit-1-if-statements",
+              "title": "Review if statements",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-2-unit-2-else-and-elif",
+          "sectionId": "python-section-2",
+          "order": 2,
+          "title": "else and elif",
+          "lessons": [
+            {
+              "id": "python-section-2-unit-2-else-and-elif-lesson-1",
+              "unitId": "python-section-2-unit-2-else-and-elif",
+              "title": "Learn else and elif",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-2-else-and-elif-lesson-2",
+              "unitId": "python-section-2-unit-2-else-and-elif",
+              "title": "Practice else and elif",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-2-else-and-elif-lesson-3",
+              "unitId": "python-section-2-unit-2-else-and-elif",
+              "title": "Review else and elif",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-2-unit-3-comparison-operators",
+          "sectionId": "python-section-2",
+          "order": 3,
+          "title": "Comparison operators",
+          "lessons": [
+            {
+              "id": "python-section-2-unit-3-comparison-operators-lesson-1",
+              "unitId": "python-section-2-unit-3-comparison-operators",
+              "title": "Learn Comparison operators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-3-comparison-operators-lesson-2",
+              "unitId": "python-section-2-unit-3-comparison-operators",
+              "title": "Practice Comparison operators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-3-comparison-operators-lesson-3",
+              "unitId": "python-section-2-unit-3-comparison-operators",
+              "title": "Review Comparison operators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-2-unit-4-logical-operators",
+          "sectionId": "python-section-2",
+          "order": 4,
+          "title": "Logical operators",
+          "lessons": [
+            {
+              "id": "python-section-2-unit-4-logical-operators-lesson-1",
+              "unitId": "python-section-2-unit-4-logical-operators",
+              "title": "Learn Logical operators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-4-logical-operators-lesson-2",
+              "unitId": "python-section-2-unit-4-logical-operators",
+              "title": "Practice Logical operators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-4-logical-operators-lesson-3",
+              "unitId": "python-section-2-unit-4-logical-operators",
+              "title": "Review Logical operators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-2-unit-5-for-loops",
+          "sectionId": "python-section-2",
+          "order": 5,
+          "title": "for loops",
+          "lessons": [
+            {
+              "id": "python-section-2-unit-5-for-loops-lesson-1",
+              "unitId": "python-section-2-unit-5-for-loops",
+              "title": "Learn for loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-5-for-loops-lesson-2",
+              "unitId": "python-section-2-unit-5-for-loops",
+              "title": "Practice for loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-5-for-loops-lesson-3",
+              "unitId": "python-section-2-unit-5-for-loops",
+              "title": "Review for loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-2-unit-6-while-loops",
+          "sectionId": "python-section-2",
+          "order": 6,
+          "title": "while loops",
+          "lessons": [
+            {
+              "id": "python-section-2-unit-6-while-loops-lesson-1",
+              "unitId": "python-section-2-unit-6-while-loops",
+              "title": "Learn while loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-6-while-loops-lesson-2",
+              "unitId": "python-section-2-unit-6-while-loops",
+              "title": "Practice while loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-6-while-loops-lesson-3",
+              "unitId": "python-section-2-unit-6-while-loops",
+              "title": "Review while loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-2-unit-7-range",
+          "sectionId": "python-section-2",
+          "order": 7,
+          "title": "range",
+          "lessons": [
+            {
+              "id": "python-section-2-unit-7-range-lesson-1",
+              "unitId": "python-section-2-unit-7-range",
+              "title": "Learn range",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-7-range-lesson-2",
+              "unitId": "python-section-2-unit-7-range",
+              "title": "Practice range",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-7-range-lesson-3",
+              "unitId": "python-section-2-unit-7-range",
+              "title": "Review range",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-2-unit-8-break-and-continue",
+          "sectionId": "python-section-2",
+          "order": 8,
+          "title": "break and continue",
+          "lessons": [
+            {
+              "id": "python-section-2-unit-8-break-and-continue-lesson-1",
+              "unitId": "python-section-2-unit-8-break-and-continue",
+              "title": "Learn break and continue",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-8-break-and-continue-lesson-2",
+              "unitId": "python-section-2-unit-8-break-and-continue",
+              "title": "Practice break and continue",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-8-break-and-continue-lesson-3",
+              "unitId": "python-section-2-unit-8-break-and-continue",
+              "title": "Review break and continue",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-2-unit-9-nested-loops",
+          "sectionId": "python-section-2",
+          "order": 9,
+          "title": "Nested loops",
+          "lessons": [
+            {
+              "id": "python-section-2-unit-9-nested-loops-lesson-1",
+              "unitId": "python-section-2-unit-9-nested-loops",
+              "title": "Learn Nested loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-9-nested-loops-lesson-2",
+              "unitId": "python-section-2-unit-9-nested-loops",
+              "title": "Practice Nested loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-9-nested-loops-lesson-3",
+              "unitId": "python-section-2-unit-9-nested-loops",
+              "title": "Review Nested loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-2-unit-10-control-flow-project",
+          "sectionId": "python-section-2",
+          "order": 10,
+          "title": "Control flow project",
+          "lessons": [
+            {
+              "id": "python-section-2-unit-10-control-flow-project-lesson-1",
+              "unitId": "python-section-2-unit-10-control-flow-project",
+              "title": "Learn Control flow project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-10-control-flow-project-lesson-2",
+              "unitId": "python-section-2-unit-10-control-flow-project",
+              "title": "Practice Control flow project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-2-unit-10-control-flow-project-lesson-3",
+              "unitId": "python-section-2-unit-10-control-flow-project",
+              "title": "Review Control flow project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "python-section-3",
+      "trackId": "python",
+      "order": 3,
+      "title": "Section 3: Data Structures",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "python-section-3-unit-1-lists",
+          "sectionId": "python-section-3",
+          "order": 1,
+          "title": "Lists",
+          "lessons": [
+            {
+              "id": "python-section-3-unit-1-lists-lesson-1",
+              "unitId": "python-section-3-unit-1-lists",
+              "title": "Learn Lists",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-1-lists-lesson-2",
+              "unitId": "python-section-3-unit-1-lists",
+              "title": "Practice Lists",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-1-lists-lesson-3",
+              "unitId": "python-section-3-unit-1-lists",
+              "title": "Review Lists",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-3-unit-2-list-indexing",
+          "sectionId": "python-section-3",
+          "order": 2,
+          "title": "List indexing",
+          "lessons": [
+            {
+              "id": "python-section-3-unit-2-list-indexing-lesson-1",
+              "unitId": "python-section-3-unit-2-list-indexing",
+              "title": "Learn List indexing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-2-list-indexing-lesson-2",
+              "unitId": "python-section-3-unit-2-list-indexing",
+              "title": "Practice List indexing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-2-list-indexing-lesson-3",
+              "unitId": "python-section-3-unit-2-list-indexing",
+              "title": "Review List indexing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-3-unit-3-list-methods",
+          "sectionId": "python-section-3",
+          "order": 3,
+          "title": "List methods",
+          "lessons": [
+            {
+              "id": "python-section-3-unit-3-list-methods-lesson-1",
+              "unitId": "python-section-3-unit-3-list-methods",
+              "title": "Learn List methods",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-3-list-methods-lesson-2",
+              "unitId": "python-section-3-unit-3-list-methods",
+              "title": "Practice List methods",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-3-list-methods-lesson-3",
+              "unitId": "python-section-3-unit-3-list-methods",
+              "title": "Review List methods",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-3-unit-4-tuples",
+          "sectionId": "python-section-3",
+          "order": 4,
+          "title": "Tuples",
+          "lessons": [
+            {
+              "id": "python-section-3-unit-4-tuples-lesson-1",
+              "unitId": "python-section-3-unit-4-tuples",
+              "title": "Learn Tuples",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-4-tuples-lesson-2",
+              "unitId": "python-section-3-unit-4-tuples",
+              "title": "Practice Tuples",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-4-tuples-lesson-3",
+              "unitId": "python-section-3-unit-4-tuples",
+              "title": "Review Tuples",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-3-unit-5-dictionaries",
+          "sectionId": "python-section-3",
+          "order": 5,
+          "title": "Dictionaries",
+          "lessons": [
+            {
+              "id": "python-section-3-unit-5-dictionaries-lesson-1",
+              "unitId": "python-section-3-unit-5-dictionaries",
+              "title": "Learn Dictionaries",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-5-dictionaries-lesson-2",
+              "unitId": "python-section-3-unit-5-dictionaries",
+              "title": "Practice Dictionaries",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-5-dictionaries-lesson-3",
+              "unitId": "python-section-3-unit-5-dictionaries",
+              "title": "Review Dictionaries",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-3-unit-6-dictionary-methods",
+          "sectionId": "python-section-3",
+          "order": 6,
+          "title": "Dictionary methods",
+          "lessons": [
+            {
+              "id": "python-section-3-unit-6-dictionary-methods-lesson-1",
+              "unitId": "python-section-3-unit-6-dictionary-methods",
+              "title": "Learn Dictionary methods",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-6-dictionary-methods-lesson-2",
+              "unitId": "python-section-3-unit-6-dictionary-methods",
+              "title": "Practice Dictionary methods",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-6-dictionary-methods-lesson-3",
+              "unitId": "python-section-3-unit-6-dictionary-methods",
+              "title": "Review Dictionary methods",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-3-unit-7-sets",
+          "sectionId": "python-section-3",
+          "order": 7,
+          "title": "Sets",
+          "lessons": [
+            {
+              "id": "python-section-3-unit-7-sets-lesson-1",
+              "unitId": "python-section-3-unit-7-sets",
+              "title": "Learn Sets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-7-sets-lesson-2",
+              "unitId": "python-section-3-unit-7-sets",
+              "title": "Practice Sets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-7-sets-lesson-3",
+              "unitId": "python-section-3-unit-7-sets",
+              "title": "Review Sets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-3-unit-8-membership-tests",
+          "sectionId": "python-section-3",
+          "order": 8,
+          "title": "Membership tests",
+          "lessons": [
+            {
+              "id": "python-section-3-unit-8-membership-tests-lesson-1",
+              "unitId": "python-section-3-unit-8-membership-tests",
+              "title": "Learn Membership tests",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-8-membership-tests-lesson-2",
+              "unitId": "python-section-3-unit-8-membership-tests",
+              "title": "Practice Membership tests",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-8-membership-tests-lesson-3",
+              "unitId": "python-section-3-unit-8-membership-tests",
+              "title": "Review Membership tests",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-3-unit-9-nested-data",
+          "sectionId": "python-section-3",
+          "order": 9,
+          "title": "Nested data",
+          "lessons": [
+            {
+              "id": "python-section-3-unit-9-nested-data-lesson-1",
+              "unitId": "python-section-3-unit-9-nested-data",
+              "title": "Learn Nested data",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-9-nested-data-lesson-2",
+              "unitId": "python-section-3-unit-9-nested-data",
+              "title": "Practice Nested data",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-9-nested-data-lesson-3",
+              "unitId": "python-section-3-unit-9-nested-data",
+              "title": "Review Nested data",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-3-unit-10-data-structure-project",
+          "sectionId": "python-section-3",
+          "order": 10,
+          "title": "Data structure project",
+          "lessons": [
+            {
+              "id": "python-section-3-unit-10-data-structure-project-lesson-1",
+              "unitId": "python-section-3-unit-10-data-structure-project",
+              "title": "Learn Data structure project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-10-data-structure-project-lesson-2",
+              "unitId": "python-section-3-unit-10-data-structure-project",
+              "title": "Practice Data structure project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-3-unit-10-data-structure-project-lesson-3",
+              "unitId": "python-section-3-unit-10-data-structure-project",
+              "title": "Review Data structure project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "python-section-4",
+      "trackId": "python",
+      "order": 4,
+      "title": "Section 4: Functions",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "python-section-4-unit-1-defining-functions",
+          "sectionId": "python-section-4",
+          "order": 1,
+          "title": "Defining functions",
+          "lessons": [
+            {
+              "id": "python-section-4-unit-1-defining-functions-lesson-1",
+              "unitId": "python-section-4-unit-1-defining-functions",
+              "title": "Learn Defining functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-1-defining-functions-lesson-2",
+              "unitId": "python-section-4-unit-1-defining-functions",
+              "title": "Practice Defining functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-1-defining-functions-lesson-3",
+              "unitId": "python-section-4-unit-1-defining-functions",
+              "title": "Review Defining functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-4-unit-2-parameters",
+          "sectionId": "python-section-4",
+          "order": 2,
+          "title": "Parameters",
+          "lessons": [
+            {
+              "id": "python-section-4-unit-2-parameters-lesson-1",
+              "unitId": "python-section-4-unit-2-parameters",
+              "title": "Learn Parameters",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-2-parameters-lesson-2",
+              "unitId": "python-section-4-unit-2-parameters",
+              "title": "Practice Parameters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-2-parameters-lesson-3",
+              "unitId": "python-section-4-unit-2-parameters",
+              "title": "Review Parameters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-4-unit-3-return-values",
+          "sectionId": "python-section-4",
+          "order": 3,
+          "title": "Return values",
+          "lessons": [
+            {
+              "id": "python-section-4-unit-3-return-values-lesson-1",
+              "unitId": "python-section-4-unit-3-return-values",
+              "title": "Learn Return values",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-3-return-values-lesson-2",
+              "unitId": "python-section-4-unit-3-return-values",
+              "title": "Practice Return values",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-3-return-values-lesson-3",
+              "unitId": "python-section-4-unit-3-return-values",
+              "title": "Review Return values",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-4-unit-4-default-args",
+          "sectionId": "python-section-4",
+          "order": 4,
+          "title": "Default args",
+          "lessons": [
+            {
+              "id": "python-section-4-unit-4-default-args-lesson-1",
+              "unitId": "python-section-4-unit-4-default-args",
+              "title": "Learn Default args",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-4-default-args-lesson-2",
+              "unitId": "python-section-4-unit-4-default-args",
+              "title": "Practice Default args",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-4-default-args-lesson-3",
+              "unitId": "python-section-4-unit-4-default-args",
+              "title": "Review Default args",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-4-unit-5-keyword-args",
+          "sectionId": "python-section-4",
+          "order": 5,
+          "title": "Keyword args",
+          "lessons": [
+            {
+              "id": "python-section-4-unit-5-keyword-args-lesson-1",
+              "unitId": "python-section-4-unit-5-keyword-args",
+              "title": "Learn Keyword args",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-5-keyword-args-lesson-2",
+              "unitId": "python-section-4-unit-5-keyword-args",
+              "title": "Practice Keyword args",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-5-keyword-args-lesson-3",
+              "unitId": "python-section-4-unit-5-keyword-args",
+              "title": "Review Keyword args",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-4-unit-6-args-and-kwargs",
+          "sectionId": "python-section-4",
+          "order": 6,
+          "title": "args and kwargs",
+          "lessons": [
+            {
+              "id": "python-section-4-unit-6-args-and-kwargs-lesson-1",
+              "unitId": "python-section-4-unit-6-args-and-kwargs",
+              "title": "Learn args and kwargs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-6-args-and-kwargs-lesson-2",
+              "unitId": "python-section-4-unit-6-args-and-kwargs",
+              "title": "Practice args and kwargs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-6-args-and-kwargs-lesson-3",
+              "unitId": "python-section-4-unit-6-args-and-kwargs",
+              "title": "Review args and kwargs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-4-unit-7-scope",
+          "sectionId": "python-section-4",
+          "order": 7,
+          "title": "Scope",
+          "lessons": [
+            {
+              "id": "python-section-4-unit-7-scope-lesson-1",
+              "unitId": "python-section-4-unit-7-scope",
+              "title": "Learn Scope",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-7-scope-lesson-2",
+              "unitId": "python-section-4-unit-7-scope",
+              "title": "Practice Scope",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-7-scope-lesson-3",
+              "unitId": "python-section-4-unit-7-scope",
+              "title": "Review Scope",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-4-unit-8-docstrings",
+          "sectionId": "python-section-4",
+          "order": 8,
+          "title": "Docstrings",
+          "lessons": [
+            {
+              "id": "python-section-4-unit-8-docstrings-lesson-1",
+              "unitId": "python-section-4-unit-8-docstrings",
+              "title": "Learn Docstrings",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-8-docstrings-lesson-2",
+              "unitId": "python-section-4-unit-8-docstrings",
+              "title": "Practice Docstrings",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-8-docstrings-lesson-3",
+              "unitId": "python-section-4-unit-8-docstrings",
+              "title": "Review Docstrings",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-4-unit-9-lambda-basics",
+          "sectionId": "python-section-4",
+          "order": 9,
+          "title": "Lambda basics",
+          "lessons": [
+            {
+              "id": "python-section-4-unit-9-lambda-basics-lesson-1",
+              "unitId": "python-section-4-unit-9-lambda-basics",
+              "title": "Learn Lambda basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-9-lambda-basics-lesson-2",
+              "unitId": "python-section-4-unit-9-lambda-basics",
+              "title": "Practice Lambda basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-9-lambda-basics-lesson-3",
+              "unitId": "python-section-4-unit-9-lambda-basics",
+              "title": "Review Lambda basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-4-unit-10-function-project",
+          "sectionId": "python-section-4",
+          "order": 10,
+          "title": "Function project",
+          "lessons": [
+            {
+              "id": "python-section-4-unit-10-function-project-lesson-1",
+              "unitId": "python-section-4-unit-10-function-project",
+              "title": "Learn Function project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-10-function-project-lesson-2",
+              "unitId": "python-section-4-unit-10-function-project",
+              "title": "Practice Function project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-4-unit-10-function-project-lesson-3",
+              "unitId": "python-section-4-unit-10-function-project",
+              "title": "Review Function project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "python-section-5",
+      "trackId": "python",
+      "order": 5,
+      "title": "Section 5: OOP Basics",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "python-section-5-unit-1-classes",
+          "sectionId": "python-section-5",
+          "order": 1,
+          "title": "Classes",
+          "lessons": [
+            {
+              "id": "python-section-5-unit-1-classes-lesson-1",
+              "unitId": "python-section-5-unit-1-classes",
+              "title": "Learn Classes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-1-classes-lesson-2",
+              "unitId": "python-section-5-unit-1-classes",
+              "title": "Practice Classes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-1-classes-lesson-3",
+              "unitId": "python-section-5-unit-1-classes",
+              "title": "Review Classes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-5-unit-2-instances",
+          "sectionId": "python-section-5",
+          "order": 2,
+          "title": "Instances",
+          "lessons": [
+            {
+              "id": "python-section-5-unit-2-instances-lesson-1",
+              "unitId": "python-section-5-unit-2-instances",
+              "title": "Learn Instances",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-2-instances-lesson-2",
+              "unitId": "python-section-5-unit-2-instances",
+              "title": "Practice Instances",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-2-instances-lesson-3",
+              "unitId": "python-section-5-unit-2-instances",
+              "title": "Review Instances",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-5-unit-3-attributes",
+          "sectionId": "python-section-5",
+          "order": 3,
+          "title": "Attributes",
+          "lessons": [
+            {
+              "id": "python-section-5-unit-3-attributes-lesson-1",
+              "unitId": "python-section-5-unit-3-attributes",
+              "title": "Learn Attributes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-3-attributes-lesson-2",
+              "unitId": "python-section-5-unit-3-attributes",
+              "title": "Practice Attributes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-3-attributes-lesson-3",
+              "unitId": "python-section-5-unit-3-attributes",
+              "title": "Review Attributes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-5-unit-4-methods",
+          "sectionId": "python-section-5",
+          "order": 4,
+          "title": "Methods",
+          "lessons": [
+            {
+              "id": "python-section-5-unit-4-methods-lesson-1",
+              "unitId": "python-section-5-unit-4-methods",
+              "title": "Learn Methods",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-4-methods-lesson-2",
+              "unitId": "python-section-5-unit-4-methods",
+              "title": "Practice Methods",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-4-methods-lesson-3",
+              "unitId": "python-section-5-unit-4-methods",
+              "title": "Review Methods",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-5-unit-5-constructors",
+          "sectionId": "python-section-5",
+          "order": 5,
+          "title": "Constructors",
+          "lessons": [
+            {
+              "id": "python-section-5-unit-5-constructors-lesson-1",
+              "unitId": "python-section-5-unit-5-constructors",
+              "title": "Learn Constructors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-5-constructors-lesson-2",
+              "unitId": "python-section-5-unit-5-constructors",
+              "title": "Practice Constructors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-5-constructors-lesson-3",
+              "unitId": "python-section-5-unit-5-constructors",
+              "title": "Review Constructors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-5-unit-6-class-variables",
+          "sectionId": "python-section-5",
+          "order": 6,
+          "title": "Class variables",
+          "lessons": [
+            {
+              "id": "python-section-5-unit-6-class-variables-lesson-1",
+              "unitId": "python-section-5-unit-6-class-variables",
+              "title": "Learn Class variables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-6-class-variables-lesson-2",
+              "unitId": "python-section-5-unit-6-class-variables",
+              "title": "Practice Class variables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-6-class-variables-lesson-3",
+              "unitId": "python-section-5-unit-6-class-variables",
+              "title": "Review Class variables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-5-unit-7-inheritance",
+          "sectionId": "python-section-5",
+          "order": 7,
+          "title": "Inheritance",
+          "lessons": [
+            {
+              "id": "python-section-5-unit-7-inheritance-lesson-1",
+              "unitId": "python-section-5-unit-7-inheritance",
+              "title": "Learn Inheritance",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-7-inheritance-lesson-2",
+              "unitId": "python-section-5-unit-7-inheritance",
+              "title": "Practice Inheritance",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-7-inheritance-lesson-3",
+              "unitId": "python-section-5-unit-7-inheritance",
+              "title": "Review Inheritance",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-5-unit-8-method-override",
+          "sectionId": "python-section-5",
+          "order": 8,
+          "title": "Method override",
+          "lessons": [
+            {
+              "id": "python-section-5-unit-8-method-override-lesson-1",
+              "unitId": "python-section-5-unit-8-method-override",
+              "title": "Learn Method override",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-8-method-override-lesson-2",
+              "unitId": "python-section-5-unit-8-method-override",
+              "title": "Practice Method override",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-8-method-override-lesson-3",
+              "unitId": "python-section-5-unit-8-method-override",
+              "title": "Review Method override",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-5-unit-9-dunder-methods",
+          "sectionId": "python-section-5",
+          "order": 9,
+          "title": "Dunder methods",
+          "lessons": [
+            {
+              "id": "python-section-5-unit-9-dunder-methods-lesson-1",
+              "unitId": "python-section-5-unit-9-dunder-methods",
+              "title": "Learn Dunder methods",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-9-dunder-methods-lesson-2",
+              "unitId": "python-section-5-unit-9-dunder-methods",
+              "title": "Practice Dunder methods",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-9-dunder-methods-lesson-3",
+              "unitId": "python-section-5-unit-9-dunder-methods",
+              "title": "Review Dunder methods",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-5-unit-10-oop-project",
+          "sectionId": "python-section-5",
+          "order": 10,
+          "title": "OOP project",
+          "lessons": [
+            {
+              "id": "python-section-5-unit-10-oop-project-lesson-1",
+              "unitId": "python-section-5-unit-10-oop-project",
+              "title": "Learn OOP project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-10-oop-project-lesson-2",
+              "unitId": "python-section-5-unit-10-oop-project",
+              "title": "Practice OOP project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-5-unit-10-oop-project-lesson-3",
+              "unitId": "python-section-5-unit-10-oop-project",
+              "title": "Review OOP project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "python-section-6",
+      "trackId": "python",
+      "order": 6,
+      "title": "Section 6: Files & Errors",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "python-section-6-unit-1-reading-files",
+          "sectionId": "python-section-6",
+          "order": 1,
+          "title": "Reading files",
+          "lessons": [
+            {
+              "id": "python-section-6-unit-1-reading-files-lesson-1",
+              "unitId": "python-section-6-unit-1-reading-files",
+              "title": "Learn Reading files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-1-reading-files-lesson-2",
+              "unitId": "python-section-6-unit-1-reading-files",
+              "title": "Practice Reading files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-1-reading-files-lesson-3",
+              "unitId": "python-section-6-unit-1-reading-files",
+              "title": "Review Reading files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-6-unit-2-writing-files",
+          "sectionId": "python-section-6",
+          "order": 2,
+          "title": "Writing files",
+          "lessons": [
+            {
+              "id": "python-section-6-unit-2-writing-files-lesson-1",
+              "unitId": "python-section-6-unit-2-writing-files",
+              "title": "Learn Writing files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-2-writing-files-lesson-2",
+              "unitId": "python-section-6-unit-2-writing-files",
+              "title": "Practice Writing files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-2-writing-files-lesson-3",
+              "unitId": "python-section-6-unit-2-writing-files",
+              "title": "Review Writing files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-6-unit-3-paths",
+          "sectionId": "python-section-6",
+          "order": 3,
+          "title": "Paths",
+          "lessons": [
+            {
+              "id": "python-section-6-unit-3-paths-lesson-1",
+              "unitId": "python-section-6-unit-3-paths",
+              "title": "Learn Paths",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-3-paths-lesson-2",
+              "unitId": "python-section-6-unit-3-paths",
+              "title": "Practice Paths",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-3-paths-lesson-3",
+              "unitId": "python-section-6-unit-3-paths",
+              "title": "Review Paths",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-6-unit-4-csv-basics",
+          "sectionId": "python-section-6",
+          "order": 4,
+          "title": "CSV basics",
+          "lessons": [
+            {
+              "id": "python-section-6-unit-4-csv-basics-lesson-1",
+              "unitId": "python-section-6-unit-4-csv-basics",
+              "title": "Learn CSV basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-4-csv-basics-lesson-2",
+              "unitId": "python-section-6-unit-4-csv-basics",
+              "title": "Practice CSV basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-4-csv-basics-lesson-3",
+              "unitId": "python-section-6-unit-4-csv-basics",
+              "title": "Review CSV basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-6-unit-5-json-basics",
+          "sectionId": "python-section-6",
+          "order": 5,
+          "title": "JSON basics",
+          "lessons": [
+            {
+              "id": "python-section-6-unit-5-json-basics-lesson-1",
+              "unitId": "python-section-6-unit-5-json-basics",
+              "title": "Learn JSON basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-5-json-basics-lesson-2",
+              "unitId": "python-section-6-unit-5-json-basics",
+              "title": "Practice JSON basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-5-json-basics-lesson-3",
+              "unitId": "python-section-6-unit-5-json-basics",
+              "title": "Review JSON basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-6-unit-6-exceptions",
+          "sectionId": "python-section-6",
+          "order": 6,
+          "title": "Exceptions",
+          "lessons": [
+            {
+              "id": "python-section-6-unit-6-exceptions-lesson-1",
+              "unitId": "python-section-6-unit-6-exceptions",
+              "title": "Learn Exceptions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-6-exceptions-lesson-2",
+              "unitId": "python-section-6-unit-6-exceptions",
+              "title": "Practice Exceptions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-6-exceptions-lesson-3",
+              "unitId": "python-section-6-unit-6-exceptions",
+              "title": "Review Exceptions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-6-unit-7-try-and-except",
+          "sectionId": "python-section-6",
+          "order": 7,
+          "title": "try and except",
+          "lessons": [
+            {
+              "id": "python-section-6-unit-7-try-and-except-lesson-1",
+              "unitId": "python-section-6-unit-7-try-and-except",
+              "title": "Learn try and except",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-7-try-and-except-lesson-2",
+              "unitId": "python-section-6-unit-7-try-and-except",
+              "title": "Practice try and except",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-7-try-and-except-lesson-3",
+              "unitId": "python-section-6-unit-7-try-and-except",
+              "title": "Review try and except",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-6-unit-8-finally",
+          "sectionId": "python-section-6",
+          "order": 8,
+          "title": "finally",
+          "lessons": [
+            {
+              "id": "python-section-6-unit-8-finally-lesson-1",
+              "unitId": "python-section-6-unit-8-finally",
+              "title": "Learn finally",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-8-finally-lesson-2",
+              "unitId": "python-section-6-unit-8-finally",
+              "title": "Practice finally",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-8-finally-lesson-3",
+              "unitId": "python-section-6-unit-8-finally",
+              "title": "Review finally",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-6-unit-9-custom-errors",
+          "sectionId": "python-section-6",
+          "order": 9,
+          "title": "Custom errors",
+          "lessons": [
+            {
+              "id": "python-section-6-unit-9-custom-errors-lesson-1",
+              "unitId": "python-section-6-unit-9-custom-errors",
+              "title": "Learn Custom errors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-9-custom-errors-lesson-2",
+              "unitId": "python-section-6-unit-9-custom-errors",
+              "title": "Practice Custom errors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-9-custom-errors-lesson-3",
+              "unitId": "python-section-6-unit-9-custom-errors",
+              "title": "Review Custom errors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-6-unit-10-file-project",
+          "sectionId": "python-section-6",
+          "order": 10,
+          "title": "File project",
+          "lessons": [
+            {
+              "id": "python-section-6-unit-10-file-project-lesson-1",
+              "unitId": "python-section-6-unit-10-file-project",
+              "title": "Learn File project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-10-file-project-lesson-2",
+              "unitId": "python-section-6-unit-10-file-project",
+              "title": "Practice File project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-6-unit-10-file-project-lesson-3",
+              "unitId": "python-section-6-unit-10-file-project",
+              "title": "Review File project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "python-section-7",
+      "trackId": "python",
+      "order": 7,
+      "title": "Section 7: Comprehensions",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "python-section-7-unit-1-list-comprehensions",
+          "sectionId": "python-section-7",
+          "order": 1,
+          "title": "List comprehensions",
+          "lessons": [
+            {
+              "id": "python-section-7-unit-1-list-comprehensions-lesson-1",
+              "unitId": "python-section-7-unit-1-list-comprehensions",
+              "title": "Learn List comprehensions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-1-list-comprehensions-lesson-2",
+              "unitId": "python-section-7-unit-1-list-comprehensions",
+              "title": "Practice List comprehensions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-1-list-comprehensions-lesson-3",
+              "unitId": "python-section-7-unit-1-list-comprehensions",
+              "title": "Review List comprehensions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-7-unit-2-filtering-comprehensions",
+          "sectionId": "python-section-7",
+          "order": 2,
+          "title": "Filtering comprehensions",
+          "lessons": [
+            {
+              "id": "python-section-7-unit-2-filtering-comprehensions-lesson-1",
+              "unitId": "python-section-7-unit-2-filtering-comprehensions",
+              "title": "Learn Filtering comprehensions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-2-filtering-comprehensions-lesson-2",
+              "unitId": "python-section-7-unit-2-filtering-comprehensions",
+              "title": "Practice Filtering comprehensions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-2-filtering-comprehensions-lesson-3",
+              "unitId": "python-section-7-unit-2-filtering-comprehensions",
+              "title": "Review Filtering comprehensions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-7-unit-3-nested-comprehensions",
+          "sectionId": "python-section-7",
+          "order": 3,
+          "title": "Nested comprehensions",
+          "lessons": [
+            {
+              "id": "python-section-7-unit-3-nested-comprehensions-lesson-1",
+              "unitId": "python-section-7-unit-3-nested-comprehensions",
+              "title": "Learn Nested comprehensions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-3-nested-comprehensions-lesson-2",
+              "unitId": "python-section-7-unit-3-nested-comprehensions",
+              "title": "Practice Nested comprehensions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-3-nested-comprehensions-lesson-3",
+              "unitId": "python-section-7-unit-3-nested-comprehensions",
+              "title": "Review Nested comprehensions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-7-unit-4-dictionary-comprehensions",
+          "sectionId": "python-section-7",
+          "order": 4,
+          "title": "Dictionary comprehensions",
+          "lessons": [
+            {
+              "id": "python-section-7-unit-4-dictionary-comprehensions-lesson-1",
+              "unitId": "python-section-7-unit-4-dictionary-comprehensions",
+              "title": "Learn Dictionary comprehensions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-4-dictionary-comprehensions-lesson-2",
+              "unitId": "python-section-7-unit-4-dictionary-comprehensions",
+              "title": "Practice Dictionary comprehensions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-4-dictionary-comprehensions-lesson-3",
+              "unitId": "python-section-7-unit-4-dictionary-comprehensions",
+              "title": "Review Dictionary comprehensions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-7-unit-5-set-comprehensions",
+          "sectionId": "python-section-7",
+          "order": 5,
+          "title": "Set comprehensions",
+          "lessons": [
+            {
+              "id": "python-section-7-unit-5-set-comprehensions-lesson-1",
+              "unitId": "python-section-7-unit-5-set-comprehensions",
+              "title": "Learn Set comprehensions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-5-set-comprehensions-lesson-2",
+              "unitId": "python-section-7-unit-5-set-comprehensions",
+              "title": "Practice Set comprehensions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-5-set-comprehensions-lesson-3",
+              "unitId": "python-section-7-unit-5-set-comprehensions",
+              "title": "Review Set comprehensions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-7-unit-6-generator-expressions",
+          "sectionId": "python-section-7",
+          "order": 6,
+          "title": "Generator expressions",
+          "lessons": [
+            {
+              "id": "python-section-7-unit-6-generator-expressions-lesson-1",
+              "unitId": "python-section-7-unit-6-generator-expressions",
+              "title": "Learn Generator expressions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-6-generator-expressions-lesson-2",
+              "unitId": "python-section-7-unit-6-generator-expressions",
+              "title": "Practice Generator expressions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-6-generator-expressions-lesson-3",
+              "unitId": "python-section-7-unit-6-generator-expressions",
+              "title": "Review Generator expressions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-7-unit-7-zip",
+          "sectionId": "python-section-7",
+          "order": 7,
+          "title": "zip",
+          "lessons": [
+            {
+              "id": "python-section-7-unit-7-zip-lesson-1",
+              "unitId": "python-section-7-unit-7-zip",
+              "title": "Learn zip",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-7-zip-lesson-2",
+              "unitId": "python-section-7-unit-7-zip",
+              "title": "Practice zip",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-7-zip-lesson-3",
+              "unitId": "python-section-7-unit-7-zip",
+              "title": "Review zip",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-7-unit-8-enumerate",
+          "sectionId": "python-section-7",
+          "order": 8,
+          "title": "enumerate",
+          "lessons": [
+            {
+              "id": "python-section-7-unit-8-enumerate-lesson-1",
+              "unitId": "python-section-7-unit-8-enumerate",
+              "title": "Learn enumerate",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-8-enumerate-lesson-2",
+              "unitId": "python-section-7-unit-8-enumerate",
+              "title": "Practice enumerate",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-8-enumerate-lesson-3",
+              "unitId": "python-section-7-unit-8-enumerate",
+              "title": "Review enumerate",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-7-unit-9-comprehension-refactors",
+          "sectionId": "python-section-7",
+          "order": 9,
+          "title": "Comprehension refactors",
+          "lessons": [
+            {
+              "id": "python-section-7-unit-9-comprehension-refactors-lesson-1",
+              "unitId": "python-section-7-unit-9-comprehension-refactors",
+              "title": "Learn Comprehension refactors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-9-comprehension-refactors-lesson-2",
+              "unitId": "python-section-7-unit-9-comprehension-refactors",
+              "title": "Practice Comprehension refactors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-9-comprehension-refactors-lesson-3",
+              "unitId": "python-section-7-unit-9-comprehension-refactors",
+              "title": "Review Comprehension refactors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-7-unit-10-comprehension-project",
+          "sectionId": "python-section-7",
+          "order": 10,
+          "title": "Comprehension project",
+          "lessons": [
+            {
+              "id": "python-section-7-unit-10-comprehension-project-lesson-1",
+              "unitId": "python-section-7-unit-10-comprehension-project",
+              "title": "Learn Comprehension project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-10-comprehension-project-lesson-2",
+              "unitId": "python-section-7-unit-10-comprehension-project",
+              "title": "Practice Comprehension project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-7-unit-10-comprehension-project-lesson-3",
+              "unitId": "python-section-7-unit-10-comprehension-project",
+              "title": "Review Comprehension project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "python-section-8",
+      "trackId": "python",
+      "order": 8,
+      "title": "Section 8: Modules & Packages",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "python-section-8-unit-1-imports",
+          "sectionId": "python-section-8",
+          "order": 1,
+          "title": "Imports",
+          "lessons": [
+            {
+              "id": "python-section-8-unit-1-imports-lesson-1",
+              "unitId": "python-section-8-unit-1-imports",
+              "title": "Learn Imports",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-1-imports-lesson-2",
+              "unitId": "python-section-8-unit-1-imports",
+              "title": "Practice Imports",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-1-imports-lesson-3",
+              "unitId": "python-section-8-unit-1-imports",
+              "title": "Review Imports",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-8-unit-2-standard-library",
+          "sectionId": "python-section-8",
+          "order": 2,
+          "title": "Standard library",
+          "lessons": [
+            {
+              "id": "python-section-8-unit-2-standard-library-lesson-1",
+              "unitId": "python-section-8-unit-2-standard-library",
+              "title": "Learn Standard library",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-2-standard-library-lesson-2",
+              "unitId": "python-section-8-unit-2-standard-library",
+              "title": "Practice Standard library",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-2-standard-library-lesson-3",
+              "unitId": "python-section-8-unit-2-standard-library",
+              "title": "Review Standard library",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-8-unit-3-virtual-environments",
+          "sectionId": "python-section-8",
+          "order": 3,
+          "title": "Virtual environments",
+          "lessons": [
+            {
+              "id": "python-section-8-unit-3-virtual-environments-lesson-1",
+              "unitId": "python-section-8-unit-3-virtual-environments",
+              "title": "Learn Virtual environments",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-3-virtual-environments-lesson-2",
+              "unitId": "python-section-8-unit-3-virtual-environments",
+              "title": "Practice Virtual environments",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-3-virtual-environments-lesson-3",
+              "unitId": "python-section-8-unit-3-virtual-environments",
+              "title": "Review Virtual environments",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-8-unit-4-pip-basics",
+          "sectionId": "python-section-8",
+          "order": 4,
+          "title": "pip basics",
+          "lessons": [
+            {
+              "id": "python-section-8-unit-4-pip-basics-lesson-1",
+              "unitId": "python-section-8-unit-4-pip-basics",
+              "title": "Learn pip basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-4-pip-basics-lesson-2",
+              "unitId": "python-section-8-unit-4-pip-basics",
+              "title": "Practice pip basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-4-pip-basics-lesson-3",
+              "unitId": "python-section-8-unit-4-pip-basics",
+              "title": "Review pip basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-8-unit-5-package-structure",
+          "sectionId": "python-section-8",
+          "order": 5,
+          "title": "Package structure",
+          "lessons": [
+            {
+              "id": "python-section-8-unit-5-package-structure-lesson-1",
+              "unitId": "python-section-8-unit-5-package-structure",
+              "title": "Learn Package structure",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-5-package-structure-lesson-2",
+              "unitId": "python-section-8-unit-5-package-structure",
+              "title": "Practice Package structure",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-5-package-structure-lesson-3",
+              "unitId": "python-section-8-unit-5-package-structure",
+              "title": "Review Package structure",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-8-unit-6-main-guard",
+          "sectionId": "python-section-8",
+          "order": 6,
+          "title": "Main guard",
+          "lessons": [
+            {
+              "id": "python-section-8-unit-6-main-guard-lesson-1",
+              "unitId": "python-section-8-unit-6-main-guard",
+              "title": "Learn Main guard",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-6-main-guard-lesson-2",
+              "unitId": "python-section-8-unit-6-main-guard",
+              "title": "Practice Main guard",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-6-main-guard-lesson-3",
+              "unitId": "python-section-8-unit-6-main-guard",
+              "title": "Review Main guard",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-8-unit-7-datetime",
+          "sectionId": "python-section-8",
+          "order": 7,
+          "title": "Datetime",
+          "lessons": [
+            {
+              "id": "python-section-8-unit-7-datetime-lesson-1",
+              "unitId": "python-section-8-unit-7-datetime",
+              "title": "Learn Datetime",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-7-datetime-lesson-2",
+              "unitId": "python-section-8-unit-7-datetime",
+              "title": "Practice Datetime",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-7-datetime-lesson-3",
+              "unitId": "python-section-8-unit-7-datetime",
+              "title": "Review Datetime",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-8-unit-8-random",
+          "sectionId": "python-section-8",
+          "order": 8,
+          "title": "Random",
+          "lessons": [
+            {
+              "id": "python-section-8-unit-8-random-lesson-1",
+              "unitId": "python-section-8-unit-8-random",
+              "title": "Learn Random",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-8-random-lesson-2",
+              "unitId": "python-section-8-unit-8-random",
+              "title": "Practice Random",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-8-random-lesson-3",
+              "unitId": "python-section-8-unit-8-random",
+              "title": "Review Random",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-8-unit-9-collections",
+          "sectionId": "python-section-8",
+          "order": 9,
+          "title": "Collections",
+          "lessons": [
+            {
+              "id": "python-section-8-unit-9-collections-lesson-1",
+              "unitId": "python-section-8-unit-9-collections",
+              "title": "Learn Collections",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-9-collections-lesson-2",
+              "unitId": "python-section-8-unit-9-collections",
+              "title": "Practice Collections",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-9-collections-lesson-3",
+              "unitId": "python-section-8-unit-9-collections",
+              "title": "Review Collections",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-8-unit-10-module-project",
+          "sectionId": "python-section-8",
+          "order": 10,
+          "title": "Module project",
+          "lessons": [
+            {
+              "id": "python-section-8-unit-10-module-project-lesson-1",
+              "unitId": "python-section-8-unit-10-module-project",
+              "title": "Learn Module project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-10-module-project-lesson-2",
+              "unitId": "python-section-8-unit-10-module-project",
+              "title": "Practice Module project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-8-unit-10-module-project-lesson-3",
+              "unitId": "python-section-8-unit-10-module-project",
+              "title": "Review Module project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "python-section-9",
+      "trackId": "python",
+      "order": 9,
+      "title": "Section 9: Testing & Tooling",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "python-section-9-unit-1-assertions",
+          "sectionId": "python-section-9",
+          "order": 1,
+          "title": "Assertions",
+          "lessons": [
+            {
+              "id": "python-section-9-unit-1-assertions-lesson-1",
+              "unitId": "python-section-9-unit-1-assertions",
+              "title": "Learn Assertions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-1-assertions-lesson-2",
+              "unitId": "python-section-9-unit-1-assertions",
+              "title": "Practice Assertions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-1-assertions-lesson-3",
+              "unitId": "python-section-9-unit-1-assertions",
+              "title": "Review Assertions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-9-unit-2-pytest-basics",
+          "sectionId": "python-section-9",
+          "order": 2,
+          "title": "pytest basics",
+          "lessons": [
+            {
+              "id": "python-section-9-unit-2-pytest-basics-lesson-1",
+              "unitId": "python-section-9-unit-2-pytest-basics",
+              "title": "Learn pytest basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-2-pytest-basics-lesson-2",
+              "unitId": "python-section-9-unit-2-pytest-basics",
+              "title": "Practice pytest basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-2-pytest-basics-lesson-3",
+              "unitId": "python-section-9-unit-2-pytest-basics",
+              "title": "Review pytest basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-9-unit-3-test-files",
+          "sectionId": "python-section-9",
+          "order": 3,
+          "title": "Test files",
+          "lessons": [
+            {
+              "id": "python-section-9-unit-3-test-files-lesson-1",
+              "unitId": "python-section-9-unit-3-test-files",
+              "title": "Learn Test files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-3-test-files-lesson-2",
+              "unitId": "python-section-9-unit-3-test-files",
+              "title": "Practice Test files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-3-test-files-lesson-3",
+              "unitId": "python-section-9-unit-3-test-files",
+              "title": "Review Test files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-9-unit-4-fixtures-basics",
+          "sectionId": "python-section-9",
+          "order": 4,
+          "title": "Fixtures basics",
+          "lessons": [
+            {
+              "id": "python-section-9-unit-4-fixtures-basics-lesson-1",
+              "unitId": "python-section-9-unit-4-fixtures-basics",
+              "title": "Learn Fixtures basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-4-fixtures-basics-lesson-2",
+              "unitId": "python-section-9-unit-4-fixtures-basics",
+              "title": "Practice Fixtures basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-4-fixtures-basics-lesson-3",
+              "unitId": "python-section-9-unit-4-fixtures-basics",
+              "title": "Review Fixtures basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-9-unit-5-debugging",
+          "sectionId": "python-section-9",
+          "order": 5,
+          "title": "Debugging",
+          "lessons": [
+            {
+              "id": "python-section-9-unit-5-debugging-lesson-1",
+              "unitId": "python-section-9-unit-5-debugging",
+              "title": "Learn Debugging",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-5-debugging-lesson-2",
+              "unitId": "python-section-9-unit-5-debugging",
+              "title": "Practice Debugging",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-5-debugging-lesson-3",
+              "unitId": "python-section-9-unit-5-debugging",
+              "title": "Review Debugging",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-9-unit-6-formatting",
+          "sectionId": "python-section-9",
+          "order": 6,
+          "title": "Formatting",
+          "lessons": [
+            {
+              "id": "python-section-9-unit-6-formatting-lesson-1",
+              "unitId": "python-section-9-unit-6-formatting",
+              "title": "Learn Formatting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-6-formatting-lesson-2",
+              "unitId": "python-section-9-unit-6-formatting",
+              "title": "Practice Formatting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-6-formatting-lesson-3",
+              "unitId": "python-section-9-unit-6-formatting",
+              "title": "Review Formatting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-9-unit-7-linting",
+          "sectionId": "python-section-9",
+          "order": 7,
+          "title": "Linting",
+          "lessons": [
+            {
+              "id": "python-section-9-unit-7-linting-lesson-1",
+              "unitId": "python-section-9-unit-7-linting",
+              "title": "Learn Linting",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-7-linting-lesson-2",
+              "unitId": "python-section-9-unit-7-linting",
+              "title": "Practice Linting",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-7-linting-lesson-3",
+              "unitId": "python-section-9-unit-7-linting",
+              "title": "Review Linting",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-9-unit-8-type-hints",
+          "sectionId": "python-section-9",
+          "order": 8,
+          "title": "Type hints",
+          "lessons": [
+            {
+              "id": "python-section-9-unit-8-type-hints-lesson-1",
+              "unitId": "python-section-9-unit-8-type-hints",
+              "title": "Learn Type hints",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-8-type-hints-lesson-2",
+              "unitId": "python-section-9-unit-8-type-hints",
+              "title": "Practice Type hints",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-8-type-hints-lesson-3",
+              "unitId": "python-section-9-unit-8-type-hints",
+              "title": "Review Type hints",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-9-unit-9-cli-scripts",
+          "sectionId": "python-section-9",
+          "order": 9,
+          "title": "CLI scripts",
+          "lessons": [
+            {
+              "id": "python-section-9-unit-9-cli-scripts-lesson-1",
+              "unitId": "python-section-9-unit-9-cli-scripts",
+              "title": "Learn CLI scripts",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-9-cli-scripts-lesson-2",
+              "unitId": "python-section-9-unit-9-cli-scripts",
+              "title": "Practice CLI scripts",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-9-cli-scripts-lesson-3",
+              "unitId": "python-section-9-unit-9-cli-scripts",
+              "title": "Review CLI scripts",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-9-unit-10-tooling-project",
+          "sectionId": "python-section-9",
+          "order": 10,
+          "title": "Tooling project",
+          "lessons": [
+            {
+              "id": "python-section-9-unit-10-tooling-project-lesson-1",
+              "unitId": "python-section-9-unit-10-tooling-project",
+              "title": "Learn Tooling project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-10-tooling-project-lesson-2",
+              "unitId": "python-section-9-unit-10-tooling-project",
+              "title": "Practice Tooling project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-9-unit-10-tooling-project-lesson-3",
+              "unitId": "python-section-9-unit-10-tooling-project",
+              "title": "Review Tooling project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "python-section-10",
+      "trackId": "python",
+      "order": 10,
+      "title": "Section 10: Python Capstones",
+      "bannerColor": "#1CB0F6",
+      "units": [
+        {
+          "id": "python-section-10-unit-1-text-analyzer",
+          "sectionId": "python-section-10",
+          "order": 1,
+          "title": "Text analyzer",
+          "lessons": [
+            {
+              "id": "python-section-10-unit-1-text-analyzer-lesson-1",
+              "unitId": "python-section-10-unit-1-text-analyzer",
+              "title": "Learn Text analyzer",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-1-text-analyzer-lesson-2",
+              "unitId": "python-section-10-unit-1-text-analyzer",
+              "title": "Practice Text analyzer",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-1-text-analyzer-lesson-3",
+              "unitId": "python-section-10-unit-1-text-analyzer",
+              "title": "Review Text analyzer",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-10-unit-2-file-organizer",
+          "sectionId": "python-section-10",
+          "order": 2,
+          "title": "File organizer",
+          "lessons": [
+            {
+              "id": "python-section-10-unit-2-file-organizer-lesson-1",
+              "unitId": "python-section-10-unit-2-file-organizer",
+              "title": "Learn File organizer",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-2-file-organizer-lesson-2",
+              "unitId": "python-section-10-unit-2-file-organizer",
+              "title": "Practice File organizer",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-2-file-organizer-lesson-3",
+              "unitId": "python-section-10-unit-2-file-organizer",
+              "title": "Review File organizer",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-10-unit-3-api-client",
+          "sectionId": "python-section-10",
+          "order": 3,
+          "title": "API client",
+          "lessons": [
+            {
+              "id": "python-section-10-unit-3-api-client-lesson-1",
+              "unitId": "python-section-10-unit-3-api-client",
+              "title": "Learn API client",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-3-api-client-lesson-2",
+              "unitId": "python-section-10-unit-3-api-client",
+              "title": "Practice API client",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-3-api-client-lesson-3",
+              "unitId": "python-section-10-unit-3-api-client",
+              "title": "Review API client",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-10-unit-4-data-cleaner",
+          "sectionId": "python-section-10",
+          "order": 4,
+          "title": "Data cleaner",
+          "lessons": [
+            {
+              "id": "python-section-10-unit-4-data-cleaner-lesson-1",
+              "unitId": "python-section-10-unit-4-data-cleaner",
+              "title": "Learn Data cleaner",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-4-data-cleaner-lesson-2",
+              "unitId": "python-section-10-unit-4-data-cleaner",
+              "title": "Practice Data cleaner",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-4-data-cleaner-lesson-3",
+              "unitId": "python-section-10-unit-4-data-cleaner",
+              "title": "Review Data cleaner",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-10-unit-5-cli-quiz",
+          "sectionId": "python-section-10",
+          "order": 5,
+          "title": "CLI quiz",
+          "lessons": [
+            {
+              "id": "python-section-10-unit-5-cli-quiz-lesson-1",
+              "unitId": "python-section-10-unit-5-cli-quiz",
+              "title": "Learn CLI quiz",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-5-cli-quiz-lesson-2",
+              "unitId": "python-section-10-unit-5-cli-quiz",
+              "title": "Practice CLI quiz",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-5-cli-quiz-lesson-3",
+              "unitId": "python-section-10-unit-5-cli-quiz",
+              "title": "Review CLI quiz",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-10-unit-6-csv-report",
+          "sectionId": "python-section-10",
+          "order": 6,
+          "title": "CSV report",
+          "lessons": [
+            {
+              "id": "python-section-10-unit-6-csv-report-lesson-1",
+              "unitId": "python-section-10-unit-6-csv-report",
+              "title": "Learn CSV report",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-6-csv-report-lesson-2",
+              "unitId": "python-section-10-unit-6-csv-report",
+              "title": "Practice CSV report",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-6-csv-report-lesson-3",
+              "unitId": "python-section-10-unit-6-csv-report",
+              "title": "Review CSV report",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-10-unit-7-automation-script",
+          "sectionId": "python-section-10",
+          "order": 7,
+          "title": "Automation script",
+          "lessons": [
+            {
+              "id": "python-section-10-unit-7-automation-script-lesson-1",
+              "unitId": "python-section-10-unit-7-automation-script",
+              "title": "Learn Automation script",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-7-automation-script-lesson-2",
+              "unitId": "python-section-10-unit-7-automation-script",
+              "title": "Practice Automation script",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-7-automation-script-lesson-3",
+              "unitId": "python-section-10-unit-7-automation-script",
+              "title": "Review Automation script",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-10-unit-8-oop-mini-app",
+          "sectionId": "python-section-10",
+          "order": 8,
+          "title": "OOP mini app",
+          "lessons": [
+            {
+              "id": "python-section-10-unit-8-oop-mini-app-lesson-1",
+              "unitId": "python-section-10-unit-8-oop-mini-app",
+              "title": "Learn OOP mini app",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-8-oop-mini-app-lesson-2",
+              "unitId": "python-section-10-unit-8-oop-mini-app",
+              "title": "Practice OOP mini app",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-8-oop-mini-app-lesson-3",
+              "unitId": "python-section-10-unit-8-oop-mini-app",
+              "title": "Review OOP mini app",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-10-unit-9-tested-package",
+          "sectionId": "python-section-10",
+          "order": 9,
+          "title": "Tested package",
+          "lessons": [
+            {
+              "id": "python-section-10-unit-9-tested-package-lesson-1",
+              "unitId": "python-section-10-unit-9-tested-package",
+              "title": "Learn Tested package",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-9-tested-package-lesson-2",
+              "unitId": "python-section-10-unit-9-tested-package",
+              "title": "Practice Tested package",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-9-tested-package-lesson-3",
+              "unitId": "python-section-10-unit-9-tested-package",
+              "title": "Review Tested package",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "python-section-10-unit-10-final-python-project",
+          "sectionId": "python-section-10",
+          "order": 10,
+          "title": "Final Python project",
+          "lessons": [
+            {
+              "id": "python-section-10-unit-10-final-python-project-lesson-1",
+              "unitId": "python-section-10-unit-10-final-python-project",
+              "title": "Learn Final Python project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-10-final-python-project-lesson-2",
+              "unitId": "python-section-10-unit-10-final-python-project",
+              "title": "Practice Final Python project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "python-section-10-unit-10-final-python-project-lesson-3",
+              "unitId": "python-section-10-unit-10-final-python-project",
+              "title": "Review Final Python project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

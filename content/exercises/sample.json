@@ -1,0 +1,758 @@
+[
+  {
+    "id": "html-css-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Document anatomy\" belong to in HTML & CSS?",
+    "options": [
+      "Document anatomy",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Document anatomy",
+    "explanation": "Document anatomy is part of Section 1: HTML Foundations in the HTML & CSS track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "html-css-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Headings and text\" belong to in HTML & CSS?",
+    "options": [
+      "Headings and text",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Headings and text",
+    "explanation": "Headings and text is part of Section 1: HTML Foundations in the HTML & CSS track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "html-css-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Links and anchors\" belong to in HTML & CSS?",
+    "options": [
+      "Links and anchors",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Links and anchors",
+    "explanation": "Links and anchors is part of Section 1: HTML Foundations in the HTML & CSS track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "javascript-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Variables\" belong to in JavaScript?",
+    "options": [
+      "Variables",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Variables",
+    "explanation": "Variables is part of Section 1: Fundamentals in the JavaScript track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "javascript-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Data types\" belong to in JavaScript?",
+    "options": [
+      "Data types",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Data types",
+    "explanation": "Data types is part of Section 1: Fundamentals in the JavaScript track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "javascript-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Operators\" belong to in JavaScript?",
+    "options": [
+      "Operators",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Operators",
+    "explanation": "Operators is part of Section 1: Fundamentals in the JavaScript track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "typescript-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Why TypeScript\" belong to in TypeScript?",
+    "options": [
+      "Why TypeScript",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Why TypeScript",
+    "explanation": "Why TypeScript is part of Section 1: Type Foundations in the TypeScript track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "typescript-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Primitive types\" belong to in TypeScript?",
+    "options": [
+      "Primitive types",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Primitive types",
+    "explanation": "Primitive types is part of Section 1: Type Foundations in the TypeScript track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "typescript-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Arrays and tuples\" belong to in TypeScript?",
+    "options": [
+      "Arrays and tuples",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Arrays and tuples",
+    "explanation": "Arrays and tuples is part of Section 1: Type Foundations in the TypeScript track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "react-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"React mental model\" belong to in React?",
+    "options": [
+      "React mental model",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "React mental model",
+    "explanation": "React mental model is part of Section 1: Components & JSX in the React track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "react-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"JSX syntax\" belong to in React?",
+    "options": [
+      "JSX syntax",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "JSX syntax",
+    "explanation": "JSX syntax is part of Section 1: Components & JSX in the React track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "react-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Component functions\" belong to in React?",
+    "options": [
+      "Component functions",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Component functions",
+    "explanation": "Component functions is part of Section 1: Components & JSX in the React track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "node-backend-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Runtime model\" belong to in Node.js & Backend Basics?",
+    "options": [
+      "Runtime model",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Runtime model",
+    "explanation": "Runtime model is part of Section 1: Node Fundamentals in the Node.js & Backend Basics track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "node-backend-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"npm basics\" belong to in Node.js & Backend Basics?",
+    "options": [
+      "npm basics",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "npm basics",
+    "explanation": "npm basics is part of Section 1: Node Fundamentals in the Node.js & Backend Basics track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "node-backend-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Modules\" belong to in Node.js & Backend Basics?",
+    "options": [
+      "Modules",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Modules",
+    "explanation": "Modules is part of Section 1: Node Fundamentals in the Node.js & Backend Basics track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "git-github-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Repositories\" belong to in Git & GitHub?",
+    "options": [
+      "Repositories",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Repositories",
+    "explanation": "Repositories is part of Section 1: Git Foundations in the Git & GitHub track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "git-github-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"git init\" belong to in Git & GitHub?",
+    "options": [
+      "git init",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "git init",
+    "explanation": "git init is part of Section 1: Git Foundations in the Git & GitHub track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "git-github-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Working tree\" belong to in Git & GitHub?",
+    "options": [
+      "Working tree",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Working tree",
+    "explanation": "Working tree is part of Section 1: Git Foundations in the Git & GitHub track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "python-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Running Python\" belong to in Python?",
+    "options": [
+      "Running Python",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Running Python",
+    "explanation": "Running Python is part of Section 1: Syntax & Variables in the Python track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "python-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Variables\" belong to in Python?",
+    "options": [
+      "Variables",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Variables",
+    "explanation": "Variables is part of Section 1: Syntax & Variables in the Python track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "python-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Numbers\" belong to in Python?",
+    "options": [
+      "Numbers",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Numbers",
+    "explanation": "Numbers is part of Section 1: Syntax & Variables in the Python track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "c-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Hello C\" belong to in C?",
+    "options": [
+      "Hello C",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Hello C",
+    "explanation": "Hello C is part of Section 1: Syntax & Types in the C track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "c-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Compilation\" belong to in C?",
+    "options": [
+      "Compilation",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Compilation",
+    "explanation": "Compilation is part of Section 1: Syntax & Types in the C track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "c-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Variables\" belong to in C?",
+    "options": [
+      "Variables",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Variables",
+    "explanation": "Variables is part of Section 1: Syntax & Types in the C track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cpp-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Hello C++\" belong to in C++?",
+    "options": [
+      "Hello C++",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Hello C++",
+    "explanation": "Hello C++ is part of Section 1: C++ Foundations in the C++ track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cpp-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"iostream\" belong to in C++?",
+    "options": [
+      "iostream",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "iostream",
+    "explanation": "iostream is part of Section 1: C++ Foundations in the C++ track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cpp-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Namespaces\" belong to in C++?",
+    "options": [
+      "Namespaces",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Namespaces",
+    "explanation": "Namespaces is part of Section 1: C++ Foundations in the C++ track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "java-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"JDK setup\" belong to in Java?",
+    "options": [
+      "JDK setup",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "JDK setup",
+    "explanation": "JDK setup is part of Section 1: Java Foundations in the Java track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "java-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Hello Java\" belong to in Java?",
+    "options": [
+      "Hello Java",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Hello Java",
+    "explanation": "Hello Java is part of Section 1: Java Foundations in the Java track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "java-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Classes and files\" belong to in Java?",
+    "options": [
+      "Classes and files",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Classes and files",
+    "explanation": "Classes and files is part of Section 1: Java Foundations in the Java track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "sql-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Tables and rows\" belong to in SQL?",
+    "options": [
+      "Tables and rows",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Tables and rows",
+    "explanation": "Tables and rows is part of Section 1: SELECT Basics in the SQL track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "sql-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"SELECT columns\" belong to in SQL?",
+    "options": [
+      "SELECT columns",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "SELECT columns",
+    "explanation": "SELECT columns is part of Section 1: SELECT Basics in the SQL track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "sql-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"WHERE filters\" belong to in SQL?",
+    "options": [
+      "WHERE filters",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "WHERE filters",
+    "explanation": "WHERE filters is part of Section 1: SELECT Basics in the SQL track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dsa-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Array traversal\" belong to in Data Structures & Algorithms?",
+    "options": [
+      "Array traversal",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Array traversal",
+    "explanation": "Array traversal is part of Section 1: Arrays & Strings in the Data Structures & Algorithms track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dsa-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Two pointers\" belong to in Data Structures & Algorithms?",
+    "options": [
+      "Two pointers",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Two pointers",
+    "explanation": "Two pointers is part of Section 1: Arrays & Strings in the Data Structures & Algorithms track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dsa-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Sliding window\" belong to in Data Structures & Algorithms?",
+    "options": [
+      "Sliding window",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Sliding window",
+    "explanation": "Sliding window is part of Section 1: Arrays & Strings in the Data Structures & Algorithms track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "big-o-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Why complexity matters\" belong to in Big-O & Complexity Analysis?",
+    "options": [
+      "Why complexity matters",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Why complexity matters",
+    "explanation": "Why complexity matters is part of Section 1: Complexity Foundations in the Big-O & Complexity Analysis track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "big-o-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Counting operations\" belong to in Big-O & Complexity Analysis?",
+    "options": [
+      "Counting operations",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Counting operations",
+    "explanation": "Counting operations is part of Section 1: Complexity Foundations in the Big-O & Complexity Analysis track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "big-o-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Input size\" belong to in Big-O & Complexity Analysis?",
+    "options": [
+      "Input size",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Input size",
+    "explanation": "Input size is part of Section 1: Complexity Foundations in the Big-O & Complexity Analysis track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "operating-systems-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"What an OS does\" belong to in Operating Systems?",
+    "options": [
+      "What an OS does",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "What an OS does",
+    "explanation": "What an OS does is part of Section 1: OS Foundations in the Operating Systems track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "operating-systems-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Kernel vs user space\" belong to in Operating Systems?",
+    "options": [
+      "Kernel vs user space",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Kernel vs user space",
+    "explanation": "Kernel vs user space is part of Section 1: OS Foundations in the Operating Systems track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "operating-systems-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"System calls\" belong to in Operating Systems?",
+    "options": [
+      "System calls",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "System calls",
+    "explanation": "System calls is part of Section 1: OS Foundations in the Operating Systems track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "networks-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Why networks\" belong to in Computer Networks?",
+    "options": [
+      "Why networks",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Why networks",
+    "explanation": "Why networks is part of Section 1: Network Foundations in the Computer Networks track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "networks-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Hosts and links\" belong to in Computer Networks?",
+    "options": [
+      "Hosts and links",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Hosts and links",
+    "explanation": "Hosts and links is part of Section 1: Network Foundations in the Computer Networks track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "networks-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Packets\" belong to in Computer Networks?",
+    "options": [
+      "Packets",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Packets",
+    "explanation": "Packets is part of Section 1: Network Foundations in the Computer Networks track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dbms-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Why databases\" belong to in Database Management?",
+    "options": [
+      "Why databases",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Why databases",
+    "explanation": "Why databases is part of Section 1: DBMS Foundations in the Database Management track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dbms-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"DBMS roles\" belong to in Database Management?",
+    "options": [
+      "DBMS roles",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "DBMS roles",
+    "explanation": "DBMS roles is part of Section 1: DBMS Foundations in the Database Management track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "dbms-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Relational model\" belong to in Database Management?",
+    "options": [
+      "Relational model",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Relational model",
+    "explanation": "Relational model is part of Section 1: DBMS Foundations in the Database Management track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ood-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Objects\" belong to in Object-Oriented Design?",
+    "options": [
+      "Objects",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Objects",
+    "explanation": "Objects is part of Section 1: OOP Foundations in the Object-Oriented Design track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ood-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Classes\" belong to in Object-Oriented Design?",
+    "options": [
+      "Classes",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Classes",
+    "explanation": "Classes is part of Section 1: OOP Foundations in the Object-Oriented Design track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ood-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"State and behavior\" belong to in Object-Oriented Design?",
+    "options": [
+      "State and behavior",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "State and behavior",
+    "explanation": "State and behavior is part of Section 1: OOP Foundations in the Object-Oriented Design track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "system-design-s1-u1-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Requirements\" belong to in System Design Basics?",
+    "options": [
+      "Requirements",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Requirements",
+    "explanation": "Requirements is part of Section 1: Foundations in the System Design Basics track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "system-design-s1-u2-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Functional vs nonfunctional\" belong to in System Design Basics?",
+    "options": [
+      "Functional vs nonfunctional",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Functional vs nonfunctional",
+    "explanation": "Functional vs nonfunctional is part of Section 1: Foundations in the System Design Basics track.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "system-design-s1-u3-sample",
+    "type": "multiple_choice",
+    "prompt": "Which topic does \"Capacity estimates\" belong to in System Design Basics?",
+    "options": [
+      "Capacity estimates",
+      "Account billing",
+      "Image compression",
+      "Office formatting"
+    ],
+    "correctAnswer": "Capacity estimates",
+    "explanation": "Capacity estimates is part of Section 1: Foundations in the System Design Basics track.",
+    "difficulty": "easy"
+  }
+]

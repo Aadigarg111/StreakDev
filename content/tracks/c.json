@@ -1,0 +1,3006 @@
+{
+  "id": "c",
+  "title": "C",
+  "category": "languages",
+  "icon": "terminal",
+  "color": "#4B4B4B",
+  "description": "Build a low-level foundation with memory, pointers, arrays, and files.",
+  "sections": [
+    {
+      "id": "c-section-1",
+      "trackId": "c",
+      "order": 1,
+      "title": "Section 1: Syntax & Types",
+      "bannerColor": "#4B4B4B",
+      "units": [
+        {
+          "id": "c-section-1-unit-1-hello-c",
+          "sectionId": "c-section-1",
+          "order": 1,
+          "title": "Hello C",
+          "lessons": [
+            {
+              "id": "c-section-1-unit-1-hello-c-lesson-1",
+              "unitId": "c-section-1-unit-1-hello-c",
+              "title": "Learn Hello C",
+              "order": 1,
+              "exerciseIds": [
+                "c-s1-u1-sample"
+              ]
+            },
+            {
+              "id": "c-section-1-unit-1-hello-c-lesson-2",
+              "unitId": "c-section-1-unit-1-hello-c",
+              "title": "Practice Hello C",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-1-hello-c-lesson-3",
+              "unitId": "c-section-1-unit-1-hello-c",
+              "title": "Review Hello C",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-1-unit-2-compilation",
+          "sectionId": "c-section-1",
+          "order": 2,
+          "title": "Compilation",
+          "lessons": [
+            {
+              "id": "c-section-1-unit-2-compilation-lesson-1",
+              "unitId": "c-section-1-unit-2-compilation",
+              "title": "Learn Compilation",
+              "order": 1,
+              "exerciseIds": [
+                "c-s1-u2-sample"
+              ]
+            },
+            {
+              "id": "c-section-1-unit-2-compilation-lesson-2",
+              "unitId": "c-section-1-unit-2-compilation",
+              "title": "Practice Compilation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-2-compilation-lesson-3",
+              "unitId": "c-section-1-unit-2-compilation",
+              "title": "Review Compilation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-1-unit-3-variables",
+          "sectionId": "c-section-1",
+          "order": 3,
+          "title": "Variables",
+          "lessons": [
+            {
+              "id": "c-section-1-unit-3-variables-lesson-1",
+              "unitId": "c-section-1-unit-3-variables",
+              "title": "Learn Variables",
+              "order": 1,
+              "exerciseIds": [
+                "c-s1-u3-sample"
+              ]
+            },
+            {
+              "id": "c-section-1-unit-3-variables-lesson-2",
+              "unitId": "c-section-1-unit-3-variables",
+              "title": "Practice Variables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-3-variables-lesson-3",
+              "unitId": "c-section-1-unit-3-variables",
+              "title": "Review Variables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-1-unit-4-primitive-types",
+          "sectionId": "c-section-1",
+          "order": 4,
+          "title": "Primitive types",
+          "lessons": [
+            {
+              "id": "c-section-1-unit-4-primitive-types-lesson-1",
+              "unitId": "c-section-1-unit-4-primitive-types",
+              "title": "Learn Primitive types",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-4-primitive-types-lesson-2",
+              "unitId": "c-section-1-unit-4-primitive-types",
+              "title": "Practice Primitive types",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-4-primitive-types-lesson-3",
+              "unitId": "c-section-1-unit-4-primitive-types",
+              "title": "Review Primitive types",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-1-unit-5-printf",
+          "sectionId": "c-section-1",
+          "order": 5,
+          "title": "printf",
+          "lessons": [
+            {
+              "id": "c-section-1-unit-5-printf-lesson-1",
+              "unitId": "c-section-1-unit-5-printf",
+              "title": "Learn printf",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-5-printf-lesson-2",
+              "unitId": "c-section-1-unit-5-printf",
+              "title": "Practice printf",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-5-printf-lesson-3",
+              "unitId": "c-section-1-unit-5-printf",
+              "title": "Review printf",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-1-unit-6-scanf",
+          "sectionId": "c-section-1",
+          "order": 6,
+          "title": "scanf",
+          "lessons": [
+            {
+              "id": "c-section-1-unit-6-scanf-lesson-1",
+              "unitId": "c-section-1-unit-6-scanf",
+              "title": "Learn scanf",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-6-scanf-lesson-2",
+              "unitId": "c-section-1-unit-6-scanf",
+              "title": "Practice scanf",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-6-scanf-lesson-3",
+              "unitId": "c-section-1-unit-6-scanf",
+              "title": "Review scanf",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-1-unit-7-operators",
+          "sectionId": "c-section-1",
+          "order": 7,
+          "title": "Operators",
+          "lessons": [
+            {
+              "id": "c-section-1-unit-7-operators-lesson-1",
+              "unitId": "c-section-1-unit-7-operators",
+              "title": "Learn Operators",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-7-operators-lesson-2",
+              "unitId": "c-section-1-unit-7-operators",
+              "title": "Practice Operators",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-7-operators-lesson-3",
+              "unitId": "c-section-1-unit-7-operators",
+              "title": "Review Operators",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-1-unit-8-conditionals",
+          "sectionId": "c-section-1",
+          "order": 8,
+          "title": "Conditionals",
+          "lessons": [
+            {
+              "id": "c-section-1-unit-8-conditionals-lesson-1",
+              "unitId": "c-section-1-unit-8-conditionals",
+              "title": "Learn Conditionals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-8-conditionals-lesson-2",
+              "unitId": "c-section-1-unit-8-conditionals",
+              "title": "Practice Conditionals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-8-conditionals-lesson-3",
+              "unitId": "c-section-1-unit-8-conditionals",
+              "title": "Review Conditionals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-1-unit-9-loops",
+          "sectionId": "c-section-1",
+          "order": 9,
+          "title": "Loops",
+          "lessons": [
+            {
+              "id": "c-section-1-unit-9-loops-lesson-1",
+              "unitId": "c-section-1-unit-9-loops",
+              "title": "Learn Loops",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-9-loops-lesson-2",
+              "unitId": "c-section-1-unit-9-loops",
+              "title": "Practice Loops",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-9-loops-lesson-3",
+              "unitId": "c-section-1-unit-9-loops",
+              "title": "Review Loops",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-1-unit-10-style-basics",
+          "sectionId": "c-section-1",
+          "order": 10,
+          "title": "Style basics",
+          "lessons": [
+            {
+              "id": "c-section-1-unit-10-style-basics-lesson-1",
+              "unitId": "c-section-1-unit-10-style-basics",
+              "title": "Learn Style basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-10-style-basics-lesson-2",
+              "unitId": "c-section-1-unit-10-style-basics",
+              "title": "Practice Style basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-1-unit-10-style-basics-lesson-3",
+              "unitId": "c-section-1-unit-10-style-basics",
+              "title": "Review Style basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c-section-2",
+      "trackId": "c",
+      "order": 2,
+      "title": "Section 2: Functions",
+      "bannerColor": "#4B4B4B",
+      "units": [
+        {
+          "id": "c-section-2-unit-1-function-declarations",
+          "sectionId": "c-section-2",
+          "order": 1,
+          "title": "Function declarations",
+          "lessons": [
+            {
+              "id": "c-section-2-unit-1-function-declarations-lesson-1",
+              "unitId": "c-section-2-unit-1-function-declarations",
+              "title": "Learn Function declarations",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-1-function-declarations-lesson-2",
+              "unitId": "c-section-2-unit-1-function-declarations",
+              "title": "Practice Function declarations",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-1-function-declarations-lesson-3",
+              "unitId": "c-section-2-unit-1-function-declarations",
+              "title": "Review Function declarations",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-2-unit-2-function-definitions",
+          "sectionId": "c-section-2",
+          "order": 2,
+          "title": "Function definitions",
+          "lessons": [
+            {
+              "id": "c-section-2-unit-2-function-definitions-lesson-1",
+              "unitId": "c-section-2-unit-2-function-definitions",
+              "title": "Learn Function definitions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-2-function-definitions-lesson-2",
+              "unitId": "c-section-2-unit-2-function-definitions",
+              "title": "Practice Function definitions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-2-function-definitions-lesson-3",
+              "unitId": "c-section-2-unit-2-function-definitions",
+              "title": "Review Function definitions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-2-unit-3-parameters",
+          "sectionId": "c-section-2",
+          "order": 3,
+          "title": "Parameters",
+          "lessons": [
+            {
+              "id": "c-section-2-unit-3-parameters-lesson-1",
+              "unitId": "c-section-2-unit-3-parameters",
+              "title": "Learn Parameters",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-3-parameters-lesson-2",
+              "unitId": "c-section-2-unit-3-parameters",
+              "title": "Practice Parameters",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-3-parameters-lesson-3",
+              "unitId": "c-section-2-unit-3-parameters",
+              "title": "Review Parameters",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-2-unit-4-return-values",
+          "sectionId": "c-section-2",
+          "order": 4,
+          "title": "Return values",
+          "lessons": [
+            {
+              "id": "c-section-2-unit-4-return-values-lesson-1",
+              "unitId": "c-section-2-unit-4-return-values",
+              "title": "Learn Return values",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-4-return-values-lesson-2",
+              "unitId": "c-section-2-unit-4-return-values",
+              "title": "Practice Return values",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-4-return-values-lesson-3",
+              "unitId": "c-section-2-unit-4-return-values",
+              "title": "Review Return values",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-2-unit-5-header-files",
+          "sectionId": "c-section-2",
+          "order": 5,
+          "title": "Header files",
+          "lessons": [
+            {
+              "id": "c-section-2-unit-5-header-files-lesson-1",
+              "unitId": "c-section-2-unit-5-header-files",
+              "title": "Learn Header files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-5-header-files-lesson-2",
+              "unitId": "c-section-2-unit-5-header-files",
+              "title": "Practice Header files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-5-header-files-lesson-3",
+              "unitId": "c-section-2-unit-5-header-files",
+              "title": "Review Header files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-2-unit-6-scope",
+          "sectionId": "c-section-2",
+          "order": 6,
+          "title": "Scope",
+          "lessons": [
+            {
+              "id": "c-section-2-unit-6-scope-lesson-1",
+              "unitId": "c-section-2-unit-6-scope",
+              "title": "Learn Scope",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-6-scope-lesson-2",
+              "unitId": "c-section-2-unit-6-scope",
+              "title": "Practice Scope",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-6-scope-lesson-3",
+              "unitId": "c-section-2-unit-6-scope",
+              "title": "Review Scope",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-2-unit-7-storage-classes",
+          "sectionId": "c-section-2",
+          "order": 7,
+          "title": "Storage classes",
+          "lessons": [
+            {
+              "id": "c-section-2-unit-7-storage-classes-lesson-1",
+              "unitId": "c-section-2-unit-7-storage-classes",
+              "title": "Learn Storage classes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-7-storage-classes-lesson-2",
+              "unitId": "c-section-2-unit-7-storage-classes",
+              "title": "Practice Storage classes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-7-storage-classes-lesson-3",
+              "unitId": "c-section-2-unit-7-storage-classes",
+              "title": "Review Storage classes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-2-unit-8-recursion",
+          "sectionId": "c-section-2",
+          "order": 8,
+          "title": "Recursion",
+          "lessons": [
+            {
+              "id": "c-section-2-unit-8-recursion-lesson-1",
+              "unitId": "c-section-2-unit-8-recursion",
+              "title": "Learn Recursion",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-8-recursion-lesson-2",
+              "unitId": "c-section-2-unit-8-recursion",
+              "title": "Practice Recursion",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-8-recursion-lesson-3",
+              "unitId": "c-section-2-unit-8-recursion",
+              "title": "Review Recursion",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-2-unit-9-function-pointers-intro",
+          "sectionId": "c-section-2",
+          "order": 9,
+          "title": "Function pointers intro",
+          "lessons": [
+            {
+              "id": "c-section-2-unit-9-function-pointers-intro-lesson-1",
+              "unitId": "c-section-2-unit-9-function-pointers-intro",
+              "title": "Learn Function pointers intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-9-function-pointers-intro-lesson-2",
+              "unitId": "c-section-2-unit-9-function-pointers-intro",
+              "title": "Practice Function pointers intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-9-function-pointers-intro-lesson-3",
+              "unitId": "c-section-2-unit-9-function-pointers-intro",
+              "title": "Review Function pointers intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-2-unit-10-function-project",
+          "sectionId": "c-section-2",
+          "order": 10,
+          "title": "Function project",
+          "lessons": [
+            {
+              "id": "c-section-2-unit-10-function-project-lesson-1",
+              "unitId": "c-section-2-unit-10-function-project",
+              "title": "Learn Function project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-10-function-project-lesson-2",
+              "unitId": "c-section-2-unit-10-function-project",
+              "title": "Practice Function project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-2-unit-10-function-project-lesson-3",
+              "unitId": "c-section-2-unit-10-function-project",
+              "title": "Review Function project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c-section-3",
+      "trackId": "c",
+      "order": 3,
+      "title": "Section 3: Pointers Basics",
+      "bannerColor": "#4B4B4B",
+      "units": [
+        {
+          "id": "c-section-3-unit-1-addresses",
+          "sectionId": "c-section-3",
+          "order": 1,
+          "title": "Addresses",
+          "lessons": [
+            {
+              "id": "c-section-3-unit-1-addresses-lesson-1",
+              "unitId": "c-section-3-unit-1-addresses",
+              "title": "Learn Addresses",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-1-addresses-lesson-2",
+              "unitId": "c-section-3-unit-1-addresses",
+              "title": "Practice Addresses",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-1-addresses-lesson-3",
+              "unitId": "c-section-3-unit-1-addresses",
+              "title": "Review Addresses",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-3-unit-2-pointer-variables",
+          "sectionId": "c-section-3",
+          "order": 2,
+          "title": "Pointer variables",
+          "lessons": [
+            {
+              "id": "c-section-3-unit-2-pointer-variables-lesson-1",
+              "unitId": "c-section-3-unit-2-pointer-variables",
+              "title": "Learn Pointer variables",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-2-pointer-variables-lesson-2",
+              "unitId": "c-section-3-unit-2-pointer-variables",
+              "title": "Practice Pointer variables",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-2-pointer-variables-lesson-3",
+              "unitId": "c-section-3-unit-2-pointer-variables",
+              "title": "Review Pointer variables",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-3-unit-3-dereferencing",
+          "sectionId": "c-section-3",
+          "order": 3,
+          "title": "Dereferencing",
+          "lessons": [
+            {
+              "id": "c-section-3-unit-3-dereferencing-lesson-1",
+              "unitId": "c-section-3-unit-3-dereferencing",
+              "title": "Learn Dereferencing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-3-dereferencing-lesson-2",
+              "unitId": "c-section-3-unit-3-dereferencing",
+              "title": "Practice Dereferencing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-3-dereferencing-lesson-3",
+              "unitId": "c-section-3-unit-3-dereferencing",
+              "title": "Review Dereferencing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-3-unit-4-null-pointers",
+          "sectionId": "c-section-3",
+          "order": 4,
+          "title": "Null pointers",
+          "lessons": [
+            {
+              "id": "c-section-3-unit-4-null-pointers-lesson-1",
+              "unitId": "c-section-3-unit-4-null-pointers",
+              "title": "Learn Null pointers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-4-null-pointers-lesson-2",
+              "unitId": "c-section-3-unit-4-null-pointers",
+              "title": "Practice Null pointers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-4-null-pointers-lesson-3",
+              "unitId": "c-section-3-unit-4-null-pointers",
+              "title": "Review Null pointers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-3-unit-5-pointer-arithmetic",
+          "sectionId": "c-section-3",
+          "order": 5,
+          "title": "Pointer arithmetic",
+          "lessons": [
+            {
+              "id": "c-section-3-unit-5-pointer-arithmetic-lesson-1",
+              "unitId": "c-section-3-unit-5-pointer-arithmetic",
+              "title": "Learn Pointer arithmetic",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-5-pointer-arithmetic-lesson-2",
+              "unitId": "c-section-3-unit-5-pointer-arithmetic",
+              "title": "Practice Pointer arithmetic",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-5-pointer-arithmetic-lesson-3",
+              "unitId": "c-section-3-unit-5-pointer-arithmetic",
+              "title": "Review Pointer arithmetic",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-3-unit-6-pointers-and-arrays",
+          "sectionId": "c-section-3",
+          "order": 6,
+          "title": "Pointers and arrays",
+          "lessons": [
+            {
+              "id": "c-section-3-unit-6-pointers-and-arrays-lesson-1",
+              "unitId": "c-section-3-unit-6-pointers-and-arrays",
+              "title": "Learn Pointers and arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-6-pointers-and-arrays-lesson-2",
+              "unitId": "c-section-3-unit-6-pointers-and-arrays",
+              "title": "Practice Pointers and arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-6-pointers-and-arrays-lesson-3",
+              "unitId": "c-section-3-unit-6-pointers-and-arrays",
+              "title": "Review Pointers and arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-3-unit-7-pointers-and-functions",
+          "sectionId": "c-section-3",
+          "order": 7,
+          "title": "Pointers and functions",
+          "lessons": [
+            {
+              "id": "c-section-3-unit-7-pointers-and-functions-lesson-1",
+              "unitId": "c-section-3-unit-7-pointers-and-functions",
+              "title": "Learn Pointers and functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-7-pointers-and-functions-lesson-2",
+              "unitId": "c-section-3-unit-7-pointers-and-functions",
+              "title": "Practice Pointers and functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-7-pointers-and-functions-lesson-3",
+              "unitId": "c-section-3-unit-7-pointers-and-functions",
+              "title": "Review Pointers and functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-3-unit-8-const-pointers",
+          "sectionId": "c-section-3",
+          "order": 8,
+          "title": "Const pointers",
+          "lessons": [
+            {
+              "id": "c-section-3-unit-8-const-pointers-lesson-1",
+              "unitId": "c-section-3-unit-8-const-pointers",
+              "title": "Learn Const pointers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-8-const-pointers-lesson-2",
+              "unitId": "c-section-3-unit-8-const-pointers",
+              "title": "Practice Const pointers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-8-const-pointers-lesson-3",
+              "unitId": "c-section-3-unit-8-const-pointers",
+              "title": "Review Const pointers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-3-unit-9-pointer-pitfalls",
+          "sectionId": "c-section-3",
+          "order": 9,
+          "title": "Pointer pitfalls",
+          "lessons": [
+            {
+              "id": "c-section-3-unit-9-pointer-pitfalls-lesson-1",
+              "unitId": "c-section-3-unit-9-pointer-pitfalls",
+              "title": "Learn Pointer pitfalls",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-9-pointer-pitfalls-lesson-2",
+              "unitId": "c-section-3-unit-9-pointer-pitfalls",
+              "title": "Practice Pointer pitfalls",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-9-pointer-pitfalls-lesson-3",
+              "unitId": "c-section-3-unit-9-pointer-pitfalls",
+              "title": "Review Pointer pitfalls",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-3-unit-10-pointer-drills",
+          "sectionId": "c-section-3",
+          "order": 10,
+          "title": "Pointer drills",
+          "lessons": [
+            {
+              "id": "c-section-3-unit-10-pointer-drills-lesson-1",
+              "unitId": "c-section-3-unit-10-pointer-drills",
+              "title": "Learn Pointer drills",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-10-pointer-drills-lesson-2",
+              "unitId": "c-section-3-unit-10-pointer-drills",
+              "title": "Practice Pointer drills",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-3-unit-10-pointer-drills-lesson-3",
+              "unitId": "c-section-3-unit-10-pointer-drills",
+              "title": "Review Pointer drills",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c-section-4",
+      "trackId": "c",
+      "order": 4,
+      "title": "Section 4: Arrays & Strings",
+      "bannerColor": "#4B4B4B",
+      "units": [
+        {
+          "id": "c-section-4-unit-1-arrays",
+          "sectionId": "c-section-4",
+          "order": 1,
+          "title": "Arrays",
+          "lessons": [
+            {
+              "id": "c-section-4-unit-1-arrays-lesson-1",
+              "unitId": "c-section-4-unit-1-arrays",
+              "title": "Learn Arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-1-arrays-lesson-2",
+              "unitId": "c-section-4-unit-1-arrays",
+              "title": "Practice Arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-1-arrays-lesson-3",
+              "unitId": "c-section-4-unit-1-arrays",
+              "title": "Review Arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-4-unit-2-array-traversal",
+          "sectionId": "c-section-4",
+          "order": 2,
+          "title": "Array traversal",
+          "lessons": [
+            {
+              "id": "c-section-4-unit-2-array-traversal-lesson-1",
+              "unitId": "c-section-4-unit-2-array-traversal",
+              "title": "Learn Array traversal",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-2-array-traversal-lesson-2",
+              "unitId": "c-section-4-unit-2-array-traversal",
+              "title": "Practice Array traversal",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-2-array-traversal-lesson-3",
+              "unitId": "c-section-4-unit-2-array-traversal",
+              "title": "Review Array traversal",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-4-unit-3-multidimensional-arrays",
+          "sectionId": "c-section-4",
+          "order": 3,
+          "title": "Multidimensional arrays",
+          "lessons": [
+            {
+              "id": "c-section-4-unit-3-multidimensional-arrays-lesson-1",
+              "unitId": "c-section-4-unit-3-multidimensional-arrays",
+              "title": "Learn Multidimensional arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-3-multidimensional-arrays-lesson-2",
+              "unitId": "c-section-4-unit-3-multidimensional-arrays",
+              "title": "Practice Multidimensional arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-3-multidimensional-arrays-lesson-3",
+              "unitId": "c-section-4-unit-3-multidimensional-arrays",
+              "title": "Review Multidimensional arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-4-unit-4-char-arrays",
+          "sectionId": "c-section-4",
+          "order": 4,
+          "title": "Char arrays",
+          "lessons": [
+            {
+              "id": "c-section-4-unit-4-char-arrays-lesson-1",
+              "unitId": "c-section-4-unit-4-char-arrays",
+              "title": "Learn Char arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-4-char-arrays-lesson-2",
+              "unitId": "c-section-4-unit-4-char-arrays",
+              "title": "Practice Char arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-4-char-arrays-lesson-3",
+              "unitId": "c-section-4-unit-4-char-arrays",
+              "title": "Review Char arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-4-unit-5-string-literals",
+          "sectionId": "c-section-4",
+          "order": 5,
+          "title": "String literals",
+          "lessons": [
+            {
+              "id": "c-section-4-unit-5-string-literals-lesson-1",
+              "unitId": "c-section-4-unit-5-string-literals",
+              "title": "Learn String literals",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-5-string-literals-lesson-2",
+              "unitId": "c-section-4-unit-5-string-literals",
+              "title": "Practice String literals",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-5-string-literals-lesson-3",
+              "unitId": "c-section-4-unit-5-string-literals",
+              "title": "Review String literals",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-4-unit-6-string-functions",
+          "sectionId": "c-section-4",
+          "order": 6,
+          "title": "String functions",
+          "lessons": [
+            {
+              "id": "c-section-4-unit-6-string-functions-lesson-1",
+              "unitId": "c-section-4-unit-6-string-functions",
+              "title": "Learn String functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-6-string-functions-lesson-2",
+              "unitId": "c-section-4-unit-6-string-functions",
+              "title": "Practice String functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-6-string-functions-lesson-3",
+              "unitId": "c-section-4-unit-6-string-functions",
+              "title": "Review String functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-4-unit-7-buffer-sizes",
+          "sectionId": "c-section-4",
+          "order": 7,
+          "title": "Buffer sizes",
+          "lessons": [
+            {
+              "id": "c-section-4-unit-7-buffer-sizes-lesson-1",
+              "unitId": "c-section-4-unit-7-buffer-sizes",
+              "title": "Learn Buffer sizes",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-7-buffer-sizes-lesson-2",
+              "unitId": "c-section-4-unit-7-buffer-sizes",
+              "title": "Practice Buffer sizes",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-7-buffer-sizes-lesson-3",
+              "unitId": "c-section-4-unit-7-buffer-sizes",
+              "title": "Review Buffer sizes",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-4-unit-8-input-strings",
+          "sectionId": "c-section-4",
+          "order": 8,
+          "title": "Input strings",
+          "lessons": [
+            {
+              "id": "c-section-4-unit-8-input-strings-lesson-1",
+              "unitId": "c-section-4-unit-8-input-strings",
+              "title": "Learn Input strings",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-8-input-strings-lesson-2",
+              "unitId": "c-section-4-unit-8-input-strings",
+              "title": "Practice Input strings",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-8-input-strings-lesson-3",
+              "unitId": "c-section-4-unit-8-input-strings",
+              "title": "Review Input strings",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-4-unit-9-array-decay",
+          "sectionId": "c-section-4",
+          "order": 9,
+          "title": "Array decay",
+          "lessons": [
+            {
+              "id": "c-section-4-unit-9-array-decay-lesson-1",
+              "unitId": "c-section-4-unit-9-array-decay",
+              "title": "Learn Array decay",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-9-array-decay-lesson-2",
+              "unitId": "c-section-4-unit-9-array-decay",
+              "title": "Practice Array decay",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-9-array-decay-lesson-3",
+              "unitId": "c-section-4-unit-9-array-decay",
+              "title": "Review Array decay",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-4-unit-10-string-project",
+          "sectionId": "c-section-4",
+          "order": 10,
+          "title": "String project",
+          "lessons": [
+            {
+              "id": "c-section-4-unit-10-string-project-lesson-1",
+              "unitId": "c-section-4-unit-10-string-project",
+              "title": "Learn String project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-10-string-project-lesson-2",
+              "unitId": "c-section-4-unit-10-string-project",
+              "title": "Practice String project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-4-unit-10-string-project-lesson-3",
+              "unitId": "c-section-4-unit-10-string-project",
+              "title": "Review String project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c-section-5",
+      "trackId": "c",
+      "order": 5,
+      "title": "Section 5: Structs",
+      "bannerColor": "#4B4B4B",
+      "units": [
+        {
+          "id": "c-section-5-unit-1-struct-definitions",
+          "sectionId": "c-section-5",
+          "order": 1,
+          "title": "Struct definitions",
+          "lessons": [
+            {
+              "id": "c-section-5-unit-1-struct-definitions-lesson-1",
+              "unitId": "c-section-5-unit-1-struct-definitions",
+              "title": "Learn Struct definitions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-1-struct-definitions-lesson-2",
+              "unitId": "c-section-5-unit-1-struct-definitions",
+              "title": "Practice Struct definitions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-1-struct-definitions-lesson-3",
+              "unitId": "c-section-5-unit-1-struct-definitions",
+              "title": "Review Struct definitions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-5-unit-2-struct-instances",
+          "sectionId": "c-section-5",
+          "order": 2,
+          "title": "Struct instances",
+          "lessons": [
+            {
+              "id": "c-section-5-unit-2-struct-instances-lesson-1",
+              "unitId": "c-section-5-unit-2-struct-instances",
+              "title": "Learn Struct instances",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-2-struct-instances-lesson-2",
+              "unitId": "c-section-5-unit-2-struct-instances",
+              "title": "Practice Struct instances",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-2-struct-instances-lesson-3",
+              "unitId": "c-section-5-unit-2-struct-instances",
+              "title": "Review Struct instances",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-5-unit-3-nested-structs",
+          "sectionId": "c-section-5",
+          "order": 3,
+          "title": "Nested structs",
+          "lessons": [
+            {
+              "id": "c-section-5-unit-3-nested-structs-lesson-1",
+              "unitId": "c-section-5-unit-3-nested-structs",
+              "title": "Learn Nested structs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-3-nested-structs-lesson-2",
+              "unitId": "c-section-5-unit-3-nested-structs",
+              "title": "Practice Nested structs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-3-nested-structs-lesson-3",
+              "unitId": "c-section-5-unit-3-nested-structs",
+              "title": "Review Nested structs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-5-unit-4-pointers-to-structs",
+          "sectionId": "c-section-5",
+          "order": 4,
+          "title": "Pointers to structs",
+          "lessons": [
+            {
+              "id": "c-section-5-unit-4-pointers-to-structs-lesson-1",
+              "unitId": "c-section-5-unit-4-pointers-to-structs",
+              "title": "Learn Pointers to structs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-4-pointers-to-structs-lesson-2",
+              "unitId": "c-section-5-unit-4-pointers-to-structs",
+              "title": "Practice Pointers to structs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-4-pointers-to-structs-lesson-3",
+              "unitId": "c-section-5-unit-4-pointers-to-structs",
+              "title": "Review Pointers to structs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-5-unit-5-typedef",
+          "sectionId": "c-section-5",
+          "order": 5,
+          "title": "typedef",
+          "lessons": [
+            {
+              "id": "c-section-5-unit-5-typedef-lesson-1",
+              "unitId": "c-section-5-unit-5-typedef",
+              "title": "Learn typedef",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-5-typedef-lesson-2",
+              "unitId": "c-section-5-unit-5-typedef",
+              "title": "Practice typedef",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-5-typedef-lesson-3",
+              "unitId": "c-section-5-unit-5-typedef",
+              "title": "Review typedef",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-5-unit-6-arrays-of-structs",
+          "sectionId": "c-section-5",
+          "order": 6,
+          "title": "Arrays of structs",
+          "lessons": [
+            {
+              "id": "c-section-5-unit-6-arrays-of-structs-lesson-1",
+              "unitId": "c-section-5-unit-6-arrays-of-structs",
+              "title": "Learn Arrays of structs",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-6-arrays-of-structs-lesson-2",
+              "unitId": "c-section-5-unit-6-arrays-of-structs",
+              "title": "Practice Arrays of structs",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-6-arrays-of-structs-lesson-3",
+              "unitId": "c-section-5-unit-6-arrays-of-structs",
+              "title": "Review Arrays of structs",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-5-unit-7-struct-functions",
+          "sectionId": "c-section-5",
+          "order": 7,
+          "title": "Struct functions",
+          "lessons": [
+            {
+              "id": "c-section-5-unit-7-struct-functions-lesson-1",
+              "unitId": "c-section-5-unit-7-struct-functions",
+              "title": "Learn Struct functions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-7-struct-functions-lesson-2",
+              "unitId": "c-section-5-unit-7-struct-functions",
+              "title": "Practice Struct functions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-7-struct-functions-lesson-3",
+              "unitId": "c-section-5-unit-7-struct-functions",
+              "title": "Review Struct functions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-5-unit-8-memory-layout",
+          "sectionId": "c-section-5",
+          "order": 8,
+          "title": "Memory layout",
+          "lessons": [
+            {
+              "id": "c-section-5-unit-8-memory-layout-lesson-1",
+              "unitId": "c-section-5-unit-8-memory-layout",
+              "title": "Learn Memory layout",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-8-memory-layout-lesson-2",
+              "unitId": "c-section-5-unit-8-memory-layout",
+              "title": "Practice Memory layout",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-8-memory-layout-lesson-3",
+              "unitId": "c-section-5-unit-8-memory-layout",
+              "title": "Review Memory layout",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-5-unit-9-unions-intro",
+          "sectionId": "c-section-5",
+          "order": 9,
+          "title": "Unions intro",
+          "lessons": [
+            {
+              "id": "c-section-5-unit-9-unions-intro-lesson-1",
+              "unitId": "c-section-5-unit-9-unions-intro",
+              "title": "Learn Unions intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-9-unions-intro-lesson-2",
+              "unitId": "c-section-5-unit-9-unions-intro",
+              "title": "Practice Unions intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-9-unions-intro-lesson-3",
+              "unitId": "c-section-5-unit-9-unions-intro",
+              "title": "Review Unions intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-5-unit-10-struct-project",
+          "sectionId": "c-section-5",
+          "order": 10,
+          "title": "Struct project",
+          "lessons": [
+            {
+              "id": "c-section-5-unit-10-struct-project-lesson-1",
+              "unitId": "c-section-5-unit-10-struct-project",
+              "title": "Learn Struct project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-10-struct-project-lesson-2",
+              "unitId": "c-section-5-unit-10-struct-project",
+              "title": "Practice Struct project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-5-unit-10-struct-project-lesson-3",
+              "unitId": "c-section-5-unit-10-struct-project",
+              "title": "Review Struct project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c-section-6",
+      "trackId": "c",
+      "order": 6,
+      "title": "Section 6: Dynamic Memory",
+      "bannerColor": "#4B4B4B",
+      "units": [
+        {
+          "id": "c-section-6-unit-1-malloc",
+          "sectionId": "c-section-6",
+          "order": 1,
+          "title": "malloc",
+          "lessons": [
+            {
+              "id": "c-section-6-unit-1-malloc-lesson-1",
+              "unitId": "c-section-6-unit-1-malloc",
+              "title": "Learn malloc",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-1-malloc-lesson-2",
+              "unitId": "c-section-6-unit-1-malloc",
+              "title": "Practice malloc",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-1-malloc-lesson-3",
+              "unitId": "c-section-6-unit-1-malloc",
+              "title": "Review malloc",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-6-unit-2-calloc",
+          "sectionId": "c-section-6",
+          "order": 2,
+          "title": "calloc",
+          "lessons": [
+            {
+              "id": "c-section-6-unit-2-calloc-lesson-1",
+              "unitId": "c-section-6-unit-2-calloc",
+              "title": "Learn calloc",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-2-calloc-lesson-2",
+              "unitId": "c-section-6-unit-2-calloc",
+              "title": "Practice calloc",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-2-calloc-lesson-3",
+              "unitId": "c-section-6-unit-2-calloc",
+              "title": "Review calloc",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-6-unit-3-realloc",
+          "sectionId": "c-section-6",
+          "order": 3,
+          "title": "realloc",
+          "lessons": [
+            {
+              "id": "c-section-6-unit-3-realloc-lesson-1",
+              "unitId": "c-section-6-unit-3-realloc",
+              "title": "Learn realloc",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-3-realloc-lesson-2",
+              "unitId": "c-section-6-unit-3-realloc",
+              "title": "Practice realloc",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-3-realloc-lesson-3",
+              "unitId": "c-section-6-unit-3-realloc",
+              "title": "Review realloc",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-6-unit-4-free",
+          "sectionId": "c-section-6",
+          "order": 4,
+          "title": "free",
+          "lessons": [
+            {
+              "id": "c-section-6-unit-4-free-lesson-1",
+              "unitId": "c-section-6-unit-4-free",
+              "title": "Learn free",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-4-free-lesson-2",
+              "unitId": "c-section-6-unit-4-free",
+              "title": "Practice free",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-4-free-lesson-3",
+              "unitId": "c-section-6-unit-4-free",
+              "title": "Review free",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-6-unit-5-memory-leaks",
+          "sectionId": "c-section-6",
+          "order": 5,
+          "title": "Memory leaks",
+          "lessons": [
+            {
+              "id": "c-section-6-unit-5-memory-leaks-lesson-1",
+              "unitId": "c-section-6-unit-5-memory-leaks",
+              "title": "Learn Memory leaks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-5-memory-leaks-lesson-2",
+              "unitId": "c-section-6-unit-5-memory-leaks",
+              "title": "Practice Memory leaks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-5-memory-leaks-lesson-3",
+              "unitId": "c-section-6-unit-5-memory-leaks",
+              "title": "Review Memory leaks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-6-unit-6-dangling-pointers",
+          "sectionId": "c-section-6",
+          "order": 6,
+          "title": "Dangling pointers",
+          "lessons": [
+            {
+              "id": "c-section-6-unit-6-dangling-pointers-lesson-1",
+              "unitId": "c-section-6-unit-6-dangling-pointers",
+              "title": "Learn Dangling pointers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-6-dangling-pointers-lesson-2",
+              "unitId": "c-section-6-unit-6-dangling-pointers",
+              "title": "Practice Dangling pointers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-6-dangling-pointers-lesson-3",
+              "unitId": "c-section-6-unit-6-dangling-pointers",
+              "title": "Review Dangling pointers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-6-unit-7-ownership-habits",
+          "sectionId": "c-section-6",
+          "order": 7,
+          "title": "Ownership habits",
+          "lessons": [
+            {
+              "id": "c-section-6-unit-7-ownership-habits-lesson-1",
+              "unitId": "c-section-6-unit-7-ownership-habits",
+              "title": "Learn Ownership habits",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-7-ownership-habits-lesson-2",
+              "unitId": "c-section-6-unit-7-ownership-habits",
+              "title": "Practice Ownership habits",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-7-ownership-habits-lesson-3",
+              "unitId": "c-section-6-unit-7-ownership-habits",
+              "title": "Review Ownership habits",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-6-unit-8-dynamic-arrays",
+          "sectionId": "c-section-6",
+          "order": 8,
+          "title": "Dynamic arrays",
+          "lessons": [
+            {
+              "id": "c-section-6-unit-8-dynamic-arrays-lesson-1",
+              "unitId": "c-section-6-unit-8-dynamic-arrays",
+              "title": "Learn Dynamic arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-8-dynamic-arrays-lesson-2",
+              "unitId": "c-section-6-unit-8-dynamic-arrays",
+              "title": "Practice Dynamic arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-8-dynamic-arrays-lesson-3",
+              "unitId": "c-section-6-unit-8-dynamic-arrays",
+              "title": "Review Dynamic arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-6-unit-9-valgrind-basics",
+          "sectionId": "c-section-6",
+          "order": 9,
+          "title": "Valgrind basics",
+          "lessons": [
+            {
+              "id": "c-section-6-unit-9-valgrind-basics-lesson-1",
+              "unitId": "c-section-6-unit-9-valgrind-basics",
+              "title": "Learn Valgrind basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-9-valgrind-basics-lesson-2",
+              "unitId": "c-section-6-unit-9-valgrind-basics",
+              "title": "Practice Valgrind basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-9-valgrind-basics-lesson-3",
+              "unitId": "c-section-6-unit-9-valgrind-basics",
+              "title": "Review Valgrind basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-6-unit-10-memory-project",
+          "sectionId": "c-section-6",
+          "order": 10,
+          "title": "Memory project",
+          "lessons": [
+            {
+              "id": "c-section-6-unit-10-memory-project-lesson-1",
+              "unitId": "c-section-6-unit-10-memory-project",
+              "title": "Learn Memory project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-10-memory-project-lesson-2",
+              "unitId": "c-section-6-unit-10-memory-project",
+              "title": "Practice Memory project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-6-unit-10-memory-project-lesson-3",
+              "unitId": "c-section-6-unit-10-memory-project",
+              "title": "Review Memory project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c-section-7",
+      "trackId": "c",
+      "order": 7,
+      "title": "Section 7: File I/O",
+      "bannerColor": "#4B4B4B",
+      "units": [
+        {
+          "id": "c-section-7-unit-1-fopen",
+          "sectionId": "c-section-7",
+          "order": 1,
+          "title": "fopen",
+          "lessons": [
+            {
+              "id": "c-section-7-unit-1-fopen-lesson-1",
+              "unitId": "c-section-7-unit-1-fopen",
+              "title": "Learn fopen",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-1-fopen-lesson-2",
+              "unitId": "c-section-7-unit-1-fopen",
+              "title": "Practice fopen",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-1-fopen-lesson-3",
+              "unitId": "c-section-7-unit-1-fopen",
+              "title": "Review fopen",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-7-unit-2-fclose",
+          "sectionId": "c-section-7",
+          "order": 2,
+          "title": "fclose",
+          "lessons": [
+            {
+              "id": "c-section-7-unit-2-fclose-lesson-1",
+              "unitId": "c-section-7-unit-2-fclose",
+              "title": "Learn fclose",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-2-fclose-lesson-2",
+              "unitId": "c-section-7-unit-2-fclose",
+              "title": "Practice fclose",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-2-fclose-lesson-3",
+              "unitId": "c-section-7-unit-2-fclose",
+              "title": "Review fclose",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-7-unit-3-reading-chars",
+          "sectionId": "c-section-7",
+          "order": 3,
+          "title": "Reading chars",
+          "lessons": [
+            {
+              "id": "c-section-7-unit-3-reading-chars-lesson-1",
+              "unitId": "c-section-7-unit-3-reading-chars",
+              "title": "Learn Reading chars",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-3-reading-chars-lesson-2",
+              "unitId": "c-section-7-unit-3-reading-chars",
+              "title": "Practice Reading chars",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-3-reading-chars-lesson-3",
+              "unitId": "c-section-7-unit-3-reading-chars",
+              "title": "Review Reading chars",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-7-unit-4-reading-lines",
+          "sectionId": "c-section-7",
+          "order": 4,
+          "title": "Reading lines",
+          "lessons": [
+            {
+              "id": "c-section-7-unit-4-reading-lines-lesson-1",
+              "unitId": "c-section-7-unit-4-reading-lines",
+              "title": "Learn Reading lines",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-4-reading-lines-lesson-2",
+              "unitId": "c-section-7-unit-4-reading-lines",
+              "title": "Practice Reading lines",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-4-reading-lines-lesson-3",
+              "unitId": "c-section-7-unit-4-reading-lines",
+              "title": "Review Reading lines",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-7-unit-5-writing-files",
+          "sectionId": "c-section-7",
+          "order": 5,
+          "title": "Writing files",
+          "lessons": [
+            {
+              "id": "c-section-7-unit-5-writing-files-lesson-1",
+              "unitId": "c-section-7-unit-5-writing-files",
+              "title": "Learn Writing files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-5-writing-files-lesson-2",
+              "unitId": "c-section-7-unit-5-writing-files",
+              "title": "Practice Writing files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-5-writing-files-lesson-3",
+              "unitId": "c-section-7-unit-5-writing-files",
+              "title": "Review Writing files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-7-unit-6-binary-files",
+          "sectionId": "c-section-7",
+          "order": 6,
+          "title": "Binary files",
+          "lessons": [
+            {
+              "id": "c-section-7-unit-6-binary-files-lesson-1",
+              "unitId": "c-section-7-unit-6-binary-files",
+              "title": "Learn Binary files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-6-binary-files-lesson-2",
+              "unitId": "c-section-7-unit-6-binary-files",
+              "title": "Practice Binary files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-6-binary-files-lesson-3",
+              "unitId": "c-section-7-unit-6-binary-files",
+              "title": "Review Binary files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-7-unit-7-file-errors",
+          "sectionId": "c-section-7",
+          "order": 7,
+          "title": "File errors",
+          "lessons": [
+            {
+              "id": "c-section-7-unit-7-file-errors-lesson-1",
+              "unitId": "c-section-7-unit-7-file-errors",
+              "title": "Learn File errors",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-7-file-errors-lesson-2",
+              "unitId": "c-section-7-unit-7-file-errors",
+              "title": "Practice File errors",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-7-file-errors-lesson-3",
+              "unitId": "c-section-7-unit-7-file-errors",
+              "title": "Review File errors",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-7-unit-8-csv-parsing",
+          "sectionId": "c-section-7",
+          "order": 8,
+          "title": "CSV parsing",
+          "lessons": [
+            {
+              "id": "c-section-7-unit-8-csv-parsing-lesson-1",
+              "unitId": "c-section-7-unit-8-csv-parsing",
+              "title": "Learn CSV parsing",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-8-csv-parsing-lesson-2",
+              "unitId": "c-section-7-unit-8-csv-parsing",
+              "title": "Practice CSV parsing",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-8-csv-parsing-lesson-3",
+              "unitId": "c-section-7-unit-8-csv-parsing",
+              "title": "Review CSV parsing",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-7-unit-9-file-positions",
+          "sectionId": "c-section-7",
+          "order": 9,
+          "title": "File positions",
+          "lessons": [
+            {
+              "id": "c-section-7-unit-9-file-positions-lesson-1",
+              "unitId": "c-section-7-unit-9-file-positions",
+              "title": "Learn File positions",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-9-file-positions-lesson-2",
+              "unitId": "c-section-7-unit-9-file-positions",
+              "title": "Practice File positions",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-9-file-positions-lesson-3",
+              "unitId": "c-section-7-unit-9-file-positions",
+              "title": "Review File positions",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-7-unit-10-file-project",
+          "sectionId": "c-section-7",
+          "order": 10,
+          "title": "File project",
+          "lessons": [
+            {
+              "id": "c-section-7-unit-10-file-project-lesson-1",
+              "unitId": "c-section-7-unit-10-file-project",
+              "title": "Learn File project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-10-file-project-lesson-2",
+              "unitId": "c-section-7-unit-10-file-project",
+              "title": "Practice File project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-7-unit-10-file-project-lesson-3",
+              "unitId": "c-section-7-unit-10-file-project",
+              "title": "Review File project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c-section-8",
+      "trackId": "c",
+      "order": 8,
+      "title": "Section 8: Preprocessor & Build",
+      "bannerColor": "#4B4B4B",
+      "units": [
+        {
+          "id": "c-section-8-unit-1-macros",
+          "sectionId": "c-section-8",
+          "order": 1,
+          "title": "Macros",
+          "lessons": [
+            {
+              "id": "c-section-8-unit-1-macros-lesson-1",
+              "unitId": "c-section-8-unit-1-macros",
+              "title": "Learn Macros",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-1-macros-lesson-2",
+              "unitId": "c-section-8-unit-1-macros",
+              "title": "Practice Macros",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-1-macros-lesson-3",
+              "unitId": "c-section-8-unit-1-macros",
+              "title": "Review Macros",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-8-unit-2-include-guards",
+          "sectionId": "c-section-8",
+          "order": 2,
+          "title": "Include guards",
+          "lessons": [
+            {
+              "id": "c-section-8-unit-2-include-guards-lesson-1",
+              "unitId": "c-section-8-unit-2-include-guards",
+              "title": "Learn Include guards",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-2-include-guards-lesson-2",
+              "unitId": "c-section-8-unit-2-include-guards",
+              "title": "Practice Include guards",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-2-include-guards-lesson-3",
+              "unitId": "c-section-8-unit-2-include-guards",
+              "title": "Review Include guards",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-8-unit-3-conditional-compilation",
+          "sectionId": "c-section-8",
+          "order": 3,
+          "title": "Conditional compilation",
+          "lessons": [
+            {
+              "id": "c-section-8-unit-3-conditional-compilation-lesson-1",
+              "unitId": "c-section-8-unit-3-conditional-compilation",
+              "title": "Learn Conditional compilation",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-3-conditional-compilation-lesson-2",
+              "unitId": "c-section-8-unit-3-conditional-compilation",
+              "title": "Practice Conditional compilation",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-3-conditional-compilation-lesson-3",
+              "unitId": "c-section-8-unit-3-conditional-compilation",
+              "title": "Review Conditional compilation",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-8-unit-4-make-basics",
+          "sectionId": "c-section-8",
+          "order": 4,
+          "title": "Make basics",
+          "lessons": [
+            {
+              "id": "c-section-8-unit-4-make-basics-lesson-1",
+              "unitId": "c-section-8-unit-4-make-basics",
+              "title": "Learn Make basics",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-4-make-basics-lesson-2",
+              "unitId": "c-section-8-unit-4-make-basics",
+              "title": "Practice Make basics",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-4-make-basics-lesson-3",
+              "unitId": "c-section-8-unit-4-make-basics",
+              "title": "Review Make basics",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-8-unit-5-make-targets",
+          "sectionId": "c-section-8",
+          "order": 5,
+          "title": "Make targets",
+          "lessons": [
+            {
+              "id": "c-section-8-unit-5-make-targets-lesson-1",
+              "unitId": "c-section-8-unit-5-make-targets",
+              "title": "Learn Make targets",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-5-make-targets-lesson-2",
+              "unitId": "c-section-8-unit-5-make-targets",
+              "title": "Practice Make targets",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-5-make-targets-lesson-3",
+              "unitId": "c-section-8-unit-5-make-targets",
+              "title": "Review Make targets",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-8-unit-6-object-files",
+          "sectionId": "c-section-8",
+          "order": 6,
+          "title": "Object files",
+          "lessons": [
+            {
+              "id": "c-section-8-unit-6-object-files-lesson-1",
+              "unitId": "c-section-8-unit-6-object-files",
+              "title": "Learn Object files",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-6-object-files-lesson-2",
+              "unitId": "c-section-8-unit-6-object-files",
+              "title": "Practice Object files",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-6-object-files-lesson-3",
+              "unitId": "c-section-8-unit-6-object-files",
+              "title": "Review Object files",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-8-unit-7-libraries-intro",
+          "sectionId": "c-section-8",
+          "order": 7,
+          "title": "Libraries intro",
+          "lessons": [
+            {
+              "id": "c-section-8-unit-7-libraries-intro-lesson-1",
+              "unitId": "c-section-8-unit-7-libraries-intro",
+              "title": "Learn Libraries intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-7-libraries-intro-lesson-2",
+              "unitId": "c-section-8-unit-7-libraries-intro",
+              "title": "Practice Libraries intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-7-libraries-intro-lesson-3",
+              "unitId": "c-section-8-unit-7-libraries-intro",
+              "title": "Review Libraries intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-8-unit-8-compiler-flags",
+          "sectionId": "c-section-8",
+          "order": 8,
+          "title": "Compiler flags",
+          "lessons": [
+            {
+              "id": "c-section-8-unit-8-compiler-flags-lesson-1",
+              "unitId": "c-section-8-unit-8-compiler-flags",
+              "title": "Learn Compiler flags",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-8-compiler-flags-lesson-2",
+              "unitId": "c-section-8-unit-8-compiler-flags",
+              "title": "Practice Compiler flags",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-8-compiler-flags-lesson-3",
+              "unitId": "c-section-8-unit-8-compiler-flags",
+              "title": "Review Compiler flags",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-8-unit-9-warnings",
+          "sectionId": "c-section-8",
+          "order": 9,
+          "title": "Warnings",
+          "lessons": [
+            {
+              "id": "c-section-8-unit-9-warnings-lesson-1",
+              "unitId": "c-section-8-unit-9-warnings",
+              "title": "Learn Warnings",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-9-warnings-lesson-2",
+              "unitId": "c-section-8-unit-9-warnings",
+              "title": "Practice Warnings",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-9-warnings-lesson-3",
+              "unitId": "c-section-8-unit-9-warnings",
+              "title": "Review Warnings",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-8-unit-10-build-project",
+          "sectionId": "c-section-8",
+          "order": 10,
+          "title": "Build project",
+          "lessons": [
+            {
+              "id": "c-section-8-unit-10-build-project-lesson-1",
+              "unitId": "c-section-8-unit-10-build-project",
+              "title": "Learn Build project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-10-build-project-lesson-2",
+              "unitId": "c-section-8-unit-10-build-project",
+              "title": "Practice Build project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-8-unit-10-build-project-lesson-3",
+              "unitId": "c-section-8-unit-10-build-project",
+              "title": "Review Build project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c-section-9",
+      "trackId": "c",
+      "order": 9,
+      "title": "Section 9: Data Structures in C",
+      "bannerColor": "#4B4B4B",
+      "units": [
+        {
+          "id": "c-section-9-unit-1-linked-lists",
+          "sectionId": "c-section-9",
+          "order": 1,
+          "title": "Linked lists",
+          "lessons": [
+            {
+              "id": "c-section-9-unit-1-linked-lists-lesson-1",
+              "unitId": "c-section-9-unit-1-linked-lists",
+              "title": "Learn Linked lists",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-1-linked-lists-lesson-2",
+              "unitId": "c-section-9-unit-1-linked-lists",
+              "title": "Practice Linked lists",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-1-linked-lists-lesson-3",
+              "unitId": "c-section-9-unit-1-linked-lists",
+              "title": "Review Linked lists",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-9-unit-2-stacks",
+          "sectionId": "c-section-9",
+          "order": 2,
+          "title": "Stacks",
+          "lessons": [
+            {
+              "id": "c-section-9-unit-2-stacks-lesson-1",
+              "unitId": "c-section-9-unit-2-stacks",
+              "title": "Learn Stacks",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-2-stacks-lesson-2",
+              "unitId": "c-section-9-unit-2-stacks",
+              "title": "Practice Stacks",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-2-stacks-lesson-3",
+              "unitId": "c-section-9-unit-2-stacks",
+              "title": "Review Stacks",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-9-unit-3-queues",
+          "sectionId": "c-section-9",
+          "order": 3,
+          "title": "Queues",
+          "lessons": [
+            {
+              "id": "c-section-9-unit-3-queues-lesson-1",
+              "unitId": "c-section-9-unit-3-queues",
+              "title": "Learn Queues",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-3-queues-lesson-2",
+              "unitId": "c-section-9-unit-3-queues",
+              "title": "Practice Queues",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-3-queues-lesson-3",
+              "unitId": "c-section-9-unit-3-queues",
+              "title": "Review Queues",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-9-unit-4-hash-tables-intro",
+          "sectionId": "c-section-9",
+          "order": 4,
+          "title": "Hash tables intro",
+          "lessons": [
+            {
+              "id": "c-section-9-unit-4-hash-tables-intro-lesson-1",
+              "unitId": "c-section-9-unit-4-hash-tables-intro",
+              "title": "Learn Hash tables intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-4-hash-tables-intro-lesson-2",
+              "unitId": "c-section-9-unit-4-hash-tables-intro",
+              "title": "Practice Hash tables intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-4-hash-tables-intro-lesson-3",
+              "unitId": "c-section-9-unit-4-hash-tables-intro",
+              "title": "Review Hash tables intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-9-unit-5-trees-intro",
+          "sectionId": "c-section-9",
+          "order": 5,
+          "title": "Trees intro",
+          "lessons": [
+            {
+              "id": "c-section-9-unit-5-trees-intro-lesson-1",
+              "unitId": "c-section-9-unit-5-trees-intro",
+              "title": "Learn Trees intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-5-trees-intro-lesson-2",
+              "unitId": "c-section-9-unit-5-trees-intro",
+              "title": "Practice Trees intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-5-trees-intro-lesson-3",
+              "unitId": "c-section-9-unit-5-trees-intro",
+              "title": "Review Trees intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-9-unit-6-sorting-arrays",
+          "sectionId": "c-section-9",
+          "order": 6,
+          "title": "Sorting arrays",
+          "lessons": [
+            {
+              "id": "c-section-9-unit-6-sorting-arrays-lesson-1",
+              "unitId": "c-section-9-unit-6-sorting-arrays",
+              "title": "Learn Sorting arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-6-sorting-arrays-lesson-2",
+              "unitId": "c-section-9-unit-6-sorting-arrays",
+              "title": "Practice Sorting arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-6-sorting-arrays-lesson-3",
+              "unitId": "c-section-9-unit-6-sorting-arrays",
+              "title": "Review Sorting arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-9-unit-7-searching-arrays",
+          "sectionId": "c-section-9",
+          "order": 7,
+          "title": "Searching arrays",
+          "lessons": [
+            {
+              "id": "c-section-9-unit-7-searching-arrays-lesson-1",
+              "unitId": "c-section-9-unit-7-searching-arrays",
+              "title": "Learn Searching arrays",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-7-searching-arrays-lesson-2",
+              "unitId": "c-section-9-unit-7-searching-arrays",
+              "title": "Practice Searching arrays",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-7-searching-arrays-lesson-3",
+              "unitId": "c-section-9-unit-7-searching-arrays",
+              "title": "Review Searching arrays",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-9-unit-8-generic-void-pointers",
+          "sectionId": "c-section-9",
+          "order": 8,
+          "title": "Generic void pointers",
+          "lessons": [
+            {
+              "id": "c-section-9-unit-8-generic-void-pointers-lesson-1",
+              "unitId": "c-section-9-unit-8-generic-void-pointers",
+              "title": "Learn Generic void pointers",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-8-generic-void-pointers-lesson-2",
+              "unitId": "c-section-9-unit-8-generic-void-pointers",
+              "title": "Practice Generic void pointers",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-8-generic-void-pointers-lesson-3",
+              "unitId": "c-section-9-unit-8-generic-void-pointers",
+              "title": "Review Generic void pointers",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-9-unit-9-data-ownership",
+          "sectionId": "c-section-9",
+          "order": 9,
+          "title": "Data ownership",
+          "lessons": [
+            {
+              "id": "c-section-9-unit-9-data-ownership-lesson-1",
+              "unitId": "c-section-9-unit-9-data-ownership",
+              "title": "Learn Data ownership",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-9-data-ownership-lesson-2",
+              "unitId": "c-section-9-unit-9-data-ownership",
+              "title": "Practice Data ownership",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-9-data-ownership-lesson-3",
+              "unitId": "c-section-9-unit-9-data-ownership",
+              "title": "Review Data ownership",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-9-unit-10-c-data-project",
+          "sectionId": "c-section-9",
+          "order": 10,
+          "title": "C data project",
+          "lessons": [
+            {
+              "id": "c-section-9-unit-10-c-data-project-lesson-1",
+              "unitId": "c-section-9-unit-10-c-data-project",
+              "title": "Learn C data project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-10-c-data-project-lesson-2",
+              "unitId": "c-section-9-unit-10-c-data-project",
+              "title": "Practice C data project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-9-unit-10-c-data-project-lesson-3",
+              "unitId": "c-section-9-unit-10-c-data-project",
+              "title": "Review C data project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c-section-10",
+      "trackId": "c",
+      "order": 10,
+      "title": "Section 10: C Capstones",
+      "bannerColor": "#4B4B4B",
+      "units": [
+        {
+          "id": "c-section-10-unit-1-text-utilities",
+          "sectionId": "c-section-10",
+          "order": 1,
+          "title": "Text utilities",
+          "lessons": [
+            {
+              "id": "c-section-10-unit-1-text-utilities-lesson-1",
+              "unitId": "c-section-10-unit-1-text-utilities",
+              "title": "Learn Text utilities",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-1-text-utilities-lesson-2",
+              "unitId": "c-section-10-unit-1-text-utilities",
+              "title": "Practice Text utilities",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-1-text-utilities-lesson-3",
+              "unitId": "c-section-10-unit-1-text-utilities",
+              "title": "Review Text utilities",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-10-unit-2-contact-manager",
+          "sectionId": "c-section-10",
+          "order": 2,
+          "title": "Contact manager",
+          "lessons": [
+            {
+              "id": "c-section-10-unit-2-contact-manager-lesson-1",
+              "unitId": "c-section-10-unit-2-contact-manager",
+              "title": "Learn Contact manager",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-2-contact-manager-lesson-2",
+              "unitId": "c-section-10-unit-2-contact-manager",
+              "title": "Practice Contact manager",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-2-contact-manager-lesson-3",
+              "unitId": "c-section-10-unit-2-contact-manager",
+              "title": "Review Contact manager",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-10-unit-3-mini-shell-intro",
+          "sectionId": "c-section-10",
+          "order": 3,
+          "title": "Mini shell intro",
+          "lessons": [
+            {
+              "id": "c-section-10-unit-3-mini-shell-intro-lesson-1",
+              "unitId": "c-section-10-unit-3-mini-shell-intro",
+              "title": "Learn Mini shell intro",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-3-mini-shell-intro-lesson-2",
+              "unitId": "c-section-10-unit-3-mini-shell-intro",
+              "title": "Practice Mini shell intro",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-3-mini-shell-intro-lesson-3",
+              "unitId": "c-section-10-unit-3-mini-shell-intro",
+              "title": "Review Mini shell intro",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-10-unit-4-memory-safe-parser",
+          "sectionId": "c-section-10",
+          "order": 4,
+          "title": "Memory-safe parser",
+          "lessons": [
+            {
+              "id": "c-section-10-unit-4-memory-safe-parser-lesson-1",
+              "unitId": "c-section-10-unit-4-memory-safe-parser",
+              "title": "Learn Memory-safe parser",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-4-memory-safe-parser-lesson-2",
+              "unitId": "c-section-10-unit-4-memory-safe-parser",
+              "title": "Practice Memory-safe parser",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-4-memory-safe-parser-lesson-3",
+              "unitId": "c-section-10-unit-4-memory-safe-parser",
+              "title": "Review Memory-safe parser",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-10-unit-5-binary-file-tool",
+          "sectionId": "c-section-10",
+          "order": 5,
+          "title": "Binary file tool",
+          "lessons": [
+            {
+              "id": "c-section-10-unit-5-binary-file-tool-lesson-1",
+              "unitId": "c-section-10-unit-5-binary-file-tool",
+              "title": "Learn Binary file tool",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-5-binary-file-tool-lesson-2",
+              "unitId": "c-section-10-unit-5-binary-file-tool",
+              "title": "Practice Binary file tool",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-5-binary-file-tool-lesson-3",
+              "unitId": "c-section-10-unit-5-binary-file-tool",
+              "title": "Review Binary file tool",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-10-unit-6-linked-list-library",
+          "sectionId": "c-section-10",
+          "order": 6,
+          "title": "Linked list library",
+          "lessons": [
+            {
+              "id": "c-section-10-unit-6-linked-list-library-lesson-1",
+              "unitId": "c-section-10-unit-6-linked-list-library",
+              "title": "Learn Linked list library",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-6-linked-list-library-lesson-2",
+              "unitId": "c-section-10-unit-6-linked-list-library",
+              "title": "Practice Linked list library",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-6-linked-list-library-lesson-3",
+              "unitId": "c-section-10-unit-6-linked-list-library",
+              "title": "Review Linked list library",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-10-unit-7-csv-report",
+          "sectionId": "c-section-10",
+          "order": 7,
+          "title": "CSV report",
+          "lessons": [
+            {
+              "id": "c-section-10-unit-7-csv-report-lesson-1",
+              "unitId": "c-section-10-unit-7-csv-report",
+              "title": "Learn CSV report",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-7-csv-report-lesson-2",
+              "unitId": "c-section-10-unit-7-csv-report",
+              "title": "Practice CSV report",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-7-csv-report-lesson-3",
+              "unitId": "c-section-10-unit-7-csv-report",
+              "title": "Review CSV report",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-10-unit-8-makefile-project",
+          "sectionId": "c-section-10",
+          "order": 8,
+          "title": "Makefile project",
+          "lessons": [
+            {
+              "id": "c-section-10-unit-8-makefile-project-lesson-1",
+              "unitId": "c-section-10-unit-8-makefile-project",
+              "title": "Learn Makefile project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-8-makefile-project-lesson-2",
+              "unitId": "c-section-10-unit-8-makefile-project",
+              "title": "Practice Makefile project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-8-makefile-project-lesson-3",
+              "unitId": "c-section-10-unit-8-makefile-project",
+              "title": "Review Makefile project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-10-unit-9-debugging-pass",
+          "sectionId": "c-section-10",
+          "order": 9,
+          "title": "Debugging pass",
+          "lessons": [
+            {
+              "id": "c-section-10-unit-9-debugging-pass-lesson-1",
+              "unitId": "c-section-10-unit-9-debugging-pass",
+              "title": "Learn Debugging pass",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-9-debugging-pass-lesson-2",
+              "unitId": "c-section-10-unit-9-debugging-pass",
+              "title": "Practice Debugging pass",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-9-debugging-pass-lesson-3",
+              "unitId": "c-section-10-unit-9-debugging-pass",
+              "title": "Review Debugging pass",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        },
+        {
+          "id": "c-section-10-unit-10-final-c-project",
+          "sectionId": "c-section-10",
+          "order": 10,
+          "title": "Final C project",
+          "lessons": [
+            {
+              "id": "c-section-10-unit-10-final-c-project-lesson-1",
+              "unitId": "c-section-10-unit-10-final-c-project",
+              "title": "Learn Final C project",
+              "order": 1,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-10-final-c-project-lesson-2",
+              "unitId": "c-section-10-unit-10-final-c-project",
+              "title": "Practice Final C project",
+              "order": 2,
+              "exerciseIds": []
+            },
+            {
+              "id": "c-section-10-unit-10-final-c-project-lesson-3",
+              "unitId": "c-section-10-unit-10-final-c-project",
+              "title": "Review Final C project",
+              "order": 3,
+              "exerciseIds": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
