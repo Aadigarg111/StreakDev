@@ -1,4 +1,4 @@
-import bcrypt from "bcrypt";
+import bcrypt from "bcryptjs";
 import { NextResponse } from "next/server";
 import { MongoServerError } from "mongodb";
 import { createSession, setSessionCookie } from "@/lib/auth/session";

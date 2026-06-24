@@ -1,4 +1,4 @@
-import bcrypt from "bcrypt";
+import bcrypt from "bcryptjs";
 import { NextResponse } from "next/server";
 import { createSession, setSessionCookie } from "@/lib/auth/session";
 import { checkRateLimit, clearRateLimit } from "@/lib/auth/rate-limit";
