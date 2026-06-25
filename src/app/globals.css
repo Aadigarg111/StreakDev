@@ -26,15 +26,16 @@
   --safe-bottom: env(safe-area-inset-bottom);
 }
 
+:root[data-theme="dark"],
 .dark {
-  --duo-grey-bg: #0f1a1f;
-  --duo-grey-panel: #1a2730;
-  --duo-grey-border: #2b3a42;
-  --duo-grey-text: #e5e5e5;
-  --duo-grey-disabled: #8fa0a8;
-  --duo-eel: #f3f7f9;
-  --duo-swan: #2b3a42;
-  --duo-snow: #1a2730;
+  --duo-grey-bg: #0f1c20;
+  --duo-grey-panel: #17262c;
+  --duo-grey-border: #2d3f47;
+  --duo-grey-text: #d8e4e8;
+  --duo-grey-disabled: #78909a;
+  --duo-eel: #f5fbff;
+  --duo-swan: #2d3f47;
+  --duo-snow: #132227;
   --background: var(--duo-grey-bg);
   --foreground: var(--duo-eel);
 }

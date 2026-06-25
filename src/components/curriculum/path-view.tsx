@@ -2,10 +2,13 @@
 
 import {
   ArrowLeft,
+  Award,
   Check,
   ChevronDown,
+  ChevronRight,
   Crown,
   Dumbbell,
+  Edit3,
   Flame,
   Gem,
   Home,
@@ -14,16 +17,20 @@ import {
   Lock,
   MoreHorizontal,
   NotebookTabs,
+  PartyPopper,
   Plus,
+  Search,
   Shield,
   Star,
   Store,
   Trophy,
   UserCircle,
+  Users,
   Zap,
 } from "lucide-react";
 import { motion, useReducedMotion } from "framer-motion";
 import { useEffect, useState } from "react";
+import type { ReactNode } from "react";
 import type { Track } from "../../../types/content";
 import { getVisibleSections, tracks } from "@/lib/curriculum";
 import { cn } from "@/lib/cn";
@@ -325,6 +332,51 @@ function QuestsView() {
   );
 }
 
+function ProfileAvatar({ name, seed, size = "md" }: { name: string; seed: string; size?: "sm" | "md" | "lg" }) {
+  const sizeClass = size === "lg" ? "h-20 w-20 text-2xl" : size === "sm" ? "h-11 w-11 text-base" : "h-14 w-14 text-xl";
+
+  return (
+    <span
+      aria-hidden
+      className={cn("flex shrink-0 items-center justify-center rounded-full border-4 border-duo-snow font-black text-white", sizeClass)}
+      style={{ backgroundColor: avatarColor(seed) }}
+    >
+      {initials(name) || "SD"}
+    </span>
+  );
+}
+
+function initials(name: string) {
+  return name
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 2)
+    .map((part) => part[0]?.toUpperCase())
+    .join("");
+}
+
+function StatCard({
+  icon,
+  label,
+  value,
+}: {
+  icon: ReactNode;
+  label: string;
+  value: string | number;
+}) {
+  return (
+    <div className="flex min-h-[94px] items-center gap-3 rounded-duo border-2 border-duo-swan bg-duo-snow p-4">
+      <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-duo bg-duo-grey-panel">
+        {icon}
+      </div>
+      <div className="min-w-0">
+        <p className="text-xl font-black">{value}</p>
+        <p className="truncate text-sm font-bold text-duo-grey-disabled">{label}</p>
+      </div>
+    </div>
+  );
+}
+
 function ProfileView({
   stats,
   completedUnitIds,
@@ -333,29 +385,144 @@ function ProfileView({
   completedUnitIds: string[];
 }) {
   const [achievements, setAchievements] = useState<AchievementResponse["achievements"]>([]);
+  const [authState, setAuthState] = useState<AuthState | null>(null);
 
   useEffect(() => {
     fetch("/api/achievements")
       .then((response) => (response.ok ? response.json() : Promise.reject()))
       .then((body: AchievementResponse) => setAchievements(body.achievements))
       .catch(() => setAchievements([]));
+
+    fetch("/api/auth/me")
+      .then((response) => response.json() as Promise<AuthState>)
+      .then((body) => setAuthState(body))
+      .catch(() => setAuthState({ authenticated: false, user: null }));
   }, []);
 
-  const unlockedCount = achievements.filter((achievement) => achievement.unlocked).length;
+  const displayName = authState?.user?.displayName || "Aadi Garg";
+  const username = authState?.user?.email?.split("@")[0] || displayName.toLowerCase().replace(/[^a-z0-9]+/g, "") || "streakdev";
+  const avatarSeed = authState?.user?.avatarSeed || username;
+  const featuredAchievements = achievements.slice(0, 3);
 
   return (
-    <section className="space-y-4 pt-5">
-      <div className="rounded-duo-lg border-2 border-duo-swan bg-duo-snow p-5">
-        <p className="text-sm font-black uppercase text-duo-grey-disabled">Profile</p>
-        <h2 className="mt-1 text-3xl font-black">{stats.xp} XP</h2>
-        <div className="mt-4 grid grid-cols-2 gap-2 text-sm font-black">
-          <span className="rounded-duo bg-duo-grey-panel px-3 py-2">{stats.streakDays} day streak</span>
-          <span className="rounded-duo bg-duo-grey-panel px-3 py-2">{stats.gems} gems</span>
-          <span className="rounded-duo bg-duo-grey-panel px-3 py-2">{completedUnitIds.length} units</span>
-          <span className="rounded-duo bg-duo-grey-panel px-3 py-2">{unlockedCount} badges</span>
+    <section className="grid gap-6 pt-5 lg:grid-cols-[minmax(0,1fr)_360px]">
+      <div className="min-w-0 space-y-6">
+        <div className="overflow-hidden rounded-duo-lg border-2 border-duo-swan bg-duo-snow">
+          <div className="relative h-44 bg-duo-grey-panel sm:h-56">
+            <div className="absolute inset-x-0 bottom-[-18px] mx-auto h-36 w-44 rounded-t-[64px] bg-duo-purple/80 sm:h-44 sm:w-52">
+              <div className="absolute left-1/2 top-[-92px] h-32 w-32 -translate-x-1/2 rounded-[36px] bg-[#ffb9aa] sm:top-[-86px]">
+                <span className="absolute left-8 top-7 h-9 w-7 rounded-full bg-white" />
+                <span className="absolute right-8 top-7 h-9 w-7 rounded-full bg-white" />
+                <span className="absolute left-11 top-10 h-5 w-3 rounded-full bg-duo-grey-text" />
+                <span className="absolute right-11 top-10 h-5 w-3 rounded-full bg-duo-grey-text" />
+                <span className="absolute left-1/2 top-16 h-8 w-5 -translate-x-1/2 rounded-b-full border-b-4 border-l-4 border-[#ef8f80]" />
+              </div>
+            </div>
+            <button
+              aria-label="Edit profile"
+              className="absolute right-4 top-4 flex h-12 w-12 items-center justify-center rounded-duo border-2 border-duo-grey-disabled bg-duo-snow/80 text-duo-grey-text backdrop-blur transition focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25 active:translate-y-1"
+              type="button"
+            >
+              <Edit3 className="h-5 w-5" />
+            </button>
+          </div>
+          <div className="p-5 sm:p-6">
+            <h2 className="text-3xl font-black lowercase sm:text-4xl">{displayName}</h2>
+            <p className="mt-1 text-lg font-bold text-duo-grey-disabled">{username}</p>
+            <p className="mt-2 text-base font-bold">Joined June 2026</p>
+            <div className="mt-5 flex flex-wrap gap-5 text-base font-black text-duo-blue">
+              <span>0 Following</span>
+              <span>0 Followers</span>
+            </div>
+          </div>
+        </div>
+
+        <div className="border-t-2 border-duo-swan pt-6">
+          <h3 className="text-2xl font-black">Statistics</h3>
+          <div className="mt-4 grid gap-3 sm:grid-cols-2">
+            <StatCard icon={<Flame className="h-7 w-7 fill-duo-yellow text-duo-yellow" />} label="Day streak" value={stats.streakDays} />
+            <StatCard icon={<Zap className="h-7 w-7 fill-duo-yellow text-duo-yellow" />} label="Total XP" value={stats.xp} />
+            <StatCard icon={<Award className="h-7 w-7 text-[#C58A4B]" />} label="Current league" value="Bronze" />
+            <StatCard icon={<Trophy className="h-7 w-7 text-duo-grey-disabled" />} label="Top 3 finishes" value="0" />
+          </div>
+        </div>
+
+        <div className="space-y-4">
+          <div className="flex items-center justify-between gap-4">
+            <h3 className="text-2xl font-black">Achievements</h3>
+            <span className="text-sm font-black uppercase text-duo-blue">View all</span>
+          </div>
+          {featuredAchievements.length > 0 ? (
+            <AchievementsGrid achievements={featuredAchievements} />
+          ) : (
+            <div className="rounded-duo-lg border-2 border-duo-swan bg-duo-snow p-5">
+              <div className="flex items-center gap-4">
+                <div className="flex h-20 w-20 items-center justify-center rounded-duo bg-duo-red">
+                  <Flame className="h-10 w-10 fill-duo-yellow text-duo-yellow" />
+                </div>
+                <div className="min-w-0 flex-1">
+                  <p className="font-black">Wildfire</p>
+                  <div className="mt-3 h-4 overflow-hidden rounded-full bg-duo-swan">
+                    <div className="h-full w-1/3 rounded-full bg-duo-yellow" />
+                  </div>
+                  <p className="mt-3 text-sm font-black">Reach a 3 day streak</p>
+                </div>
+                <span className="self-start text-sm font-bold text-duo-grey-disabled">1/3</span>
+              </div>
+            </div>
+          )}
         </div>
       </div>
-      <AchievementsGrid achievements={achievements} />
+
+      <aside className="space-y-5">
+        <div className="rounded-duo-lg border-2 border-duo-swan bg-duo-snow p-5">
+          <div className="flex items-start gap-4">
+            <ProfileAvatar name={displayName} seed={avatarSeed} size="md" />
+            <div className="min-w-0">
+              <p className="truncate text-xl font-black lowercase">{displayName}</p>
+              <p className="text-sm font-bold text-duo-grey-disabled">1 day</p>
+            </div>
+          </div>
+          <p className="mt-5 text-lg font-black">Earned a total of {stats.xp} XP!</p>
+          <div className="mt-5 flex items-center justify-end gap-2 text-sm font-black text-duo-grey-disabled">
+            <span className="flex h-9 w-9 items-center justify-center rounded-full border-2 border-duo-swan">
+              <PartyPopper className="h-5 w-5 text-duo-purple" />
+            </span>
+            1
+          </div>
+        </div>
+
+        <div className="overflow-hidden rounded-duo-lg border-2 border-duo-swan bg-duo-snow">
+          <div className="grid grid-cols-2 border-b-2 border-duo-swan text-center text-sm font-black uppercase">
+            <button className="border-b-4 border-duo-blue py-4 text-duo-blue" type="button">Following</button>
+            <button className="py-4" type="button">Followers</button>
+          </div>
+          <div className="p-6 text-center">
+            <Users className="mx-auto h-24 w-24 text-duo-yellow" />
+            <p className="mx-auto mt-4 max-w-[260px] text-xl font-black leading-8">
+              Learning is more fun and effective when you connect with others.
+            </p>
+          </div>
+        </div>
+
+        <div className="rounded-duo-lg border-2 border-duo-swan bg-duo-snow p-5">
+          <h3 className="text-xl font-black">Add friends</h3>
+          <button className="mt-4 flex w-full items-center justify-between gap-4 py-3 text-left font-black" type="button">
+            <span className="flex items-center gap-4">
+              <Search className="h-8 w-8 text-duo-blue" />
+              Find friends
+            </span>
+            <ChevronRight className="h-5 w-5 text-duo-grey-disabled" />
+          </button>
+          <button className="flex w-full items-center justify-between gap-4 py-3 text-left font-black" type="button">
+            <span className="flex items-center gap-4">
+              <UserCircle className="h-8 w-8 text-duo-green" />
+              Invite friends
+            </span>
+            <ChevronRight className="h-5 w-5 text-duo-grey-disabled" />
+          </button>
+        </div>
+      </aside>
     </section>
   );
 }
@@ -475,7 +642,12 @@ export function PathView({
           </nav>
         </aside>
 
-        <section className="mx-auto min-h-dvh w-full max-w-[740px] px-4 py-4 sm:px-6 lg:px-8 lg:py-7">
+        <section
+          className={cn(
+            "mx-auto min-h-dvh w-full px-4 py-4 sm:px-6 lg:px-8 lg:py-7",
+            activeView === "profile" ? "max-w-[1180px] lg:col-span-2" : "max-w-[740px]",
+          )}
+        >
           <header className="sticky top-0 z-20 -mx-4 border-b-2 border-duo-swan bg-duo-grey-bg/95 px-4 pb-4 pt-safe backdrop-blur sm:-mx-6 sm:px-6 lg:static lg:mx-0 lg:border-b-0 lg:bg-transparent lg:p-0 lg:pb-8">
             <div className="flex items-center justify-between gap-3 lg:hidden">
               <details className="group relative">
@@ -635,7 +807,7 @@ export function PathView({
           )}
         </section>
 
-        <aside className="hidden min-h-dvh space-y-5 border-l-2 border-duo-swan px-8 py-7 lg:block">
+        <aside className={cn("hidden min-h-dvh space-y-5 border-l-2 border-duo-swan px-8 py-7 lg:block", activeView === "profile" && "lg:hidden")}>
           <div className="flex items-center justify-between gap-4">
             <details className="group relative">
               <summary className="flex h-14 cursor-pointer list-none items-center gap-3 rounded-duo bg-duo-snow px-4 font-black text-duo-eel [&::-webkit-details-marker]:hidden">
