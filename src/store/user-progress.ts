@@ -3,6 +3,8 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
 
+const liveTrackId = "html-css";
+
 export type DailyGoalId = "casual" | "regular" | "serious" | "intense";
 
 export type TrackProgress = {
@@ -122,7 +124,7 @@ export const useUserProgressStore = create<UserProgressState>()(
     (set, get) => ({
       onboardingComplete: false,
       enrolledTrackIds: [],
-      currentTrackId: "javascript",
+      currentTrackId: liveTrackId,
       dailyGoal: "regular",
       dailyGoalXp: 10,
       hearts: 5,
@@ -140,8 +142,8 @@ export const useUserProgressStore = create<UserProgressState>()(
         set((state) => ({
           ...state,
           onboardingComplete: payload.onboardingComplete ?? state.onboardingComplete,
-          enrolledTrackIds: payload.enrolledTrackIds ?? state.enrolledTrackIds,
-          currentTrackId: payload.currentTrackId ?? state.currentTrackId,
+          enrolledTrackIds: [liveTrackId],
+          currentTrackId: liveTrackId,
           dailyGoalXp: payload.dailyGoalXp ?? state.dailyGoalXp,
           hearts: payload.hearts ?? state.hearts,
           maxHearts: payload.maxHearts ?? state.maxHearts,
@@ -185,20 +187,22 @@ export const useUserProgressStore = create<UserProgressState>()(
         placementSource,
       }) =>
         set(() => {
+          const liveTrackIds = trackIds.includes(liveTrackId) ? [liveTrackId] : [liveTrackId];
+          const livePrimaryTrackId = primaryTrackId === liveTrackId ? primaryTrackId : liveTrackId;
           const trackProgress = Object.fromEntries(
-            trackIds.map((trackId) => [
+            liveTrackIds.map((trackId) => [
               trackId,
               defaultTrackProgress(
-                trackId === primaryTrackId ? placementSection : 1,
-                trackId === primaryTrackId ? placementSource : "new",
+                trackId === livePrimaryTrackId ? placementSection : 1,
+                trackId === livePrimaryTrackId ? placementSource : "new",
               ),
             ]),
           );
 
           return {
             onboardingComplete: true,
-            enrolledTrackIds: trackIds,
-            currentTrackId: primaryTrackId,
+            enrolledTrackIds: liveTrackIds,
+            currentTrackId: livePrimaryTrackId,
             dailyGoal,
             dailyGoalXp,
             hearts: 5,
@@ -216,7 +220,7 @@ export const useUserProgressStore = create<UserProgressState>()(
         }),
       switchTrack: (trackId) =>
         set((state) => {
-          if (!state.enrolledTrackIds.includes(trackId)) {
+          if (trackId !== liveTrackId || !state.enrolledTrackIds.includes(trackId)) {
             return state;
           }
 
@@ -287,7 +291,7 @@ export const useUserProgressStore = create<UserProgressState>()(
         set({
           onboardingComplete: false,
           enrolledTrackIds: [],
-          currentTrackId: "javascript",
+          currentTrackId: liveTrackId,
           dailyGoal: "regular",
           dailyGoalXp: 10,
           hearts: 5,

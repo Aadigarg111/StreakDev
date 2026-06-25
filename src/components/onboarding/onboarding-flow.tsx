@@ -18,6 +18,8 @@ import {
 } from "@/lib/placement";
 import { cn } from "@/lib/cn";
 
+const liveTrackId = "html-css";
+
 type OnboardingStep =
   | "tracks"
   | "goal"
@@ -287,13 +289,13 @@ function ConfettiBurst() {
 
 export function OnboardingFlow({ onComplete }: OnboardingFlowProps) {
   const [step, setStep] = useState<OnboardingStep>("tracks");
-  const [selectedTrackIds, setSelectedTrackIds] = useState<string[]>(["javascript"]);
+  const [selectedTrackIds, setSelectedTrackIds] = useState<string[]>([liveTrackId]);
   const [dailyGoal, setDailyGoal] = useState<(typeof dailyGoals)[number]>(dailyGoals[1]);
   const [placementAnswers, setPlacementAnswers] = useState<PlacementAnswer[]>([]);
   const [placementSection, setPlacementSection] = useState(1);
   const [placementSource, setPlacementSource] =
     useState<TrackProgress["placementSource"]>("new");
-  const primaryTrackId = selectedTrackIds[0] ?? "javascript";
+  const primaryTrackId = selectedTrackIds[0] ?? liveTrackId;
   const primaryTrack = getTrack(primaryTrackId);
   const questions = useMemo(
     () => getPlacementQuestions(primaryTrackId).slice(0, 10),
@@ -302,6 +304,10 @@ export function OnboardingFlow({ onComplete }: OnboardingFlowProps) {
   const currentQuestion = questions[placementAnswers.length];
 
   function toggleTrack(trackId: string) {
+    if (trackId !== liveTrackId) {
+      return;
+    }
+
     setSelectedTrackIds((current) => {
       if (current.includes(trackId)) {
         return current.length === 1

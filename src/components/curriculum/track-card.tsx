@@ -13,6 +13,7 @@ import {
   FileCode,
   FileCode2,
   GitBranch,
+  Lock,
   LucideIcon,
   Network,
   Router,
@@ -47,23 +48,26 @@ const icons: Record<string, LucideIcon> = {
 
 type TrackCardProps = {
   track: Track;
+  locked?: boolean;
   selected?: boolean;
   onClick?: () => void;
 };
 
-export function TrackCard({ track, selected, onClick }: TrackCardProps) {
+export function TrackCard({ track, locked = false, selected, onClick }: TrackCardProps) {
   const Icon = icons[track.icon] ?? FileCode;
 
   return (
     <button
       aria-pressed={selected}
+      disabled={locked}
       className={cn(
         "touch-target no-select-interactive group flex min-h-[64px] w-full items-center gap-4 rounded-duo border-2 bg-duo-snow px-4 py-3 text-left transition",
         "focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25",
-        "active:translate-y-1",
+        !locked && "active:translate-y-1",
         selected
           ? "border-duo-green bg-[#F1FFE8]"
           : "border-duo-swan hover:border-duo-green",
+        locked && "cursor-not-allowed opacity-65 hover:border-duo-swan",
       )}
       onClick={onClick}
       type="button"
@@ -78,13 +82,20 @@ export function TrackCard({ track, selected, onClick }: TrackCardProps) {
         <Icon className="h-7 w-7" />
       </span>
       <span className="min-w-0 flex-1">
-        <span
-          className={cn(
-            "block truncate text-lg font-black",
-            selected ? "text-duo-green-dark" : "text-duo-eel",
+        <span className="flex min-w-0 items-center gap-2">
+          <span
+            className={cn(
+              "block truncate text-lg font-black",
+              selected ? "text-duo-green-dark" : "text-duo-eel",
+            )}
+          >
+            {track.title}
+          </span>
+          {locked && (
+            <span className="shrink-0 rounded-full bg-duo-grey-panel px-2 py-0.5 text-[10px] font-black uppercase text-duo-grey-disabled">
+              Coming soon
+            </span>
           )}
-        >
-          {track.title}
         </span>
         <span className="block truncate text-xs font-black uppercase text-duo-grey-disabled">
           {track.sections.length} sections -{" "}
@@ -97,10 +108,12 @@ export function TrackCard({ track, selected, onClick }: TrackCardProps) {
           "grid h-7 w-7 shrink-0 place-items-center rounded-full border-2",
           selected
             ? "border-duo-green bg-duo-green text-white"
-            : "border-duo-swan bg-duo-grey-panel text-transparent",
+            : locked
+              ? "border-duo-swan bg-duo-grey-panel text-duo-grey-disabled"
+              : "border-duo-swan bg-duo-grey-panel text-transparent",
         )}
       >
-        <span className="h-2.5 w-2.5 rounded-full bg-current" />
+        {locked ? <Lock className="h-4 w-4 stroke-[3]" /> : <span className="h-2.5 w-2.5 rounded-full bg-current" />}
       </span>
     </button>
   );

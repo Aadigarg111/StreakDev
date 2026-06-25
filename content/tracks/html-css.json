@@ -890,7 +890,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Display modes helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Display modes helps you control element boxes, flow, spacing, and visual layering. Example: `display: block;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: changing random CSS without checking the box model and computed styles."
         },
         {
           "id": "html-css-section-3-unit-2-box-sizing",
@@ -931,7 +931,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Box sizing helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Box sizing helps you control element boxes, flow, spacing, and visual layering. Example: `box-sizing: border-box;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: changing random CSS without checking the box model and computed styles."
         },
         {
           "id": "html-css-section-3-unit-3-margin-and-padding",
@@ -972,7 +972,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Margin and padding helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Margin and padding helps you control element boxes, flow, spacing, and visual layering. Example: `padding: 1rem; margin-bottom: 2rem;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: changing random CSS without checking the box model and computed styles."
         },
         {
           "id": "html-css-section-3-unit-4-border-and-outline",
@@ -1013,7 +1013,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Border and outline helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Border and outline helps you control element boxes, flow, spacing, and visual layering. Example: `border: 1px solid #222; outline: 2px solid #2563eb;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: changing random CSS without checking the box model and computed styles."
         },
         {
           "id": "html-css-section-3-unit-5-margin-collapse",
@@ -1054,7 +1054,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Margin collapse helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Margin collapse helps you control element boxes, flow, spacing, and visual layering. Example: `h2 { margin-bottom: 1rem; } p { margin-top: 1rem; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: changing random CSS without checking the box model and computed styles."
         },
         {
           "id": "html-css-section-3-unit-6-positioning-basics",
@@ -1095,7 +1095,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Positioning basics helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Positioning basics helps you control element boxes, flow, spacing, and visual layering. Example: `position: relative; top: 0.5rem;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: changing random CSS without checking the box model and computed styles."
         },
         {
           "id": "html-css-section-3-unit-7-z-index-stacking",
@@ -1136,7 +1136,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Z-index stacking helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Z-index stacking helps you control element boxes, flow, spacing, and visual layering. Example: `position: relative; z-index: 10;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: changing random CSS without checking the box model and computed styles."
         },
         {
           "id": "html-css-section-3-unit-8-overflow-control",
@@ -1177,7 +1177,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Overflow control helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Overflow control helps you control element boxes, flow, spacing, and visual layering. Example: `overflow: auto;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: changing random CSS without checking the box model and computed styles."
         },
         {
           "id": "html-css-section-3-unit-9-intrinsic-sizing",
@@ -1218,7 +1218,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Intrinsic sizing helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Intrinsic sizing helps you control element boxes, flow, spacing, and visual layering. Example: `width: fit-content;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: changing random CSS without checking the box model and computed styles."
         },
         {
           "id": "html-css-section-3-unit-10-layout-debugging",
@@ -1259,7 +1259,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Layout debugging helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Layout debugging helps you control element boxes, flow, spacing, and visual layering. Example: `* { outline: 1px solid red; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: changing random CSS without checking the box model and computed styles."
         }
       ]
     },
@@ -1309,7 +1309,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Flex containers helps you structure and style web content. Example: `display: flex`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Flex containers helps you arrange items along one flexible axis. Example: `display: flex;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: forgetting that only direct children of a flex container become flex items."
         },
         {
           "id": "html-css-section-4-unit-2-main-and-cross-axes",
@@ -1350,7 +1350,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Main and cross axes helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Main and cross axes helps you arrange items along one flexible axis. Example: `flex-direction: row;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: forgetting that only direct children of a flex container become flex items."
         },
         {
           "id": "html-css-section-4-unit-3-justify-content",
@@ -1391,7 +1391,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Justify content helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Justify content helps you arrange items along one flexible axis. Example: `justify-content: space-between;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: forgetting that only direct children of a flex container become flex items."
         },
         {
           "id": "html-css-section-4-unit-4-align-items",
@@ -1432,7 +1432,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Align items helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Align items helps you arrange items along one flexible axis. Example: `align-items: center;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: forgetting that only direct children of a flex container become flex items."
         },
         {
           "id": "html-css-section-4-unit-5-flex-wrapping",
@@ -1473,7 +1473,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Flex wrapping helps you structure and style web content. Example: `display: flex`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Flex wrapping helps you arrange items along one flexible axis. Example: `flex-wrap: wrap;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: forgetting that only direct children of a flex container become flex items."
         },
         {
           "id": "html-css-section-4-unit-6-flex-grow",
@@ -1514,7 +1514,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Flex grow helps you structure and style web content. Example: `display: flex`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Flex grow helps you arrange items along one flexible axis. Example: `flex-grow: 1;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: forgetting that only direct children of a flex container become flex items."
         },
         {
           "id": "html-css-section-4-unit-7-flex-shrink",
@@ -1555,7 +1555,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Flex shrink helps you structure and style web content. Example: `display: flex`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Flex shrink helps you arrange items along one flexible axis. Example: `flex-shrink: 0;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: forgetting that only direct children of a flex container become flex items."
         },
         {
           "id": "html-css-section-4-unit-8-flex-basis",
@@ -1596,7 +1596,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Flex basis helps you structure and style web content. Example: `display: flex`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Flex basis helps you arrange items along one flexible axis. Example: `flex-basis: 12rem;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: forgetting that only direct children of a flex container become flex items."
         },
         {
           "id": "html-css-section-4-unit-9-ordering-flex-items",
@@ -1637,7 +1637,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Ordering flex items helps you structure and style web content. Example: `display: flex`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Ordering flex items helps you arrange items along one flexible axis. Example: `order: 2;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: forgetting that only direct children of a flex container become flex items."
         },
         {
           "id": "html-css-section-4-unit-10-common-flex-patterns",
@@ -1678,7 +1678,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Common flex patterns helps you structure and style web content. Example: `display: flex`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Common flex patterns helps you arrange items along one flexible axis. Example: `display: flex; gap: 1rem; align-items: center;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: forgetting that only direct children of a flex container become flex items."
         }
       ]
     },
@@ -1728,7 +1728,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Grid containers helps you structure and style web content. Example: `display: grid`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Grid containers helps you build two-dimensional row and column layouts. Example: `display: grid;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: using fixed tracks that break at smaller widths."
         },
         {
           "id": "html-css-section-5-unit-2-rows-and-columns",
@@ -1769,7 +1769,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Rows and columns helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Rows and columns helps you build two-dimensional row and column layouts. Example: `grid-template-columns: 1fr 2fr;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: using fixed tracks that break at smaller widths."
         },
         {
           "id": "html-css-section-5-unit-3-grid-gaps",
@@ -1810,7 +1810,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Grid gaps helps you structure and style web content. Example: `display: grid`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Grid gaps helps you build two-dimensional row and column layouts. Example: `gap: 1rem;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: using fixed tracks that break at smaller widths."
         },
         {
           "id": "html-css-section-5-unit-4-named-grid-areas",
@@ -1851,7 +1851,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Named grid areas helps you structure and style web content. Example: `display: grid`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Named grid areas helps you build two-dimensional row and column layouts. Example: `grid-template-areas: \"header header\" \"sidebar main\";`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: using fixed tracks that break at smaller widths."
         },
         {
           "id": "html-css-section-5-unit-5-manual-placement",
@@ -1892,7 +1892,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Manual placement helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Manual placement helps you build two-dimensional row and column layouts. Example: `grid-column: 1 / 3;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: using fixed tracks that break at smaller widths."
         },
         {
           "id": "html-css-section-5-unit-6-implicit-grids",
@@ -1933,7 +1933,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Implicit grids helps you structure and style web content. Example: `display: grid`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Implicit grids helps you build two-dimensional row and column layouts. Example: `grid-auto-rows: 8rem;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: using fixed tracks that break at smaller widths."
         },
         {
           "id": "html-css-section-5-unit-7-auto-fit-and-minmax",
@@ -1974,7 +1974,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Auto-fit and minmax helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Auto-fit and minmax helps you build two-dimensional row and column layouts. Example: `grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: using fixed tracks that break at smaller widths."
         },
         {
           "id": "html-css-section-5-unit-8-grid-alignment",
@@ -2015,7 +2015,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Grid alignment helps you structure and style web content. Example: `display: grid`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Grid alignment helps you build two-dimensional row and column layouts. Example: `place-items: center;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: using fixed tracks that break at smaller widths."
         },
         {
           "id": "html-css-section-5-unit-9-responsive-grids",
@@ -2056,7 +2056,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Responsive grids helps you structure and style web content. Example: `display: grid`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Responsive grids helps you build two-dimensional row and column layouts. Example: `@media (min-width: 48rem) { .grid { grid-template-columns: repeat(3, 1fr); } }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: using fixed tracks that break at smaller widths."
         },
         {
           "id": "html-css-section-5-unit-10-dashboard-layouts",
@@ -2097,7 +2097,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Dashboard layouts helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Dashboard layouts helps you build two-dimensional row and column layouts. Example: `grid-template-columns: 16rem minmax(0, 1fr);`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: using fixed tracks that break at smaller widths."
         }
       ]
     },
@@ -2147,7 +2147,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Mobile-first CSS helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Mobile-first CSS helps you make interfaces adapt across devices, inputs, and user preferences. Example: `@media (min-width: 768px) { .cards { grid-template-columns: repeat(3, 1fr); } }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: testing only a desktop viewport."
         },
         {
           "id": "html-css-section-6-unit-2-media-query-syntax",
@@ -2188,7 +2188,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Media query syntax helps you structure and style web content. Example: `@media (min-width: 768px)`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Media query syntax helps you make interfaces adapt across devices, inputs, and user preferences. Example: `@media (max-width: 600px) { nav { display: none; } }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: testing only a desktop viewport."
         },
         {
           "id": "html-css-section-6-unit-3-fluid-widths",
@@ -2229,7 +2229,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Fluid widths helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Fluid widths helps you make interfaces adapt across devices, inputs, and user preferences. Example: `width: min(100%, 64rem);`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: testing only a desktop viewport."
         },
         {
           "id": "html-css-section-6-unit-4-responsive-images",
@@ -2270,7 +2270,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Responsive images helps you structure and style web content. Example: `<img src=\"cat.jpg\" alt=\"Cat\">`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Responsive images helps you make interfaces adapt across devices, inputs, and user preferences. Example: `img { max-width: 100%; height: auto; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: testing only a desktop viewport."
         },
         {
           "id": "html-css-section-6-unit-5-fluid-typography",
@@ -2311,7 +2311,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Fluid typography helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Fluid typography helps you make interfaces adapt across devices, inputs, and user preferences. Example: `font-size: clamp(1rem, 2vw, 1.5rem);`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: testing only a desktop viewport."
         },
         {
           "id": "html-css-section-6-unit-6-viewport-units",
@@ -2352,7 +2352,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Viewport units helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Viewport units helps you make interfaces adapt across devices, inputs, and user preferences. Example: `min-height: 100svh;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: testing only a desktop viewport."
         },
         {
           "id": "html-css-section-6-unit-7-container-query-basics",
@@ -2393,7 +2393,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Container query basics helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Container query basics helps you make interfaces adapt across devices, inputs, and user preferences. Example: `@container (min-width: 30rem) { .card { display: grid; } }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: testing only a desktop viewport."
         },
         {
           "id": "html-css-section-6-unit-8-touch-targets",
@@ -2434,7 +2434,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Touch targets helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Touch targets helps you make interfaces adapt across devices, inputs, and user preferences. Example: `min-height: 44px; padding: 0.75rem 1rem;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: testing only a desktop viewport."
         },
         {
           "id": "html-css-section-6-unit-9-preference-media-queries",
@@ -2475,7 +2475,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Preference media queries helps you structure and style web content. Example: `@media (min-width: 768px)`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Preference media queries helps you make interfaces adapt across devices, inputs, and user preferences. Example: `@media (prefers-reduced-motion: reduce) { * { animation: none; } }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: testing only a desktop viewport."
         },
         {
           "id": "html-css-section-6-unit-10-responsive-qa",
@@ -2516,7 +2516,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Responsive QA helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Responsive QA helps you make interfaces adapt across devices, inputs, and user preferences. Example: `Test 320px, 768px, 1024px, and 1280px widths.`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: testing only a desktop viewport."
         }
       ]
     },
@@ -2566,7 +2566,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Transitions helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Transitions helps you add purposeful motion and state feedback. Example: `transition: background-color 160ms ease;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: animating layout-heavy properties or ignoring reduced motion."
         },
         {
           "id": "html-css-section-7-unit-2-transforms",
@@ -2607,7 +2607,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Transforms helps you structure and style web content. Example: `<label for=\"email\">Email</label>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Transforms helps you add purposeful motion and state feedback. Example: `transform: translateY(-4px);`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: animating layout-heavy properties or ignoring reduced motion."
         },
         {
           "id": "html-css-section-7-unit-3-keyframes",
@@ -2648,7 +2648,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Keyframes helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Keyframes helps you add purposeful motion and state feedback. Example: `@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: animating layout-heavy properties or ignoring reduced motion."
         },
         {
           "id": "html-css-section-7-unit-4-timing-functions",
@@ -2689,7 +2689,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Timing functions helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Timing functions helps you add purposeful motion and state feedback. Example: `transition-timing-function: ease-out;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: animating layout-heavy properties or ignoring reduced motion."
         },
         {
           "id": "html-css-section-7-unit-5-delay-and-iteration",
@@ -2730,7 +2730,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Delay and iteration helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Delay and iteration helps you add purposeful motion and state feedback. Example: `animation: pulse 1s ease-in-out 2;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: animating layout-heavy properties or ignoring reduced motion."
         },
         {
           "id": "html-css-section-7-unit-6-performance-friendly-motion",
@@ -2771,7 +2771,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Performance-friendly motion helps you structure and style web content. Example: `<label for=\"email\">Email</label>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Performance-friendly motion helps you add purposeful motion and state feedback. Example: `transform: scale(1.03); opacity: 0.9;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: animating layout-heavy properties or ignoring reduced motion."
         },
         {
           "id": "html-css-section-7-unit-7-hover-and-active-states",
@@ -2812,7 +2812,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Hover and active states helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Hover and active states helps you add purposeful motion and state feedback. Example: `button:hover { background: #14532d; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: animating layout-heavy properties or ignoring reduced motion."
         },
         {
           "id": "html-css-section-7-unit-8-loading-skeletons",
@@ -2853,7 +2853,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Loading skeletons helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Loading skeletons helps you add purposeful motion and state feedback. Example: `.skeleton { background: linear-gradient(90deg, #eee, #f8f8f8, #eee); }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: animating layout-heavy properties or ignoring reduced motion."
         },
         {
           "id": "html-css-section-7-unit-9-reduced-motion",
@@ -2894,7 +2894,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Reduced motion helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Reduced motion helps you add purposeful motion and state feedback. Example: `@media (prefers-reduced-motion: reduce) { .panel { transition: none; } }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: animating layout-heavy properties or ignoring reduced motion."
         },
         {
           "id": "html-css-section-7-unit-10-motion-polish",
@@ -2935,7 +2935,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Motion polish helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Motion polish helps you add purposeful motion and state feedback. Example: `transition: transform 140ms ease-out, opacity 140ms ease-out;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: animating layout-heavy properties or ignoring reduced motion."
         }
       ]
     },
@@ -2985,7 +2985,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Labels and inputs helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Labels and inputs helps you make forms and interfaces usable with assistive technology and keyboard input. Example: `<label for=\"email\">Email</label><input id=\"email\" name=\"email\" type=\"email\">`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: styling controls visually while breaking labels, focus, or semantics."
         },
         {
           "id": "html-css-section-8-unit-2-buttons-and-controls",
@@ -3026,7 +3026,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Buttons and controls helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Buttons and controls helps you make forms and interfaces usable with assistive technology and keyboard input. Example: `<button type=\"submit\">Save</button>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: styling controls visually while breaking labels, focus, or semantics."
         },
         {
           "id": "html-css-section-8-unit-3-form-grouping",
@@ -3067,7 +3067,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Form grouping helps you structure and style web content. Example: `<label for=\"email\">Email</label>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Form grouping helps you make forms and interfaces usable with assistive technology and keyboard input. Example: `<fieldset><legend>Contact method</legend></fieldset>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: styling controls visually while breaking labels, focus, or semantics."
         },
         {
           "id": "html-css-section-8-unit-4-validation-messages",
@@ -3108,7 +3108,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Validation messages helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Validation messages helps you make forms and interfaces usable with assistive technology and keyboard input. Example: `<p id=\"email-error\">Enter a valid email address.</p>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: styling controls visually while breaking labels, focus, or semantics."
         },
         {
           "id": "html-css-section-8-unit-5-keyboard-navigation",
@@ -3149,7 +3149,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Keyboard navigation helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Keyboard navigation helps you make forms and interfaces usable with assistive technology and keyboard input. Example: `:focus-visible { outline: 2px solid #2563eb; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: styling controls visually while breaking labels, focus, or semantics."
         },
         {
           "id": "html-css-section-8-unit-6-focus-states",
@@ -3190,7 +3190,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Focus states helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Focus states helps you make forms and interfaces usable with assistive technology and keyboard input. Example: `a:focus-visible { outline: 3px solid currentColor; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: styling controls visually while breaking labels, focus, or semantics."
         },
         {
           "id": "html-css-section-8-unit-7-aria-basics",
@@ -3231,7 +3231,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "ARIA basics helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "ARIA basics helps you make forms and interfaces usable with assistive technology and keyboard input. Example: `<button aria-expanded=\"false\">Menu</button>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: styling controls visually while breaking labels, focus, or semantics."
         },
         {
           "id": "html-css-section-8-unit-8-color-contrast",
@@ -3272,7 +3272,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Color contrast helps you structure and style web content. Example: `color: #1cb0f6`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Color contrast helps you make forms and interfaces usable with assistive technology and keyboard input. Example: `color: #111827; background-color: #ffffff;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: styling controls visually while breaking labels, focus, or semantics."
         },
         {
           "id": "html-css-section-8-unit-9-screen-reader-text",
@@ -3313,7 +3313,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Screen reader text helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Screen reader text helps you make forms and interfaces usable with assistive technology and keyboard input. Example: `.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: styling controls visually while breaking labels, focus, or semantics."
         },
         {
           "id": "html-css-section-8-unit-10-accessible-form-flow",
@@ -3354,7 +3354,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Accessible form flow helps you structure and style web content. Example: `<label for=\"email\">Email</label>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Accessible form flow helps you make forms and interfaces usable with assistive technology and keyboard input. Example: `<form><label for=\"name\">Name</label><input id=\"name\" name=\"name\"></form>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: styling controls visually while breaking labels, focus, or semantics."
         }
       ]
     },
@@ -3404,7 +3404,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Class naming helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Class naming helps you keep styles organized, reusable, and consistent as the codebase grows. Example: `.card-title { font-weight: 700; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: hardcoding repeated values and writing broad selectors that leak."
         },
         {
           "id": "html-css-section-9-unit-2-component-css",
@@ -3445,7 +3445,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Component CSS helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Component CSS helps you keep styles organized, reusable, and consistent as the codebase grows. Example: `.alert { padding: 1rem; } .alert-title { font-weight: 700; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: hardcoding repeated values and writing broad selectors that leak."
         },
         {
           "id": "html-css-section-9-unit-3-utility-css",
@@ -3486,7 +3486,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Utility CSS helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Utility CSS helps you keep styles organized, reusable, and consistent as the codebase grows. Example: `.mt-4 { margin-top: 1rem; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: hardcoding repeated values and writing broad selectors that leak."
         },
         {
           "id": "html-css-section-9-unit-4-css-modules",
@@ -3527,7 +3527,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "CSS modules helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "CSS modules helps you keep styles organized, reusable, and consistent as the codebase grows. Example: `import styles from \"./Card.module.css\";`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: hardcoding repeated values and writing broad selectors that leak."
         },
         {
           "id": "html-css-section-9-unit-5-cascade-layers",
@@ -3568,7 +3568,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Cascade layers helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Cascade layers helps you keep styles organized, reusable, and consistent as the codebase grows. Example: `@layer reset, base, components, utilities;`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: hardcoding repeated values and writing broad selectors that leak."
         },
         {
           "id": "html-css-section-9-unit-6-design-tokens",
@@ -3609,7 +3609,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Design tokens helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Design tokens helps you keep styles organized, reusable, and consistent as the codebase grows. Example: `:root { --space-4: 1rem; --color-brand: #2563eb; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: hardcoding repeated values and writing broad selectors that leak."
         },
         {
           "id": "html-css-section-9-unit-7-theming",
@@ -3650,7 +3650,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Theming helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Theming helps you keep styles organized, reusable, and consistent as the codebase grows. Example: `[data-theme=\"dark\"] { --bg: #111827; --text: #f9fafb; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: hardcoding repeated values and writing broad selectors that leak."
         },
         {
           "id": "html-css-section-9-unit-8-dark-mode",
@@ -3691,7 +3691,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Dark mode helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Dark mode helps you keep styles organized, reusable, and consistent as the codebase grows. Example: `@media (prefers-color-scheme: dark) { :root { --bg: #111827; } }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: hardcoding repeated values and writing broad selectors that leak."
         },
         {
           "id": "html-css-section-9-unit-9-print-styles",
@@ -3732,7 +3732,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Print styles helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Print styles helps you keep styles organized, reusable, and consistent as the codebase grows. Example: `@media print { nav { display: none; } }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: hardcoding repeated values and writing broad selectors that leak."
         },
         {
           "id": "html-css-section-9-unit-10-style-quality-checks",
@@ -3773,7 +3773,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Style quality checks helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Style quality checks helps you keep styles organized, reusable, and consistent as the codebase grows. Example: `Run visual checks at several widths before merging CSS.`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: hardcoding repeated values and writing broad selectors that leak."
         }
       ]
     },
@@ -3823,7 +3823,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Landing page helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Landing page helps you combine HTML, CSS, accessibility, responsiveness, and QA into complete UI projects. Example: `<main><section class=\"hero\"><h1>Learn faster</h1></section></main>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: polishing visuals before structure, content, states, and responsive behavior work."
         },
         {
           "id": "html-css-section-10-unit-2-responsive-navigation",
@@ -3864,7 +3864,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Responsive navigation helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Responsive navigation helps you combine HTML, CSS, accessibility, responsiveness, and QA into complete UI projects. Example: `<button aria-expanded=\"false\" aria-controls=\"menu\">Menu</button>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: polishing visuals before structure, content, states, and responsive behavior work."
         },
         {
           "id": "html-css-section-10-unit-3-pricing-section",
@@ -3905,7 +3905,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Pricing section helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Pricing section helps you combine HTML, CSS, accessibility, responsiveness, and QA into complete UI projects. Example: `<section class=\"pricing\"><article class=\"plan\"></article></section>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: polishing visuals before structure, content, states, and responsive behavior work."
         },
         {
           "id": "html-css-section-10-unit-4-profile-card",
@@ -3946,7 +3946,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Profile card helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Profile card helps you combine HTML, CSS, accessibility, responsiveness, and QA into complete UI projects. Example: `<article class=\"profile-card\"><img alt=\"Aadi Garg\"></article>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: polishing visuals before structure, content, states, and responsive behavior work."
         },
         {
           "id": "html-css-section-10-unit-5-settings-form",
@@ -3987,7 +3987,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Settings form helps you structure and style web content. Example: `<label for=\"email\">Email</label>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Settings form helps you combine HTML, CSS, accessibility, responsiveness, and QA into complete UI projects. Example: `<form><label for=\"timezone\">Timezone</label><select id=\"timezone\"></select></form>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: polishing visuals before structure, content, states, and responsive behavior work."
         },
         {
           "id": "html-css-section-10-unit-6-accessible-modal",
@@ -4028,7 +4028,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Accessible modal helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Accessible modal helps you combine HTML, CSS, accessibility, responsiveness, and QA into complete UI projects. Example: `<div role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"title\"></div>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: polishing visuals before structure, content, states, and responsive behavior work."
         },
         {
           "id": "html-css-section-10-unit-7-animated-feedback",
@@ -4069,7 +4069,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Animated feedback helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Animated feedback helps you combine HTML, CSS, accessibility, responsiveness, and QA into complete UI projects. Example: `.saved { animation: fade-in 180ms ease-out; }`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: polishing visuals before structure, content, states, and responsive behavior work."
         },
         {
           "id": "html-css-section-10-unit-8-browser-testing",
@@ -4110,7 +4110,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Browser testing helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Browser testing helps you combine HTML, CSS, accessibility, responsiveness, and QA into complete UI projects. Example: `Check desktop, tablet, and mobile viewport screenshots.`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: polishing visuals before structure, content, states, and responsive behavior work."
         },
         {
           "id": "html-css-section-10-unit-9-performance-pass",
@@ -4151,7 +4151,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Performance pass helps you structure and style web content. Example: `<label for=\"email\">Email</label>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Performance pass helps you combine HTML, CSS, accessibility, responsiveness, and QA into complete UI projects. Example: `Use width and height on images to reserve space.`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: polishing visuals before structure, content, states, and responsive behavior work."
         },
         {
           "id": "html-css-section-10-unit-10-final-interface-project",
@@ -4192,7 +4192,7 @@
               "exerciseIds": []
             }
           ],
-          "learn": "Final interface project helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Final interface project helps you combine HTML, CSS, accessibility, responsiveness, and QA into complete UI projects. Example: `<main><section><h1>Project</h1></section></main>`. Use it with clear intent, then verify the result in the browser. Common beginner mistake: polishing visuals before structure, content, states, and responsive behavior work."
         }
       ]
     }

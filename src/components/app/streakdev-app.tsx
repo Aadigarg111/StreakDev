@@ -15,6 +15,8 @@ import { useUserProgressStore } from "@/store/user-progress";
 import type { LessonCompletionPayload, UserProgressState } from "@/store/user-progress";
 import type { Exercise, Lesson } from "../../../types/content";
 
+const liveTrackId = "html-css";
+
 type CompletionRewards = {
   completedQuests?: Array<{ id: string; description: string; gemsReward: number }>;
   newlyUnlockedAchievements?: Array<{ id: string; label: string; description: string }>;
@@ -129,8 +131,10 @@ export function StreakDevApp() {
     return <OnboardingFlow onComplete={completeOnboarding} />;
   }
 
-  const track = getTrack(currentTrackId);
-  const progress = trackProgress[currentTrackId] ?? {
+  const activeTrackId = currentTrackId === liveTrackId ? currentTrackId : liveTrackId;
+  const visibleEnrolledTrackIds = enrolledTrackIds.includes(liveTrackId) ? [liveTrackId] : [liveTrackId];
+  const track = getTrack(activeTrackId);
+  const progress = trackProgress[activeTrackId] ?? {
     currentSection: 1,
     currentUnit: 1,
     completedThroughSection: 0,
@@ -178,10 +182,14 @@ export function StreakDevApp() {
     <PathView
       completedUnitIds={completedUnitIds}
       dailyGoalXp={dailyGoalXp}
-      enrolledTrackIds={enrolledTrackIds}
+      enrolledTrackIds={visibleEnrolledTrackIds}
       onReset={resetOnboarding}
       onStartLesson={startLesson}
-      onSwitchTrack={switchTrack}
+      onSwitchTrack={(trackId) => {
+        if (trackId === liveTrackId) {
+          switchTrack(trackId);
+        }
+      }}
       progress={progress}
       stats={{
         gems,
