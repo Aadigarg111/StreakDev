@@ -15,7 +15,7 @@ import {
   isLessonAnswerCorrect,
   type LessonAnswer,
 } from "@/lib/lesson-checking";
-import { enterImmersiveMode, exitImmersiveMode } from "@/lib/immersive-mode";
+import { exitImmersiveMode } from "@/lib/immersive-mode";
 
 type LessonSessionProps = {
   trackId: string;
@@ -117,25 +117,40 @@ function ChoiceGrid({
   selected: string;
   onSelect: (option: string) => void;
 }) {
+  const reducedMotion = useReducedMotion();
+
   return (
     <div className="mt-5 grid gap-3 sm:grid-cols-2">
-      {options.map((option) => (
-        <button
+      {options.map((option, index) => (
+        <motion.button
           className={cn(
-            "touch-target no-select-interactive min-h-16 rounded-duo border-2 bg-duo-snow p-4 text-left font-black text-duo-eel transition focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25",
+            "touch-target no-select-interactive grid min-h-16 grid-cols-[2.25rem_minmax(0,1fr)] items-center gap-3 rounded-duo border-2 bg-duo-snow p-4 text-left font-black text-duo-eel transition focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25",
             selected === option
-              ? "border-duo-green bg-[#F1FFE8]"
-              : "border-duo-swan hover:border-duo-green",
+              ? "border-duo-green bg-[#F1FFE8] shadow-[0_8px_18px_rgb(88_204_2_/_0.16),inset_0_-4px_0_rgb(88_204_2_/_0.16)]"
+              : "border-duo-swan shadow-[inset_0_-4px_0_rgb(229_229_229_/_0.8)] hover:border-duo-green",
           )}
-          key={option}
+          key={`${option}-${index}`}
           onClick={() => {
             playFeedback("tap");
             onSelect(option);
           }}
+          transition={{ type: "spring", stiffness: 420, damping: 24 }}
           type="button"
+          whileHover={reducedMotion ? undefined : { y: -2 }}
+          whileTap={reducedMotion ? undefined : { y: 2, scale: 0.99 }}
         >
-          {option}
-        </button>
+          <span
+            className={cn(
+              "grid h-9 w-9 place-items-center rounded-full border-2 text-sm",
+              selected === option
+                ? "border-duo-green bg-duo-green text-white"
+                : "border-duo-swan bg-duo-grey-panel text-duo-grey-disabled",
+            )}
+          >
+            {String.fromCharCode(65 + index)}
+          </span>
+          <span className="min-w-0 break-words leading-6">{option}</span>
+        </motion.button>
       ))}
     </div>
   );
@@ -576,8 +591,6 @@ export function LessonSession({
   }, [exercise]);
 
   useEffect(() => {
-    void enterImmersiveMode();
-
     return () => {
       void exitImmersiveMode();
     };
@@ -802,7 +815,7 @@ export function LessonSession({
             <div className="h-4 overflow-hidden rounded-full bg-duo-swan">
               <motion.div
                 animate={{ width: `${progressPercent}%` }}
-                className="h-full rounded-full bg-duo-green"
+                className="duo-progress-shine h-full rounded-full bg-duo-green"
                 transition={{ type: "spring", stiffness: 300, damping: 24 }}
               />
             </div>
@@ -829,14 +842,20 @@ export function LessonSession({
               className="h-20 w-20 shrink-0 xs:h-24 xs:w-24"
               pose={feedback?.correct ? "celebrating" : feedback ? "sad" : "idle"}
             />
-            <div className="min-w-0">
+            <motion.div
+              animate={{ opacity: 1, y: 0 }}
+              className="min-w-0 rounded-duo-lg border-2 border-duo-swan bg-duo-snow p-4 shadow-[inset_0_-4px_0_rgb(229_229_229_/_0.8)] sm:p-5"
+              initial={{ opacity: 0, y: 10 }}
+              key={exercise.id}
+              transition={{ type: "spring", stiffness: 260, damping: 24 }}
+            >
               <p className="text-sm font-black text-duo-green">
                 {unitTitle} - Question {currentIndex + 1} of {exercises.length}
               </p>
               <h1 className="mt-1 text-[clamp(1.45rem,6vw,2.5rem)] font-black tracking-normal">
                 {exercise.prompt}
               </h1>
-            </div>
+            </motion.div>
           </div>
 
           {exercise.codeSnippet && exercise.type !== "spot_bug" && (

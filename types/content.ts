@@ -34,6 +34,7 @@ export type Unit = {
   sectionId: string;
   order: number;
   title: string;
+  learn?: string;
   lessons: Lesson[];
 };
 

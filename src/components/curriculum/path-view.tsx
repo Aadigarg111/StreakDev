@@ -26,12 +26,13 @@ import {
   Trophy,
   UserCircle,
   Users,
+  X,
   Zap,
 } from "lucide-react";
 import { motion, useReducedMotion } from "framer-motion";
 import { useEffect, useState } from "react";
 import type { ReactNode } from "react";
-import type { Track } from "../../../types/content";
+import type { Track, Unit } from "../../../types/content";
 import { getVisibleSections, tracks } from "@/lib/curriculum";
 import { cn } from "@/lib/cn";
 import { AuthStatus } from "@/components/auth/auth-status";
@@ -583,6 +584,64 @@ function EmptyState({ icon: Icon, title }: { icon: typeof Trophy; title: string 
   );
 }
 
+function UnitGuideModal({
+  onClose,
+  sectionTitle,
+  unit,
+}: {
+  onClose: () => void;
+  sectionTitle: string;
+  unit: Unit;
+}) {
+  const paragraphs = (unit.learn ?? "This unit is ready for practice.")
+    .split(/\n{2,}/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean);
+
+  return (
+    <div className="fixed inset-0 z-50 grid place-items-center bg-duo-eel/35 p-4 backdrop-blur-sm">
+      <motion.section
+        animate={{ opacity: 1, scale: 1, y: 0 }}
+        aria-modal="true"
+        aria-labelledby="unit-guide-title"
+        className="max-h-[min(760px,calc(100dvh-2rem))] w-full max-w-2xl overflow-hidden rounded-duo-lg border-2 border-duo-swan bg-duo-snow shadow-[0_24px_80px_rgb(0_0_0_/_0.22)]"
+        initial={{ opacity: 0, scale: 0.96, y: 16 }}
+        role="dialog"
+        transition={{ type: "spring", stiffness: 260, damping: 24 }}
+      >
+        <div className="flex items-start justify-between gap-4 border-b-2 border-duo-swan bg-duo-grey-panel p-5 sm:p-6">
+          <div className="min-w-0">
+            <p className="text-sm font-black uppercase text-duo-grey-disabled">
+              {sectionTitle} - Unit {unit.order}
+            </p>
+            <h2 id="unit-guide-title" className="mt-1 text-2xl font-black text-duo-eel sm:text-3xl">
+              {unit.title}
+            </h2>
+          </div>
+          <button
+            aria-label="Close guidebook"
+            className="grid h-11 w-11 shrink-0 place-items-center rounded-full border-2 border-duo-swan bg-duo-snow text-duo-grey-text transition hover:border-duo-blue focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25 active:translate-y-1"
+            onClick={onClose}
+            type="button"
+          >
+            <X className="h-5 w-5 stroke-[3]" />
+          </button>
+        </div>
+        <div className="max-h-[calc(min(760px,100dvh-2rem)-126px)] overflow-y-auto p-5 sm:p-6">
+          <div className="rounded-duo border-2 border-duo-swan bg-duo-snow p-5 shadow-[inset_0_-4px_0_rgb(229_229_229_/_0.75)]">
+            <p className="mb-4 text-sm font-black uppercase text-duo-green">Guidebook</p>
+            <div className="space-y-4 text-base font-bold leading-8 text-duo-grey-text">
+              {paragraphs.map((paragraph) => (
+                <p key={paragraph}>{paragraph}</p>
+              ))}
+            </div>
+          </div>
+        </div>
+      </motion.section>
+    </div>
+  );
+}
+
 export function PathView({
   track,
   enrolledTrackIds,
@@ -596,6 +655,7 @@ export function PathView({
 }: PathViewProps) {
   const reducedMotion = useReducedMotion();
   const [activeView, setActiveView] = useState<ActiveView>("learn");
+  const [guideOpen, setGuideOpen] = useState(false);
   const visibleSections = getVisibleSections(track, progress.currentSection);
   const enrolledTracks = tracks.filter((item) => enrolledTrackIds.includes(item.id));
   const activeSection = visibleSections[0];
@@ -717,7 +777,8 @@ export function PathView({
                 <h1 className="text-2xl font-black tracking-normal">{activeUnit?.title ?? track.title}</h1>
               </div>
               <button
-                className="flex h-16 items-center gap-3 rounded-duo border-2 border-black/10 bg-white/10 px-5 text-lg font-black uppercase shadow-[inset_0_-4px_0_rgb(0_0_0_/_0.12)]"
+                className="flex h-16 items-center gap-3 rounded-duo border-2 border-black/10 bg-white/10 px-5 text-lg font-black uppercase shadow-[inset_0_-4px_0_rgb(0_0_0_/_0.12)] transition hover:bg-white/20 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-white/30 active:translate-y-1"
+                onClick={() => setGuideOpen(true)}
                 type="button"
               >
                 <NotebookTabs className="h-8 w-8 stroke-[3]" />
@@ -771,20 +832,34 @@ export function PathView({
                             repeatType: "mirror",
                           }}
                         >
-                          <button
+                          <motion.button
                             aria-label={`${isDone ? "Completed" : isActive ? "Start" : "Locked"} Unit ${unit.order}: ${unit.title}`}
                             className={cn(
                               "relative flex h-[76px] w-[76px] items-center justify-center rounded-full border-b-[8px] text-white transition focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25 xs:h-24 xs:w-24",
-                              isDone && !isSkippedByPlacement && "border-[#00a97f] bg-[#06cfa3]",
+                              isDone && !isSkippedByPlacement && "border-[#00a97f] bg-[#06cfa3] shadow-[0_10px_20px_rgb(6_207_163_/_0.18)]",
                               isSkippedByPlacement &&
                                 "border-duo-grey-disabled bg-duo-grey-border text-white",
-                              isActive && "border-[#009f78] bg-[#06cfa3] shadow-[0_0_0_10px_rgb(28_176_246_/_0.14)]",
+                              isActive && "border-[#009f78] bg-[#06cfa3] shadow-[0_0_0_10px_rgb(28_176_246_/_0.14),0_18px_28px_rgb(6_207_163_/_0.26)]",
                               isLocked && "border-duo-grey-disabled bg-duo-grey-border text-duo-grey-disabled",
                             )}
                             disabled={!isActive}
                             onClick={isActive ? onStartLesson : undefined}
+                            transition={{ type: "spring", stiffness: 420, damping: 18 }}
                             type="button"
+                            whileHover={isActive && !reducedMotion ? { y: -4, scale: 1.03 } : undefined}
+                            whileTap={isActive && !reducedMotion ? { y: 3, scale: 0.96 } : undefined}
                           >
+                            {isActive && !reducedMotion && (
+                              <motion.span
+                                animate={{ opacity: [0.4, 0.08], scale: [1, 1.28] }}
+                                className="pointer-events-none absolute -inset-3 rounded-full border-4 border-duo-blue/30"
+                                transition={{
+                                  duration: 1.7,
+                                  repeat: Infinity,
+                                  repeatType: "loop",
+                                }}
+                              />
+                            )}
                             {isDone ? (
                               <Check className="h-11 w-11 stroke-[4]" />
                             ) : isActive ? (
@@ -792,11 +867,15 @@ export function PathView({
                             ) : (
                               <Lock className="h-9 w-9" />
                             )}
-                          </button>
+                          </motion.button>
                           {isActive && (
-                            <span className="relative -mt-1 rounded-duo border-2 border-duo-swan bg-duo-grey-bg px-5 py-2 text-sm font-black text-[#06cfa3] shadow-sm">
+                            <motion.span
+                              animate={reducedMotion ? undefined : { y: [0, -2, 0] }}
+                              className="relative -mt-1 rounded-duo border-2 border-duo-swan bg-duo-grey-bg px-5 py-2 text-sm font-black text-[#06cfa3] shadow-sm"
+                              transition={{ duration: 1.4, repeat: Infinity }}
+                            >
                               START
-                            </span>
+                            </motion.span>
                           )}
                           <p className="mt-2 text-center text-sm font-black leading-5 text-duo-grey-disabled">
                             Unit {unit.order}: {unit.title}
@@ -904,6 +983,13 @@ export function PathView({
           <AuthStatus />
         </aside>
       </div>
+      {guideOpen && activeUnit && (
+        <UnitGuideModal
+          onClose={() => setGuideOpen(false)}
+          sectionTitle={activeSection?.title ?? track.title}
+          unit={activeUnit}
+        />
+      )}
       <nav
         aria-label="Primary"
         className="fixed inset-x-0 bottom-0 z-30 border-t-2 border-duo-swan bg-duo-snow/95 px-2 pb-safe pt-2 backdrop-blur lg:hidden"
