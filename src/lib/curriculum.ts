@@ -18,9 +18,26 @@ import systemDesignTrack from "../../content/tracks/system-design.json";
 import typescriptTrack from "../../content/tracks/typescript.json";
 import placementFallback from "../../content/exercises/placement-fallback.json";
 import placementQuestions from "../../content/exercises/placement.json";
+import bigOExercises from "../../content/exercises/big-o.json";
+import cExercises from "../../content/exercises/c.json";
+import cppExercises from "../../content/exercises/cpp.json";
+import dbmsExercises from "../../content/exercises/dbms.json";
+import dsaExercises from "../../content/exercises/dsa.json";
+import gitGithubExercises from "../../content/exercises/git-github.json";
+import htmlCssExercises from "../../content/exercises/html-css.json";
+import javaExercises from "../../content/exercises/java.json";
+import javascriptExercises from "../../content/exercises/javascript.json";
 import lessonJavaScriptFunctions from "../../content/exercises/lesson-javascript-functions.json";
+import networksExercises from "../../content/exercises/networks.json";
+import nodeBackendExercises from "../../content/exercises/node-backend.json";
+import oodExercises from "../../content/exercises/ood.json";
+import operatingSystemsExercises from "../../content/exercises/operating-systems.json";
+import pythonExercises from "../../content/exercises/python.json";
+import reactExercises from "../../content/exercises/react.json";
 import sampleExercises from "../../content/exercises/sample.json";
 import sqlExercises from "../../content/exercises/sql.json";
+import systemDesignExercises from "../../content/exercises/system-design.json";
+import typescriptExercises from "../../content/exercises/typescript.json";
 import type {
   Exercise,
   Lesson,
@@ -68,9 +85,26 @@ export const tracksById = Object.fromEntries(
 ) as Record<string, Track>;
 
 export const exerciseBank = [
+  ...(htmlCssExercises as Exercise[]),
+  ...(javascriptExercises as Exercise[]),
+  ...(typescriptExercises as Exercise[]),
+  ...(reactExercises as Exercise[]),
+  ...(nodeBackendExercises as Exercise[]),
+  ...(gitGithubExercises as Exercise[]),
+  ...(pythonExercises as Exercise[]),
+  ...(cExercises as Exercise[]),
+  ...(cppExercises as Exercise[]),
+  ...(javaExercises as Exercise[]),
+  ...(sqlExercises as Exercise[]),
+  ...(dsaExercises as Exercise[]),
+  ...(bigOExercises as Exercise[]),
+  ...(operatingSystemsExercises as Exercise[]),
+  ...(networksExercises as Exercise[]),
+  ...(dbmsExercises as Exercise[]),
+  ...(oodExercises as Exercise[]),
+  ...(systemDesignExercises as Exercise[]),
   ...(sampleExercises as Exercise[]),
   ...(lessonJavaScriptFunctions as Exercise[]),
-  ...(sqlExercises as Exercise[]),
 ] as Exercise[];
 
 export const exercisesById = Object.fromEntries(

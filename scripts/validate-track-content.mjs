@@ -152,8 +152,8 @@ for (const section of track.sections ?? []) {
     const lesson = unit.lessons?.[0];
     const ids = lesson?.exerciseIds ?? [];
 
-    if (ids.length !== 8) {
-      failures.push(`${unit.id}: first lesson should reference exactly 8 exercises`);
+    if (ids.length !== 10) {
+      failures.push(`${unit.id}: first lesson should reference exactly 10 exercises`);
     }
 
     for (const id of ids) {

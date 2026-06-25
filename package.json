@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "curriculum:generate": "node scripts/generate-curriculum.mjs",
+    "curriculum:validate": "powershell -NoProfile -Command \"$tracks = @('html-css','javascript','typescript','react','node-backend','git-github','python','c','cpp','java','sql','dsa','big-o','operating-systems','networks','dbms','ood','system-design'); foreach ($track in $tracks) { node scripts/validate-track-content.mjs $track }\""
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",

@@ -25,7 +25,16 @@
               "title": "Learn Why TypeScript",
               "order": 1,
               "exerciseIds": [
-                "typescript-s1-u1-sample"
+                "typescript-s1-u1-q1",
+                "typescript-s1-u1-q2",
+                "typescript-s1-u1-q3",
+                "typescript-s1-u1-q4",
+                "typescript-s1-u1-q5",
+                "typescript-s1-u1-q6",
+                "typescript-s1-u1-q7",
+                "typescript-s1-u1-q8",
+                "typescript-s1-u1-q9",
+                "typescript-s1-u1-q10"
               ]
             },
             {
@@ -42,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Why TypeScript helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-1-unit-2-primitive-types",
@@ -56,7 +66,16 @@
               "title": "Learn Primitive types",
               "order": 1,
               "exerciseIds": [
-                "typescript-s1-u2-sample"
+                "typescript-s1-u2-q1",
+                "typescript-s1-u2-q2",
+                "typescript-s1-u2-q3",
+                "typescript-s1-u2-q4",
+                "typescript-s1-u2-q5",
+                "typescript-s1-u2-q6",
+                "typescript-s1-u2-q7",
+                "typescript-s1-u2-q8",
+                "typescript-s1-u2-q9",
+                "typescript-s1-u2-q10"
               ]
             },
             {
@@ -73,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Primitive types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-1-unit-3-arrays-and-tuples",
@@ -87,7 +107,16 @@
               "title": "Learn Arrays and tuples",
               "order": 1,
               "exerciseIds": [
-                "typescript-s1-u3-sample"
+                "typescript-s1-u3-q1",
+                "typescript-s1-u3-q2",
+                "typescript-s1-u3-q3",
+                "typescript-s1-u3-q4",
+                "typescript-s1-u3-q5",
+                "typescript-s1-u3-q6",
+                "typescript-s1-u3-q7",
+                "typescript-s1-u3-q8",
+                "typescript-s1-u3-q9",
+                "typescript-s1-u3-q10"
               ]
             },
             {
@@ -104,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Arrays and tuples helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-1-unit-4-object-types",
@@ -117,7 +147,18 @@
               "unitId": "typescript-section-1-unit-4-object-types",
               "title": "Learn Object types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s1-u4-q1",
+                "typescript-s1-u4-q2",
+                "typescript-s1-u4-q3",
+                "typescript-s1-u4-q4",
+                "typescript-s1-u4-q5",
+                "typescript-s1-u4-q6",
+                "typescript-s1-u4-q7",
+                "typescript-s1-u4-q8",
+                "typescript-s1-u4-q9",
+                "typescript-s1-u4-q10"
+              ]
             },
             {
               "id": "typescript-section-1-unit-4-object-types-lesson-2",
@@ -133,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Object types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-1-unit-5-optional-properties",
@@ -146,7 +188,18 @@
               "unitId": "typescript-section-1-unit-5-optional-properties",
               "title": "Learn Optional properties",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s1-u5-q1",
+                "typescript-s1-u5-q2",
+                "typescript-s1-u5-q3",
+                "typescript-s1-u5-q4",
+                "typescript-s1-u5-q5",
+                "typescript-s1-u5-q6",
+                "typescript-s1-u5-q7",
+                "typescript-s1-u5-q8",
+                "typescript-s1-u5-q9",
+                "typescript-s1-u5-q10"
+              ]
             },
             {
               "id": "typescript-section-1-unit-5-optional-properties-lesson-2",
@@ -162,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Optional properties helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-1-unit-6-literal-types",
@@ -175,7 +229,18 @@
               "unitId": "typescript-section-1-unit-6-literal-types",
               "title": "Learn Literal types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s1-u6-q1",
+                "typescript-s1-u6-q2",
+                "typescript-s1-u6-q3",
+                "typescript-s1-u6-q4",
+                "typescript-s1-u6-q5",
+                "typescript-s1-u6-q6",
+                "typescript-s1-u6-q7",
+                "typescript-s1-u6-q8",
+                "typescript-s1-u6-q9",
+                "typescript-s1-u6-q10"
+              ]
             },
             {
               "id": "typescript-section-1-unit-6-literal-types-lesson-2",
@@ -191,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Literal types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-1-unit-7-type-inference",
@@ -204,7 +270,18 @@
               "unitId": "typescript-section-1-unit-7-type-inference",
               "title": "Learn Type inference",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s1-u7-q1",
+                "typescript-s1-u7-q2",
+                "typescript-s1-u7-q3",
+                "typescript-s1-u7-q4",
+                "typescript-s1-u7-q5",
+                "typescript-s1-u7-q6",
+                "typescript-s1-u7-q7",
+                "typescript-s1-u7-q8",
+                "typescript-s1-u7-q9",
+                "typescript-s1-u7-q10"
+              ]
             },
             {
               "id": "typescript-section-1-unit-7-type-inference-lesson-2",
@@ -220,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Type inference helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-1-unit-8-type-annotations",
@@ -233,7 +311,18 @@
               "unitId": "typescript-section-1-unit-8-type-annotations",
               "title": "Learn Type annotations",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s1-u8-q1",
+                "typescript-s1-u8-q2",
+                "typescript-s1-u8-q3",
+                "typescript-s1-u8-q4",
+                "typescript-s1-u8-q5",
+                "typescript-s1-u8-q6",
+                "typescript-s1-u8-q7",
+                "typescript-s1-u8-q8",
+                "typescript-s1-u8-q9",
+                "typescript-s1-u8-q10"
+              ]
             },
             {
               "id": "typescript-section-1-unit-8-type-annotations-lesson-2",
@@ -249,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Type annotations helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-1-unit-9-any-and-unknown",
@@ -262,7 +352,18 @@
               "unitId": "typescript-section-1-unit-9-any-and-unknown",
               "title": "Learn Any and unknown",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s1-u9-q1",
+                "typescript-s1-u9-q2",
+                "typescript-s1-u9-q3",
+                "typescript-s1-u9-q4",
+                "typescript-s1-u9-q5",
+                "typescript-s1-u9-q6",
+                "typescript-s1-u9-q7",
+                "typescript-s1-u9-q8",
+                "typescript-s1-u9-q9",
+                "typescript-s1-u9-q10"
+              ]
             },
             {
               "id": "typescript-section-1-unit-9-any-and-unknown-lesson-2",
@@ -278,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Any and unknown helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-1-unit-10-compiler-errors",
@@ -291,7 +393,18 @@
               "unitId": "typescript-section-1-unit-10-compiler-errors",
               "title": "Learn Compiler errors",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s1-u10-q1",
+                "typescript-s1-u10-q2",
+                "typescript-s1-u10-q3",
+                "typescript-s1-u10-q4",
+                "typescript-s1-u10-q5",
+                "typescript-s1-u10-q6",
+                "typescript-s1-u10-q7",
+                "typescript-s1-u10-q8",
+                "typescript-s1-u10-q9",
+                "typescript-s1-u10-q10"
+              ]
             },
             {
               "id": "typescript-section-1-unit-10-compiler-errors-lesson-2",
@@ -307,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Compiler errors helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         }
       ]
     },
@@ -329,7 +443,18 @@
               "unitId": "typescript-section-2-unit-1-type-aliases",
               "title": "Learn Type aliases",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s2-u1-q1",
+                "typescript-s2-u1-q2",
+                "typescript-s2-u1-q3",
+                "typescript-s2-u1-q4",
+                "typescript-s2-u1-q5",
+                "typescript-s2-u1-q6",
+                "typescript-s2-u1-q7",
+                "typescript-s2-u1-q8",
+                "typescript-s2-u1-q9",
+                "typescript-s2-u1-q10"
+              ]
             },
             {
               "id": "typescript-section-2-unit-1-type-aliases-lesson-2",
@@ -345,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Type aliases helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-2-unit-2-interfaces",
@@ -358,7 +484,18 @@
               "unitId": "typescript-section-2-unit-2-interfaces",
               "title": "Learn Interfaces",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s2-u2-q1",
+                "typescript-s2-u2-q2",
+                "typescript-s2-u2-q3",
+                "typescript-s2-u2-q4",
+                "typescript-s2-u2-q5",
+                "typescript-s2-u2-q6",
+                "typescript-s2-u2-q7",
+                "typescript-s2-u2-q8",
+                "typescript-s2-u2-q9",
+                "typescript-s2-u2-q10"
+              ]
             },
             {
               "id": "typescript-section-2-unit-2-interfaces-lesson-2",
@@ -374,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Interfaces helps you model JavaScript values with safer types. Example: `interface User { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-2-unit-3-extending-interfaces",
@@ -387,7 +525,18 @@
               "unitId": "typescript-section-2-unit-3-extending-interfaces",
               "title": "Learn Extending interfaces",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s2-u3-q1",
+                "typescript-s2-u3-q2",
+                "typescript-s2-u3-q3",
+                "typescript-s2-u3-q4",
+                "typescript-s2-u3-q5",
+                "typescript-s2-u3-q6",
+                "typescript-s2-u3-q7",
+                "typescript-s2-u3-q8",
+                "typescript-s2-u3-q9",
+                "typescript-s2-u3-q10"
+              ]
             },
             {
               "id": "typescript-section-2-unit-3-extending-interfaces-lesson-2",
@@ -403,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Extending interfaces helps you model JavaScript values with safer types. Example: `interface User { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-2-unit-4-readonly-fields",
@@ -416,7 +566,18 @@
               "unitId": "typescript-section-2-unit-4-readonly-fields",
               "title": "Learn Readonly fields",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s2-u4-q1",
+                "typescript-s2-u4-q2",
+                "typescript-s2-u4-q3",
+                "typescript-s2-u4-q4",
+                "typescript-s2-u4-q5",
+                "typescript-s2-u4-q6",
+                "typescript-s2-u4-q7",
+                "typescript-s2-u4-q8",
+                "typescript-s2-u4-q9",
+                "typescript-s2-u4-q10"
+              ]
             },
             {
               "id": "typescript-section-2-unit-4-readonly-fields-lesson-2",
@@ -432,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Readonly fields helps you model JavaScript values with safer types. Example: `readonly id: string`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-2-unit-5-index-signatures",
@@ -445,7 +607,18 @@
               "unitId": "typescript-section-2-unit-5-index-signatures",
               "title": "Learn Index signatures",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s2-u5-q1",
+                "typescript-s2-u5-q2",
+                "typescript-s2-u5-q3",
+                "typescript-s2-u5-q4",
+                "typescript-s2-u5-q5",
+                "typescript-s2-u5-q6",
+                "typescript-s2-u5-q7",
+                "typescript-s2-u5-q8",
+                "typescript-s2-u5-q9",
+                "typescript-s2-u5-q10"
+              ]
             },
             {
               "id": "typescript-section-2-unit-5-index-signatures-lesson-2",
@@ -461,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Index signatures helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-2-unit-6-interface-merging",
@@ -474,7 +648,18 @@
               "unitId": "typescript-section-2-unit-6-interface-merging",
               "title": "Learn Interface merging",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s2-u6-q1",
+                "typescript-s2-u6-q2",
+                "typescript-s2-u6-q3",
+                "typescript-s2-u6-q4",
+                "typescript-s2-u6-q5",
+                "typescript-s2-u6-q6",
+                "typescript-s2-u6-q7",
+                "typescript-s2-u6-q8",
+                "typescript-s2-u6-q9",
+                "typescript-s2-u6-q10"
+              ]
             },
             {
               "id": "typescript-section-2-unit-6-interface-merging-lesson-2",
@@ -490,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Interface merging helps you model JavaScript values with safer types. Example: `interface User { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-2-unit-7-structural-typing",
@@ -503,7 +689,18 @@
               "unitId": "typescript-section-2-unit-7-structural-typing",
               "title": "Learn Structural typing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s2-u7-q1",
+                "typescript-s2-u7-q2",
+                "typescript-s2-u7-q3",
+                "typescript-s2-u7-q4",
+                "typescript-s2-u7-q5",
+                "typescript-s2-u7-q6",
+                "typescript-s2-u7-q7",
+                "typescript-s2-u7-q8",
+                "typescript-s2-u7-q9",
+                "typescript-s2-u7-q10"
+              ]
             },
             {
               "id": "typescript-section-2-unit-7-structural-typing-lesson-2",
@@ -519,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Structural typing helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-2-unit-8-nested-shapes",
@@ -532,7 +730,18 @@
               "unitId": "typescript-section-2-unit-8-nested-shapes",
               "title": "Learn Nested shapes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s2-u8-q1",
+                "typescript-s2-u8-q2",
+                "typescript-s2-u8-q3",
+                "typescript-s2-u8-q4",
+                "typescript-s2-u8-q5",
+                "typescript-s2-u8-q6",
+                "typescript-s2-u8-q7",
+                "typescript-s2-u8-q8",
+                "typescript-s2-u8-q9",
+                "typescript-s2-u8-q10"
+              ]
             },
             {
               "id": "typescript-section-2-unit-8-nested-shapes-lesson-2",
@@ -548,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Nested shapes helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-2-unit-9-api-response-types",
@@ -561,7 +771,18 @@
               "unitId": "typescript-section-2-unit-9-api-response-types",
               "title": "Learn API response types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s2-u9-q1",
+                "typescript-s2-u9-q2",
+                "typescript-s2-u9-q3",
+                "typescript-s2-u9-q4",
+                "typescript-s2-u9-q5",
+                "typescript-s2-u9-q6",
+                "typescript-s2-u9-q7",
+                "typescript-s2-u9-q8",
+                "typescript-s2-u9-q9",
+                "typescript-s2-u9-q10"
+              ]
             },
             {
               "id": "typescript-section-2-unit-9-api-response-types-lesson-2",
@@ -577,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "API response types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-2-unit-10-modeling-ui-props",
@@ -590,7 +812,18 @@
               "unitId": "typescript-section-2-unit-10-modeling-ui-props",
               "title": "Learn Modeling UI props",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s2-u10-q1",
+                "typescript-s2-u10-q2",
+                "typescript-s2-u10-q3",
+                "typescript-s2-u10-q4",
+                "typescript-s2-u10-q5",
+                "typescript-s2-u10-q6",
+                "typescript-s2-u10-q7",
+                "typescript-s2-u10-q8",
+                "typescript-s2-u10-q9",
+                "typescript-s2-u10-q10"
+              ]
             },
             {
               "id": "typescript-section-2-unit-10-modeling-ui-props-lesson-2",
@@ -606,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Modeling UI props helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         }
       ]
     },
@@ -628,7 +862,18 @@
               "unitId": "typescript-section-3-unit-1-function-parameters",
               "title": "Learn Function parameters",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s3-u1-q1",
+                "typescript-s3-u1-q2",
+                "typescript-s3-u1-q3",
+                "typescript-s3-u1-q4",
+                "typescript-s3-u1-q5",
+                "typescript-s3-u1-q6",
+                "typescript-s3-u1-q7",
+                "typescript-s3-u1-q8",
+                "typescript-s3-u1-q9",
+                "typescript-s3-u1-q10"
+              ]
             },
             {
               "id": "typescript-section-3-unit-1-function-parameters-lesson-2",
@@ -644,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Function parameters helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-3-unit-2-return-types",
@@ -657,7 +903,18 @@
               "unitId": "typescript-section-3-unit-2-return-types",
               "title": "Learn Return types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s3-u2-q1",
+                "typescript-s3-u2-q2",
+                "typescript-s3-u2-q3",
+                "typescript-s3-u2-q4",
+                "typescript-s3-u2-q5",
+                "typescript-s3-u2-q6",
+                "typescript-s3-u2-q7",
+                "typescript-s3-u2-q8",
+                "typescript-s3-u2-q9",
+                "typescript-s3-u2-q10"
+              ]
             },
             {
               "id": "typescript-section-3-unit-2-return-types-lesson-2",
@@ -673,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Return types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-3-unit-3-optional-parameters",
@@ -686,7 +944,18 @@
               "unitId": "typescript-section-3-unit-3-optional-parameters",
               "title": "Learn Optional parameters",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s3-u3-q1",
+                "typescript-s3-u3-q2",
+                "typescript-s3-u3-q3",
+                "typescript-s3-u3-q4",
+                "typescript-s3-u3-q5",
+                "typescript-s3-u3-q6",
+                "typescript-s3-u3-q7",
+                "typescript-s3-u3-q8",
+                "typescript-s3-u3-q9",
+                "typescript-s3-u3-q10"
+              ]
             },
             {
               "id": "typescript-section-3-unit-3-optional-parameters-lesson-2",
@@ -702,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Optional parameters helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-3-unit-4-default-parameters",
@@ -715,7 +985,18 @@
               "unitId": "typescript-section-3-unit-4-default-parameters",
               "title": "Learn Default parameters",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s3-u4-q1",
+                "typescript-s3-u4-q2",
+                "typescript-s3-u4-q3",
+                "typescript-s3-u4-q4",
+                "typescript-s3-u4-q5",
+                "typescript-s3-u4-q6",
+                "typescript-s3-u4-q7",
+                "typescript-s3-u4-q8",
+                "typescript-s3-u4-q9",
+                "typescript-s3-u4-q10"
+              ]
             },
             {
               "id": "typescript-section-3-unit-4-default-parameters-lesson-2",
@@ -731,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Default parameters helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-3-unit-5-rest-parameters",
@@ -744,7 +1026,18 @@
               "unitId": "typescript-section-3-unit-5-rest-parameters",
               "title": "Learn Rest parameters",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s3-u5-q1",
+                "typescript-s3-u5-q2",
+                "typescript-s3-u5-q3",
+                "typescript-s3-u5-q4",
+                "typescript-s3-u5-q5",
+                "typescript-s3-u5-q6",
+                "typescript-s3-u5-q7",
+                "typescript-s3-u5-q8",
+                "typescript-s3-u5-q9",
+                "typescript-s3-u5-q10"
+              ]
             },
             {
               "id": "typescript-section-3-unit-5-rest-parameters-lesson-2",
@@ -760,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Rest parameters helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-3-unit-6-function-overloads",
@@ -773,7 +1067,18 @@
               "unitId": "typescript-section-3-unit-6-function-overloads",
               "title": "Learn Function overloads",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s3-u6-q1",
+                "typescript-s3-u6-q2",
+                "typescript-s3-u6-q3",
+                "typescript-s3-u6-q4",
+                "typescript-s3-u6-q5",
+                "typescript-s3-u6-q6",
+                "typescript-s3-u6-q7",
+                "typescript-s3-u6-q8",
+                "typescript-s3-u6-q9",
+                "typescript-s3-u6-q10"
+              ]
             },
             {
               "id": "typescript-section-3-unit-6-function-overloads-lesson-2",
@@ -789,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Function overloads helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-3-unit-7-callback-types",
@@ -802,7 +1108,18 @@
               "unitId": "typescript-section-3-unit-7-callback-types",
               "title": "Learn Callback types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s3-u7-q1",
+                "typescript-s3-u7-q2",
+                "typescript-s3-u7-q3",
+                "typescript-s3-u7-q4",
+                "typescript-s3-u7-q5",
+                "typescript-s3-u7-q6",
+                "typescript-s3-u7-q7",
+                "typescript-s3-u7-q8",
+                "typescript-s3-u7-q9",
+                "typescript-s3-u7-q10"
+              ]
             },
             {
               "id": "typescript-section-3-unit-7-callback-types-lesson-2",
@@ -818,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Callback types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-3-unit-8-void-and-never",
@@ -831,7 +1149,18 @@
               "unitId": "typescript-section-3-unit-8-void-and-never",
               "title": "Learn Void and never",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s3-u8-q1",
+                "typescript-s3-u8-q2",
+                "typescript-s3-u8-q3",
+                "typescript-s3-u8-q4",
+                "typescript-s3-u8-q5",
+                "typescript-s3-u8-q6",
+                "typescript-s3-u8-q7",
+                "typescript-s3-u8-q8",
+                "typescript-s3-u8-q9",
+                "typescript-s3-u8-q10"
+              ]
             },
             {
               "id": "typescript-section-3-unit-8-void-and-never-lesson-2",
@@ -847,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Void and never helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-3-unit-9-typing-events",
@@ -860,7 +1190,18 @@
               "unitId": "typescript-section-3-unit-9-typing-events",
               "title": "Learn Typing events",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s3-u9-q1",
+                "typescript-s3-u9-q2",
+                "typescript-s3-u9-q3",
+                "typescript-s3-u9-q4",
+                "typescript-s3-u9-q5",
+                "typescript-s3-u9-q6",
+                "typescript-s3-u9-q7",
+                "typescript-s3-u9-q8",
+                "typescript-s3-u9-q9",
+                "typescript-s3-u9-q10"
+              ]
             },
             {
               "id": "typescript-section-3-unit-9-typing-events-lesson-2",
@@ -876,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Typing events helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-3-unit-10-function-refactors",
@@ -889,7 +1231,18 @@
               "unitId": "typescript-section-3-unit-10-function-refactors",
               "title": "Learn Function refactors",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s3-u10-q1",
+                "typescript-s3-u10-q2",
+                "typescript-s3-u10-q3",
+                "typescript-s3-u10-q4",
+                "typescript-s3-u10-q5",
+                "typescript-s3-u10-q6",
+                "typescript-s3-u10-q7",
+                "typescript-s3-u10-q8",
+                "typescript-s3-u10-q9",
+                "typescript-s3-u10-q10"
+              ]
             },
             {
               "id": "typescript-section-3-unit-10-function-refactors-lesson-2",
@@ -905,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Function refactors helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         }
       ]
     },
@@ -927,7 +1281,18 @@
               "unitId": "typescript-section-4-unit-1-union-types",
               "title": "Learn Union types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s4-u1-q1",
+                "typescript-s4-u1-q2",
+                "typescript-s4-u1-q3",
+                "typescript-s4-u1-q4",
+                "typescript-s4-u1-q5",
+                "typescript-s4-u1-q6",
+                "typescript-s4-u1-q7",
+                "typescript-s4-u1-q8",
+                "typescript-s4-u1-q9",
+                "typescript-s4-u1-q10"
+              ]
             },
             {
               "id": "typescript-section-4-unit-1-union-types-lesson-2",
@@ -943,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Union types helps you model JavaScript values with safer types. Example: `type State = 'idle' | 'loading'`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-4-unit-2-discriminated-unions",
@@ -956,7 +1322,18 @@
               "unitId": "typescript-section-4-unit-2-discriminated-unions",
               "title": "Learn Discriminated unions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s4-u2-q1",
+                "typescript-s4-u2-q2",
+                "typescript-s4-u2-q3",
+                "typescript-s4-u2-q4",
+                "typescript-s4-u2-q5",
+                "typescript-s4-u2-q6",
+                "typescript-s4-u2-q7",
+                "typescript-s4-u2-q8",
+                "typescript-s4-u2-q9",
+                "typescript-s4-u2-q10"
+              ]
             },
             {
               "id": "typescript-section-4-unit-2-discriminated-unions-lesson-2",
@@ -972,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Discriminated unions helps you model JavaScript values with safer types. Example: `type State = 'idle' | 'loading'`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-4-unit-3-type-guards",
@@ -985,7 +1363,18 @@
               "unitId": "typescript-section-4-unit-3-type-guards",
               "title": "Learn Type guards",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s4-u3-q1",
+                "typescript-s4-u3-q2",
+                "typescript-s4-u3-q3",
+                "typescript-s4-u3-q4",
+                "typescript-s4-u3-q5",
+                "typescript-s4-u3-q6",
+                "typescript-s4-u3-q7",
+                "typescript-s4-u3-q8",
+                "typescript-s4-u3-q9",
+                "typescript-s4-u3-q10"
+              ]
             },
             {
               "id": "typescript-section-4-unit-3-type-guards-lesson-2",
@@ -1001,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Type guards helps you model JavaScript values with safer types. Example: `typeof value === 'string'`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-4-unit-4-typeof-checks",
@@ -1014,7 +1404,18 @@
               "unitId": "typescript-section-4-unit-4-typeof-checks",
               "title": "Learn typeof checks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s4-u4-q1",
+                "typescript-s4-u4-q2",
+                "typescript-s4-u4-q3",
+                "typescript-s4-u4-q4",
+                "typescript-s4-u4-q5",
+                "typescript-s4-u4-q6",
+                "typescript-s4-u4-q7",
+                "typescript-s4-u4-q8",
+                "typescript-s4-u4-q9",
+                "typescript-s4-u4-q10"
+              ]
             },
             {
               "id": "typescript-section-4-unit-4-typeof-checks-lesson-2",
@@ -1030,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "typeof checks helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-4-unit-5-in-checks",
@@ -1043,7 +1445,18 @@
               "unitId": "typescript-section-4-unit-5-in-checks",
               "title": "Learn in checks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s4-u5-q1",
+                "typescript-s4-u5-q2",
+                "typescript-s4-u5-q3",
+                "typescript-s4-u5-q4",
+                "typescript-s4-u5-q5",
+                "typescript-s4-u5-q6",
+                "typescript-s4-u5-q7",
+                "typescript-s4-u5-q8",
+                "typescript-s4-u5-q9",
+                "typescript-s4-u5-q10"
+              ]
             },
             {
               "id": "typescript-section-4-unit-5-in-checks-lesson-2",
@@ -1059,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "in checks helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-4-unit-6-instanceof-checks",
@@ -1072,7 +1486,18 @@
               "unitId": "typescript-section-4-unit-6-instanceof-checks",
               "title": "Learn instanceof checks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s4-u6-q1",
+                "typescript-s4-u6-q2",
+                "typescript-s4-u6-q3",
+                "typescript-s4-u6-q4",
+                "typescript-s4-u6-q5",
+                "typescript-s4-u6-q6",
+                "typescript-s4-u6-q7",
+                "typescript-s4-u6-q8",
+                "typescript-s4-u6-q9",
+                "typescript-s4-u6-q10"
+              ]
             },
             {
               "id": "typescript-section-4-unit-6-instanceof-checks-lesson-2",
@@ -1088,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "instanceof checks helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-4-unit-7-exhaustive-checks",
@@ -1101,7 +1527,18 @@
               "unitId": "typescript-section-4-unit-7-exhaustive-checks",
               "title": "Learn Exhaustive checks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s4-u7-q1",
+                "typescript-s4-u7-q2",
+                "typescript-s4-u7-q3",
+                "typescript-s4-u7-q4",
+                "typescript-s4-u7-q5",
+                "typescript-s4-u7-q6",
+                "typescript-s4-u7-q7",
+                "typescript-s4-u7-q8",
+                "typescript-s4-u7-q9",
+                "typescript-s4-u7-q10"
+              ]
             },
             {
               "id": "typescript-section-4-unit-7-exhaustive-checks-lesson-2",
@@ -1117,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Exhaustive checks helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-4-unit-8-nullable-values",
@@ -1130,7 +1568,18 @@
               "unitId": "typescript-section-4-unit-8-nullable-values",
               "title": "Learn Nullable values",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s4-u8-q1",
+                "typescript-s4-u8-q2",
+                "typescript-s4-u8-q3",
+                "typescript-s4-u8-q4",
+                "typescript-s4-u8-q5",
+                "typescript-s4-u8-q6",
+                "typescript-s4-u8-q7",
+                "typescript-s4-u8-q8",
+                "typescript-s4-u8-q9",
+                "typescript-s4-u8-q10"
+              ]
             },
             {
               "id": "typescript-section-4-unit-8-nullable-values-lesson-2",
@@ -1146,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Nullable values helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-4-unit-9-control-flow-narrowing",
@@ -1159,7 +1609,18 @@
               "unitId": "typescript-section-4-unit-9-control-flow-narrowing",
               "title": "Learn Control-flow narrowing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s4-u9-q1",
+                "typescript-s4-u9-q2",
+                "typescript-s4-u9-q3",
+                "typescript-s4-u9-q4",
+                "typescript-s4-u9-q5",
+                "typescript-s4-u9-q6",
+                "typescript-s4-u9-q7",
+                "typescript-s4-u9-q8",
+                "typescript-s4-u9-q9",
+                "typescript-s4-u9-q10"
+              ]
             },
             {
               "id": "typescript-section-4-unit-9-control-flow-narrowing-lesson-2",
@@ -1175,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Control-flow narrowing helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-4-unit-10-state-modeling",
@@ -1188,7 +1650,18 @@
               "unitId": "typescript-section-4-unit-10-state-modeling",
               "title": "Learn State modeling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s4-u10-q1",
+                "typescript-s4-u10-q2",
+                "typescript-s4-u10-q3",
+                "typescript-s4-u10-q4",
+                "typescript-s4-u10-q5",
+                "typescript-s4-u10-q6",
+                "typescript-s4-u10-q7",
+                "typescript-s4-u10-q8",
+                "typescript-s4-u10-q9",
+                "typescript-s4-u10-q10"
+              ]
             },
             {
               "id": "typescript-section-4-unit-10-state-modeling-lesson-2",
@@ -1204,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "State modeling helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         }
       ]
     },
@@ -1226,7 +1700,18 @@
               "unitId": "typescript-section-5-unit-1-generic-functions",
               "title": "Learn Generic functions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s5-u1-q1",
+                "typescript-s5-u1-q2",
+                "typescript-s5-u1-q3",
+                "typescript-s5-u1-q4",
+                "typescript-s5-u1-q5",
+                "typescript-s5-u1-q6",
+                "typescript-s5-u1-q7",
+                "typescript-s5-u1-q8",
+                "typescript-s5-u1-q9",
+                "typescript-s5-u1-q10"
+              ]
             },
             {
               "id": "typescript-section-5-unit-1-generic-functions-lesson-2",
@@ -1242,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Generic functions helps you model JavaScript values with safer types. Example: `function first<T>(items: T[]): T`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-5-unit-2-generic-arrays",
@@ -1255,7 +1741,18 @@
               "unitId": "typescript-section-5-unit-2-generic-arrays",
               "title": "Learn Generic arrays",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s5-u2-q1",
+                "typescript-s5-u2-q2",
+                "typescript-s5-u2-q3",
+                "typescript-s5-u2-q4",
+                "typescript-s5-u2-q5",
+                "typescript-s5-u2-q6",
+                "typescript-s5-u2-q7",
+                "typescript-s5-u2-q8",
+                "typescript-s5-u2-q9",
+                "typescript-s5-u2-q10"
+              ]
             },
             {
               "id": "typescript-section-5-unit-2-generic-arrays-lesson-2",
@@ -1271,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Generic arrays helps you model JavaScript values with safer types. Example: `function first<T>(items: T[]): T`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-5-unit-3-generic-constraints",
@@ -1284,7 +1782,18 @@
               "unitId": "typescript-section-5-unit-3-generic-constraints",
               "title": "Learn Generic constraints",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s5-u3-q1",
+                "typescript-s5-u3-q2",
+                "typescript-s5-u3-q3",
+                "typescript-s5-u3-q4",
+                "typescript-s5-u3-q5",
+                "typescript-s5-u3-q6",
+                "typescript-s5-u3-q7",
+                "typescript-s5-u3-q8",
+                "typescript-s5-u3-q9",
+                "typescript-s5-u3-q10"
+              ]
             },
             {
               "id": "typescript-section-5-unit-3-generic-constraints-lesson-2",
@@ -1300,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Generic constraints helps you model JavaScript values with safer types. Example: `function first<T>(items: T[]): T`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-5-unit-4-generic-interfaces",
@@ -1313,7 +1823,18 @@
               "unitId": "typescript-section-5-unit-4-generic-interfaces",
               "title": "Learn Generic interfaces",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s5-u4-q1",
+                "typescript-s5-u4-q2",
+                "typescript-s5-u4-q3",
+                "typescript-s5-u4-q4",
+                "typescript-s5-u4-q5",
+                "typescript-s5-u4-q6",
+                "typescript-s5-u4-q7",
+                "typescript-s5-u4-q8",
+                "typescript-s5-u4-q9",
+                "typescript-s5-u4-q10"
+              ]
             },
             {
               "id": "typescript-section-5-unit-4-generic-interfaces-lesson-2",
@@ -1329,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Generic interfaces helps you model JavaScript values with safer types. Example: `interface User { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-5-unit-5-generic-components",
@@ -1342,7 +1864,18 @@
               "unitId": "typescript-section-5-unit-5-generic-components",
               "title": "Learn Generic components",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s5-u5-q1",
+                "typescript-s5-u5-q2",
+                "typescript-s5-u5-q3",
+                "typescript-s5-u5-q4",
+                "typescript-s5-u5-q5",
+                "typescript-s5-u5-q6",
+                "typescript-s5-u5-q7",
+                "typescript-s5-u5-q8",
+                "typescript-s5-u5-q9",
+                "typescript-s5-u5-q10"
+              ]
             },
             {
               "id": "typescript-section-5-unit-5-generic-components-lesson-2",
@@ -1358,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Generic components helps you model JavaScript values with safer types. Example: `function first<T>(items: T[]): T`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-5-unit-6-keyof",
@@ -1371,7 +1905,18 @@
               "unitId": "typescript-section-5-unit-6-keyof",
               "title": "Learn Keyof",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s5-u6-q1",
+                "typescript-s5-u6-q2",
+                "typescript-s5-u6-q3",
+                "typescript-s5-u6-q4",
+                "typescript-s5-u6-q5",
+                "typescript-s5-u6-q6",
+                "typescript-s5-u6-q7",
+                "typescript-s5-u6-q8",
+                "typescript-s5-u6-q9",
+                "typescript-s5-u6-q10"
+              ]
             },
             {
               "id": "typescript-section-5-unit-6-keyof-lesson-2",
@@ -1387,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Keyof helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-5-unit-7-indexed-access",
@@ -1400,7 +1946,18 @@
               "unitId": "typescript-section-5-unit-7-indexed-access",
               "title": "Learn Indexed access",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s5-u7-q1",
+                "typescript-s5-u7-q2",
+                "typescript-s5-u7-q3",
+                "typescript-s5-u7-q4",
+                "typescript-s5-u7-q5",
+                "typescript-s5-u7-q6",
+                "typescript-s5-u7-q7",
+                "typescript-s5-u7-q8",
+                "typescript-s5-u7-q9",
+                "typescript-s5-u7-q10"
+              ]
             },
             {
               "id": "typescript-section-5-unit-7-indexed-access-lesson-2",
@@ -1416,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Indexed access helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-5-unit-8-mapped-types-intro",
@@ -1429,7 +1987,18 @@
               "unitId": "typescript-section-5-unit-8-mapped-types-intro",
               "title": "Learn Mapped types intro",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s5-u8-q1",
+                "typescript-s5-u8-q2",
+                "typescript-s5-u8-q3",
+                "typescript-s5-u8-q4",
+                "typescript-s5-u8-q5",
+                "typescript-s5-u8-q6",
+                "typescript-s5-u8-q7",
+                "typescript-s5-u8-q8",
+                "typescript-s5-u8-q9",
+                "typescript-s5-u8-q10"
+              ]
             },
             {
               "id": "typescript-section-5-unit-8-mapped-types-intro-lesson-2",
@@ -1445,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Mapped types intro helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-5-unit-9-generic-defaults",
@@ -1458,7 +2028,18 @@
               "unitId": "typescript-section-5-unit-9-generic-defaults",
               "title": "Learn Generic defaults",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s5-u9-q1",
+                "typescript-s5-u9-q2",
+                "typescript-s5-u9-q3",
+                "typescript-s5-u9-q4",
+                "typescript-s5-u9-q5",
+                "typescript-s5-u9-q6",
+                "typescript-s5-u9-q7",
+                "typescript-s5-u9-q8",
+                "typescript-s5-u9-q9",
+                "typescript-s5-u9-q10"
+              ]
             },
             {
               "id": "typescript-section-5-unit-9-generic-defaults-lesson-2",
@@ -1474,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Generic defaults helps you model JavaScript values with safer types. Example: `function first<T>(items: T[]): T`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-5-unit-10-reusable-helpers",
@@ -1487,7 +2069,18 @@
               "unitId": "typescript-section-5-unit-10-reusable-helpers",
               "title": "Learn Reusable helpers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s5-u10-q1",
+                "typescript-s5-u10-q2",
+                "typescript-s5-u10-q3",
+                "typescript-s5-u10-q4",
+                "typescript-s5-u10-q5",
+                "typescript-s5-u10-q6",
+                "typescript-s5-u10-q7",
+                "typescript-s5-u10-q8",
+                "typescript-s5-u10-q9",
+                "typescript-s5-u10-q10"
+              ]
             },
             {
               "id": "typescript-section-5-unit-10-reusable-helpers-lesson-2",
@@ -1503,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reusable helpers helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         }
       ]
     },
@@ -1525,7 +2119,18 @@
               "unitId": "typescript-section-6-unit-1-partial",
               "title": "Learn Partial",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s6-u1-q1",
+                "typescript-s6-u1-q2",
+                "typescript-s6-u1-q3",
+                "typescript-s6-u1-q4",
+                "typescript-s6-u1-q5",
+                "typescript-s6-u1-q6",
+                "typescript-s6-u1-q7",
+                "typescript-s6-u1-q8",
+                "typescript-s6-u1-q9",
+                "typescript-s6-u1-q10"
+              ]
             },
             {
               "id": "typescript-section-6-unit-1-partial-lesson-2",
@@ -1541,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Partial helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-6-unit-2-required",
@@ -1554,7 +2160,18 @@
               "unitId": "typescript-section-6-unit-2-required",
               "title": "Learn Required",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s6-u2-q1",
+                "typescript-s6-u2-q2",
+                "typescript-s6-u2-q3",
+                "typescript-s6-u2-q4",
+                "typescript-s6-u2-q5",
+                "typescript-s6-u2-q6",
+                "typescript-s6-u2-q7",
+                "typescript-s6-u2-q8",
+                "typescript-s6-u2-q9",
+                "typescript-s6-u2-q10"
+              ]
             },
             {
               "id": "typescript-section-6-unit-2-required-lesson-2",
@@ -1570,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Required helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-6-unit-3-pick",
@@ -1583,7 +2201,18 @@
               "unitId": "typescript-section-6-unit-3-pick",
               "title": "Learn Pick",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s6-u3-q1",
+                "typescript-s6-u3-q2",
+                "typescript-s6-u3-q3",
+                "typescript-s6-u3-q4",
+                "typescript-s6-u3-q5",
+                "typescript-s6-u3-q6",
+                "typescript-s6-u3-q7",
+                "typescript-s6-u3-q8",
+                "typescript-s6-u3-q9",
+                "typescript-s6-u3-q10"
+              ]
             },
             {
               "id": "typescript-section-6-unit-3-pick-lesson-2",
@@ -1599,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pick helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-6-unit-4-omit",
@@ -1612,7 +2242,18 @@
               "unitId": "typescript-section-6-unit-4-omit",
               "title": "Learn Omit",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s6-u4-q1",
+                "typescript-s6-u4-q2",
+                "typescript-s6-u4-q3",
+                "typescript-s6-u4-q4",
+                "typescript-s6-u4-q5",
+                "typescript-s6-u4-q6",
+                "typescript-s6-u4-q7",
+                "typescript-s6-u4-q8",
+                "typescript-s6-u4-q9",
+                "typescript-s6-u4-q10"
+              ]
             },
             {
               "id": "typescript-section-6-unit-4-omit-lesson-2",
@@ -1628,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Omit helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-6-unit-5-record",
@@ -1641,7 +2283,18 @@
               "unitId": "typescript-section-6-unit-5-record",
               "title": "Learn Record",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s6-u5-q1",
+                "typescript-s6-u5-q2",
+                "typescript-s6-u5-q3",
+                "typescript-s6-u5-q4",
+                "typescript-s6-u5-q5",
+                "typescript-s6-u5-q6",
+                "typescript-s6-u5-q7",
+                "typescript-s6-u5-q8",
+                "typescript-s6-u5-q9",
+                "typescript-s6-u5-q10"
+              ]
             },
             {
               "id": "typescript-section-6-unit-5-record-lesson-2",
@@ -1657,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Record helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-6-unit-6-returntype",
@@ -1670,7 +2324,18 @@
               "unitId": "typescript-section-6-unit-6-returntype",
               "title": "Learn ReturnType",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s6-u6-q1",
+                "typescript-s6-u6-q2",
+                "typescript-s6-u6-q3",
+                "typescript-s6-u6-q4",
+                "typescript-s6-u6-q5",
+                "typescript-s6-u6-q6",
+                "typescript-s6-u6-q7",
+                "typescript-s6-u6-q8",
+                "typescript-s6-u6-q9",
+                "typescript-s6-u6-q10"
+              ]
             },
             {
               "id": "typescript-section-6-unit-6-returntype-lesson-2",
@@ -1686,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "ReturnType helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-6-unit-7-parameters",
@@ -1699,7 +2365,18 @@
               "unitId": "typescript-section-6-unit-7-parameters",
               "title": "Learn Parameters",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s6-u7-q1",
+                "typescript-s6-u7-q2",
+                "typescript-s6-u7-q3",
+                "typescript-s6-u7-q4",
+                "typescript-s6-u7-q5",
+                "typescript-s6-u7-q6",
+                "typescript-s6-u7-q7",
+                "typescript-s6-u7-q8",
+                "typescript-s6-u7-q9",
+                "typescript-s6-u7-q10"
+              ]
             },
             {
               "id": "typescript-section-6-unit-7-parameters-lesson-2",
@@ -1715,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Parameters helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-6-unit-8-awaited",
@@ -1728,7 +2406,18 @@
               "unitId": "typescript-section-6-unit-8-awaited",
               "title": "Learn Awaited",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s6-u8-q1",
+                "typescript-s6-u8-q2",
+                "typescript-s6-u8-q3",
+                "typescript-s6-u8-q4",
+                "typescript-s6-u8-q5",
+                "typescript-s6-u8-q6",
+                "typescript-s6-u8-q7",
+                "typescript-s6-u8-q8",
+                "typescript-s6-u8-q9",
+                "typescript-s6-u8-q10"
+              ]
             },
             {
               "id": "typescript-section-6-unit-8-awaited-lesson-2",
@@ -1744,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Awaited helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-6-unit-9-readonly",
@@ -1757,7 +2447,18 @@
               "unitId": "typescript-section-6-unit-9-readonly",
               "title": "Learn Readonly",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s6-u9-q1",
+                "typescript-s6-u9-q2",
+                "typescript-s6-u9-q3",
+                "typescript-s6-u9-q4",
+                "typescript-s6-u9-q5",
+                "typescript-s6-u9-q6",
+                "typescript-s6-u9-q7",
+                "typescript-s6-u9-q8",
+                "typescript-s6-u9-q9",
+                "typescript-s6-u9-q10"
+              ]
             },
             {
               "id": "typescript-section-6-unit-9-readonly-lesson-2",
@@ -1773,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Readonly helps you model JavaScript values with safer types. Example: `readonly id: string`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-6-unit-10-composing-utilities",
@@ -1786,7 +2488,18 @@
               "unitId": "typescript-section-6-unit-10-composing-utilities",
               "title": "Learn Composing utilities",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s6-u10-q1",
+                "typescript-s6-u10-q2",
+                "typescript-s6-u10-q3",
+                "typescript-s6-u10-q4",
+                "typescript-s6-u10-q5",
+                "typescript-s6-u10-q6",
+                "typescript-s6-u10-q7",
+                "typescript-s6-u10-q8",
+                "typescript-s6-u10-q9",
+                "typescript-s6-u10-q10"
+              ]
             },
             {
               "id": "typescript-section-6-unit-10-composing-utilities-lesson-2",
@@ -1802,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Composing utilities helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         }
       ]
     },
@@ -1824,7 +2538,18 @@
               "unitId": "typescript-section-7-unit-1-string-enums",
               "title": "Learn String enums",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s7-u1-q1",
+                "typescript-s7-u1-q2",
+                "typescript-s7-u1-q3",
+                "typescript-s7-u1-q4",
+                "typescript-s7-u1-q5",
+                "typescript-s7-u1-q6",
+                "typescript-s7-u1-q7",
+                "typescript-s7-u1-q8",
+                "typescript-s7-u1-q9",
+                "typescript-s7-u1-q10"
+              ]
             },
             {
               "id": "typescript-section-7-unit-1-string-enums-lesson-2",
@@ -1840,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "String enums helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-7-unit-2-numeric-enums",
@@ -1853,7 +2579,18 @@
               "unitId": "typescript-section-7-unit-2-numeric-enums",
               "title": "Learn Numeric enums",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s7-u2-q1",
+                "typescript-s7-u2-q2",
+                "typescript-s7-u2-q3",
+                "typescript-s7-u2-q4",
+                "typescript-s7-u2-q5",
+                "typescript-s7-u2-q6",
+                "typescript-s7-u2-q7",
+                "typescript-s7-u2-q8",
+                "typescript-s7-u2-q9",
+                "typescript-s7-u2-q10"
+              ]
             },
             {
               "id": "typescript-section-7-unit-2-numeric-enums-lesson-2",
@@ -1869,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Numeric enums helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-7-unit-3-const-objects",
@@ -1882,7 +2620,18 @@
               "unitId": "typescript-section-7-unit-3-const-objects",
               "title": "Learn Const objects",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s7-u3-q1",
+                "typescript-s7-u3-q2",
+                "typescript-s7-u3-q3",
+                "typescript-s7-u3-q4",
+                "typescript-s7-u3-q5",
+                "typescript-s7-u3-q6",
+                "typescript-s7-u3-q7",
+                "typescript-s7-u3-q8",
+                "typescript-s7-u3-q9",
+                "typescript-s7-u3-q10"
+              ]
             },
             {
               "id": "typescript-section-7-unit-3-const-objects-lesson-2",
@@ -1898,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Const objects helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-7-unit-4-union-alternatives",
@@ -1911,7 +2661,18 @@
               "unitId": "typescript-section-7-unit-4-union-alternatives",
               "title": "Learn Union alternatives",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s7-u4-q1",
+                "typescript-s7-u4-q2",
+                "typescript-s7-u4-q3",
+                "typescript-s7-u4-q4",
+                "typescript-s7-u4-q5",
+                "typescript-s7-u4-q6",
+                "typescript-s7-u4-q7",
+                "typescript-s7-u4-q8",
+                "typescript-s7-u4-q9",
+                "typescript-s7-u4-q10"
+              ]
             },
             {
               "id": "typescript-section-7-unit-4-union-alternatives-lesson-2",
@@ -1927,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Union alternatives helps you model JavaScript values with safer types. Example: `type State = 'idle' | 'loading'`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-7-unit-5-enum-pitfalls",
@@ -1940,7 +2702,18 @@
               "unitId": "typescript-section-7-unit-5-enum-pitfalls",
               "title": "Learn Enum pitfalls",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s7-u5-q1",
+                "typescript-s7-u5-q2",
+                "typescript-s7-u5-q3",
+                "typescript-s7-u5-q4",
+                "typescript-s7-u5-q5",
+                "typescript-s7-u5-q6",
+                "typescript-s7-u5-q7",
+                "typescript-s7-u5-q8",
+                "typescript-s7-u5-q9",
+                "typescript-s7-u5-q10"
+              ]
             },
             {
               "id": "typescript-section-7-unit-5-enum-pitfalls-lesson-2",
@@ -1956,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Enum pitfalls helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-7-unit-6-configuration-types",
@@ -1969,7 +2743,18 @@
               "unitId": "typescript-section-7-unit-6-configuration-types",
               "title": "Learn Configuration types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s7-u6-q1",
+                "typescript-s7-u6-q2",
+                "typescript-s7-u6-q3",
+                "typescript-s7-u6-q4",
+                "typescript-s7-u6-q5",
+                "typescript-s7-u6-q6",
+                "typescript-s7-u6-q7",
+                "typescript-s7-u6-q8",
+                "typescript-s7-u6-q9",
+                "typescript-s7-u6-q10"
+              ]
             },
             {
               "id": "typescript-section-7-unit-6-configuration-types-lesson-2",
@@ -1985,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Configuration types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-7-unit-7-status-modeling",
@@ -1998,7 +2784,18 @@
               "unitId": "typescript-section-7-unit-7-status-modeling",
               "title": "Learn Status modeling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s7-u7-q1",
+                "typescript-s7-u7-q2",
+                "typescript-s7-u7-q3",
+                "typescript-s7-u7-q4",
+                "typescript-s7-u7-q5",
+                "typescript-s7-u7-q6",
+                "typescript-s7-u7-q7",
+                "typescript-s7-u7-q8",
+                "typescript-s7-u7-q9",
+                "typescript-s7-u7-q10"
+              ]
             },
             {
               "id": "typescript-section-7-unit-7-status-modeling-lesson-2",
@@ -2014,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Status modeling helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-7-unit-8-feature-flags",
@@ -2027,7 +2825,18 @@
               "unitId": "typescript-section-7-unit-8-feature-flags",
               "title": "Learn Feature flags",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s7-u8-q1",
+                "typescript-s7-u8-q2",
+                "typescript-s7-u8-q3",
+                "typescript-s7-u8-q4",
+                "typescript-s7-u8-q5",
+                "typescript-s7-u8-q6",
+                "typescript-s7-u8-q7",
+                "typescript-s7-u8-q8",
+                "typescript-s7-u8-q9",
+                "typescript-s7-u8-q10"
+              ]
             },
             {
               "id": "typescript-section-7-unit-8-feature-flags-lesson-2",
@@ -2043,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Feature flags helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-7-unit-9-constants-modules",
@@ -2056,7 +2866,18 @@
               "unitId": "typescript-section-7-unit-9-constants-modules",
               "title": "Learn Constants modules",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s7-u9-q1",
+                "typescript-s7-u9-q2",
+                "typescript-s7-u9-q3",
+                "typescript-s7-u9-q4",
+                "typescript-s7-u9-q5",
+                "typescript-s7-u9-q6",
+                "typescript-s7-u9-q7",
+                "typescript-s7-u9-q8",
+                "typescript-s7-u9-q9",
+                "typescript-s7-u9-q10"
+              ]
             },
             {
               "id": "typescript-section-7-unit-9-constants-modules-lesson-2",
@@ -2072,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Constants modules helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-7-unit-10-migration-choices",
@@ -2085,7 +2907,18 @@
               "unitId": "typescript-section-7-unit-10-migration-choices",
               "title": "Learn Migration choices",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s7-u10-q1",
+                "typescript-s7-u10-q2",
+                "typescript-s7-u10-q3",
+                "typescript-s7-u10-q4",
+                "typescript-s7-u10-q5",
+                "typescript-s7-u10-q6",
+                "typescript-s7-u10-q7",
+                "typescript-s7-u10-q8",
+                "typescript-s7-u10-q9",
+                "typescript-s7-u10-q10"
+              ]
             },
             {
               "id": "typescript-section-7-unit-10-migration-choices-lesson-2",
@@ -2101,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Migration choices helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         }
       ]
     },
@@ -2123,7 +2957,18 @@
               "unitId": "typescript-section-8-unit-1-component-props",
               "title": "Learn Component props",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s8-u1-q1",
+                "typescript-s8-u1-q2",
+                "typescript-s8-u1-q3",
+                "typescript-s8-u1-q4",
+                "typescript-s8-u1-q5",
+                "typescript-s8-u1-q6",
+                "typescript-s8-u1-q7",
+                "typescript-s8-u1-q8",
+                "typescript-s8-u1-q9",
+                "typescript-s8-u1-q10"
+              ]
             },
             {
               "id": "typescript-section-8-unit-1-component-props-lesson-2",
@@ -2139,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Component props helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-8-unit-2-children-types",
@@ -2152,7 +2998,18 @@
               "unitId": "typescript-section-8-unit-2-children-types",
               "title": "Learn Children types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s8-u2-q1",
+                "typescript-s8-u2-q2",
+                "typescript-s8-u2-q3",
+                "typescript-s8-u2-q4",
+                "typescript-s8-u2-q5",
+                "typescript-s8-u2-q6",
+                "typescript-s8-u2-q7",
+                "typescript-s8-u2-q8",
+                "typescript-s8-u2-q9",
+                "typescript-s8-u2-q10"
+              ]
             },
             {
               "id": "typescript-section-8-unit-2-children-types-lesson-2",
@@ -2168,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Children types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-8-unit-3-event-types",
@@ -2181,7 +3039,18 @@
               "unitId": "typescript-section-8-unit-3-event-types",
               "title": "Learn Event types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s8-u3-q1",
+                "typescript-s8-u3-q2",
+                "typescript-s8-u3-q3",
+                "typescript-s8-u3-q4",
+                "typescript-s8-u3-q5",
+                "typescript-s8-u3-q6",
+                "typescript-s8-u3-q7",
+                "typescript-s8-u3-q8",
+                "typescript-s8-u3-q9",
+                "typescript-s8-u3-q10"
+              ]
             },
             {
               "id": "typescript-section-8-unit-3-event-types-lesson-2",
@@ -2197,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Event types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-8-unit-4-usestate-types",
@@ -2210,7 +3080,18 @@
               "unitId": "typescript-section-8-unit-4-usestate-types",
               "title": "Learn useState types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s8-u4-q1",
+                "typescript-s8-u4-q2",
+                "typescript-s8-u4-q3",
+                "typescript-s8-u4-q4",
+                "typescript-s8-u4-q5",
+                "typescript-s8-u4-q6",
+                "typescript-s8-u4-q7",
+                "typescript-s8-u4-q8",
+                "typescript-s8-u4-q9",
+                "typescript-s8-u4-q10"
+              ]
             },
             {
               "id": "typescript-section-8-unit-4-usestate-types-lesson-2",
@@ -2226,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "useState types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-8-unit-5-useref-types",
@@ -2239,7 +3121,18 @@
               "unitId": "typescript-section-8-unit-5-useref-types",
               "title": "Learn useRef types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s8-u5-q1",
+                "typescript-s8-u5-q2",
+                "typescript-s8-u5-q3",
+                "typescript-s8-u5-q4",
+                "typescript-s8-u5-q5",
+                "typescript-s8-u5-q6",
+                "typescript-s8-u5-q7",
+                "typescript-s8-u5-q8",
+                "typescript-s8-u5-q9",
+                "typescript-s8-u5-q10"
+              ]
             },
             {
               "id": "typescript-section-8-unit-5-useref-types-lesson-2",
@@ -2255,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "useRef types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-8-unit-6-custom-hooks",
@@ -2268,7 +3162,18 @@
               "unitId": "typescript-section-8-unit-6-custom-hooks",
               "title": "Learn Custom hooks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s8-u6-q1",
+                "typescript-s8-u6-q2",
+                "typescript-s8-u6-q3",
+                "typescript-s8-u6-q4",
+                "typescript-s8-u6-q5",
+                "typescript-s8-u6-q6",
+                "typescript-s8-u6-q7",
+                "typescript-s8-u6-q8",
+                "typescript-s8-u6-q9",
+                "typescript-s8-u6-q10"
+              ]
             },
             {
               "id": "typescript-section-8-unit-6-custom-hooks-lesson-2",
@@ -2284,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Custom hooks helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-8-unit-7-context-types",
@@ -2297,7 +3203,18 @@
               "unitId": "typescript-section-8-unit-7-context-types",
               "title": "Learn Context types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s8-u7-q1",
+                "typescript-s8-u7-q2",
+                "typescript-s8-u7-q3",
+                "typescript-s8-u7-q4",
+                "typescript-s8-u7-q5",
+                "typescript-s8-u7-q6",
+                "typescript-s8-u7-q7",
+                "typescript-s8-u7-q8",
+                "typescript-s8-u7-q9",
+                "typescript-s8-u7-q10"
+              ]
             },
             {
               "id": "typescript-section-8-unit-7-context-types-lesson-2",
@@ -2313,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Context types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-8-unit-8-generic-components",
@@ -2326,7 +3244,18 @@
               "unitId": "typescript-section-8-unit-8-generic-components",
               "title": "Learn Generic components",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s8-u8-q1",
+                "typescript-s8-u8-q2",
+                "typescript-s8-u8-q3",
+                "typescript-s8-u8-q4",
+                "typescript-s8-u8-q5",
+                "typescript-s8-u8-q6",
+                "typescript-s8-u8-q7",
+                "typescript-s8-u8-q8",
+                "typescript-s8-u8-q9",
+                "typescript-s8-u8-q10"
+              ]
             },
             {
               "id": "typescript-section-8-unit-8-generic-components-lesson-2",
@@ -2342,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Generic components helps you model JavaScript values with safer types. Example: `function first<T>(items: T[]): T`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-8-unit-9-form-types",
@@ -2355,7 +3285,18 @@
               "unitId": "typescript-section-8-unit-9-form-types",
               "title": "Learn Form types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s8-u9-q1",
+                "typescript-s8-u9-q2",
+                "typescript-s8-u9-q3",
+                "typescript-s8-u9-q4",
+                "typescript-s8-u9-q5",
+                "typescript-s8-u9-q6",
+                "typescript-s8-u9-q7",
+                "typescript-s8-u9-q8",
+                "typescript-s8-u9-q9",
+                "typescript-s8-u9-q10"
+              ]
             },
             {
               "id": "typescript-section-8-unit-9-form-types-lesson-2",
@@ -2371,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Form types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-8-unit-10-react-ts-patterns",
@@ -2384,7 +3326,18 @@
               "unitId": "typescript-section-8-unit-10-react-ts-patterns",
               "title": "Learn React TS patterns",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s8-u10-q1",
+                "typescript-s8-u10-q2",
+                "typescript-s8-u10-q3",
+                "typescript-s8-u10-q4",
+                "typescript-s8-u10-q5",
+                "typescript-s8-u10-q6",
+                "typescript-s8-u10-q7",
+                "typescript-s8-u10-q8",
+                "typescript-s8-u10-q9",
+                "typescript-s8-u10-q10"
+              ]
             },
             {
               "id": "typescript-section-8-unit-10-react-ts-patterns-lesson-2",
@@ -2400,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "React TS patterns helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         }
       ]
     },
@@ -2422,7 +3376,18 @@
               "unitId": "typescript-section-9-unit-1-json-parsing",
               "title": "Learn JSON parsing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s9-u1-q1",
+                "typescript-s9-u1-q2",
+                "typescript-s9-u1-q3",
+                "typescript-s9-u1-q4",
+                "typescript-s9-u1-q5",
+                "typescript-s9-u1-q6",
+                "typescript-s9-u1-q7",
+                "typescript-s9-u1-q8",
+                "typescript-s9-u1-q9",
+                "typescript-s9-u1-q10"
+              ]
             },
             {
               "id": "typescript-section-9-unit-1-json-parsing-lesson-2",
@@ -2438,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "JSON parsing helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-9-unit-2-runtime-validation",
@@ -2451,7 +3417,18 @@
               "unitId": "typescript-section-9-unit-2-runtime-validation",
               "title": "Learn Runtime validation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s9-u2-q1",
+                "typescript-s9-u2-q2",
+                "typescript-s9-u2-q3",
+                "typescript-s9-u2-q4",
+                "typescript-s9-u2-q5",
+                "typescript-s9-u2-q6",
+                "typescript-s9-u2-q7",
+                "typescript-s9-u2-q8",
+                "typescript-s9-u2-q9",
+                "typescript-s9-u2-q10"
+              ]
             },
             {
               "id": "typescript-section-9-unit-2-runtime-validation-lesson-2",
@@ -2467,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Runtime validation helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-9-unit-3-type-predicates",
@@ -2480,7 +3458,18 @@
               "unitId": "typescript-section-9-unit-3-type-predicates",
               "title": "Learn Type predicates",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s9-u3-q1",
+                "typescript-s9-u3-q2",
+                "typescript-s9-u3-q3",
+                "typescript-s9-u3-q4",
+                "typescript-s9-u3-q5",
+                "typescript-s9-u3-q6",
+                "typescript-s9-u3-q7",
+                "typescript-s9-u3-q8",
+                "typescript-s9-u3-q9",
+                "typescript-s9-u3-q10"
+              ]
             },
             {
               "id": "typescript-section-9-unit-3-type-predicates-lesson-2",
@@ -2496,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Type predicates helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-9-unit-4-dto-types",
@@ -2509,7 +3499,18 @@
               "unitId": "typescript-section-9-unit-4-dto-types",
               "title": "Learn DTO types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s9-u4-q1",
+                "typescript-s9-u4-q2",
+                "typescript-s9-u4-q3",
+                "typescript-s9-u4-q4",
+                "typescript-s9-u4-q5",
+                "typescript-s9-u4-q6",
+                "typescript-s9-u4-q7",
+                "typescript-s9-u4-q8",
+                "typescript-s9-u4-q9",
+                "typescript-s9-u4-q10"
+              ]
             },
             {
               "id": "typescript-section-9-unit-4-dto-types-lesson-2",
@@ -2525,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DTO types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-9-unit-5-error-response-types",
@@ -2538,7 +3540,18 @@
               "unitId": "typescript-section-9-unit-5-error-response-types",
               "title": "Learn Error response types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s9-u5-q1",
+                "typescript-s9-u5-q2",
+                "typescript-s9-u5-q3",
+                "typescript-s9-u5-q4",
+                "typescript-s9-u5-q5",
+                "typescript-s9-u5-q6",
+                "typescript-s9-u5-q7",
+                "typescript-s9-u5-q8",
+                "typescript-s9-u5-q9",
+                "typescript-s9-u5-q10"
+              ]
             },
             {
               "id": "typescript-section-9-unit-5-error-response-types-lesson-2",
@@ -2554,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Error response types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-9-unit-6-environment-variables",
@@ -2567,7 +3581,18 @@
               "unitId": "typescript-section-9-unit-6-environment-variables",
               "title": "Learn Environment variables",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s9-u6-q1",
+                "typescript-s9-u6-q2",
+                "typescript-s9-u6-q3",
+                "typescript-s9-u6-q4",
+                "typescript-s9-u6-q5",
+                "typescript-s9-u6-q6",
+                "typescript-s9-u6-q7",
+                "typescript-s9-u6-q8",
+                "typescript-s9-u6-q9",
+                "typescript-s9-u6-q10"
+              ]
             },
             {
               "id": "typescript-section-9-unit-6-environment-variables-lesson-2",
@@ -2583,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Environment variables helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-9-unit-7-third-party-packages",
@@ -2596,7 +3622,18 @@
               "unitId": "typescript-section-9-unit-7-third-party-packages",
               "title": "Learn Third-party packages",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s9-u7-q1",
+                "typescript-s9-u7-q2",
+                "typescript-s9-u7-q3",
+                "typescript-s9-u7-q4",
+                "typescript-s9-u7-q5",
+                "typescript-s9-u7-q6",
+                "typescript-s9-u7-q7",
+                "typescript-s9-u7-q8",
+                "typescript-s9-u7-q9",
+                "typescript-s9-u7-q10"
+              ]
             },
             {
               "id": "typescript-section-9-unit-7-third-party-packages-lesson-2",
@@ -2612,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Third-party packages helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-9-unit-8-declaration-files",
@@ -2625,7 +3663,18 @@
               "unitId": "typescript-section-9-unit-8-declaration-files",
               "title": "Learn Declaration files",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s9-u8-q1",
+                "typescript-s9-u8-q2",
+                "typescript-s9-u8-q3",
+                "typescript-s9-u8-q4",
+                "typescript-s9-u8-q5",
+                "typescript-s9-u8-q6",
+                "typescript-s9-u8-q7",
+                "typescript-s9-u8-q8",
+                "typescript-s9-u8-q9",
+                "typescript-s9-u8-q10"
+              ]
             },
             {
               "id": "typescript-section-9-unit-8-declaration-files-lesson-2",
@@ -2641,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Declaration files helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-9-unit-9-module-augmentation",
@@ -2654,7 +3704,18 @@
               "unitId": "typescript-section-9-unit-9-module-augmentation",
               "title": "Learn Module augmentation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s9-u9-q1",
+                "typescript-s9-u9-q2",
+                "typescript-s9-u9-q3",
+                "typescript-s9-u9-q4",
+                "typescript-s9-u9-q5",
+                "typescript-s9-u9-q6",
+                "typescript-s9-u9-q7",
+                "typescript-s9-u9-q8",
+                "typescript-s9-u9-q9",
+                "typescript-s9-u9-q10"
+              ]
             },
             {
               "id": "typescript-section-9-unit-9-module-augmentation-lesson-2",
@@ -2670,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Module augmentation helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-9-unit-10-boundary-audits",
@@ -2683,7 +3745,18 @@
               "unitId": "typescript-section-9-unit-10-boundary-audits",
               "title": "Learn Boundary audits",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s9-u10-q1",
+                "typescript-s9-u10-q2",
+                "typescript-s9-u10-q3",
+                "typescript-s9-u10-q4",
+                "typescript-s9-u10-q5",
+                "typescript-s9-u10-q6",
+                "typescript-s9-u10-q7",
+                "typescript-s9-u10-q8",
+                "typescript-s9-u10-q9",
+                "typescript-s9-u10-q10"
+              ]
             },
             {
               "id": "typescript-section-9-unit-10-boundary-audits-lesson-2",
@@ -2699,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Boundary audits helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         }
       ]
     },
@@ -2721,7 +3795,18 @@
               "unitId": "typescript-section-10-unit-1-strict-mode-cleanup",
               "title": "Learn Strict mode cleanup",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s10-u1-q1",
+                "typescript-s10-u1-q2",
+                "typescript-s10-u1-q3",
+                "typescript-s10-u1-q4",
+                "typescript-s10-u1-q5",
+                "typescript-s10-u1-q6",
+                "typescript-s10-u1-q7",
+                "typescript-s10-u1-q8",
+                "typescript-s10-u1-q9",
+                "typescript-s10-u1-q10"
+              ]
             },
             {
               "id": "typescript-section-10-unit-1-strict-mode-cleanup-lesson-2",
@@ -2737,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Strict mode cleanup helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-10-unit-2-domain-modeling",
@@ -2750,7 +3836,18 @@
               "unitId": "typescript-section-10-unit-2-domain-modeling",
               "title": "Learn Domain modeling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s10-u2-q1",
+                "typescript-s10-u2-q2",
+                "typescript-s10-u2-q3",
+                "typescript-s10-u2-q4",
+                "typescript-s10-u2-q5",
+                "typescript-s10-u2-q6",
+                "typescript-s10-u2-q7",
+                "typescript-s10-u2-q8",
+                "typescript-s10-u2-q9",
+                "typescript-s10-u2-q10"
+              ]
             },
             {
               "id": "typescript-section-10-unit-2-domain-modeling-lesson-2",
@@ -2766,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Domain modeling helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-10-unit-3-refactor-to-unions",
@@ -2779,7 +3877,18 @@
               "unitId": "typescript-section-10-unit-3-refactor-to-unions",
               "title": "Learn Refactor to unions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s10-u3-q1",
+                "typescript-s10-u3-q2",
+                "typescript-s10-u3-q3",
+                "typescript-s10-u3-q4",
+                "typescript-s10-u3-q5",
+                "typescript-s10-u3-q6",
+                "typescript-s10-u3-q7",
+                "typescript-s10-u3-q8",
+                "typescript-s10-u3-q9",
+                "typescript-s10-u3-q10"
+              ]
             },
             {
               "id": "typescript-section-10-unit-3-refactor-to-unions-lesson-2",
@@ -2795,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Refactor to unions helps you model JavaScript values with safer types. Example: `type State = 'idle' | 'loading'`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-10-unit-4-typed-api-client",
@@ -2808,7 +3918,18 @@
               "unitId": "typescript-section-10-unit-4-typed-api-client",
               "title": "Learn Typed API client",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s10-u4-q1",
+                "typescript-s10-u4-q2",
+                "typescript-s10-u4-q3",
+                "typescript-s10-u4-q4",
+                "typescript-s10-u4-q5",
+                "typescript-s10-u4-q6",
+                "typescript-s10-u4-q7",
+                "typescript-s10-u4-q8",
+                "typescript-s10-u4-q9",
+                "typescript-s10-u4-q10"
+              ]
             },
             {
               "id": "typescript-section-10-unit-4-typed-api-client-lesson-2",
@@ -2824,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Typed API client helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-10-unit-5-reusable-form-types",
@@ -2837,7 +3959,18 @@
               "unitId": "typescript-section-10-unit-5-reusable-form-types",
               "title": "Learn Reusable form types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s10-u5-q1",
+                "typescript-s10-u5-q2",
+                "typescript-s10-u5-q3",
+                "typescript-s10-u5-q4",
+                "typescript-s10-u5-q5",
+                "typescript-s10-u5-q6",
+                "typescript-s10-u5-q7",
+                "typescript-s10-u5-q8",
+                "typescript-s10-u5-q9",
+                "typescript-s10-u5-q10"
+              ]
             },
             {
               "id": "typescript-section-10-unit-5-reusable-form-types-lesson-2",
@@ -2853,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reusable form types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-10-unit-6-state-machine-types",
@@ -2866,7 +4000,18 @@
               "unitId": "typescript-section-10-unit-6-state-machine-types",
               "title": "Learn State machine types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s10-u6-q1",
+                "typescript-s10-u6-q2",
+                "typescript-s10-u6-q3",
+                "typescript-s10-u6-q4",
+                "typescript-s10-u6-q5",
+                "typescript-s10-u6-q6",
+                "typescript-s10-u6-q7",
+                "typescript-s10-u6-q8",
+                "typescript-s10-u6-q9",
+                "typescript-s10-u6-q10"
+              ]
             },
             {
               "id": "typescript-section-10-unit-6-state-machine-types-lesson-2",
@@ -2882,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "State machine types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-10-unit-7-test-helper-types",
@@ -2895,7 +4041,18 @@
               "unitId": "typescript-section-10-unit-7-test-helper-types",
               "title": "Learn Test helper types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s10-u7-q1",
+                "typescript-s10-u7-q2",
+                "typescript-s10-u7-q3",
+                "typescript-s10-u7-q4",
+                "typescript-s10-u7-q5",
+                "typescript-s10-u7-q6",
+                "typescript-s10-u7-q7",
+                "typescript-s10-u7-q8",
+                "typescript-s10-u7-q9",
+                "typescript-s10-u7-q10"
+              ]
             },
             {
               "id": "typescript-section-10-unit-7-test-helper-types-lesson-2",
@@ -2911,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Test helper types helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-10-unit-8-library-typing",
@@ -2924,7 +4082,18 @@
               "unitId": "typescript-section-10-unit-8-library-typing",
               "title": "Learn Library typing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s10-u8-q1",
+                "typescript-s10-u8-q2",
+                "typescript-s10-u8-q3",
+                "typescript-s10-u8-q4",
+                "typescript-s10-u8-q5",
+                "typescript-s10-u8-q6",
+                "typescript-s10-u8-q7",
+                "typescript-s10-u8-q8",
+                "typescript-s10-u8-q9",
+                "typescript-s10-u8-q10"
+              ]
             },
             {
               "id": "typescript-section-10-unit-8-library-typing-lesson-2",
@@ -2940,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Library typing helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-10-unit-9-build-troubleshooting",
@@ -2953,7 +4123,18 @@
               "unitId": "typescript-section-10-unit-9-build-troubleshooting",
               "title": "Learn Build troubleshooting",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s10-u9-q1",
+                "typescript-s10-u9-q2",
+                "typescript-s10-u9-q3",
+                "typescript-s10-u9-q4",
+                "typescript-s10-u9-q5",
+                "typescript-s10-u9-q6",
+                "typescript-s10-u9-q7",
+                "typescript-s10-u9-q8",
+                "typescript-s10-u9-q9",
+                "typescript-s10-u9-q10"
+              ]
             },
             {
               "id": "typescript-section-10-unit-9-build-troubleshooting-lesson-2",
@@ -2969,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Build troubleshooting helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         },
         {
           "id": "typescript-section-10-unit-10-final-ts-project",
@@ -2982,7 +4164,18 @@
               "unitId": "typescript-section-10-unit-10-final-ts-project",
               "title": "Learn Final TS project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "typescript-s10-u10-q1",
+                "typescript-s10-u10-q2",
+                "typescript-s10-u10-q3",
+                "typescript-s10-u10-q4",
+                "typescript-s10-u10-q5",
+                "typescript-s10-u10-q6",
+                "typescript-s10-u10-q7",
+                "typescript-s10-u10-q8",
+                "typescript-s10-u10-q9",
+                "typescript-s10-u10-q10"
+              ]
             },
             {
               "id": "typescript-section-10-unit-10-final-ts-project-lesson-2",
@@ -2998,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final TS project helps you model JavaScript values with safer types. Example: `type User = { id: string }`. Avoid: using `any` to hide every type error."
         }
       ]
     }

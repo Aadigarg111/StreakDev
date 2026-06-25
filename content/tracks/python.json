@@ -25,7 +25,16 @@
               "title": "Learn Running Python",
               "order": 1,
               "exerciseIds": [
-                "python-s1-u1-sample"
+                "python-s1-u1-q1",
+                "python-s1-u1-q2",
+                "python-s1-u1-q3",
+                "python-s1-u1-q4",
+                "python-s1-u1-q5",
+                "python-s1-u1-q6",
+                "python-s1-u1-q7",
+                "python-s1-u1-q8",
+                "python-s1-u1-q9",
+                "python-s1-u1-q10"
               ]
             },
             {
@@ -42,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Running Python helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-1-unit-2-variables",
@@ -56,7 +66,16 @@
               "title": "Learn Variables",
               "order": 1,
               "exerciseIds": [
-                "python-s1-u2-sample"
+                "python-s1-u2-q1",
+                "python-s1-u2-q2",
+                "python-s1-u2-q3",
+                "python-s1-u2-q4",
+                "python-s1-u2-q5",
+                "python-s1-u2-q6",
+                "python-s1-u2-q7",
+                "python-s1-u2-q8",
+                "python-s1-u2-q9",
+                "python-s1-u2-q10"
               ]
             },
             {
@@ -73,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Variables helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-1-unit-3-numbers",
@@ -87,7 +107,16 @@
               "title": "Learn Numbers",
               "order": 1,
               "exerciseIds": [
-                "python-s1-u3-sample"
+                "python-s1-u3-q1",
+                "python-s1-u3-q2",
+                "python-s1-u3-q3",
+                "python-s1-u3-q4",
+                "python-s1-u3-q5",
+                "python-s1-u3-q6",
+                "python-s1-u3-q7",
+                "python-s1-u3-q8",
+                "python-s1-u3-q9",
+                "python-s1-u3-q10"
               ]
             },
             {
@@ -104,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Numbers helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-1-unit-4-strings",
@@ -117,7 +147,18 @@
               "unitId": "python-section-1-unit-4-strings",
               "title": "Learn Strings",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s1-u4-q1",
+                "python-s1-u4-q2",
+                "python-s1-u4-q3",
+                "python-s1-u4-q4",
+                "python-s1-u4-q5",
+                "python-s1-u4-q6",
+                "python-s1-u4-q7",
+                "python-s1-u4-q8",
+                "python-s1-u4-q9",
+                "python-s1-u4-q10"
+              ]
             },
             {
               "id": "python-section-1-unit-4-strings-lesson-2",
@@ -133,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Strings helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-1-unit-5-booleans",
@@ -146,7 +188,18 @@
               "unitId": "python-section-1-unit-5-booleans",
               "title": "Learn Booleans",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s1-u5-q1",
+                "python-s1-u5-q2",
+                "python-s1-u5-q3",
+                "python-s1-u5-q4",
+                "python-s1-u5-q5",
+                "python-s1-u5-q6",
+                "python-s1-u5-q7",
+                "python-s1-u5-q8",
+                "python-s1-u5-q9",
+                "python-s1-u5-q10"
+              ]
             },
             {
               "id": "python-section-1-unit-5-booleans-lesson-2",
@@ -162,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Booleans helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-1-unit-6-operators",
@@ -175,7 +229,18 @@
               "unitId": "python-section-1-unit-6-operators",
               "title": "Learn Operators",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s1-u6-q1",
+                "python-s1-u6-q2",
+                "python-s1-u6-q3",
+                "python-s1-u6-q4",
+                "python-s1-u6-q5",
+                "python-s1-u6-q6",
+                "python-s1-u6-q7",
+                "python-s1-u6-q8",
+                "python-s1-u6-q9",
+                "python-s1-u6-q10"
+              ]
             },
             {
               "id": "python-section-1-unit-6-operators-lesson-2",
@@ -191,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Operators helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-1-unit-7-comments",
@@ -204,7 +270,18 @@
               "unitId": "python-section-1-unit-7-comments",
               "title": "Learn Comments",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s1-u7-q1",
+                "python-s1-u7-q2",
+                "python-s1-u7-q3",
+                "python-s1-u7-q4",
+                "python-s1-u7-q5",
+                "python-s1-u7-q6",
+                "python-s1-u7-q7",
+                "python-s1-u7-q8",
+                "python-s1-u7-q9",
+                "python-s1-u7-q10"
+              ]
             },
             {
               "id": "python-section-1-unit-7-comments-lesson-2",
@@ -220,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Comments helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-1-unit-8-input-and-print",
@@ -233,7 +311,18 @@
               "unitId": "python-section-1-unit-8-input-and-print",
               "title": "Learn Input and print",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s1-u8-q1",
+                "python-s1-u8-q2",
+                "python-s1-u8-q3",
+                "python-s1-u8-q4",
+                "python-s1-u8-q5",
+                "python-s1-u8-q6",
+                "python-s1-u8-q7",
+                "python-s1-u8-q8",
+                "python-s1-u8-q9",
+                "python-s1-u8-q10"
+              ]
             },
             {
               "id": "python-section-1-unit-8-input-and-print-lesson-2",
@@ -249,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Input and print helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-1-unit-9-type-conversion",
@@ -262,7 +352,18 @@
               "unitId": "python-section-1-unit-9-type-conversion",
               "title": "Learn Type conversion",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s1-u9-q1",
+                "python-s1-u9-q2",
+                "python-s1-u9-q3",
+                "python-s1-u9-q4",
+                "python-s1-u9-q5",
+                "python-s1-u9-q6",
+                "python-s1-u9-q7",
+                "python-s1-u9-q8",
+                "python-s1-u9-q9",
+                "python-s1-u9-q10"
+              ]
             },
             {
               "id": "python-section-1-unit-9-type-conversion-lesson-2",
@@ -278,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Type conversion helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-1-unit-10-style-basics",
@@ -291,7 +393,18 @@
               "unitId": "python-section-1-unit-10-style-basics",
               "title": "Learn Style basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s1-u10-q1",
+                "python-s1-u10-q2",
+                "python-s1-u10-q3",
+                "python-s1-u10-q4",
+                "python-s1-u10-q5",
+                "python-s1-u10-q6",
+                "python-s1-u10-q7",
+                "python-s1-u10-q8",
+                "python-s1-u10-q9",
+                "python-s1-u10-q10"
+              ]
             },
             {
               "id": "python-section-1-unit-10-style-basics-lesson-2",
@@ -307,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Style basics helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         }
       ]
     },
@@ -329,7 +443,18 @@
               "unitId": "python-section-2-unit-1-if-statements",
               "title": "Learn if statements",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s2-u1-q1",
+                "python-s2-u1-q2",
+                "python-s2-u1-q3",
+                "python-s2-u1-q4",
+                "python-s2-u1-q5",
+                "python-s2-u1-q6",
+                "python-s2-u1-q7",
+                "python-s2-u1-q8",
+                "python-s2-u1-q9",
+                "python-s2-u1-q10"
+              ]
             },
             {
               "id": "python-section-2-unit-1-if-statements-lesson-2",
@@ -345,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "if statements helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-2-unit-2-else-and-elif",
@@ -358,7 +484,18 @@
               "unitId": "python-section-2-unit-2-else-and-elif",
               "title": "Learn else and elif",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s2-u2-q1",
+                "python-s2-u2-q2",
+                "python-s2-u2-q3",
+                "python-s2-u2-q4",
+                "python-s2-u2-q5",
+                "python-s2-u2-q6",
+                "python-s2-u2-q7",
+                "python-s2-u2-q8",
+                "python-s2-u2-q9",
+                "python-s2-u2-q10"
+              ]
             },
             {
               "id": "python-section-2-unit-2-else-and-elif-lesson-2",
@@ -374,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "else and elif helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-2-unit-3-comparison-operators",
@@ -387,7 +525,18 @@
               "unitId": "python-section-2-unit-3-comparison-operators",
               "title": "Learn Comparison operators",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s2-u3-q1",
+                "python-s2-u3-q2",
+                "python-s2-u3-q3",
+                "python-s2-u3-q4",
+                "python-s2-u3-q5",
+                "python-s2-u3-q6",
+                "python-s2-u3-q7",
+                "python-s2-u3-q8",
+                "python-s2-u3-q9",
+                "python-s2-u3-q10"
+              ]
             },
             {
               "id": "python-section-2-unit-3-comparison-operators-lesson-2",
@@ -403,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Comparison operators helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-2-unit-4-logical-operators",
@@ -416,7 +566,18 @@
               "unitId": "python-section-2-unit-4-logical-operators",
               "title": "Learn Logical operators",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s2-u4-q1",
+                "python-s2-u4-q2",
+                "python-s2-u4-q3",
+                "python-s2-u4-q4",
+                "python-s2-u4-q5",
+                "python-s2-u4-q6",
+                "python-s2-u4-q7",
+                "python-s2-u4-q8",
+                "python-s2-u4-q9",
+                "python-s2-u4-q10"
+              ]
             },
             {
               "id": "python-section-2-unit-4-logical-operators-lesson-2",
@@ -432,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Logical operators helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-2-unit-5-for-loops",
@@ -445,7 +607,18 @@
               "unitId": "python-section-2-unit-5-for-loops",
               "title": "Learn for loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s2-u5-q1",
+                "python-s2-u5-q2",
+                "python-s2-u5-q3",
+                "python-s2-u5-q4",
+                "python-s2-u5-q5",
+                "python-s2-u5-q6",
+                "python-s2-u5-q7",
+                "python-s2-u5-q8",
+                "python-s2-u5-q9",
+                "python-s2-u5-q10"
+              ]
             },
             {
               "id": "python-section-2-unit-5-for-loops-lesson-2",
@@ -461,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "for loops helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-2-unit-6-while-loops",
@@ -474,7 +648,18 @@
               "unitId": "python-section-2-unit-6-while-loops",
               "title": "Learn while loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s2-u6-q1",
+                "python-s2-u6-q2",
+                "python-s2-u6-q3",
+                "python-s2-u6-q4",
+                "python-s2-u6-q5",
+                "python-s2-u6-q6",
+                "python-s2-u6-q7",
+                "python-s2-u6-q8",
+                "python-s2-u6-q9",
+                "python-s2-u6-q10"
+              ]
             },
             {
               "id": "python-section-2-unit-6-while-loops-lesson-2",
@@ -490,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "while loops helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-2-unit-7-range",
@@ -503,7 +689,18 @@
               "unitId": "python-section-2-unit-7-range",
               "title": "Learn range",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s2-u7-q1",
+                "python-s2-u7-q2",
+                "python-s2-u7-q3",
+                "python-s2-u7-q4",
+                "python-s2-u7-q5",
+                "python-s2-u7-q6",
+                "python-s2-u7-q7",
+                "python-s2-u7-q8",
+                "python-s2-u7-q9",
+                "python-s2-u7-q10"
+              ]
             },
             {
               "id": "python-section-2-unit-7-range-lesson-2",
@@ -519,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "range helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-2-unit-8-break-and-continue",
@@ -532,7 +730,18 @@
               "unitId": "python-section-2-unit-8-break-and-continue",
               "title": "Learn break and continue",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s2-u8-q1",
+                "python-s2-u8-q2",
+                "python-s2-u8-q3",
+                "python-s2-u8-q4",
+                "python-s2-u8-q5",
+                "python-s2-u8-q6",
+                "python-s2-u8-q7",
+                "python-s2-u8-q8",
+                "python-s2-u8-q9",
+                "python-s2-u8-q10"
+              ]
             },
             {
               "id": "python-section-2-unit-8-break-and-continue-lesson-2",
@@ -548,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "break and continue helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-2-unit-9-nested-loops",
@@ -561,7 +771,18 @@
               "unitId": "python-section-2-unit-9-nested-loops",
               "title": "Learn Nested loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s2-u9-q1",
+                "python-s2-u9-q2",
+                "python-s2-u9-q3",
+                "python-s2-u9-q4",
+                "python-s2-u9-q5",
+                "python-s2-u9-q6",
+                "python-s2-u9-q7",
+                "python-s2-u9-q8",
+                "python-s2-u9-q9",
+                "python-s2-u9-q10"
+              ]
             },
             {
               "id": "python-section-2-unit-9-nested-loops-lesson-2",
@@ -577,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Nested loops helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-2-unit-10-control-flow-project",
@@ -590,7 +812,18 @@
               "unitId": "python-section-2-unit-10-control-flow-project",
               "title": "Learn Control flow project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s2-u10-q1",
+                "python-s2-u10-q2",
+                "python-s2-u10-q3",
+                "python-s2-u10-q4",
+                "python-s2-u10-q5",
+                "python-s2-u10-q6",
+                "python-s2-u10-q7",
+                "python-s2-u10-q8",
+                "python-s2-u10-q9",
+                "python-s2-u10-q10"
+              ]
             },
             {
               "id": "python-section-2-unit-10-control-flow-project-lesson-2",
@@ -606,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Control flow project helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         }
       ]
     },
@@ -628,7 +862,18 @@
               "unitId": "python-section-3-unit-1-lists",
               "title": "Learn Lists",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s3-u1-q1",
+                "python-s3-u1-q2",
+                "python-s3-u1-q3",
+                "python-s3-u1-q4",
+                "python-s3-u1-q5",
+                "python-s3-u1-q6",
+                "python-s3-u1-q7",
+                "python-s3-u1-q8",
+                "python-s3-u1-q9",
+                "python-s3-u1-q10"
+              ]
             },
             {
               "id": "python-section-3-unit-1-lists-lesson-2",
@@ -644,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Lists helps you write readable scripts and applications. Example: `names[0]`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-3-unit-2-list-indexing",
@@ -657,7 +903,18 @@
               "unitId": "python-section-3-unit-2-list-indexing",
               "title": "Learn List indexing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s3-u2-q1",
+                "python-s3-u2-q2",
+                "python-s3-u2-q3",
+                "python-s3-u2-q4",
+                "python-s3-u2-q5",
+                "python-s3-u2-q6",
+                "python-s3-u2-q7",
+                "python-s3-u2-q8",
+                "python-s3-u2-q9",
+                "python-s3-u2-q10"
+              ]
             },
             {
               "id": "python-section-3-unit-2-list-indexing-lesson-2",
@@ -673,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "List indexing helps you write readable scripts and applications. Example: `names[0]`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-3-unit-3-list-methods",
@@ -686,7 +944,18 @@
               "unitId": "python-section-3-unit-3-list-methods",
               "title": "Learn List methods",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s3-u3-q1",
+                "python-s3-u3-q2",
+                "python-s3-u3-q3",
+                "python-s3-u3-q4",
+                "python-s3-u3-q5",
+                "python-s3-u3-q6",
+                "python-s3-u3-q7",
+                "python-s3-u3-q8",
+                "python-s3-u3-q9",
+                "python-s3-u3-q10"
+              ]
             },
             {
               "id": "python-section-3-unit-3-list-methods-lesson-2",
@@ -702,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "List methods helps you write readable scripts and applications. Example: `names[0]`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-3-unit-4-tuples",
@@ -715,7 +985,18 @@
               "unitId": "python-section-3-unit-4-tuples",
               "title": "Learn Tuples",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s3-u4-q1",
+                "python-s3-u4-q2",
+                "python-s3-u4-q3",
+                "python-s3-u4-q4",
+                "python-s3-u4-q5",
+                "python-s3-u4-q6",
+                "python-s3-u4-q7",
+                "python-s3-u4-q8",
+                "python-s3-u4-q9",
+                "python-s3-u4-q10"
+              ]
             },
             {
               "id": "python-section-3-unit-4-tuples-lesson-2",
@@ -731,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tuples helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-3-unit-5-dictionaries",
@@ -744,7 +1026,18 @@
               "unitId": "python-section-3-unit-5-dictionaries",
               "title": "Learn Dictionaries",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s3-u5-q1",
+                "python-s3-u5-q2",
+                "python-s3-u5-q3",
+                "python-s3-u5-q4",
+                "python-s3-u5-q5",
+                "python-s3-u5-q6",
+                "python-s3-u5-q7",
+                "python-s3-u5-q8",
+                "python-s3-u5-q9",
+                "python-s3-u5-q10"
+              ]
             },
             {
               "id": "python-section-3-unit-5-dictionaries-lesson-2",
@@ -760,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dictionaries helps you write readable scripts and applications. Example: `user['name']`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-3-unit-6-dictionary-methods",
@@ -773,7 +1067,18 @@
               "unitId": "python-section-3-unit-6-dictionary-methods",
               "title": "Learn Dictionary methods",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s3-u6-q1",
+                "python-s3-u6-q2",
+                "python-s3-u6-q3",
+                "python-s3-u6-q4",
+                "python-s3-u6-q5",
+                "python-s3-u6-q6",
+                "python-s3-u6-q7",
+                "python-s3-u6-q8",
+                "python-s3-u6-q9",
+                "python-s3-u6-q10"
+              ]
             },
             {
               "id": "python-section-3-unit-6-dictionary-methods-lesson-2",
@@ -789,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dictionary methods helps you write readable scripts and applications. Example: `user['name']`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-3-unit-7-sets",
@@ -802,7 +1108,18 @@
               "unitId": "python-section-3-unit-7-sets",
               "title": "Learn Sets",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s3-u7-q1",
+                "python-s3-u7-q2",
+                "python-s3-u7-q3",
+                "python-s3-u7-q4",
+                "python-s3-u7-q5",
+                "python-s3-u7-q6",
+                "python-s3-u7-q7",
+                "python-s3-u7-q8",
+                "python-s3-u7-q9",
+                "python-s3-u7-q10"
+              ]
             },
             {
               "id": "python-section-3-unit-7-sets-lesson-2",
@@ -818,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sets helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-3-unit-8-membership-tests",
@@ -831,7 +1149,18 @@
               "unitId": "python-section-3-unit-8-membership-tests",
               "title": "Learn Membership tests",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s3-u8-q1",
+                "python-s3-u8-q2",
+                "python-s3-u8-q3",
+                "python-s3-u8-q4",
+                "python-s3-u8-q5",
+                "python-s3-u8-q6",
+                "python-s3-u8-q7",
+                "python-s3-u8-q8",
+                "python-s3-u8-q9",
+                "python-s3-u8-q10"
+              ]
             },
             {
               "id": "python-section-3-unit-8-membership-tests-lesson-2",
@@ -847,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Membership tests helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-3-unit-9-nested-data",
@@ -860,7 +1190,18 @@
               "unitId": "python-section-3-unit-9-nested-data",
               "title": "Learn Nested data",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s3-u9-q1",
+                "python-s3-u9-q2",
+                "python-s3-u9-q3",
+                "python-s3-u9-q4",
+                "python-s3-u9-q5",
+                "python-s3-u9-q6",
+                "python-s3-u9-q7",
+                "python-s3-u9-q8",
+                "python-s3-u9-q9",
+                "python-s3-u9-q10"
+              ]
             },
             {
               "id": "python-section-3-unit-9-nested-data-lesson-2",
@@ -876,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Nested data helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-3-unit-10-data-structure-project",
@@ -889,7 +1231,18 @@
               "unitId": "python-section-3-unit-10-data-structure-project",
               "title": "Learn Data structure project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s3-u10-q1",
+                "python-s3-u10-q2",
+                "python-s3-u10-q3",
+                "python-s3-u10-q4",
+                "python-s3-u10-q5",
+                "python-s3-u10-q6",
+                "python-s3-u10-q7",
+                "python-s3-u10-q8",
+                "python-s3-u10-q9",
+                "python-s3-u10-q10"
+              ]
             },
             {
               "id": "python-section-3-unit-10-data-structure-project-lesson-2",
@@ -905,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data structure project helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         }
       ]
     },
@@ -927,7 +1281,18 @@
               "unitId": "python-section-4-unit-1-defining-functions",
               "title": "Learn Defining functions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s4-u1-q1",
+                "python-s4-u1-q2",
+                "python-s4-u1-q3",
+                "python-s4-u1-q4",
+                "python-s4-u1-q5",
+                "python-s4-u1-q6",
+                "python-s4-u1-q7",
+                "python-s4-u1-q8",
+                "python-s4-u1-q9",
+                "python-s4-u1-q10"
+              ]
             },
             {
               "id": "python-section-4-unit-1-defining-functions-lesson-2",
@@ -943,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Defining functions helps you write readable scripts and applications. Example: `def greet(name): return 'Hi ' + name`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-4-unit-2-parameters",
@@ -956,7 +1322,18 @@
               "unitId": "python-section-4-unit-2-parameters",
               "title": "Learn Parameters",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s4-u2-q1",
+                "python-s4-u2-q2",
+                "python-s4-u2-q3",
+                "python-s4-u2-q4",
+                "python-s4-u2-q5",
+                "python-s4-u2-q6",
+                "python-s4-u2-q7",
+                "python-s4-u2-q8",
+                "python-s4-u2-q9",
+                "python-s4-u2-q10"
+              ]
             },
             {
               "id": "python-section-4-unit-2-parameters-lesson-2",
@@ -972,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Parameters helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-4-unit-3-return-values",
@@ -985,7 +1363,18 @@
               "unitId": "python-section-4-unit-3-return-values",
               "title": "Learn Return values",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s4-u3-q1",
+                "python-s4-u3-q2",
+                "python-s4-u3-q3",
+                "python-s4-u3-q4",
+                "python-s4-u3-q5",
+                "python-s4-u3-q6",
+                "python-s4-u3-q7",
+                "python-s4-u3-q8",
+                "python-s4-u3-q9",
+                "python-s4-u3-q10"
+              ]
             },
             {
               "id": "python-section-4-unit-3-return-values-lesson-2",
@@ -1001,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Return values helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-4-unit-4-default-args",
@@ -1014,7 +1404,18 @@
               "unitId": "python-section-4-unit-4-default-args",
               "title": "Learn Default args",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s4-u4-q1",
+                "python-s4-u4-q2",
+                "python-s4-u4-q3",
+                "python-s4-u4-q4",
+                "python-s4-u4-q5",
+                "python-s4-u4-q6",
+                "python-s4-u4-q7",
+                "python-s4-u4-q8",
+                "python-s4-u4-q9",
+                "python-s4-u4-q10"
+              ]
             },
             {
               "id": "python-section-4-unit-4-default-args-lesson-2",
@@ -1030,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Default args helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-4-unit-5-keyword-args",
@@ -1043,7 +1445,18 @@
               "unitId": "python-section-4-unit-5-keyword-args",
               "title": "Learn Keyword args",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s4-u5-q1",
+                "python-s4-u5-q2",
+                "python-s4-u5-q3",
+                "python-s4-u5-q4",
+                "python-s4-u5-q5",
+                "python-s4-u5-q6",
+                "python-s4-u5-q7",
+                "python-s4-u5-q8",
+                "python-s4-u5-q9",
+                "python-s4-u5-q10"
+              ]
             },
             {
               "id": "python-section-4-unit-5-keyword-args-lesson-2",
@@ -1059,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Keyword args helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-4-unit-6-args-and-kwargs",
@@ -1072,7 +1486,18 @@
               "unitId": "python-section-4-unit-6-args-and-kwargs",
               "title": "Learn args and kwargs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s4-u6-q1",
+                "python-s4-u6-q2",
+                "python-s4-u6-q3",
+                "python-s4-u6-q4",
+                "python-s4-u6-q5",
+                "python-s4-u6-q6",
+                "python-s4-u6-q7",
+                "python-s4-u6-q8",
+                "python-s4-u6-q9",
+                "python-s4-u6-q10"
+              ]
             },
             {
               "id": "python-section-4-unit-6-args-and-kwargs-lesson-2",
@@ -1088,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "args and kwargs helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-4-unit-7-scope",
@@ -1101,7 +1527,18 @@
               "unitId": "python-section-4-unit-7-scope",
               "title": "Learn Scope",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s4-u7-q1",
+                "python-s4-u7-q2",
+                "python-s4-u7-q3",
+                "python-s4-u7-q4",
+                "python-s4-u7-q5",
+                "python-s4-u7-q6",
+                "python-s4-u7-q7",
+                "python-s4-u7-q8",
+                "python-s4-u7-q9",
+                "python-s4-u7-q10"
+              ]
             },
             {
               "id": "python-section-4-unit-7-scope-lesson-2",
@@ -1117,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Scope helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-4-unit-8-docstrings",
@@ -1130,7 +1568,18 @@
               "unitId": "python-section-4-unit-8-docstrings",
               "title": "Learn Docstrings",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s4-u8-q1",
+                "python-s4-u8-q2",
+                "python-s4-u8-q3",
+                "python-s4-u8-q4",
+                "python-s4-u8-q5",
+                "python-s4-u8-q6",
+                "python-s4-u8-q7",
+                "python-s4-u8-q8",
+                "python-s4-u8-q9",
+                "python-s4-u8-q10"
+              ]
             },
             {
               "id": "python-section-4-unit-8-docstrings-lesson-2",
@@ -1146,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Docstrings helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-4-unit-9-lambda-basics",
@@ -1159,7 +1609,18 @@
               "unitId": "python-section-4-unit-9-lambda-basics",
               "title": "Learn Lambda basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s4-u9-q1",
+                "python-s4-u9-q2",
+                "python-s4-u9-q3",
+                "python-s4-u9-q4",
+                "python-s4-u9-q5",
+                "python-s4-u9-q6",
+                "python-s4-u9-q7",
+                "python-s4-u9-q8",
+                "python-s4-u9-q9",
+                "python-s4-u9-q10"
+              ]
             },
             {
               "id": "python-section-4-unit-9-lambda-basics-lesson-2",
@@ -1175,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Lambda basics helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-4-unit-10-function-project",
@@ -1188,7 +1650,18 @@
               "unitId": "python-section-4-unit-10-function-project",
               "title": "Learn Function project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s4-u10-q1",
+                "python-s4-u10-q2",
+                "python-s4-u10-q3",
+                "python-s4-u10-q4",
+                "python-s4-u10-q5",
+                "python-s4-u10-q6",
+                "python-s4-u10-q7",
+                "python-s4-u10-q8",
+                "python-s4-u10-q9",
+                "python-s4-u10-q10"
+              ]
             },
             {
               "id": "python-section-4-unit-10-function-project-lesson-2",
@@ -1204,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Function project helps you write readable scripts and applications. Example: `def greet(name): return 'Hi ' + name`. Avoid: guessing flow instead of reading indentation."
         }
       ]
     },
@@ -1226,7 +1700,18 @@
               "unitId": "python-section-5-unit-1-classes",
               "title": "Learn Classes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s5-u1-q1",
+                "python-s5-u1-q2",
+                "python-s5-u1-q3",
+                "python-s5-u1-q4",
+                "python-s5-u1-q5",
+                "python-s5-u1-q6",
+                "python-s5-u1-q7",
+                "python-s5-u1-q8",
+                "python-s5-u1-q9",
+                "python-s5-u1-q10"
+              ]
             },
             {
               "id": "python-section-5-unit-1-classes-lesson-2",
@@ -1242,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Classes helps you write readable scripts and applications. Example: `class User:`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-5-unit-2-instances",
@@ -1255,7 +1741,18 @@
               "unitId": "python-section-5-unit-2-instances",
               "title": "Learn Instances",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s5-u2-q1",
+                "python-s5-u2-q2",
+                "python-s5-u2-q3",
+                "python-s5-u2-q4",
+                "python-s5-u2-q5",
+                "python-s5-u2-q6",
+                "python-s5-u2-q7",
+                "python-s5-u2-q8",
+                "python-s5-u2-q9",
+                "python-s5-u2-q10"
+              ]
             },
             {
               "id": "python-section-5-unit-2-instances-lesson-2",
@@ -1271,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Instances helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-5-unit-3-attributes",
@@ -1284,7 +1782,18 @@
               "unitId": "python-section-5-unit-3-attributes",
               "title": "Learn Attributes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s5-u3-q1",
+                "python-s5-u3-q2",
+                "python-s5-u3-q3",
+                "python-s5-u3-q4",
+                "python-s5-u3-q5",
+                "python-s5-u3-q6",
+                "python-s5-u3-q7",
+                "python-s5-u3-q8",
+                "python-s5-u3-q9",
+                "python-s5-u3-q10"
+              ]
             },
             {
               "id": "python-section-5-unit-3-attributes-lesson-2",
@@ -1300,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Attributes helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-5-unit-4-methods",
@@ -1313,7 +1823,18 @@
               "unitId": "python-section-5-unit-4-methods",
               "title": "Learn Methods",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s5-u4-q1",
+                "python-s5-u4-q2",
+                "python-s5-u4-q3",
+                "python-s5-u4-q4",
+                "python-s5-u4-q5",
+                "python-s5-u4-q6",
+                "python-s5-u4-q7",
+                "python-s5-u4-q8",
+                "python-s5-u4-q9",
+                "python-s5-u4-q10"
+              ]
             },
             {
               "id": "python-section-5-unit-4-methods-lesson-2",
@@ -1329,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Methods helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-5-unit-5-constructors",
@@ -1342,7 +1864,18 @@
               "unitId": "python-section-5-unit-5-constructors",
               "title": "Learn Constructors",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s5-u5-q1",
+                "python-s5-u5-q2",
+                "python-s5-u5-q3",
+                "python-s5-u5-q4",
+                "python-s5-u5-q5",
+                "python-s5-u5-q6",
+                "python-s5-u5-q7",
+                "python-s5-u5-q8",
+                "python-s5-u5-q9",
+                "python-s5-u5-q10"
+              ]
             },
             {
               "id": "python-section-5-unit-5-constructors-lesson-2",
@@ -1358,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Constructors helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-5-unit-6-class-variables",
@@ -1371,7 +1905,18 @@
               "unitId": "python-section-5-unit-6-class-variables",
               "title": "Learn Class variables",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s5-u6-q1",
+                "python-s5-u6-q2",
+                "python-s5-u6-q3",
+                "python-s5-u6-q4",
+                "python-s5-u6-q5",
+                "python-s5-u6-q6",
+                "python-s5-u6-q7",
+                "python-s5-u6-q8",
+                "python-s5-u6-q9",
+                "python-s5-u6-q10"
+              ]
             },
             {
               "id": "python-section-5-unit-6-class-variables-lesson-2",
@@ -1387,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Class variables helps you write readable scripts and applications. Example: `class User:`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-5-unit-7-inheritance",
@@ -1400,7 +1946,18 @@
               "unitId": "python-section-5-unit-7-inheritance",
               "title": "Learn Inheritance",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s5-u7-q1",
+                "python-s5-u7-q2",
+                "python-s5-u7-q3",
+                "python-s5-u7-q4",
+                "python-s5-u7-q5",
+                "python-s5-u7-q6",
+                "python-s5-u7-q7",
+                "python-s5-u7-q8",
+                "python-s5-u7-q9",
+                "python-s5-u7-q10"
+              ]
             },
             {
               "id": "python-section-5-unit-7-inheritance-lesson-2",
@@ -1416,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Inheritance helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-5-unit-8-method-override",
@@ -1429,7 +1987,18 @@
               "unitId": "python-section-5-unit-8-method-override",
               "title": "Learn Method override",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s5-u8-q1",
+                "python-s5-u8-q2",
+                "python-s5-u8-q3",
+                "python-s5-u8-q4",
+                "python-s5-u8-q5",
+                "python-s5-u8-q6",
+                "python-s5-u8-q7",
+                "python-s5-u8-q8",
+                "python-s5-u8-q9",
+                "python-s5-u8-q10"
+              ]
             },
             {
               "id": "python-section-5-unit-8-method-override-lesson-2",
@@ -1445,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Method override helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-5-unit-9-dunder-methods",
@@ -1458,7 +2028,18 @@
               "unitId": "python-section-5-unit-9-dunder-methods",
               "title": "Learn Dunder methods",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s5-u9-q1",
+                "python-s5-u9-q2",
+                "python-s5-u9-q3",
+                "python-s5-u9-q4",
+                "python-s5-u9-q5",
+                "python-s5-u9-q6",
+                "python-s5-u9-q7",
+                "python-s5-u9-q8",
+                "python-s5-u9-q9",
+                "python-s5-u9-q10"
+              ]
             },
             {
               "id": "python-section-5-unit-9-dunder-methods-lesson-2",
@@ -1474,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dunder methods helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-5-unit-10-oop-project",
@@ -1487,7 +2069,18 @@
               "unitId": "python-section-5-unit-10-oop-project",
               "title": "Learn OOP project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s5-u10-q1",
+                "python-s5-u10-q2",
+                "python-s5-u10-q3",
+                "python-s5-u10-q4",
+                "python-s5-u10-q5",
+                "python-s5-u10-q6",
+                "python-s5-u10-q7",
+                "python-s5-u10-q8",
+                "python-s5-u10-q9",
+                "python-s5-u10-q10"
+              ]
             },
             {
               "id": "python-section-5-unit-10-oop-project-lesson-2",
@@ -1503,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "OOP project helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         }
       ]
     },
@@ -1525,7 +2119,18 @@
               "unitId": "python-section-6-unit-1-reading-files",
               "title": "Learn Reading files",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s6-u1-q1",
+                "python-s6-u1-q2",
+                "python-s6-u1-q3",
+                "python-s6-u1-q4",
+                "python-s6-u1-q5",
+                "python-s6-u1-q6",
+                "python-s6-u1-q7",
+                "python-s6-u1-q8",
+                "python-s6-u1-q9",
+                "python-s6-u1-q10"
+              ]
             },
             {
               "id": "python-section-6-unit-1-reading-files-lesson-2",
@@ -1541,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reading files helps you write readable scripts and applications. Example: `with open(path) as f:`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-6-unit-2-writing-files",
@@ -1554,7 +2160,18 @@
               "unitId": "python-section-6-unit-2-writing-files",
               "title": "Learn Writing files",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s6-u2-q1",
+                "python-s6-u2-q2",
+                "python-s6-u2-q3",
+                "python-s6-u2-q4",
+                "python-s6-u2-q5",
+                "python-s6-u2-q6",
+                "python-s6-u2-q7",
+                "python-s6-u2-q8",
+                "python-s6-u2-q9",
+                "python-s6-u2-q10"
+              ]
             },
             {
               "id": "python-section-6-unit-2-writing-files-lesson-2",
@@ -1570,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Writing files helps you write readable scripts and applications. Example: `with open(path) as f:`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-6-unit-3-paths",
@@ -1583,7 +2201,18 @@
               "unitId": "python-section-6-unit-3-paths",
               "title": "Learn Paths",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s6-u3-q1",
+                "python-s6-u3-q2",
+                "python-s6-u3-q3",
+                "python-s6-u3-q4",
+                "python-s6-u3-q5",
+                "python-s6-u3-q6",
+                "python-s6-u3-q7",
+                "python-s6-u3-q8",
+                "python-s6-u3-q9",
+                "python-s6-u3-q10"
+              ]
             },
             {
               "id": "python-section-6-unit-3-paths-lesson-2",
@@ -1599,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Paths helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-6-unit-4-csv-basics",
@@ -1612,7 +2242,18 @@
               "unitId": "python-section-6-unit-4-csv-basics",
               "title": "Learn CSV basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s6-u4-q1",
+                "python-s6-u4-q2",
+                "python-s6-u4-q3",
+                "python-s6-u4-q4",
+                "python-s6-u4-q5",
+                "python-s6-u4-q6",
+                "python-s6-u4-q7",
+                "python-s6-u4-q8",
+                "python-s6-u4-q9",
+                "python-s6-u4-q10"
+              ]
             },
             {
               "id": "python-section-6-unit-4-csv-basics-lesson-2",
@@ -1628,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CSV basics helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-6-unit-5-json-basics",
@@ -1641,7 +2283,18 @@
               "unitId": "python-section-6-unit-5-json-basics",
               "title": "Learn JSON basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s6-u5-q1",
+                "python-s6-u5-q2",
+                "python-s6-u5-q3",
+                "python-s6-u5-q4",
+                "python-s6-u5-q5",
+                "python-s6-u5-q6",
+                "python-s6-u5-q7",
+                "python-s6-u5-q8",
+                "python-s6-u5-q9",
+                "python-s6-u5-q10"
+              ]
             },
             {
               "id": "python-section-6-unit-5-json-basics-lesson-2",
@@ -1657,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "JSON basics helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-6-unit-6-exceptions",
@@ -1670,7 +2324,18 @@
               "unitId": "python-section-6-unit-6-exceptions",
               "title": "Learn Exceptions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s6-u6-q1",
+                "python-s6-u6-q2",
+                "python-s6-u6-q3",
+                "python-s6-u6-q4",
+                "python-s6-u6-q5",
+                "python-s6-u6-q6",
+                "python-s6-u6-q7",
+                "python-s6-u6-q8",
+                "python-s6-u6-q9",
+                "python-s6-u6-q10"
+              ]
             },
             {
               "id": "python-section-6-unit-6-exceptions-lesson-2",
@@ -1686,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Exceptions helps you write readable scripts and applications. Example: `try: ... except ValueError:`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-6-unit-7-try-and-except",
@@ -1699,7 +2365,18 @@
               "unitId": "python-section-6-unit-7-try-and-except",
               "title": "Learn try and except",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s6-u7-q1",
+                "python-s6-u7-q2",
+                "python-s6-u7-q3",
+                "python-s6-u7-q4",
+                "python-s6-u7-q5",
+                "python-s6-u7-q6",
+                "python-s6-u7-q7",
+                "python-s6-u7-q8",
+                "python-s6-u7-q9",
+                "python-s6-u7-q10"
+              ]
             },
             {
               "id": "python-section-6-unit-7-try-and-except-lesson-2",
@@ -1715,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "try and except helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-6-unit-8-finally",
@@ -1728,7 +2406,18 @@
               "unitId": "python-section-6-unit-8-finally",
               "title": "Learn finally",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s6-u8-q1",
+                "python-s6-u8-q2",
+                "python-s6-u8-q3",
+                "python-s6-u8-q4",
+                "python-s6-u8-q5",
+                "python-s6-u8-q6",
+                "python-s6-u8-q7",
+                "python-s6-u8-q8",
+                "python-s6-u8-q9",
+                "python-s6-u8-q10"
+              ]
             },
             {
               "id": "python-section-6-unit-8-finally-lesson-2",
@@ -1744,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "finally helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-6-unit-9-custom-errors",
@@ -1757,7 +2447,18 @@
               "unitId": "python-section-6-unit-9-custom-errors",
               "title": "Learn Custom errors",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s6-u9-q1",
+                "python-s6-u9-q2",
+                "python-s6-u9-q3",
+                "python-s6-u9-q4",
+                "python-s6-u9-q5",
+                "python-s6-u9-q6",
+                "python-s6-u9-q7",
+                "python-s6-u9-q8",
+                "python-s6-u9-q9",
+                "python-s6-u9-q10"
+              ]
             },
             {
               "id": "python-section-6-unit-9-custom-errors-lesson-2",
@@ -1773,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Custom errors helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-6-unit-10-file-project",
@@ -1786,7 +2488,18 @@
               "unitId": "python-section-6-unit-10-file-project",
               "title": "Learn File project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s6-u10-q1",
+                "python-s6-u10-q2",
+                "python-s6-u10-q3",
+                "python-s6-u10-q4",
+                "python-s6-u10-q5",
+                "python-s6-u10-q6",
+                "python-s6-u10-q7",
+                "python-s6-u10-q8",
+                "python-s6-u10-q9",
+                "python-s6-u10-q10"
+              ]
             },
             {
               "id": "python-section-6-unit-10-file-project-lesson-2",
@@ -1802,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "File project helps you write readable scripts and applications. Example: `with open(path) as f:`. Avoid: guessing flow instead of reading indentation."
         }
       ]
     },
@@ -1824,7 +2538,18 @@
               "unitId": "python-section-7-unit-1-list-comprehensions",
               "title": "Learn List comprehensions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s7-u1-q1",
+                "python-s7-u1-q2",
+                "python-s7-u1-q3",
+                "python-s7-u1-q4",
+                "python-s7-u1-q5",
+                "python-s7-u1-q6",
+                "python-s7-u1-q7",
+                "python-s7-u1-q8",
+                "python-s7-u1-q9",
+                "python-s7-u1-q10"
+              ]
             },
             {
               "id": "python-section-7-unit-1-list-comprehensions-lesson-2",
@@ -1840,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "List comprehensions helps you write readable scripts and applications. Example: `names[0]`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-7-unit-2-filtering-comprehensions",
@@ -1853,7 +2579,18 @@
               "unitId": "python-section-7-unit-2-filtering-comprehensions",
               "title": "Learn Filtering comprehensions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s7-u2-q1",
+                "python-s7-u2-q2",
+                "python-s7-u2-q3",
+                "python-s7-u2-q4",
+                "python-s7-u2-q5",
+                "python-s7-u2-q6",
+                "python-s7-u2-q7",
+                "python-s7-u2-q8",
+                "python-s7-u2-q9",
+                "python-s7-u2-q10"
+              ]
             },
             {
               "id": "python-section-7-unit-2-filtering-comprehensions-lesson-2",
@@ -1869,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Filtering comprehensions helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-7-unit-3-nested-comprehensions",
@@ -1882,7 +2620,18 @@
               "unitId": "python-section-7-unit-3-nested-comprehensions",
               "title": "Learn Nested comprehensions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s7-u3-q1",
+                "python-s7-u3-q2",
+                "python-s7-u3-q3",
+                "python-s7-u3-q4",
+                "python-s7-u3-q5",
+                "python-s7-u3-q6",
+                "python-s7-u3-q7",
+                "python-s7-u3-q8",
+                "python-s7-u3-q9",
+                "python-s7-u3-q10"
+              ]
             },
             {
               "id": "python-section-7-unit-3-nested-comprehensions-lesson-2",
@@ -1898,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Nested comprehensions helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-7-unit-4-dictionary-comprehensions",
@@ -1911,7 +2661,18 @@
               "unitId": "python-section-7-unit-4-dictionary-comprehensions",
               "title": "Learn Dictionary comprehensions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s7-u4-q1",
+                "python-s7-u4-q2",
+                "python-s7-u4-q3",
+                "python-s7-u4-q4",
+                "python-s7-u4-q5",
+                "python-s7-u4-q6",
+                "python-s7-u4-q7",
+                "python-s7-u4-q8",
+                "python-s7-u4-q9",
+                "python-s7-u4-q10"
+              ]
             },
             {
               "id": "python-section-7-unit-4-dictionary-comprehensions-lesson-2",
@@ -1927,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dictionary comprehensions helps you write readable scripts and applications. Example: `user['name']`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-7-unit-5-set-comprehensions",
@@ -1940,7 +2702,18 @@
               "unitId": "python-section-7-unit-5-set-comprehensions",
               "title": "Learn Set comprehensions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s7-u5-q1",
+                "python-s7-u5-q2",
+                "python-s7-u5-q3",
+                "python-s7-u5-q4",
+                "python-s7-u5-q5",
+                "python-s7-u5-q6",
+                "python-s7-u5-q7",
+                "python-s7-u5-q8",
+                "python-s7-u5-q9",
+                "python-s7-u5-q10"
+              ]
             },
             {
               "id": "python-section-7-unit-5-set-comprehensions-lesson-2",
@@ -1956,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Set comprehensions helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-7-unit-6-generator-expressions",
@@ -1969,7 +2743,18 @@
               "unitId": "python-section-7-unit-6-generator-expressions",
               "title": "Learn Generator expressions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s7-u6-q1",
+                "python-s7-u6-q2",
+                "python-s7-u6-q3",
+                "python-s7-u6-q4",
+                "python-s7-u6-q5",
+                "python-s7-u6-q6",
+                "python-s7-u6-q7",
+                "python-s7-u6-q8",
+                "python-s7-u6-q9",
+                "python-s7-u6-q10"
+              ]
             },
             {
               "id": "python-section-7-unit-6-generator-expressions-lesson-2",
@@ -1985,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Generator expressions helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-7-unit-7-zip",
@@ -1998,7 +2784,18 @@
               "unitId": "python-section-7-unit-7-zip",
               "title": "Learn zip",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s7-u7-q1",
+                "python-s7-u7-q2",
+                "python-s7-u7-q3",
+                "python-s7-u7-q4",
+                "python-s7-u7-q5",
+                "python-s7-u7-q6",
+                "python-s7-u7-q7",
+                "python-s7-u7-q8",
+                "python-s7-u7-q9",
+                "python-s7-u7-q10"
+              ]
             },
             {
               "id": "python-section-7-unit-7-zip-lesson-2",
@@ -2014,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "zip helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-7-unit-8-enumerate",
@@ -2027,7 +2825,18 @@
               "unitId": "python-section-7-unit-8-enumerate",
               "title": "Learn enumerate",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s7-u8-q1",
+                "python-s7-u8-q2",
+                "python-s7-u8-q3",
+                "python-s7-u8-q4",
+                "python-s7-u8-q5",
+                "python-s7-u8-q6",
+                "python-s7-u8-q7",
+                "python-s7-u8-q8",
+                "python-s7-u8-q9",
+                "python-s7-u8-q10"
+              ]
             },
             {
               "id": "python-section-7-unit-8-enumerate-lesson-2",
@@ -2043,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "enumerate helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-7-unit-9-comprehension-refactors",
@@ -2056,7 +2866,18 @@
               "unitId": "python-section-7-unit-9-comprehension-refactors",
               "title": "Learn Comprehension refactors",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s7-u9-q1",
+                "python-s7-u9-q2",
+                "python-s7-u9-q3",
+                "python-s7-u9-q4",
+                "python-s7-u9-q5",
+                "python-s7-u9-q6",
+                "python-s7-u9-q7",
+                "python-s7-u9-q8",
+                "python-s7-u9-q9",
+                "python-s7-u9-q10"
+              ]
             },
             {
               "id": "python-section-7-unit-9-comprehension-refactors-lesson-2",
@@ -2072,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Comprehension refactors helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-7-unit-10-comprehension-project",
@@ -2085,7 +2907,18 @@
               "unitId": "python-section-7-unit-10-comprehension-project",
               "title": "Learn Comprehension project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s7-u10-q1",
+                "python-s7-u10-q2",
+                "python-s7-u10-q3",
+                "python-s7-u10-q4",
+                "python-s7-u10-q5",
+                "python-s7-u10-q6",
+                "python-s7-u10-q7",
+                "python-s7-u10-q8",
+                "python-s7-u10-q9",
+                "python-s7-u10-q10"
+              ]
             },
             {
               "id": "python-section-7-unit-10-comprehension-project-lesson-2",
@@ -2101,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Comprehension project helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         }
       ]
     },
@@ -2123,7 +2957,18 @@
               "unitId": "python-section-8-unit-1-imports",
               "title": "Learn Imports",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s8-u1-q1",
+                "python-s8-u1-q2",
+                "python-s8-u1-q3",
+                "python-s8-u1-q4",
+                "python-s8-u1-q5",
+                "python-s8-u1-q6",
+                "python-s8-u1-q7",
+                "python-s8-u1-q8",
+                "python-s8-u1-q9",
+                "python-s8-u1-q10"
+              ]
             },
             {
               "id": "python-section-8-unit-1-imports-lesson-2",
@@ -2139,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Imports helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-8-unit-2-standard-library",
@@ -2152,7 +2998,18 @@
               "unitId": "python-section-8-unit-2-standard-library",
               "title": "Learn Standard library",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s8-u2-q1",
+                "python-s8-u2-q2",
+                "python-s8-u2-q3",
+                "python-s8-u2-q4",
+                "python-s8-u2-q5",
+                "python-s8-u2-q6",
+                "python-s8-u2-q7",
+                "python-s8-u2-q8",
+                "python-s8-u2-q9",
+                "python-s8-u2-q10"
+              ]
             },
             {
               "id": "python-section-8-unit-2-standard-library-lesson-2",
@@ -2168,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Standard library helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-8-unit-3-virtual-environments",
@@ -2181,7 +3039,18 @@
               "unitId": "python-section-8-unit-3-virtual-environments",
               "title": "Learn Virtual environments",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s8-u3-q1",
+                "python-s8-u3-q2",
+                "python-s8-u3-q3",
+                "python-s8-u3-q4",
+                "python-s8-u3-q5",
+                "python-s8-u3-q6",
+                "python-s8-u3-q7",
+                "python-s8-u3-q8",
+                "python-s8-u3-q9",
+                "python-s8-u3-q10"
+              ]
             },
             {
               "id": "python-section-8-unit-3-virtual-environments-lesson-2",
@@ -2197,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Virtual environments helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-8-unit-4-pip-basics",
@@ -2210,7 +3080,18 @@
               "unitId": "python-section-8-unit-4-pip-basics",
               "title": "Learn pip basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s8-u4-q1",
+                "python-s8-u4-q2",
+                "python-s8-u4-q3",
+                "python-s8-u4-q4",
+                "python-s8-u4-q5",
+                "python-s8-u4-q6",
+                "python-s8-u4-q7",
+                "python-s8-u4-q8",
+                "python-s8-u4-q9",
+                "python-s8-u4-q10"
+              ]
             },
             {
               "id": "python-section-8-unit-4-pip-basics-lesson-2",
@@ -2226,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "pip basics helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-8-unit-5-package-structure",
@@ -2239,7 +3121,18 @@
               "unitId": "python-section-8-unit-5-package-structure",
               "title": "Learn Package structure",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s8-u5-q1",
+                "python-s8-u5-q2",
+                "python-s8-u5-q3",
+                "python-s8-u5-q4",
+                "python-s8-u5-q5",
+                "python-s8-u5-q6",
+                "python-s8-u5-q7",
+                "python-s8-u5-q8",
+                "python-s8-u5-q9",
+                "python-s8-u5-q10"
+              ]
             },
             {
               "id": "python-section-8-unit-5-package-structure-lesson-2",
@@ -2255,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Package structure helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-8-unit-6-main-guard",
@@ -2268,7 +3162,18 @@
               "unitId": "python-section-8-unit-6-main-guard",
               "title": "Learn Main guard",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s8-u6-q1",
+                "python-s8-u6-q2",
+                "python-s8-u6-q3",
+                "python-s8-u6-q4",
+                "python-s8-u6-q5",
+                "python-s8-u6-q6",
+                "python-s8-u6-q7",
+                "python-s8-u6-q8",
+                "python-s8-u6-q9",
+                "python-s8-u6-q10"
+              ]
             },
             {
               "id": "python-section-8-unit-6-main-guard-lesson-2",
@@ -2284,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Main guard helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-8-unit-7-datetime",
@@ -2297,7 +3203,18 @@
               "unitId": "python-section-8-unit-7-datetime",
               "title": "Learn Datetime",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s8-u7-q1",
+                "python-s8-u7-q2",
+                "python-s8-u7-q3",
+                "python-s8-u7-q4",
+                "python-s8-u7-q5",
+                "python-s8-u7-q6",
+                "python-s8-u7-q7",
+                "python-s8-u7-q8",
+                "python-s8-u7-q9",
+                "python-s8-u7-q10"
+              ]
             },
             {
               "id": "python-section-8-unit-7-datetime-lesson-2",
@@ -2313,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Datetime helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-8-unit-8-random",
@@ -2326,7 +3244,18 @@
               "unitId": "python-section-8-unit-8-random",
               "title": "Learn Random",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s8-u8-q1",
+                "python-s8-u8-q2",
+                "python-s8-u8-q3",
+                "python-s8-u8-q4",
+                "python-s8-u8-q5",
+                "python-s8-u8-q6",
+                "python-s8-u8-q7",
+                "python-s8-u8-q8",
+                "python-s8-u8-q9",
+                "python-s8-u8-q10"
+              ]
             },
             {
               "id": "python-section-8-unit-8-random-lesson-2",
@@ -2342,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Random helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-8-unit-9-collections",
@@ -2355,7 +3285,18 @@
               "unitId": "python-section-8-unit-9-collections",
               "title": "Learn Collections",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s8-u9-q1",
+                "python-s8-u9-q2",
+                "python-s8-u9-q3",
+                "python-s8-u9-q4",
+                "python-s8-u9-q5",
+                "python-s8-u9-q6",
+                "python-s8-u9-q7",
+                "python-s8-u9-q8",
+                "python-s8-u9-q9",
+                "python-s8-u9-q10"
+              ]
             },
             {
               "id": "python-section-8-unit-9-collections-lesson-2",
@@ -2371,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Collections helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-8-unit-10-module-project",
@@ -2384,7 +3326,18 @@
               "unitId": "python-section-8-unit-10-module-project",
               "title": "Learn Module project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s8-u10-q1",
+                "python-s8-u10-q2",
+                "python-s8-u10-q3",
+                "python-s8-u10-q4",
+                "python-s8-u10-q5",
+                "python-s8-u10-q6",
+                "python-s8-u10-q7",
+                "python-s8-u10-q8",
+                "python-s8-u10-q9",
+                "python-s8-u10-q10"
+              ]
             },
             {
               "id": "python-section-8-unit-10-module-project-lesson-2",
@@ -2400,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Module project helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         }
       ]
     },
@@ -2422,7 +3376,18 @@
               "unitId": "python-section-9-unit-1-assertions",
               "title": "Learn Assertions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s9-u1-q1",
+                "python-s9-u1-q2",
+                "python-s9-u1-q3",
+                "python-s9-u1-q4",
+                "python-s9-u1-q5",
+                "python-s9-u1-q6",
+                "python-s9-u1-q7",
+                "python-s9-u1-q8",
+                "python-s9-u1-q9",
+                "python-s9-u1-q10"
+              ]
             },
             {
               "id": "python-section-9-unit-1-assertions-lesson-2",
@@ -2438,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Assertions helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-9-unit-2-pytest-basics",
@@ -2451,7 +3417,18 @@
               "unitId": "python-section-9-unit-2-pytest-basics",
               "title": "Learn pytest basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s9-u2-q1",
+                "python-s9-u2-q2",
+                "python-s9-u2-q3",
+                "python-s9-u2-q4",
+                "python-s9-u2-q5",
+                "python-s9-u2-q6",
+                "python-s9-u2-q7",
+                "python-s9-u2-q8",
+                "python-s9-u2-q9",
+                "python-s9-u2-q10"
+              ]
             },
             {
               "id": "python-section-9-unit-2-pytest-basics-lesson-2",
@@ -2467,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "pytest basics helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-9-unit-3-test-files",
@@ -2480,7 +3458,18 @@
               "unitId": "python-section-9-unit-3-test-files",
               "title": "Learn Test files",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s9-u3-q1",
+                "python-s9-u3-q2",
+                "python-s9-u3-q3",
+                "python-s9-u3-q4",
+                "python-s9-u3-q5",
+                "python-s9-u3-q6",
+                "python-s9-u3-q7",
+                "python-s9-u3-q8",
+                "python-s9-u3-q9",
+                "python-s9-u3-q10"
+              ]
             },
             {
               "id": "python-section-9-unit-3-test-files-lesson-2",
@@ -2496,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Test files helps you write readable scripts and applications. Example: `with open(path) as f:`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-9-unit-4-fixtures-basics",
@@ -2509,7 +3499,18 @@
               "unitId": "python-section-9-unit-4-fixtures-basics",
               "title": "Learn Fixtures basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s9-u4-q1",
+                "python-s9-u4-q2",
+                "python-s9-u4-q3",
+                "python-s9-u4-q4",
+                "python-s9-u4-q5",
+                "python-s9-u4-q6",
+                "python-s9-u4-q7",
+                "python-s9-u4-q8",
+                "python-s9-u4-q9",
+                "python-s9-u4-q10"
+              ]
             },
             {
               "id": "python-section-9-unit-4-fixtures-basics-lesson-2",
@@ -2525,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Fixtures basics helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-9-unit-5-debugging",
@@ -2538,7 +3540,18 @@
               "unitId": "python-section-9-unit-5-debugging",
               "title": "Learn Debugging",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s9-u5-q1",
+                "python-s9-u5-q2",
+                "python-s9-u5-q3",
+                "python-s9-u5-q4",
+                "python-s9-u5-q5",
+                "python-s9-u5-q6",
+                "python-s9-u5-q7",
+                "python-s9-u5-q8",
+                "python-s9-u5-q9",
+                "python-s9-u5-q10"
+              ]
             },
             {
               "id": "python-section-9-unit-5-debugging-lesson-2",
@@ -2554,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Debugging helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-9-unit-6-formatting",
@@ -2567,7 +3581,18 @@
               "unitId": "python-section-9-unit-6-formatting",
               "title": "Learn Formatting",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s9-u6-q1",
+                "python-s9-u6-q2",
+                "python-s9-u6-q3",
+                "python-s9-u6-q4",
+                "python-s9-u6-q5",
+                "python-s9-u6-q6",
+                "python-s9-u6-q7",
+                "python-s9-u6-q8",
+                "python-s9-u6-q9",
+                "python-s9-u6-q10"
+              ]
             },
             {
               "id": "python-section-9-unit-6-formatting-lesson-2",
@@ -2583,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Formatting helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-9-unit-7-linting",
@@ -2596,7 +3622,18 @@
               "unitId": "python-section-9-unit-7-linting",
               "title": "Learn Linting",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s9-u7-q1",
+                "python-s9-u7-q2",
+                "python-s9-u7-q3",
+                "python-s9-u7-q4",
+                "python-s9-u7-q5",
+                "python-s9-u7-q6",
+                "python-s9-u7-q7",
+                "python-s9-u7-q8",
+                "python-s9-u7-q9",
+                "python-s9-u7-q10"
+              ]
             },
             {
               "id": "python-section-9-unit-7-linting-lesson-2",
@@ -2612,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Linting helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-9-unit-8-type-hints",
@@ -2625,7 +3663,18 @@
               "unitId": "python-section-9-unit-8-type-hints",
               "title": "Learn Type hints",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s9-u8-q1",
+                "python-s9-u8-q2",
+                "python-s9-u8-q3",
+                "python-s9-u8-q4",
+                "python-s9-u8-q5",
+                "python-s9-u8-q6",
+                "python-s9-u8-q7",
+                "python-s9-u8-q8",
+                "python-s9-u8-q9",
+                "python-s9-u8-q10"
+              ]
             },
             {
               "id": "python-section-9-unit-8-type-hints-lesson-2",
@@ -2641,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Type hints helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-9-unit-9-cli-scripts",
@@ -2654,7 +3704,18 @@
               "unitId": "python-section-9-unit-9-cli-scripts",
               "title": "Learn CLI scripts",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s9-u9-q1",
+                "python-s9-u9-q2",
+                "python-s9-u9-q3",
+                "python-s9-u9-q4",
+                "python-s9-u9-q5",
+                "python-s9-u9-q6",
+                "python-s9-u9-q7",
+                "python-s9-u9-q8",
+                "python-s9-u9-q9",
+                "python-s9-u9-q10"
+              ]
             },
             {
               "id": "python-section-9-unit-9-cli-scripts-lesson-2",
@@ -2670,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CLI scripts helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-9-unit-10-tooling-project",
@@ -2683,7 +3745,18 @@
               "unitId": "python-section-9-unit-10-tooling-project",
               "title": "Learn Tooling project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s9-u10-q1",
+                "python-s9-u10-q2",
+                "python-s9-u10-q3",
+                "python-s9-u10-q4",
+                "python-s9-u10-q5",
+                "python-s9-u10-q6",
+                "python-s9-u10-q7",
+                "python-s9-u10-q8",
+                "python-s9-u10-q9",
+                "python-s9-u10-q10"
+              ]
             },
             {
               "id": "python-section-9-unit-10-tooling-project-lesson-2",
@@ -2699,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tooling project helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         }
       ]
     },
@@ -2721,7 +3795,18 @@
               "unitId": "python-section-10-unit-1-text-analyzer",
               "title": "Learn Text analyzer",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s10-u1-q1",
+                "python-s10-u1-q2",
+                "python-s10-u1-q3",
+                "python-s10-u1-q4",
+                "python-s10-u1-q5",
+                "python-s10-u1-q6",
+                "python-s10-u1-q7",
+                "python-s10-u1-q8",
+                "python-s10-u1-q9",
+                "python-s10-u1-q10"
+              ]
             },
             {
               "id": "python-section-10-unit-1-text-analyzer-lesson-2",
@@ -2737,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Text analyzer helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-10-unit-2-file-organizer",
@@ -2750,7 +3836,18 @@
               "unitId": "python-section-10-unit-2-file-organizer",
               "title": "Learn File organizer",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s10-u2-q1",
+                "python-s10-u2-q2",
+                "python-s10-u2-q3",
+                "python-s10-u2-q4",
+                "python-s10-u2-q5",
+                "python-s10-u2-q6",
+                "python-s10-u2-q7",
+                "python-s10-u2-q8",
+                "python-s10-u2-q9",
+                "python-s10-u2-q10"
+              ]
             },
             {
               "id": "python-section-10-unit-2-file-organizer-lesson-2",
@@ -2766,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "File organizer helps you write readable scripts and applications. Example: `with open(path) as f:`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-10-unit-3-api-client",
@@ -2779,7 +3877,18 @@
               "unitId": "python-section-10-unit-3-api-client",
               "title": "Learn API client",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s10-u3-q1",
+                "python-s10-u3-q2",
+                "python-s10-u3-q3",
+                "python-s10-u3-q4",
+                "python-s10-u3-q5",
+                "python-s10-u3-q6",
+                "python-s10-u3-q7",
+                "python-s10-u3-q8",
+                "python-s10-u3-q9",
+                "python-s10-u3-q10"
+              ]
             },
             {
               "id": "python-section-10-unit-3-api-client-lesson-2",
@@ -2795,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "API client helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-10-unit-4-data-cleaner",
@@ -2808,7 +3918,18 @@
               "unitId": "python-section-10-unit-4-data-cleaner",
               "title": "Learn Data cleaner",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s10-u4-q1",
+                "python-s10-u4-q2",
+                "python-s10-u4-q3",
+                "python-s10-u4-q4",
+                "python-s10-u4-q5",
+                "python-s10-u4-q6",
+                "python-s10-u4-q7",
+                "python-s10-u4-q8",
+                "python-s10-u4-q9",
+                "python-s10-u4-q10"
+              ]
             },
             {
               "id": "python-section-10-unit-4-data-cleaner-lesson-2",
@@ -2824,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data cleaner helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-10-unit-5-cli-quiz",
@@ -2837,7 +3959,18 @@
               "unitId": "python-section-10-unit-5-cli-quiz",
               "title": "Learn CLI quiz",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s10-u5-q1",
+                "python-s10-u5-q2",
+                "python-s10-u5-q3",
+                "python-s10-u5-q4",
+                "python-s10-u5-q5",
+                "python-s10-u5-q6",
+                "python-s10-u5-q7",
+                "python-s10-u5-q8",
+                "python-s10-u5-q9",
+                "python-s10-u5-q10"
+              ]
             },
             {
               "id": "python-section-10-unit-5-cli-quiz-lesson-2",
@@ -2853,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CLI quiz helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-10-unit-6-csv-report",
@@ -2866,7 +4000,18 @@
               "unitId": "python-section-10-unit-6-csv-report",
               "title": "Learn CSV report",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s10-u6-q1",
+                "python-s10-u6-q2",
+                "python-s10-u6-q3",
+                "python-s10-u6-q4",
+                "python-s10-u6-q5",
+                "python-s10-u6-q6",
+                "python-s10-u6-q7",
+                "python-s10-u6-q8",
+                "python-s10-u6-q9",
+                "python-s10-u6-q10"
+              ]
             },
             {
               "id": "python-section-10-unit-6-csv-report-lesson-2",
@@ -2882,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CSV report helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-10-unit-7-automation-script",
@@ -2895,7 +4041,18 @@
               "unitId": "python-section-10-unit-7-automation-script",
               "title": "Learn Automation script",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s10-u7-q1",
+                "python-s10-u7-q2",
+                "python-s10-u7-q3",
+                "python-s10-u7-q4",
+                "python-s10-u7-q5",
+                "python-s10-u7-q6",
+                "python-s10-u7-q7",
+                "python-s10-u7-q8",
+                "python-s10-u7-q9",
+                "python-s10-u7-q10"
+              ]
             },
             {
               "id": "python-section-10-unit-7-automation-script-lesson-2",
@@ -2911,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Automation script helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-10-unit-8-oop-mini-app",
@@ -2924,7 +4082,18 @@
               "unitId": "python-section-10-unit-8-oop-mini-app",
               "title": "Learn OOP mini app",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s10-u8-q1",
+                "python-s10-u8-q2",
+                "python-s10-u8-q3",
+                "python-s10-u8-q4",
+                "python-s10-u8-q5",
+                "python-s10-u8-q6",
+                "python-s10-u8-q7",
+                "python-s10-u8-q8",
+                "python-s10-u8-q9",
+                "python-s10-u8-q10"
+              ]
             },
             {
               "id": "python-section-10-unit-8-oop-mini-app-lesson-2",
@@ -2940,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "OOP mini app helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-10-unit-9-tested-package",
@@ -2953,7 +4123,18 @@
               "unitId": "python-section-10-unit-9-tested-package",
               "title": "Learn Tested package",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s10-u9-q1",
+                "python-s10-u9-q2",
+                "python-s10-u9-q3",
+                "python-s10-u9-q4",
+                "python-s10-u9-q5",
+                "python-s10-u9-q6",
+                "python-s10-u9-q7",
+                "python-s10-u9-q8",
+                "python-s10-u9-q9",
+                "python-s10-u9-q10"
+              ]
             },
             {
               "id": "python-section-10-unit-9-tested-package-lesson-2",
@@ -2969,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tested package helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         },
         {
           "id": "python-section-10-unit-10-final-python-project",
@@ -2982,7 +4164,18 @@
               "unitId": "python-section-10-unit-10-final-python-project",
               "title": "Learn Final Python project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "python-s10-u10-q1",
+                "python-s10-u10-q2",
+                "python-s10-u10-q3",
+                "python-s10-u10-q4",
+                "python-s10-u10-q5",
+                "python-s10-u10-q6",
+                "python-s10-u10-q7",
+                "python-s10-u10-q8",
+                "python-s10-u10-q9",
+                "python-s10-u10-q10"
+              ]
             },
             {
               "id": "python-section-10-unit-10-final-python-project-lesson-2",
@@ -2998,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final Python project helps you write readable scripts and applications. Example: `for item in items: print(item)`. Avoid: guessing flow instead of reading indentation."
         }
       ]
     }

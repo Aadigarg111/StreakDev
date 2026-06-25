@@ -25,7 +25,16 @@
               "title": "Learn Why complexity matters",
               "order": 1,
               "exerciseIds": [
-                "big-o-s1-u1-sample"
+                "big-o-s1-u1-q1",
+                "big-o-s1-u1-q2",
+                "big-o-s1-u1-q3",
+                "big-o-s1-u1-q4",
+                "big-o-s1-u1-q5",
+                "big-o-s1-u1-q6",
+                "big-o-s1-u1-q7",
+                "big-o-s1-u1-q8",
+                "big-o-s1-u1-q9",
+                "big-o-s1-u1-q10"
               ]
             },
             {
@@ -42,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Why complexity matters helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-1-unit-2-counting-operations",
@@ -56,7 +66,16 @@
               "title": "Learn Counting operations",
               "order": 1,
               "exerciseIds": [
-                "big-o-s1-u2-sample"
+                "big-o-s1-u2-q1",
+                "big-o-s1-u2-q2",
+                "big-o-s1-u2-q3",
+                "big-o-s1-u2-q4",
+                "big-o-s1-u2-q5",
+                "big-o-s1-u2-q6",
+                "big-o-s1-u2-q7",
+                "big-o-s1-u2-q8",
+                "big-o-s1-u2-q9",
+                "big-o-s1-u2-q10"
               ]
             },
             {
@@ -73,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Counting operations helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-1-unit-3-input-size",
@@ -87,7 +107,16 @@
               "title": "Learn Input size",
               "order": 1,
               "exerciseIds": [
-                "big-o-s1-u3-sample"
+                "big-o-s1-u3-q1",
+                "big-o-s1-u3-q2",
+                "big-o-s1-u3-q3",
+                "big-o-s1-u3-q4",
+                "big-o-s1-u3-q5",
+                "big-o-s1-u3-q6",
+                "big-o-s1-u3-q7",
+                "big-o-s1-u3-q8",
+                "big-o-s1-u3-q9",
+                "big-o-s1-u3-q10"
               ]
             },
             {
@@ -104,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Input size helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-1-unit-4-constants",
@@ -117,7 +147,18 @@
               "unitId": "big-o-section-1-unit-4-constants",
               "title": "Learn Constants",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s1-u4-q1",
+                "big-o-s1-u4-q2",
+                "big-o-s1-u4-q3",
+                "big-o-s1-u4-q4",
+                "big-o-s1-u4-q5",
+                "big-o-s1-u4-q6",
+                "big-o-s1-u4-q7",
+                "big-o-s1-u4-q8",
+                "big-o-s1-u4-q9",
+                "big-o-s1-u4-q10"
+              ]
             },
             {
               "id": "big-o-section-1-unit-4-constants-lesson-2",
@@ -133,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Constants helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-1-unit-5-dominant-terms",
@@ -146,7 +188,18 @@
               "unitId": "big-o-section-1-unit-5-dominant-terms",
               "title": "Learn Dominant terms",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s1-u5-q1",
+                "big-o-s1-u5-q2",
+                "big-o-s1-u5-q3",
+                "big-o-s1-u5-q4",
+                "big-o-s1-u5-q5",
+                "big-o-s1-u5-q6",
+                "big-o-s1-u5-q7",
+                "big-o-s1-u5-q8",
+                "big-o-s1-u5-q9",
+                "big-o-s1-u5-q10"
+              ]
             },
             {
               "id": "big-o-section-1-unit-5-dominant-terms-lesson-2",
@@ -162,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dominant terms helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-1-unit-6-big-o-notation",
@@ -175,7 +229,18 @@
               "unitId": "big-o-section-1-unit-6-big-o-notation",
               "title": "Learn Big-O notation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s1-u6-q1",
+                "big-o-s1-u6-q2",
+                "big-o-s1-u6-q3",
+                "big-o-s1-u6-q4",
+                "big-o-s1-u6-q5",
+                "big-o-s1-u6-q6",
+                "big-o-s1-u6-q7",
+                "big-o-s1-u6-q8",
+                "big-o-s1-u6-q9",
+                "big-o-s1-u6-q10"
+              ]
             },
             {
               "id": "big-o-section-1-unit-6-big-o-notation-lesson-2",
@@ -191,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Big-O notation helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-1-unit-7-big-omega",
@@ -204,7 +270,18 @@
               "unitId": "big-o-section-1-unit-7-big-omega",
               "title": "Learn Big Omega",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s1-u7-q1",
+                "big-o-s1-u7-q2",
+                "big-o-s1-u7-q3",
+                "big-o-s1-u7-q4",
+                "big-o-s1-u7-q5",
+                "big-o-s1-u7-q6",
+                "big-o-s1-u7-q7",
+                "big-o-s1-u7-q8",
+                "big-o-s1-u7-q9",
+                "big-o-s1-u7-q10"
+              ]
             },
             {
               "id": "big-o-section-1-unit-7-big-omega-lesson-2",
@@ -220,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Big Omega helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-1-unit-8-big-theta",
@@ -233,7 +311,18 @@
               "unitId": "big-o-section-1-unit-8-big-theta",
               "title": "Learn Big Theta",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s1-u8-q1",
+                "big-o-s1-u8-q2",
+                "big-o-s1-u8-q3",
+                "big-o-s1-u8-q4",
+                "big-o-s1-u8-q5",
+                "big-o-s1-u8-q6",
+                "big-o-s1-u8-q7",
+                "big-o-s1-u8-q8",
+                "big-o-s1-u8-q9",
+                "big-o-s1-u8-q10"
+              ]
             },
             {
               "id": "big-o-section-1-unit-8-big-theta-lesson-2",
@@ -249,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Big Theta helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-1-unit-9-comparing-growth",
@@ -262,7 +352,18 @@
               "unitId": "big-o-section-1-unit-9-comparing-growth",
               "title": "Learn Comparing growth",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s1-u9-q1",
+                "big-o-s1-u9-q2",
+                "big-o-s1-u9-q3",
+                "big-o-s1-u9-q4",
+                "big-o-s1-u9-q5",
+                "big-o-s1-u9-q6",
+                "big-o-s1-u9-q7",
+                "big-o-s1-u9-q8",
+                "big-o-s1-u9-q9",
+                "big-o-s1-u9-q10"
+              ]
             },
             {
               "id": "big-o-section-1-unit-9-comparing-growth-lesson-2",
@@ -278,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Comparing growth helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-1-unit-10-complexity-drills",
@@ -291,7 +393,18 @@
               "unitId": "big-o-section-1-unit-10-complexity-drills",
               "title": "Learn Complexity drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s1-u10-q1",
+                "big-o-s1-u10-q2",
+                "big-o-s1-u10-q3",
+                "big-o-s1-u10-q4",
+                "big-o-s1-u10-q5",
+                "big-o-s1-u10-q6",
+                "big-o-s1-u10-q7",
+                "big-o-s1-u10-q8",
+                "big-o-s1-u10-q9",
+                "big-o-s1-u10-q10"
+              ]
             },
             {
               "id": "big-o-section-1-unit-10-complexity-drills-lesson-2",
@@ -307,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Complexity drills helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         }
       ]
     },
@@ -329,7 +443,18 @@
               "unitId": "big-o-section-2-unit-1-o-1",
               "title": "Learn O(1)",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s2-u1-q1",
+                "big-o-s2-u1-q2",
+                "big-o-s2-u1-q3",
+                "big-o-s2-u1-q4",
+                "big-o-s2-u1-q5",
+                "big-o-s2-u1-q6",
+                "big-o-s2-u1-q7",
+                "big-o-s2-u1-q8",
+                "big-o-s2-u1-q9",
+                "big-o-s2-u1-q10"
+              ]
             },
             {
               "id": "big-o-section-2-unit-1-o-1-lesson-2",
@@ -345,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "O(1) helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-2-unit-2-o-log-n",
@@ -358,7 +484,18 @@
               "unitId": "big-o-section-2-unit-2-o-log-n",
               "title": "Learn O(log n)",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s2-u2-q1",
+                "big-o-s2-u2-q2",
+                "big-o-s2-u2-q3",
+                "big-o-s2-u2-q4",
+                "big-o-s2-u2-q5",
+                "big-o-s2-u2-q6",
+                "big-o-s2-u2-q7",
+                "big-o-s2-u2-q8",
+                "big-o-s2-u2-q9",
+                "big-o-s2-u2-q10"
+              ]
             },
             {
               "id": "big-o-section-2-unit-2-o-log-n-lesson-2",
@@ -374,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "O(log n) helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-2-unit-3-o-n",
@@ -387,7 +525,18 @@
               "unitId": "big-o-section-2-unit-3-o-n",
               "title": "Learn O(n)",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s2-u3-q1",
+                "big-o-s2-u3-q2",
+                "big-o-s2-u3-q3",
+                "big-o-s2-u3-q4",
+                "big-o-s2-u3-q5",
+                "big-o-s2-u3-q6",
+                "big-o-s2-u3-q7",
+                "big-o-s2-u3-q8",
+                "big-o-s2-u3-q9",
+                "big-o-s2-u3-q10"
+              ]
             },
             {
               "id": "big-o-section-2-unit-3-o-n-lesson-2",
@@ -403,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "O(n) helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-2-unit-4-o-n-log-n",
@@ -416,7 +566,18 @@
               "unitId": "big-o-section-2-unit-4-o-n-log-n",
               "title": "Learn O(n log n)",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s2-u4-q1",
+                "big-o-s2-u4-q2",
+                "big-o-s2-u4-q3",
+                "big-o-s2-u4-q4",
+                "big-o-s2-u4-q5",
+                "big-o-s2-u4-q6",
+                "big-o-s2-u4-q7",
+                "big-o-s2-u4-q8",
+                "big-o-s2-u4-q9",
+                "big-o-s2-u4-q10"
+              ]
             },
             {
               "id": "big-o-section-2-unit-4-o-n-log-n-lesson-2",
@@ -432,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "O(n log n) helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-2-unit-5-o-n-2",
@@ -445,7 +607,18 @@
               "unitId": "big-o-section-2-unit-5-o-n-2",
               "title": "Learn O(n^2)",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s2-u5-q1",
+                "big-o-s2-u5-q2",
+                "big-o-s2-u5-q3",
+                "big-o-s2-u5-q4",
+                "big-o-s2-u5-q5",
+                "big-o-s2-u5-q6",
+                "big-o-s2-u5-q7",
+                "big-o-s2-u5-q8",
+                "big-o-s2-u5-q9",
+                "big-o-s2-u5-q10"
+              ]
             },
             {
               "id": "big-o-section-2-unit-5-o-n-2-lesson-2",
@@ -461,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "O(n^2) helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-2-unit-6-o-n-3",
@@ -474,7 +648,18 @@
               "unitId": "big-o-section-2-unit-6-o-n-3",
               "title": "Learn O(n^3)",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s2-u6-q1",
+                "big-o-s2-u6-q2",
+                "big-o-s2-u6-q3",
+                "big-o-s2-u6-q4",
+                "big-o-s2-u6-q5",
+                "big-o-s2-u6-q6",
+                "big-o-s2-u6-q7",
+                "big-o-s2-u6-q8",
+                "big-o-s2-u6-q9",
+                "big-o-s2-u6-q10"
+              ]
             },
             {
               "id": "big-o-section-2-unit-6-o-n-3-lesson-2",
@@ -490,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "O(n^3) helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-2-unit-7-o-2-n",
@@ -503,7 +689,18 @@
               "unitId": "big-o-section-2-unit-7-o-2-n",
               "title": "Learn O(2^n)",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s2-u7-q1",
+                "big-o-s2-u7-q2",
+                "big-o-s2-u7-q3",
+                "big-o-s2-u7-q4",
+                "big-o-s2-u7-q5",
+                "big-o-s2-u7-q6",
+                "big-o-s2-u7-q7",
+                "big-o-s2-u7-q8",
+                "big-o-s2-u7-q9",
+                "big-o-s2-u7-q10"
+              ]
             },
             {
               "id": "big-o-section-2-unit-7-o-2-n-lesson-2",
@@ -519,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "O(2^n) helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-2-unit-8-o-n",
@@ -532,7 +730,18 @@
               "unitId": "big-o-section-2-unit-8-o-n",
               "title": "Learn O(n!)",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s2-u8-q1",
+                "big-o-s2-u8-q2",
+                "big-o-s2-u8-q3",
+                "big-o-s2-u8-q4",
+                "big-o-s2-u8-q5",
+                "big-o-s2-u8-q6",
+                "big-o-s2-u8-q7",
+                "big-o-s2-u8-q8",
+                "big-o-s2-u8-q9",
+                "big-o-s2-u8-q10"
+              ]
             },
             {
               "id": "big-o-section-2-unit-8-o-n-lesson-2",
@@ -548,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "O(n!) helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-2-unit-9-mixed-terms",
@@ -561,7 +771,18 @@
               "unitId": "big-o-section-2-unit-9-mixed-terms",
               "title": "Learn Mixed terms",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s2-u9-q1",
+                "big-o-s2-u9-q2",
+                "big-o-s2-u9-q3",
+                "big-o-s2-u9-q4",
+                "big-o-s2-u9-q5",
+                "big-o-s2-u9-q6",
+                "big-o-s2-u9-q7",
+                "big-o-s2-u9-q8",
+                "big-o-s2-u9-q9",
+                "big-o-s2-u9-q10"
+              ]
             },
             {
               "id": "big-o-section-2-unit-9-mixed-terms-lesson-2",
@@ -577,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Mixed terms helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-2-unit-10-growth-ordering",
@@ -590,7 +812,18 @@
               "unitId": "big-o-section-2-unit-10-growth-ordering",
               "title": "Learn Growth ordering",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s2-u10-q1",
+                "big-o-s2-u10-q2",
+                "big-o-s2-u10-q3",
+                "big-o-s2-u10-q4",
+                "big-o-s2-u10-q5",
+                "big-o-s2-u10-q6",
+                "big-o-s2-u10-q7",
+                "big-o-s2-u10-q8",
+                "big-o-s2-u10-q9",
+                "big-o-s2-u10-q10"
+              ]
             },
             {
               "id": "big-o-section-2-unit-10-growth-ordering-lesson-2",
@@ -606,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Growth ordering helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         }
       ]
     },
@@ -628,7 +862,18 @@
               "unitId": "big-o-section-3-unit-1-single-loops",
               "title": "Learn Single loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s3-u1-q1",
+                "big-o-s3-u1-q2",
+                "big-o-s3-u1-q3",
+                "big-o-s3-u1-q4",
+                "big-o-s3-u1-q5",
+                "big-o-s3-u1-q6",
+                "big-o-s3-u1-q7",
+                "big-o-s3-u1-q8",
+                "big-o-s3-u1-q9",
+                "big-o-s3-u1-q10"
+              ]
             },
             {
               "id": "big-o-section-3-unit-1-single-loops-lesson-2",
@@ -644,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Single loops helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-3-unit-2-nested-loops",
@@ -657,7 +903,18 @@
               "unitId": "big-o-section-3-unit-2-nested-loops",
               "title": "Learn Nested loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s3-u2-q1",
+                "big-o-s3-u2-q2",
+                "big-o-s3-u2-q3",
+                "big-o-s3-u2-q4",
+                "big-o-s3-u2-q5",
+                "big-o-s3-u2-q6",
+                "big-o-s3-u2-q7",
+                "big-o-s3-u2-q8",
+                "big-o-s3-u2-q9",
+                "big-o-s3-u2-q10"
+              ]
             },
             {
               "id": "big-o-section-3-unit-2-nested-loops-lesson-2",
@@ -673,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Nested loops helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-3-unit-3-sequential-loops",
@@ -686,7 +944,18 @@
               "unitId": "big-o-section-3-unit-3-sequential-loops",
               "title": "Learn Sequential loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s3-u3-q1",
+                "big-o-s3-u3-q2",
+                "big-o-s3-u3-q3",
+                "big-o-s3-u3-q4",
+                "big-o-s3-u3-q5",
+                "big-o-s3-u3-q6",
+                "big-o-s3-u3-q7",
+                "big-o-s3-u3-q8",
+                "big-o-s3-u3-q9",
+                "big-o-s3-u3-q10"
+              ]
             },
             {
               "id": "big-o-section-3-unit-3-sequential-loops-lesson-2",
@@ -702,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sequential loops helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-3-unit-4-dependent-loops",
@@ -715,7 +985,18 @@
               "unitId": "big-o-section-3-unit-4-dependent-loops",
               "title": "Learn Dependent loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s3-u4-q1",
+                "big-o-s3-u4-q2",
+                "big-o-s3-u4-q3",
+                "big-o-s3-u4-q4",
+                "big-o-s3-u4-q5",
+                "big-o-s3-u4-q6",
+                "big-o-s3-u4-q7",
+                "big-o-s3-u4-q8",
+                "big-o-s3-u4-q9",
+                "big-o-s3-u4-q10"
+              ]
             },
             {
               "id": "big-o-section-3-unit-4-dependent-loops-lesson-2",
@@ -731,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dependent loops helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-3-unit-5-halving-loops",
@@ -744,7 +1026,18 @@
               "unitId": "big-o-section-3-unit-5-halving-loops",
               "title": "Learn Halving loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s3-u5-q1",
+                "big-o-s3-u5-q2",
+                "big-o-s3-u5-q3",
+                "big-o-s3-u5-q4",
+                "big-o-s3-u5-q5",
+                "big-o-s3-u5-q6",
+                "big-o-s3-u5-q7",
+                "big-o-s3-u5-q8",
+                "big-o-s3-u5-q9",
+                "big-o-s3-u5-q10"
+              ]
             },
             {
               "id": "big-o-section-3-unit-5-halving-loops-lesson-2",
@@ -760,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Halving loops helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-3-unit-6-early-exits",
@@ -773,7 +1067,18 @@
               "unitId": "big-o-section-3-unit-6-early-exits",
               "title": "Learn Early exits",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s3-u6-q1",
+                "big-o-s3-u6-q2",
+                "big-o-s3-u6-q3",
+                "big-o-s3-u6-q4",
+                "big-o-s3-u6-q5",
+                "big-o-s3-u6-q6",
+                "big-o-s3-u6-q7",
+                "big-o-s3-u6-q8",
+                "big-o-s3-u6-q9",
+                "big-o-s3-u6-q10"
+              ]
             },
             {
               "id": "big-o-section-3-unit-6-early-exits-lesson-2",
@@ -789,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Early exits helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-3-unit-7-amortized-loops",
@@ -802,7 +1108,18 @@
               "unitId": "big-o-section-3-unit-7-amortized-loops",
               "title": "Learn Amortized loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s3-u7-q1",
+                "big-o-s3-u7-q2",
+                "big-o-s3-u7-q3",
+                "big-o-s3-u7-q4",
+                "big-o-s3-u7-q5",
+                "big-o-s3-u7-q6",
+                "big-o-s3-u7-q7",
+                "big-o-s3-u7-q8",
+                "big-o-s3-u7-q9",
+                "big-o-s3-u7-q10"
+              ]
             },
             {
               "id": "big-o-section-3-unit-7-amortized-loops-lesson-2",
@@ -818,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Amortized loops helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-3-unit-8-loop-invariants",
@@ -831,7 +1149,18 @@
               "unitId": "big-o-section-3-unit-8-loop-invariants",
               "title": "Learn Loop invariants",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s3-u8-q1",
+                "big-o-s3-u8-q2",
+                "big-o-s3-u8-q3",
+                "big-o-s3-u8-q4",
+                "big-o-s3-u8-q5",
+                "big-o-s3-u8-q6",
+                "big-o-s3-u8-q7",
+                "big-o-s3-u8-q8",
+                "big-o-s3-u8-q9",
+                "big-o-s3-u8-q10"
+              ]
             },
             {
               "id": "big-o-section-3-unit-8-loop-invariants-lesson-2",
@@ -847,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Loop invariants helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-3-unit-9-loop-pitfalls",
@@ -860,7 +1190,18 @@
               "unitId": "big-o-section-3-unit-9-loop-pitfalls",
               "title": "Learn Loop pitfalls",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s3-u9-q1",
+                "big-o-s3-u9-q2",
+                "big-o-s3-u9-q3",
+                "big-o-s3-u9-q4",
+                "big-o-s3-u9-q5",
+                "big-o-s3-u9-q6",
+                "big-o-s3-u9-q7",
+                "big-o-s3-u9-q8",
+                "big-o-s3-u9-q9",
+                "big-o-s3-u9-q10"
+              ]
             },
             {
               "id": "big-o-section-3-unit-9-loop-pitfalls-lesson-2",
@@ -876,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Loop pitfalls helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-3-unit-10-loop-analysis-project",
@@ -889,7 +1231,18 @@
               "unitId": "big-o-section-3-unit-10-loop-analysis-project",
               "title": "Learn Loop analysis project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s3-u10-q1",
+                "big-o-s3-u10-q2",
+                "big-o-s3-u10-q3",
+                "big-o-s3-u10-q4",
+                "big-o-s3-u10-q5",
+                "big-o-s3-u10-q6",
+                "big-o-s3-u10-q7",
+                "big-o-s3-u10-q8",
+                "big-o-s3-u10-q9",
+                "big-o-s3-u10-q10"
+              ]
             },
             {
               "id": "big-o-section-3-unit-10-loop-analysis-project-lesson-2",
@@ -905,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Loop analysis project helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         }
       ]
     },
@@ -927,7 +1281,18 @@
               "unitId": "big-o-section-4-unit-1-recursive-calls",
               "title": "Learn Recursive calls",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s4-u1-q1",
+                "big-o-s4-u1-q2",
+                "big-o-s4-u1-q3",
+                "big-o-s4-u1-q4",
+                "big-o-s4-u1-q5",
+                "big-o-s4-u1-q6",
+                "big-o-s4-u1-q7",
+                "big-o-s4-u1-q8",
+                "big-o-s4-u1-q9",
+                "big-o-s4-u1-q10"
+              ]
             },
             {
               "id": "big-o-section-4-unit-1-recursive-calls-lesson-2",
@@ -943,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Recursive calls helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-4-unit-2-recurrence-basics",
@@ -956,7 +1322,18 @@
               "unitId": "big-o-section-4-unit-2-recurrence-basics",
               "title": "Learn Recurrence basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s4-u2-q1",
+                "big-o-s4-u2-q2",
+                "big-o-s4-u2-q3",
+                "big-o-s4-u2-q4",
+                "big-o-s4-u2-q5",
+                "big-o-s4-u2-q6",
+                "big-o-s4-u2-q7",
+                "big-o-s4-u2-q8",
+                "big-o-s4-u2-q9",
+                "big-o-s4-u2-q10"
+              ]
             },
             {
               "id": "big-o-section-4-unit-2-recurrence-basics-lesson-2",
@@ -972,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Recurrence basics helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-4-unit-3-call-trees",
@@ -985,7 +1363,18 @@
               "unitId": "big-o-section-4-unit-3-call-trees",
               "title": "Learn Call trees",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s4-u3-q1",
+                "big-o-s4-u3-q2",
+                "big-o-s4-u3-q3",
+                "big-o-s4-u3-q4",
+                "big-o-s4-u3-q5",
+                "big-o-s4-u3-q6",
+                "big-o-s4-u3-q7",
+                "big-o-s4-u3-q8",
+                "big-o-s4-u3-q9",
+                "big-o-s4-u3-q10"
+              ]
             },
             {
               "id": "big-o-section-4-unit-3-call-trees-lesson-2",
@@ -1001,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Call trees helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-4-unit-4-divide-and-conquer",
@@ -1014,7 +1404,18 @@
               "unitId": "big-o-section-4-unit-4-divide-and-conquer",
               "title": "Learn Divide and conquer",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s4-u4-q1",
+                "big-o-s4-u4-q2",
+                "big-o-s4-u4-q3",
+                "big-o-s4-u4-q4",
+                "big-o-s4-u4-q5",
+                "big-o-s4-u4-q6",
+                "big-o-s4-u4-q7",
+                "big-o-s4-u4-q8",
+                "big-o-s4-u4-q9",
+                "big-o-s4-u4-q10"
+              ]
             },
             {
               "id": "big-o-section-4-unit-4-divide-and-conquer-lesson-2",
@@ -1030,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Divide and conquer helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-4-unit-5-master-theorem-intro",
@@ -1043,7 +1445,18 @@
               "unitId": "big-o-section-4-unit-5-master-theorem-intro",
               "title": "Learn Master theorem intro",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s4-u5-q1",
+                "big-o-s4-u5-q2",
+                "big-o-s4-u5-q3",
+                "big-o-s4-u5-q4",
+                "big-o-s4-u5-q5",
+                "big-o-s4-u5-q6",
+                "big-o-s4-u5-q7",
+                "big-o-s4-u5-q8",
+                "big-o-s4-u5-q9",
+                "big-o-s4-u5-q10"
+              ]
             },
             {
               "id": "big-o-section-4-unit-5-master-theorem-intro-lesson-2",
@@ -1059,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Master theorem intro helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-4-unit-6-tail-recursion",
@@ -1072,7 +1486,18 @@
               "unitId": "big-o-section-4-unit-6-tail-recursion",
               "title": "Learn Tail recursion",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s4-u6-q1",
+                "big-o-s4-u6-q2",
+                "big-o-s4-u6-q3",
+                "big-o-s4-u6-q4",
+                "big-o-s4-u6-q5",
+                "big-o-s4-u6-q6",
+                "big-o-s4-u6-q7",
+                "big-o-s4-u6-q8",
+                "big-o-s4-u6-q9",
+                "big-o-s4-u6-q10"
+              ]
             },
             {
               "id": "big-o-section-4-unit-6-tail-recursion-lesson-2",
@@ -1088,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tail recursion helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-4-unit-7-branching-recursion",
@@ -1101,7 +1527,18 @@
               "unitId": "big-o-section-4-unit-7-branching-recursion",
               "title": "Learn Branching recursion",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s4-u7-q1",
+                "big-o-s4-u7-q2",
+                "big-o-s4-u7-q3",
+                "big-o-s4-u7-q4",
+                "big-o-s4-u7-q5",
+                "big-o-s4-u7-q6",
+                "big-o-s4-u7-q7",
+                "big-o-s4-u7-q8",
+                "big-o-s4-u7-q9",
+                "big-o-s4-u7-q10"
+              ]
             },
             {
               "id": "big-o-section-4-unit-7-branching-recursion-lesson-2",
@@ -1117,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Branching recursion helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-4-unit-8-memoized-recursion",
@@ -1130,7 +1568,18 @@
               "unitId": "big-o-section-4-unit-8-memoized-recursion",
               "title": "Learn Memoized recursion",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s4-u8-q1",
+                "big-o-s4-u8-q2",
+                "big-o-s4-u8-q3",
+                "big-o-s4-u8-q4",
+                "big-o-s4-u8-q5",
+                "big-o-s4-u8-q6",
+                "big-o-s4-u8-q7",
+                "big-o-s4-u8-q8",
+                "big-o-s4-u8-q9",
+                "big-o-s4-u8-q10"
+              ]
             },
             {
               "id": "big-o-section-4-unit-8-memoized-recursion-lesson-2",
@@ -1146,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Memoized recursion helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-4-unit-9-stack-depth",
@@ -1159,7 +1609,18 @@
               "unitId": "big-o-section-4-unit-9-stack-depth",
               "title": "Learn Stack depth",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s4-u9-q1",
+                "big-o-s4-u9-q2",
+                "big-o-s4-u9-q3",
+                "big-o-s4-u9-q4",
+                "big-o-s4-u9-q5",
+                "big-o-s4-u9-q6",
+                "big-o-s4-u9-q7",
+                "big-o-s4-u9-q8",
+                "big-o-s4-u9-q9",
+                "big-o-s4-u9-q10"
+              ]
             },
             {
               "id": "big-o-section-4-unit-9-stack-depth-lesson-2",
@@ -1175,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Stack depth helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-4-unit-10-recursion-drills",
@@ -1188,7 +1650,18 @@
               "unitId": "big-o-section-4-unit-10-recursion-drills",
               "title": "Learn Recursion drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s4-u10-q1",
+                "big-o-s4-u10-q2",
+                "big-o-s4-u10-q3",
+                "big-o-s4-u10-q4",
+                "big-o-s4-u10-q5",
+                "big-o-s4-u10-q6",
+                "big-o-s4-u10-q7",
+                "big-o-s4-u10-q8",
+                "big-o-s4-u10-q9",
+                "big-o-s4-u10-q10"
+              ]
             },
             {
               "id": "big-o-section-4-unit-10-recursion-drills-lesson-2",
@@ -1204,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Recursion drills helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         }
       ]
     },
@@ -1226,7 +1700,18 @@
               "unitId": "big-o-section-5-unit-1-auxiliary-space",
               "title": "Learn Auxiliary space",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s5-u1-q1",
+                "big-o-s5-u1-q2",
+                "big-o-s5-u1-q3",
+                "big-o-s5-u1-q4",
+                "big-o-s5-u1-q5",
+                "big-o-s5-u1-q6",
+                "big-o-s5-u1-q7",
+                "big-o-s5-u1-q8",
+                "big-o-s5-u1-q9",
+                "big-o-s5-u1-q10"
+              ]
             },
             {
               "id": "big-o-section-5-unit-1-auxiliary-space-lesson-2",
@@ -1242,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Auxiliary space helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-5-unit-2-input-space",
@@ -1255,7 +1741,18 @@
               "unitId": "big-o-section-5-unit-2-input-space",
               "title": "Learn Input space",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s5-u2-q1",
+                "big-o-s5-u2-q2",
+                "big-o-s5-u2-q3",
+                "big-o-s5-u2-q4",
+                "big-o-s5-u2-q5",
+                "big-o-s5-u2-q6",
+                "big-o-s5-u2-q7",
+                "big-o-s5-u2-q8",
+                "big-o-s5-u2-q9",
+                "big-o-s5-u2-q10"
+              ]
             },
             {
               "id": "big-o-section-5-unit-2-input-space-lesson-2",
@@ -1271,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Input space helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-5-unit-3-stack-space",
@@ -1284,7 +1782,18 @@
               "unitId": "big-o-section-5-unit-3-stack-space",
               "title": "Learn Stack space",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s5-u3-q1",
+                "big-o-s5-u3-q2",
+                "big-o-s5-u3-q3",
+                "big-o-s5-u3-q4",
+                "big-o-s5-u3-q5",
+                "big-o-s5-u3-q6",
+                "big-o-s5-u3-q7",
+                "big-o-s5-u3-q8",
+                "big-o-s5-u3-q9",
+                "big-o-s5-u3-q10"
+              ]
             },
             {
               "id": "big-o-section-5-unit-3-stack-space-lesson-2",
@@ -1300,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Stack space helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-5-unit-4-arrays-and-copies",
@@ -1313,7 +1823,18 @@
               "unitId": "big-o-section-5-unit-4-arrays-and-copies",
               "title": "Learn Arrays and copies",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s5-u4-q1",
+                "big-o-s5-u4-q2",
+                "big-o-s5-u4-q3",
+                "big-o-s5-u4-q4",
+                "big-o-s5-u4-q5",
+                "big-o-s5-u4-q6",
+                "big-o-s5-u4-q7",
+                "big-o-s5-u4-q8",
+                "big-o-s5-u4-q9",
+                "big-o-s5-u4-q10"
+              ]
             },
             {
               "id": "big-o-section-5-unit-4-arrays-and-copies-lesson-2",
@@ -1329,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Arrays and copies helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-5-unit-5-hash-map-space",
@@ -1342,7 +1864,18 @@
               "unitId": "big-o-section-5-unit-5-hash-map-space",
               "title": "Learn Hash map space",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s5-u5-q1",
+                "big-o-s5-u5-q2",
+                "big-o-s5-u5-q3",
+                "big-o-s5-u5-q4",
+                "big-o-s5-u5-q5",
+                "big-o-s5-u5-q6",
+                "big-o-s5-u5-q7",
+                "big-o-s5-u5-q8",
+                "big-o-s5-u5-q9",
+                "big-o-s5-u5-q10"
+              ]
             },
             {
               "id": "big-o-section-5-unit-5-hash-map-space-lesson-2",
@@ -1358,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Hash map space helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-5-unit-6-recursion-space",
@@ -1371,7 +1905,18 @@
               "unitId": "big-o-section-5-unit-6-recursion-space",
               "title": "Learn Recursion space",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s5-u6-q1",
+                "big-o-s5-u6-q2",
+                "big-o-s5-u6-q3",
+                "big-o-s5-u6-q4",
+                "big-o-s5-u6-q5",
+                "big-o-s5-u6-q6",
+                "big-o-s5-u6-q7",
+                "big-o-s5-u6-q8",
+                "big-o-s5-u6-q9",
+                "big-o-s5-u6-q10"
+              ]
             },
             {
               "id": "big-o-section-5-unit-6-recursion-space-lesson-2",
@@ -1387,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Recursion space helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-5-unit-7-in-place-algorithms",
@@ -1400,7 +1946,18 @@
               "unitId": "big-o-section-5-unit-7-in-place-algorithms",
               "title": "Learn In-place algorithms",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s5-u7-q1",
+                "big-o-s5-u7-q2",
+                "big-o-s5-u7-q3",
+                "big-o-s5-u7-q4",
+                "big-o-s5-u7-q5",
+                "big-o-s5-u7-q6",
+                "big-o-s5-u7-q7",
+                "big-o-s5-u7-q8",
+                "big-o-s5-u7-q9",
+                "big-o-s5-u7-q10"
+              ]
             },
             {
               "id": "big-o-section-5-unit-7-in-place-algorithms-lesson-2",
@@ -1416,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "In-place algorithms helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-5-unit-8-output-space",
@@ -1429,7 +1987,18 @@
               "unitId": "big-o-section-5-unit-8-output-space",
               "title": "Learn Output space",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s5-u8-q1",
+                "big-o-s5-u8-q2",
+                "big-o-s5-u8-q3",
+                "big-o-s5-u8-q4",
+                "big-o-s5-u8-q5",
+                "big-o-s5-u8-q6",
+                "big-o-s5-u8-q7",
+                "big-o-s5-u8-q8",
+                "big-o-s5-u8-q9",
+                "big-o-s5-u8-q10"
+              ]
             },
             {
               "id": "big-o-section-5-unit-8-output-space-lesson-2",
@@ -1445,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Output space helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-5-unit-9-memory-tradeoffs",
@@ -1458,7 +2028,18 @@
               "unitId": "big-o-section-5-unit-9-memory-tradeoffs",
               "title": "Learn Memory tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s5-u9-q1",
+                "big-o-s5-u9-q2",
+                "big-o-s5-u9-q3",
+                "big-o-s5-u9-q4",
+                "big-o-s5-u9-q5",
+                "big-o-s5-u9-q6",
+                "big-o-s5-u9-q7",
+                "big-o-s5-u9-q8",
+                "big-o-s5-u9-q9",
+                "big-o-s5-u9-q10"
+              ]
             },
             {
               "id": "big-o-section-5-unit-9-memory-tradeoffs-lesson-2",
@@ -1474,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Memory tradeoffs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-5-unit-10-space-drills",
@@ -1487,7 +2069,18 @@
               "unitId": "big-o-section-5-unit-10-space-drills",
               "title": "Learn Space drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s5-u10-q1",
+                "big-o-s5-u10-q2",
+                "big-o-s5-u10-q3",
+                "big-o-s5-u10-q4",
+                "big-o-s5-u10-q5",
+                "big-o-s5-u10-q6",
+                "big-o-s5-u10-q7",
+                "big-o-s5-u10-q8",
+                "big-o-s5-u10-q9",
+                "big-o-s5-u10-q10"
+              ]
             },
             {
               "id": "big-o-section-5-unit-10-space-drills-lesson-2",
@@ -1503,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Space drills helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         }
       ]
     },
@@ -1525,7 +2119,18 @@
               "unitId": "big-o-section-6-unit-1-array-costs",
               "title": "Learn Array costs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s6-u1-q1",
+                "big-o-s6-u1-q2",
+                "big-o-s6-u1-q3",
+                "big-o-s6-u1-q4",
+                "big-o-s6-u1-q5",
+                "big-o-s6-u1-q6",
+                "big-o-s6-u1-q7",
+                "big-o-s6-u1-q8",
+                "big-o-s6-u1-q9",
+                "big-o-s6-u1-q10"
+              ]
             },
             {
               "id": "big-o-section-6-unit-1-array-costs-lesson-2",
@@ -1541,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Array costs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-6-unit-2-linked-list-costs",
@@ -1554,7 +2160,18 @@
               "unitId": "big-o-section-6-unit-2-linked-list-costs",
               "title": "Learn Linked list costs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s6-u2-q1",
+                "big-o-s6-u2-q2",
+                "big-o-s6-u2-q3",
+                "big-o-s6-u2-q4",
+                "big-o-s6-u2-q5",
+                "big-o-s6-u2-q6",
+                "big-o-s6-u2-q7",
+                "big-o-s6-u2-q8",
+                "big-o-s6-u2-q9",
+                "big-o-s6-u2-q10"
+              ]
             },
             {
               "id": "big-o-section-6-unit-2-linked-list-costs-lesson-2",
@@ -1570,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Linked list costs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-6-unit-3-hash-table-costs",
@@ -1583,7 +2201,18 @@
               "unitId": "big-o-section-6-unit-3-hash-table-costs",
               "title": "Learn Hash table costs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s6-u3-q1",
+                "big-o-s6-u3-q2",
+                "big-o-s6-u3-q3",
+                "big-o-s6-u3-q4",
+                "big-o-s6-u3-q5",
+                "big-o-s6-u3-q6",
+                "big-o-s6-u3-q7",
+                "big-o-s6-u3-q8",
+                "big-o-s6-u3-q9",
+                "big-o-s6-u3-q10"
+              ]
             },
             {
               "id": "big-o-section-6-unit-3-hash-table-costs-lesson-2",
@@ -1599,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Hash table costs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-6-unit-4-tree-costs",
@@ -1612,7 +2242,18 @@
               "unitId": "big-o-section-6-unit-4-tree-costs",
               "title": "Learn Tree costs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s6-u4-q1",
+                "big-o-s6-u4-q2",
+                "big-o-s6-u4-q3",
+                "big-o-s6-u4-q4",
+                "big-o-s6-u4-q5",
+                "big-o-s6-u4-q6",
+                "big-o-s6-u4-q7",
+                "big-o-s6-u4-q8",
+                "big-o-s6-u4-q9",
+                "big-o-s6-u4-q10"
+              ]
             },
             {
               "id": "big-o-section-6-unit-4-tree-costs-lesson-2",
@@ -1628,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tree costs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-6-unit-5-heap-costs",
@@ -1641,7 +2283,18 @@
               "unitId": "big-o-section-6-unit-5-heap-costs",
               "title": "Learn Heap costs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s6-u5-q1",
+                "big-o-s6-u5-q2",
+                "big-o-s6-u5-q3",
+                "big-o-s6-u5-q4",
+                "big-o-s6-u5-q5",
+                "big-o-s6-u5-q6",
+                "big-o-s6-u5-q7",
+                "big-o-s6-u5-q8",
+                "big-o-s6-u5-q9",
+                "big-o-s6-u5-q10"
+              ]
             },
             {
               "id": "big-o-section-6-unit-5-heap-costs-lesson-2",
@@ -1657,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Heap costs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-6-unit-6-graph-costs",
@@ -1670,7 +2324,18 @@
               "unitId": "big-o-section-6-unit-6-graph-costs",
               "title": "Learn Graph costs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s6-u6-q1",
+                "big-o-s6-u6-q2",
+                "big-o-s6-u6-q3",
+                "big-o-s6-u6-q4",
+                "big-o-s6-u6-q5",
+                "big-o-s6-u6-q6",
+                "big-o-s6-u6-q7",
+                "big-o-s6-u6-q8",
+                "big-o-s6-u6-q9",
+                "big-o-s6-u6-q10"
+              ]
             },
             {
               "id": "big-o-section-6-unit-6-graph-costs-lesson-2",
@@ -1686,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Graph costs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-6-unit-7-string-costs",
@@ -1699,7 +2365,18 @@
               "unitId": "big-o-section-6-unit-7-string-costs",
               "title": "Learn String costs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s6-u7-q1",
+                "big-o-s6-u7-q2",
+                "big-o-s6-u7-q3",
+                "big-o-s6-u7-q4",
+                "big-o-s6-u7-q5",
+                "big-o-s6-u7-q6",
+                "big-o-s6-u7-q7",
+                "big-o-s6-u7-q8",
+                "big-o-s6-u7-q9",
+                "big-o-s6-u7-q10"
+              ]
             },
             {
               "id": "big-o-section-6-unit-7-string-costs-lesson-2",
@@ -1715,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "String costs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-6-unit-8-queue-costs",
@@ -1728,7 +2406,18 @@
               "unitId": "big-o-section-6-unit-8-queue-costs",
               "title": "Learn Queue costs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s6-u8-q1",
+                "big-o-s6-u8-q2",
+                "big-o-s6-u8-q3",
+                "big-o-s6-u8-q4",
+                "big-o-s6-u8-q5",
+                "big-o-s6-u8-q6",
+                "big-o-s6-u8-q7",
+                "big-o-s6-u8-q8",
+                "big-o-s6-u8-q9",
+                "big-o-s6-u8-q10"
+              ]
             },
             {
               "id": "big-o-section-6-unit-8-queue-costs-lesson-2",
@@ -1744,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Queue costs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-6-unit-9-set-costs",
@@ -1757,7 +2447,18 @@
               "unitId": "big-o-section-6-unit-9-set-costs",
               "title": "Learn Set costs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s6-u9-q1",
+                "big-o-s6-u9-q2",
+                "big-o-s6-u9-q3",
+                "big-o-s6-u9-q4",
+                "big-o-s6-u9-q5",
+                "big-o-s6-u9-q6",
+                "big-o-s6-u9-q7",
+                "big-o-s6-u9-q8",
+                "big-o-s6-u9-q9",
+                "big-o-s6-u9-q10"
+              ]
             },
             {
               "id": "big-o-section-6-unit-9-set-costs-lesson-2",
@@ -1773,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Set costs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-6-unit-10-cost-comparison",
@@ -1786,7 +2488,18 @@
               "unitId": "big-o-section-6-unit-10-cost-comparison",
               "title": "Learn Cost comparison",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s6-u10-q1",
+                "big-o-s6-u10-q2",
+                "big-o-s6-u10-q3",
+                "big-o-s6-u10-q4",
+                "big-o-s6-u10-q5",
+                "big-o-s6-u10-q6",
+                "big-o-s6-u10-q7",
+                "big-o-s6-u10-q8",
+                "big-o-s6-u10-q9",
+                "big-o-s6-u10-q10"
+              ]
             },
             {
               "id": "big-o-section-6-unit-10-cost-comparison-lesson-2",
@@ -1802,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Cost comparison helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         }
       ]
     },
@@ -1824,7 +2538,18 @@
               "unitId": "big-o-section-7-unit-1-case-definitions",
               "title": "Learn Case definitions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s7-u1-q1",
+                "big-o-s7-u1-q2",
+                "big-o-s7-u1-q3",
+                "big-o-s7-u1-q4",
+                "big-o-s7-u1-q5",
+                "big-o-s7-u1-q6",
+                "big-o-s7-u1-q7",
+                "big-o-s7-u1-q8",
+                "big-o-s7-u1-q9",
+                "big-o-s7-u1-q10"
+              ]
             },
             {
               "id": "big-o-section-7-unit-1-case-definitions-lesson-2",
@@ -1840,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Case definitions helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-7-unit-2-best-case",
@@ -1853,7 +2579,18 @@
               "unitId": "big-o-section-7-unit-2-best-case",
               "title": "Learn Best case",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s7-u2-q1",
+                "big-o-s7-u2-q2",
+                "big-o-s7-u2-q3",
+                "big-o-s7-u2-q4",
+                "big-o-s7-u2-q5",
+                "big-o-s7-u2-q6",
+                "big-o-s7-u2-q7",
+                "big-o-s7-u2-q8",
+                "big-o-s7-u2-q9",
+                "big-o-s7-u2-q10"
+              ]
             },
             {
               "id": "big-o-section-7-unit-2-best-case-lesson-2",
@@ -1869,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Best case helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-7-unit-3-worst-case",
@@ -1882,7 +2620,18 @@
               "unitId": "big-o-section-7-unit-3-worst-case",
               "title": "Learn Worst case",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s7-u3-q1",
+                "big-o-s7-u3-q2",
+                "big-o-s7-u3-q3",
+                "big-o-s7-u3-q4",
+                "big-o-s7-u3-q5",
+                "big-o-s7-u3-q6",
+                "big-o-s7-u3-q7",
+                "big-o-s7-u3-q8",
+                "big-o-s7-u3-q9",
+                "big-o-s7-u3-q10"
+              ]
             },
             {
               "id": "big-o-section-7-unit-3-worst-case-lesson-2",
@@ -1898,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Worst case helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-7-unit-4-average-case",
@@ -1911,7 +2661,18 @@
               "unitId": "big-o-section-7-unit-4-average-case",
               "title": "Learn Average case",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s7-u4-q1",
+                "big-o-s7-u4-q2",
+                "big-o-s7-u4-q3",
+                "big-o-s7-u4-q4",
+                "big-o-s7-u4-q5",
+                "big-o-s7-u4-q6",
+                "big-o-s7-u4-q7",
+                "big-o-s7-u4-q8",
+                "big-o-s7-u4-q9",
+                "big-o-s7-u4-q10"
+              ]
             },
             {
               "id": "big-o-section-7-unit-4-average-case-lesson-2",
@@ -1927,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Average case helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-7-unit-5-probabilistic-inputs",
@@ -1940,7 +2702,18 @@
               "unitId": "big-o-section-7-unit-5-probabilistic-inputs",
               "title": "Learn Probabilistic inputs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s7-u5-q1",
+                "big-o-s7-u5-q2",
+                "big-o-s7-u5-q3",
+                "big-o-s7-u5-q4",
+                "big-o-s7-u5-q5",
+                "big-o-s7-u5-q6",
+                "big-o-s7-u5-q7",
+                "big-o-s7-u5-q8",
+                "big-o-s7-u5-q9",
+                "big-o-s7-u5-q10"
+              ]
             },
             {
               "id": "big-o-section-7-unit-5-probabilistic-inputs-lesson-2",
@@ -1956,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Probabilistic inputs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-7-unit-6-sorting-cases",
@@ -1969,7 +2743,18 @@
               "unitId": "big-o-section-7-unit-6-sorting-cases",
               "title": "Learn Sorting cases",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s7-u6-q1",
+                "big-o-s7-u6-q2",
+                "big-o-s7-u6-q3",
+                "big-o-s7-u6-q4",
+                "big-o-s7-u6-q5",
+                "big-o-s7-u6-q6",
+                "big-o-s7-u6-q7",
+                "big-o-s7-u6-q8",
+                "big-o-s7-u6-q9",
+                "big-o-s7-u6-q10"
+              ]
             },
             {
               "id": "big-o-section-7-unit-6-sorting-cases-lesson-2",
@@ -1985,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sorting cases helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-7-unit-7-search-cases",
@@ -1998,7 +2784,18 @@
               "unitId": "big-o-section-7-unit-7-search-cases",
               "title": "Learn Search cases",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s7-u7-q1",
+                "big-o-s7-u7-q2",
+                "big-o-s7-u7-q3",
+                "big-o-s7-u7-q4",
+                "big-o-s7-u7-q5",
+                "big-o-s7-u7-q6",
+                "big-o-s7-u7-q7",
+                "big-o-s7-u7-q8",
+                "big-o-s7-u7-q9",
+                "big-o-s7-u7-q10"
+              ]
             },
             {
               "id": "big-o-section-7-unit-7-search-cases-lesson-2",
@@ -2014,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Search cases helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-7-unit-8-hash-cases",
@@ -2027,7 +2825,18 @@
               "unitId": "big-o-section-7-unit-8-hash-cases",
               "title": "Learn Hash cases",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s7-u8-q1",
+                "big-o-s7-u8-q2",
+                "big-o-s7-u8-q3",
+                "big-o-s7-u8-q4",
+                "big-o-s7-u8-q5",
+                "big-o-s7-u8-q6",
+                "big-o-s7-u8-q7",
+                "big-o-s7-u8-q8",
+                "big-o-s7-u8-q9",
+                "big-o-s7-u8-q10"
+              ]
             },
             {
               "id": "big-o-section-7-unit-8-hash-cases-lesson-2",
@@ -2043,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Hash cases helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-7-unit-9-communicating-cases",
@@ -2056,7 +2866,18 @@
               "unitId": "big-o-section-7-unit-9-communicating-cases",
               "title": "Learn Communicating cases",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s7-u9-q1",
+                "big-o-s7-u9-q2",
+                "big-o-s7-u9-q3",
+                "big-o-s7-u9-q4",
+                "big-o-s7-u9-q5",
+                "big-o-s7-u9-q6",
+                "big-o-s7-u9-q7",
+                "big-o-s7-u9-q8",
+                "big-o-s7-u9-q9",
+                "big-o-s7-u9-q10"
+              ]
             },
             {
               "id": "big-o-section-7-unit-9-communicating-cases-lesson-2",
@@ -2072,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Communicating cases helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-7-unit-10-case-drills",
@@ -2085,7 +2907,18 @@
               "unitId": "big-o-section-7-unit-10-case-drills",
               "title": "Learn Case drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s7-u10-q1",
+                "big-o-s7-u10-q2",
+                "big-o-s7-u10-q3",
+                "big-o-s7-u10-q4",
+                "big-o-s7-u10-q5",
+                "big-o-s7-u10-q6",
+                "big-o-s7-u10-q7",
+                "big-o-s7-u10-q8",
+                "big-o-s7-u10-q9",
+                "big-o-s7-u10-q10"
+              ]
             },
             {
               "id": "big-o-section-7-unit-10-case-drills-lesson-2",
@@ -2101,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Case drills helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         }
       ]
     },
@@ -2123,7 +2957,18 @@
               "unitId": "big-o-section-8-unit-1-two-pointers",
               "title": "Learn Two pointers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s8-u1-q1",
+                "big-o-s8-u1-q2",
+                "big-o-s8-u1-q3",
+                "big-o-s8-u1-q4",
+                "big-o-s8-u1-q5",
+                "big-o-s8-u1-q6",
+                "big-o-s8-u1-q7",
+                "big-o-s8-u1-q8",
+                "big-o-s8-u1-q9",
+                "big-o-s8-u1-q10"
+              ]
             },
             {
               "id": "big-o-section-8-unit-1-two-pointers-lesson-2",
@@ -2139,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Two pointers helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-8-unit-2-sliding-window",
@@ -2152,7 +2998,18 @@
               "unitId": "big-o-section-8-unit-2-sliding-window",
               "title": "Learn Sliding window",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s8-u2-q1",
+                "big-o-s8-u2-q2",
+                "big-o-s8-u2-q3",
+                "big-o-s8-u2-q4",
+                "big-o-s8-u2-q5",
+                "big-o-s8-u2-q6",
+                "big-o-s8-u2-q7",
+                "big-o-s8-u2-q8",
+                "big-o-s8-u2-q9",
+                "big-o-s8-u2-q10"
+              ]
             },
             {
               "id": "big-o-section-8-unit-2-sliding-window-lesson-2",
@@ -2168,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sliding window helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-8-unit-3-binary-search",
@@ -2181,7 +3039,18 @@
               "unitId": "big-o-section-8-unit-3-binary-search",
               "title": "Learn Binary search",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s8-u3-q1",
+                "big-o-s8-u3-q2",
+                "big-o-s8-u3-q3",
+                "big-o-s8-u3-q4",
+                "big-o-s8-u3-q5",
+                "big-o-s8-u3-q6",
+                "big-o-s8-u3-q7",
+                "big-o-s8-u3-q8",
+                "big-o-s8-u3-q9",
+                "big-o-s8-u3-q10"
+              ]
             },
             {
               "id": "big-o-section-8-unit-3-binary-search-lesson-2",
@@ -2197,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Binary search helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-8-unit-4-dfs",
@@ -2210,7 +3080,18 @@
               "unitId": "big-o-section-8-unit-4-dfs",
               "title": "Learn DFS",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s8-u4-q1",
+                "big-o-s8-u4-q2",
+                "big-o-s8-u4-q3",
+                "big-o-s8-u4-q4",
+                "big-o-s8-u4-q5",
+                "big-o-s8-u4-q6",
+                "big-o-s8-u4-q7",
+                "big-o-s8-u4-q8",
+                "big-o-s8-u4-q9",
+                "big-o-s8-u4-q10"
+              ]
             },
             {
               "id": "big-o-section-8-unit-4-dfs-lesson-2",
@@ -2226,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DFS helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-8-unit-5-bfs",
@@ -2239,7 +3121,18 @@
               "unitId": "big-o-section-8-unit-5-bfs",
               "title": "Learn BFS",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s8-u5-q1",
+                "big-o-s8-u5-q2",
+                "big-o-s8-u5-q3",
+                "big-o-s8-u5-q4",
+                "big-o-s8-u5-q5",
+                "big-o-s8-u5-q6",
+                "big-o-s8-u5-q7",
+                "big-o-s8-u5-q8",
+                "big-o-s8-u5-q9",
+                "big-o-s8-u5-q10"
+              ]
             },
             {
               "id": "big-o-section-8-unit-5-bfs-lesson-2",
@@ -2255,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "BFS helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-8-unit-6-sorting-first",
@@ -2268,7 +3162,18 @@
               "unitId": "big-o-section-8-unit-6-sorting-first",
               "title": "Learn Sorting first",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s8-u6-q1",
+                "big-o-s8-u6-q2",
+                "big-o-s8-u6-q3",
+                "big-o-s8-u6-q4",
+                "big-o-s8-u6-q5",
+                "big-o-s8-u6-q6",
+                "big-o-s8-u6-q7",
+                "big-o-s8-u6-q8",
+                "big-o-s8-u6-q9",
+                "big-o-s8-u6-q10"
+              ]
             },
             {
               "id": "big-o-section-8-unit-6-sorting-first-lesson-2",
@@ -2284,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sorting first helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-8-unit-7-heap-top-k",
@@ -2297,7 +3203,18 @@
               "unitId": "big-o-section-8-unit-7-heap-top-k",
               "title": "Learn Heap top K",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s8-u7-q1",
+                "big-o-s8-u7-q2",
+                "big-o-s8-u7-q3",
+                "big-o-s8-u7-q4",
+                "big-o-s8-u7-q5",
+                "big-o-s8-u7-q6",
+                "big-o-s8-u7-q7",
+                "big-o-s8-u7-q8",
+                "big-o-s8-u7-q9",
+                "big-o-s8-u7-q10"
+              ]
             },
             {
               "id": "big-o-section-8-unit-7-heap-top-k-lesson-2",
@@ -2313,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Heap top K helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-8-unit-8-dp-states",
@@ -2326,7 +3244,18 @@
               "unitId": "big-o-section-8-unit-8-dp-states",
               "title": "Learn DP states",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s8-u8-q1",
+                "big-o-s8-u8-q2",
+                "big-o-s8-u8-q3",
+                "big-o-s8-u8-q4",
+                "big-o-s8-u8-q5",
+                "big-o-s8-u8-q6",
+                "big-o-s8-u8-q7",
+                "big-o-s8-u8-q8",
+                "big-o-s8-u8-q9",
+                "big-o-s8-u8-q10"
+              ]
             },
             {
               "id": "big-o-section-8-unit-8-dp-states-lesson-2",
@@ -2342,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DP states helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-8-unit-9-backtracking-branching",
@@ -2355,7 +3285,18 @@
               "unitId": "big-o-section-8-unit-9-backtracking-branching",
               "title": "Learn Backtracking branching",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s8-u9-q1",
+                "big-o-s8-u9-q2",
+                "big-o-s8-u9-q3",
+                "big-o-s8-u9-q4",
+                "big-o-s8-u9-q5",
+                "big-o-s8-u9-q6",
+                "big-o-s8-u9-q7",
+                "big-o-s8-u9-q8",
+                "big-o-s8-u9-q9",
+                "big-o-s8-u9-q10"
+              ]
             },
             {
               "id": "big-o-section-8-unit-9-backtracking-branching-lesson-2",
@@ -2371,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Backtracking branching helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-8-unit-10-pattern-drills",
@@ -2384,7 +3326,18 @@
               "unitId": "big-o-section-8-unit-10-pattern-drills",
               "title": "Learn Pattern drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s8-u10-q1",
+                "big-o-s8-u10-q2",
+                "big-o-s8-u10-q3",
+                "big-o-s8-u10-q4",
+                "big-o-s8-u10-q5",
+                "big-o-s8-u10-q6",
+                "big-o-s8-u10-q7",
+                "big-o-s8-u10-q8",
+                "big-o-s8-u10-q9",
+                "big-o-s8-u10-q10"
+              ]
             },
             {
               "id": "big-o-section-8-unit-10-pattern-drills-lesson-2",
@@ -2400,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pattern drills helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         }
       ]
     },
@@ -2422,7 +3376,18 @@
               "unitId": "big-o-section-9-unit-1-time-vs-space",
               "title": "Learn Time vs space",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s9-u1-q1",
+                "big-o-s9-u1-q2",
+                "big-o-s9-u1-q3",
+                "big-o-s9-u1-q4",
+                "big-o-s9-u1-q5",
+                "big-o-s9-u1-q6",
+                "big-o-s9-u1-q7",
+                "big-o-s9-u1-q8",
+                "big-o-s9-u1-q9",
+                "big-o-s9-u1-q10"
+              ]
             },
             {
               "id": "big-o-section-9-unit-1-time-vs-space-lesson-2",
@@ -2438,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Time vs space helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-9-unit-2-precomputation",
@@ -2451,7 +3417,18 @@
               "unitId": "big-o-section-9-unit-2-precomputation",
               "title": "Learn Precomputation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s9-u2-q1",
+                "big-o-s9-u2-q2",
+                "big-o-s9-u2-q3",
+                "big-o-s9-u2-q4",
+                "big-o-s9-u2-q5",
+                "big-o-s9-u2-q6",
+                "big-o-s9-u2-q7",
+                "big-o-s9-u2-q8",
+                "big-o-s9-u2-q9",
+                "big-o-s9-u2-q10"
+              ]
             },
             {
               "id": "big-o-section-9-unit-2-precomputation-lesson-2",
@@ -2467,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Precomputation helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-9-unit-3-caching",
@@ -2480,7 +3458,18 @@
               "unitId": "big-o-section-9-unit-3-caching",
               "title": "Learn Caching",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s9-u3-q1",
+                "big-o-s9-u3-q2",
+                "big-o-s9-u3-q3",
+                "big-o-s9-u3-q4",
+                "big-o-s9-u3-q5",
+                "big-o-s9-u3-q6",
+                "big-o-s9-u3-q7",
+                "big-o-s9-u3-q8",
+                "big-o-s9-u3-q9",
+                "big-o-s9-u3-q10"
+              ]
             },
             {
               "id": "big-o-section-9-unit-3-caching-lesson-2",
@@ -2496,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Caching helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-9-unit-4-indexing",
@@ -2509,7 +3499,18 @@
               "unitId": "big-o-section-9-unit-4-indexing",
               "title": "Learn Indexing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s9-u4-q1",
+                "big-o-s9-u4-q2",
+                "big-o-s9-u4-q3",
+                "big-o-s9-u4-q4",
+                "big-o-s9-u4-q5",
+                "big-o-s9-u4-q6",
+                "big-o-s9-u4-q7",
+                "big-o-s9-u4-q8",
+                "big-o-s9-u4-q9",
+                "big-o-s9-u4-q10"
+              ]
             },
             {
               "id": "big-o-section-9-unit-4-indexing-lesson-2",
@@ -2525,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Indexing helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-9-unit-5-approximation",
@@ -2538,7 +3540,18 @@
               "unitId": "big-o-section-9-unit-5-approximation",
               "title": "Learn Approximation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s9-u5-q1",
+                "big-o-s9-u5-q2",
+                "big-o-s9-u5-q3",
+                "big-o-s9-u5-q4",
+                "big-o-s9-u5-q5",
+                "big-o-s9-u5-q6",
+                "big-o-s9-u5-q7",
+                "big-o-s9-u5-q8",
+                "big-o-s9-u5-q9",
+                "big-o-s9-u5-q10"
+              ]
             },
             {
               "id": "big-o-section-9-unit-5-approximation-lesson-2",
@@ -2554,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Approximation helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-9-unit-6-batch-processing",
@@ -2567,7 +3581,18 @@
               "unitId": "big-o-section-9-unit-6-batch-processing",
               "title": "Learn Batch processing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s9-u6-q1",
+                "big-o-s9-u6-q2",
+                "big-o-s9-u6-q3",
+                "big-o-s9-u6-q4",
+                "big-o-s9-u6-q5",
+                "big-o-s9-u6-q6",
+                "big-o-s9-u6-q7",
+                "big-o-s9-u6-q8",
+                "big-o-s9-u6-q9",
+                "big-o-s9-u6-q10"
+              ]
             },
             {
               "id": "big-o-section-9-unit-6-batch-processing-lesson-2",
@@ -2583,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Batch processing helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-9-unit-7-parallelism-concept",
@@ -2596,7 +3622,18 @@
               "unitId": "big-o-section-9-unit-7-parallelism-concept",
               "title": "Learn Parallelism concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s9-u7-q1",
+                "big-o-s9-u7-q2",
+                "big-o-s9-u7-q3",
+                "big-o-s9-u7-q4",
+                "big-o-s9-u7-q5",
+                "big-o-s9-u7-q6",
+                "big-o-s9-u7-q7",
+                "big-o-s9-u7-q8",
+                "big-o-s9-u7-q9",
+                "big-o-s9-u7-q10"
+              ]
             },
             {
               "id": "big-o-section-9-unit-7-parallelism-concept-lesson-2",
@@ -2612,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Parallelism concept helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-9-unit-8-readability-tradeoffs",
@@ -2625,7 +3663,18 @@
               "unitId": "big-o-section-9-unit-8-readability-tradeoffs",
               "title": "Learn Readability tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s9-u8-q1",
+                "big-o-s9-u8-q2",
+                "big-o-s9-u8-q3",
+                "big-o-s9-u8-q4",
+                "big-o-s9-u8-q5",
+                "big-o-s9-u8-q6",
+                "big-o-s9-u8-q7",
+                "big-o-s9-u8-q8",
+                "big-o-s9-u8-q9",
+                "big-o-s9-u8-q10"
+              ]
             },
             {
               "id": "big-o-section-9-unit-8-readability-tradeoffs-lesson-2",
@@ -2641,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Readability tradeoffs helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-9-unit-9-optimization-timing",
@@ -2654,7 +3704,18 @@
               "unitId": "big-o-section-9-unit-9-optimization-timing",
               "title": "Learn Optimization timing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s9-u9-q1",
+                "big-o-s9-u9-q2",
+                "big-o-s9-u9-q3",
+                "big-o-s9-u9-q4",
+                "big-o-s9-u9-q5",
+                "big-o-s9-u9-q6",
+                "big-o-s9-u9-q7",
+                "big-o-s9-u9-q8",
+                "big-o-s9-u9-q9",
+                "big-o-s9-u9-q10"
+              ]
             },
             {
               "id": "big-o-section-9-unit-9-optimization-timing-lesson-2",
@@ -2670,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Optimization timing helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-9-unit-10-tradeoff-project",
@@ -2683,7 +3745,18 @@
               "unitId": "big-o-section-9-unit-10-tradeoff-project",
               "title": "Learn Tradeoff project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s9-u10-q1",
+                "big-o-s9-u10-q2",
+                "big-o-s9-u10-q3",
+                "big-o-s9-u10-q4",
+                "big-o-s9-u10-q5",
+                "big-o-s9-u10-q6",
+                "big-o-s9-u10-q7",
+                "big-o-s9-u10-q8",
+                "big-o-s9-u10-q9",
+                "big-o-s9-u10-q10"
+              ]
             },
             {
               "id": "big-o-section-9-unit-10-tradeoff-project-lesson-2",
@@ -2699,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tradeoff project helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         }
       ]
     },
@@ -2721,7 +3795,18 @@
               "unitId": "big-o-section-10-unit-1-analyze-snippets",
               "title": "Learn Analyze snippets",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s10-u1-q1",
+                "big-o-s10-u1-q2",
+                "big-o-s10-u1-q3",
+                "big-o-s10-u1-q4",
+                "big-o-s10-u1-q5",
+                "big-o-s10-u1-q6",
+                "big-o-s10-u1-q7",
+                "big-o-s10-u1-q8",
+                "big-o-s10-u1-q9",
+                "big-o-s10-u1-q10"
+              ]
             },
             {
               "id": "big-o-section-10-unit-1-analyze-snippets-lesson-2",
@@ -2737,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Analyze snippets helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-10-unit-2-compare-solutions",
@@ -2750,7 +3836,18 @@
               "unitId": "big-o-section-10-unit-2-compare-solutions",
               "title": "Learn Compare solutions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s10-u2-q1",
+                "big-o-s10-u2-q2",
+                "big-o-s10-u2-q3",
+                "big-o-s10-u2-q4",
+                "big-o-s10-u2-q5",
+                "big-o-s10-u2-q6",
+                "big-o-s10-u2-q7",
+                "big-o-s10-u2-q8",
+                "big-o-s10-u2-q9",
+                "big-o-s10-u2-q10"
+              ]
             },
             {
               "id": "big-o-section-10-unit-2-compare-solutions-lesson-2",
@@ -2766,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Compare solutions helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-10-unit-3-refactor-nested-loops",
@@ -2779,7 +3877,18 @@
               "unitId": "big-o-section-10-unit-3-refactor-nested-loops",
               "title": "Learn Refactor nested loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s10-u3-q1",
+                "big-o-s10-u3-q2",
+                "big-o-s10-u3-q3",
+                "big-o-s10-u3-q4",
+                "big-o-s10-u3-q5",
+                "big-o-s10-u3-q6",
+                "big-o-s10-u3-q7",
+                "big-o-s10-u3-q8",
+                "big-o-s10-u3-q9",
+                "big-o-s10-u3-q10"
+              ]
             },
             {
               "id": "big-o-section-10-unit-3-refactor-nested-loops-lesson-2",
@@ -2795,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Refactor nested loops helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-10-unit-4-optimize-searches",
@@ -2808,7 +3918,18 @@
               "unitId": "big-o-section-10-unit-4-optimize-searches",
               "title": "Learn Optimize searches",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s10-u4-q1",
+                "big-o-s10-u4-q2",
+                "big-o-s10-u4-q3",
+                "big-o-s10-u4-q4",
+                "big-o-s10-u4-q5",
+                "big-o-s10-u4-q6",
+                "big-o-s10-u4-q7",
+                "big-o-s10-u4-q8",
+                "big-o-s10-u4-q9",
+                "big-o-s10-u4-q10"
+              ]
             },
             {
               "id": "big-o-section-10-unit-4-optimize-searches-lesson-2",
@@ -2824,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Optimize searches helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-10-unit-5-memory-audit",
@@ -2837,7 +3959,18 @@
               "unitId": "big-o-section-10-unit-5-memory-audit",
               "title": "Learn Memory audit",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s10-u5-q1",
+                "big-o-s10-u5-q2",
+                "big-o-s10-u5-q3",
+                "big-o-s10-u5-q4",
+                "big-o-s10-u5-q5",
+                "big-o-s10-u5-q6",
+                "big-o-s10-u5-q7",
+                "big-o-s10-u5-q8",
+                "big-o-s10-u5-q9",
+                "big-o-s10-u5-q10"
+              ]
             },
             {
               "id": "big-o-section-10-unit-5-memory-audit-lesson-2",
@@ -2853,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Memory audit helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-10-unit-6-recurrence-challenge",
@@ -2866,7 +4000,18 @@
               "unitId": "big-o-section-10-unit-6-recurrence-challenge",
               "title": "Learn Recurrence challenge",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s10-u6-q1",
+                "big-o-s10-u6-q2",
+                "big-o-s10-u6-q3",
+                "big-o-s10-u6-q4",
+                "big-o-s10-u6-q5",
+                "big-o-s10-u6-q6",
+                "big-o-s10-u6-q7",
+                "big-o-s10-u6-q8",
+                "big-o-s10-u6-q9",
+                "big-o-s10-u6-q10"
+              ]
             },
             {
               "id": "big-o-section-10-unit-6-recurrence-challenge-lesson-2",
@@ -2882,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Recurrence challenge helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-10-unit-7-interview-explanations",
@@ -2895,7 +4041,18 @@
               "unitId": "big-o-section-10-unit-7-interview-explanations",
               "title": "Learn Interview explanations",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s10-u7-q1",
+                "big-o-s10-u7-q2",
+                "big-o-s10-u7-q3",
+                "big-o-s10-u7-q4",
+                "big-o-s10-u7-q5",
+                "big-o-s10-u7-q6",
+                "big-o-s10-u7-q7",
+                "big-o-s10-u7-q8",
+                "big-o-s10-u7-q9",
+                "big-o-s10-u7-q10"
+              ]
             },
             {
               "id": "big-o-section-10-unit-7-interview-explanations-lesson-2",
@@ -2911,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Interview explanations helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-10-unit-8-benchmark-sanity-check",
@@ -2924,7 +4082,18 @@
               "unitId": "big-o-section-10-unit-8-benchmark-sanity-check",
               "title": "Learn Benchmark sanity check",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s10-u8-q1",
+                "big-o-s10-u8-q2",
+                "big-o-s10-u8-q3",
+                "big-o-s10-u8-q4",
+                "big-o-s10-u8-q5",
+                "big-o-s10-u8-q6",
+                "big-o-s10-u8-q7",
+                "big-o-s10-u8-q8",
+                "big-o-s10-u8-q9",
+                "big-o-s10-u8-q10"
+              ]
             },
             {
               "id": "big-o-section-10-unit-8-benchmark-sanity-check-lesson-2",
@@ -2940,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Benchmark sanity check helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-10-unit-9-complexity-report",
@@ -2953,7 +4123,18 @@
               "unitId": "big-o-section-10-unit-9-complexity-report",
               "title": "Learn Complexity report",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s10-u9-q1",
+                "big-o-s10-u9-q2",
+                "big-o-s10-u9-q3",
+                "big-o-s10-u9-q4",
+                "big-o-s10-u9-q5",
+                "big-o-s10-u9-q6",
+                "big-o-s10-u9-q7",
+                "big-o-s10-u9-q8",
+                "big-o-s10-u9-q9",
+                "big-o-s10-u9-q10"
+              ]
             },
             {
               "id": "big-o-section-10-unit-9-complexity-report-lesson-2",
@@ -2969,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Complexity report helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         },
         {
           "id": "big-o-section-10-unit-10-final-complexity-project",
@@ -2982,7 +4164,18 @@
               "unitId": "big-o-section-10-unit-10-final-complexity-project",
               "title": "Learn Final complexity project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "big-o-s10-u10-q1",
+                "big-o-s10-u10-q2",
+                "big-o-s10-u10-q3",
+                "big-o-s10-u10-q4",
+                "big-o-s10-u10-q5",
+                "big-o-s10-u10-q6",
+                "big-o-s10-u10-q7",
+                "big-o-s10-u10-q8",
+                "big-o-s10-u10-q9",
+                "big-o-s10-u10-q10"
+              ]
             },
             {
               "id": "big-o-section-10-unit-10-final-complexity-project-lesson-2",
@@ -2998,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final complexity project helps you describe how work grows with input size. Example: `O(n)`. Avoid: timing one run and calling it complexity."
         }
       ]
     }

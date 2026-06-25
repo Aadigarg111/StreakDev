@@ -25,7 +25,16 @@
               "title": "Learn Requirements",
               "order": 1,
               "exerciseIds": [
-                "system-design-s1-u1-sample"
+                "system-design-s1-u1-q1",
+                "system-design-s1-u1-q2",
+                "system-design-s1-u1-q3",
+                "system-design-s1-u1-q4",
+                "system-design-s1-u1-q5",
+                "system-design-s1-u1-q6",
+                "system-design-s1-u1-q7",
+                "system-design-s1-u1-q8",
+                "system-design-s1-u1-q9",
+                "system-design-s1-u1-q10"
               ]
             },
             {
@@ -42,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Requirements helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-1-unit-2-functional-vs-nonfunctional",
@@ -56,7 +66,16 @@
               "title": "Learn Functional vs nonfunctional",
               "order": 1,
               "exerciseIds": [
-                "system-design-s1-u2-sample"
+                "system-design-s1-u2-q1",
+                "system-design-s1-u2-q2",
+                "system-design-s1-u2-q3",
+                "system-design-s1-u2-q4",
+                "system-design-s1-u2-q5",
+                "system-design-s1-u2-q6",
+                "system-design-s1-u2-q7",
+                "system-design-s1-u2-q8",
+                "system-design-s1-u2-q9",
+                "system-design-s1-u2-q10"
               ]
             },
             {
@@ -73,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Functional vs nonfunctional helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-1-unit-3-capacity-estimates",
@@ -87,7 +107,16 @@
               "title": "Learn Capacity estimates",
               "order": 1,
               "exerciseIds": [
-                "system-design-s1-u3-sample"
+                "system-design-s1-u3-q1",
+                "system-design-s1-u3-q2",
+                "system-design-s1-u3-q3",
+                "system-design-s1-u3-q4",
+                "system-design-s1-u3-q5",
+                "system-design-s1-u3-q6",
+                "system-design-s1-u3-q7",
+                "system-design-s1-u3-q8",
+                "system-design-s1-u3-q9",
+                "system-design-s1-u3-q10"
               ]
             },
             {
@@ -104,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Capacity estimates helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-1-unit-4-latency-goals",
@@ -117,7 +147,18 @@
               "unitId": "system-design-section-1-unit-4-latency-goals",
               "title": "Learn Latency goals",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s1-u4-q1",
+                "system-design-s1-u4-q2",
+                "system-design-s1-u4-q3",
+                "system-design-s1-u4-q4",
+                "system-design-s1-u4-q5",
+                "system-design-s1-u4-q6",
+                "system-design-s1-u4-q7",
+                "system-design-s1-u4-q8",
+                "system-design-s1-u4-q9",
+                "system-design-s1-u4-q10"
+              ]
             },
             {
               "id": "system-design-section-1-unit-4-latency-goals-lesson-2",
@@ -133,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Latency goals helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-1-unit-5-availability",
@@ -146,7 +188,18 @@
               "unitId": "system-design-section-1-unit-5-availability",
               "title": "Learn Availability",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s1-u5-q1",
+                "system-design-s1-u5-q2",
+                "system-design-s1-u5-q3",
+                "system-design-s1-u5-q4",
+                "system-design-s1-u5-q5",
+                "system-design-s1-u5-q6",
+                "system-design-s1-u5-q7",
+                "system-design-s1-u5-q8",
+                "system-design-s1-u5-q9",
+                "system-design-s1-u5-q10"
+              ]
             },
             {
               "id": "system-design-section-1-unit-5-availability-lesson-2",
@@ -162,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Availability helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-1-unit-6-reliability",
@@ -175,7 +229,18 @@
               "unitId": "system-design-section-1-unit-6-reliability",
               "title": "Learn Reliability",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s1-u6-q1",
+                "system-design-s1-u6-q2",
+                "system-design-s1-u6-q3",
+                "system-design-s1-u6-q4",
+                "system-design-s1-u6-q5",
+                "system-design-s1-u6-q6",
+                "system-design-s1-u6-q7",
+                "system-design-s1-u6-q8",
+                "system-design-s1-u6-q9",
+                "system-design-s1-u6-q10"
+              ]
             },
             {
               "id": "system-design-section-1-unit-6-reliability-lesson-2",
@@ -191,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reliability helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-1-unit-7-consistency",
@@ -204,7 +270,18 @@
               "unitId": "system-design-section-1-unit-7-consistency",
               "title": "Learn Consistency",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s1-u7-q1",
+                "system-design-s1-u7-q2",
+                "system-design-s1-u7-q3",
+                "system-design-s1-u7-q4",
+                "system-design-s1-u7-q5",
+                "system-design-s1-u7-q6",
+                "system-design-s1-u7-q7",
+                "system-design-s1-u7-q8",
+                "system-design-s1-u7-q9",
+                "system-design-s1-u7-q10"
+              ]
             },
             {
               "id": "system-design-section-1-unit-7-consistency-lesson-2",
@@ -220,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Consistency helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-1-unit-8-tradeoff-language",
@@ -233,7 +311,18 @@
               "unitId": "system-design-section-1-unit-8-tradeoff-language",
               "title": "Learn Tradeoff language",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s1-u8-q1",
+                "system-design-s1-u8-q2",
+                "system-design-s1-u8-q3",
+                "system-design-s1-u8-q4",
+                "system-design-s1-u8-q5",
+                "system-design-s1-u8-q6",
+                "system-design-s1-u8-q7",
+                "system-design-s1-u8-q8",
+                "system-design-s1-u8-q9",
+                "system-design-s1-u8-q10"
+              ]
             },
             {
               "id": "system-design-section-1-unit-8-tradeoff-language-lesson-2",
@@ -249,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tradeoff language helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-1-unit-9-architecture-diagrams",
@@ -262,7 +352,18 @@
               "unitId": "system-design-section-1-unit-9-architecture-diagrams",
               "title": "Learn Architecture diagrams",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s1-u9-q1",
+                "system-design-s1-u9-q2",
+                "system-design-s1-u9-q3",
+                "system-design-s1-u9-q4",
+                "system-design-s1-u9-q5",
+                "system-design-s1-u9-q6",
+                "system-design-s1-u9-q7",
+                "system-design-s1-u9-q8",
+                "system-design-s1-u9-q9",
+                "system-design-s1-u9-q10"
+              ]
             },
             {
               "id": "system-design-section-1-unit-9-architecture-diagrams-lesson-2",
@@ -278,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Architecture diagrams helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-1-unit-10-design-interview-flow",
@@ -291,7 +393,18 @@
               "unitId": "system-design-section-1-unit-10-design-interview-flow",
               "title": "Learn Design interview flow",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s1-u10-q1",
+                "system-design-s1-u10-q2",
+                "system-design-s1-u10-q3",
+                "system-design-s1-u10-q4",
+                "system-design-s1-u10-q5",
+                "system-design-s1-u10-q6",
+                "system-design-s1-u10-q7",
+                "system-design-s1-u10-q8",
+                "system-design-s1-u10-q9",
+                "system-design-s1-u10-q10"
+              ]
             },
             {
               "id": "system-design-section-1-unit-10-design-interview-flow-lesson-2",
@@ -307,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Design interview flow helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         }
       ]
     },
@@ -329,7 +443,18 @@
               "unitId": "system-design-section-2-unit-1-clients-and-servers",
               "title": "Learn Clients and servers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s2-u1-q1",
+                "system-design-s2-u1-q2",
+                "system-design-s2-u1-q3",
+                "system-design-s2-u1-q4",
+                "system-design-s2-u1-q5",
+                "system-design-s2-u1-q6",
+                "system-design-s2-u1-q7",
+                "system-design-s2-u1-q8",
+                "system-design-s2-u1-q9",
+                "system-design-s2-u1-q10"
+              ]
             },
             {
               "id": "system-design-section-2-unit-1-clients-and-servers-lesson-2",
@@ -345,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Clients and servers helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-2-unit-2-apis",
@@ -358,7 +484,18 @@
               "unitId": "system-design-section-2-unit-2-apis",
               "title": "Learn APIs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s2-u2-q1",
+                "system-design-s2-u2-q2",
+                "system-design-s2-u2-q3",
+                "system-design-s2-u2-q4",
+                "system-design-s2-u2-q5",
+                "system-design-s2-u2-q6",
+                "system-design-s2-u2-q7",
+                "system-design-s2-u2-q8",
+                "system-design-s2-u2-q9",
+                "system-design-s2-u2-q10"
+              ]
             },
             {
               "id": "system-design-section-2-unit-2-apis-lesson-2",
@@ -374,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "APIs helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-2-unit-3-http-basics",
@@ -387,7 +525,18 @@
               "unitId": "system-design-section-2-unit-3-http-basics",
               "title": "Learn HTTP basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s2-u3-q1",
+                "system-design-s2-u3-q2",
+                "system-design-s2-u3-q3",
+                "system-design-s2-u3-q4",
+                "system-design-s2-u3-q5",
+                "system-design-s2-u3-q6",
+                "system-design-s2-u3-q7",
+                "system-design-s2-u3-q8",
+                "system-design-s2-u3-q9",
+                "system-design-s2-u3-q10"
+              ]
             },
             {
               "id": "system-design-section-2-unit-3-http-basics-lesson-2",
@@ -403,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "HTTP basics helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-2-unit-4-dns-in-systems",
@@ -416,7 +566,18 @@
               "unitId": "system-design-section-2-unit-4-dns-in-systems",
               "title": "Learn DNS in systems",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s2-u4-q1",
+                "system-design-s2-u4-q2",
+                "system-design-s2-u4-q3",
+                "system-design-s2-u4-q4",
+                "system-design-s2-u4-q5",
+                "system-design-s2-u4-q6",
+                "system-design-s2-u4-q7",
+                "system-design-s2-u4-q8",
+                "system-design-s2-u4-q9",
+                "system-design-s2-u4-q10"
+              ]
             },
             {
               "id": "system-design-section-2-unit-4-dns-in-systems-lesson-2",
@@ -432,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DNS in systems helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-2-unit-5-cdns",
@@ -445,7 +607,18 @@
               "unitId": "system-design-section-2-unit-5-cdns",
               "title": "Learn CDNs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s2-u5-q1",
+                "system-design-s2-u5-q2",
+                "system-design-s2-u5-q3",
+                "system-design-s2-u5-q4",
+                "system-design-s2-u5-q5",
+                "system-design-s2-u5-q6",
+                "system-design-s2-u5-q7",
+                "system-design-s2-u5-q8",
+                "system-design-s2-u5-q9",
+                "system-design-s2-u5-q10"
+              ]
             },
             {
               "id": "system-design-section-2-unit-5-cdns-lesson-2",
@@ -461,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CDNs helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-2-unit-6-websockets-concept",
@@ -474,7 +648,18 @@
               "unitId": "system-design-section-2-unit-6-websockets-concept",
               "title": "Learn WebSockets concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s2-u6-q1",
+                "system-design-s2-u6-q2",
+                "system-design-s2-u6-q3",
+                "system-design-s2-u6-q4",
+                "system-design-s2-u6-q5",
+                "system-design-s2-u6-q6",
+                "system-design-s2-u6-q7",
+                "system-design-s2-u6-q8",
+                "system-design-s2-u6-q9",
+                "system-design-s2-u6-q10"
+              ]
             },
             {
               "id": "system-design-section-2-unit-6-websockets-concept-lesson-2",
@@ -490,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "WebSockets concept helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-2-unit-7-rate-limits",
@@ -503,7 +689,18 @@
               "unitId": "system-design-section-2-unit-7-rate-limits",
               "title": "Learn Rate limits",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s2-u7-q1",
+                "system-design-s2-u7-q2",
+                "system-design-s2-u7-q3",
+                "system-design-s2-u7-q4",
+                "system-design-s2-u7-q5",
+                "system-design-s2-u7-q6",
+                "system-design-s2-u7-q7",
+                "system-design-s2-u7-q8",
+                "system-design-s2-u7-q9",
+                "system-design-s2-u7-q10"
+              ]
             },
             {
               "id": "system-design-section-2-unit-7-rate-limits-lesson-2",
@@ -519,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Rate limits helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-2-unit-8-timeouts",
@@ -532,7 +730,18 @@
               "unitId": "system-design-section-2-unit-8-timeouts",
               "title": "Learn Timeouts",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s2-u8-q1",
+                "system-design-s2-u8-q2",
+                "system-design-s2-u8-q3",
+                "system-design-s2-u8-q4",
+                "system-design-s2-u8-q5",
+                "system-design-s2-u8-q6",
+                "system-design-s2-u8-q7",
+                "system-design-s2-u8-q8",
+                "system-design-s2-u8-q9",
+                "system-design-s2-u8-q10"
+              ]
             },
             {
               "id": "system-design-section-2-unit-8-timeouts-lesson-2",
@@ -548,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Timeouts helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-2-unit-9-retries",
@@ -561,7 +771,18 @@
               "unitId": "system-design-section-2-unit-9-retries",
               "title": "Learn Retries",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s2-u9-q1",
+                "system-design-s2-u9-q2",
+                "system-design-s2-u9-q3",
+                "system-design-s2-u9-q4",
+                "system-design-s2-u9-q5",
+                "system-design-s2-u9-q6",
+                "system-design-s2-u9-q7",
+                "system-design-s2-u9-q8",
+                "system-design-s2-u9-q9",
+                "system-design-s2-u9-q10"
+              ]
             },
             {
               "id": "system-design-section-2-unit-9-retries-lesson-2",
@@ -577,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Retries helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-2-unit-10-network-tradeoffs",
@@ -590,7 +812,18 @@
               "unitId": "system-design-section-2-unit-10-network-tradeoffs",
               "title": "Learn Network tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s2-u10-q1",
+                "system-design-s2-u10-q2",
+                "system-design-s2-u10-q3",
+                "system-design-s2-u10-q4",
+                "system-design-s2-u10-q5",
+                "system-design-s2-u10-q6",
+                "system-design-s2-u10-q7",
+                "system-design-s2-u10-q8",
+                "system-design-s2-u10-q9",
+                "system-design-s2-u10-q10"
+              ]
             },
             {
               "id": "system-design-section-2-unit-10-network-tradeoffs-lesson-2",
@@ -606,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Network tradeoffs helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         }
       ]
     },
@@ -628,7 +862,18 @@
               "unitId": "system-design-section-3-unit-1-why-load-balance",
               "title": "Learn Why load balance",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s3-u1-q1",
+                "system-design-s3-u1-q2",
+                "system-design-s3-u1-q3",
+                "system-design-s3-u1-q4",
+                "system-design-s3-u1-q5",
+                "system-design-s3-u1-q6",
+                "system-design-s3-u1-q7",
+                "system-design-s3-u1-q8",
+                "system-design-s3-u1-q9",
+                "system-design-s3-u1-q10"
+              ]
             },
             {
               "id": "system-design-section-3-unit-1-why-load-balance-lesson-2",
@@ -644,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Why load balance helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-3-unit-2-layer-4-vs-layer-7",
@@ -657,7 +903,18 @@
               "unitId": "system-design-section-3-unit-2-layer-4-vs-layer-7",
               "title": "Learn Layer 4 vs layer 7",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s3-u2-q1",
+                "system-design-s3-u2-q2",
+                "system-design-s3-u2-q3",
+                "system-design-s3-u2-q4",
+                "system-design-s3-u2-q5",
+                "system-design-s3-u2-q6",
+                "system-design-s3-u2-q7",
+                "system-design-s3-u2-q8",
+                "system-design-s3-u2-q9",
+                "system-design-s3-u2-q10"
+              ]
             },
             {
               "id": "system-design-section-3-unit-2-layer-4-vs-layer-7-lesson-2",
@@ -673,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Layer 4 vs layer 7 helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-3-unit-3-round-robin",
@@ -686,7 +944,18 @@
               "unitId": "system-design-section-3-unit-3-round-robin",
               "title": "Learn Round robin",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s3-u3-q1",
+                "system-design-s3-u3-q2",
+                "system-design-s3-u3-q3",
+                "system-design-s3-u3-q4",
+                "system-design-s3-u3-q5",
+                "system-design-s3-u3-q6",
+                "system-design-s3-u3-q7",
+                "system-design-s3-u3-q8",
+                "system-design-s3-u3-q9",
+                "system-design-s3-u3-q10"
+              ]
             },
             {
               "id": "system-design-section-3-unit-3-round-robin-lesson-2",
@@ -702,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Round robin helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-3-unit-4-least-connections",
@@ -715,7 +985,18 @@
               "unitId": "system-design-section-3-unit-4-least-connections",
               "title": "Learn Least connections",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s3-u4-q1",
+                "system-design-s3-u4-q2",
+                "system-design-s3-u4-q3",
+                "system-design-s3-u4-q4",
+                "system-design-s3-u4-q5",
+                "system-design-s3-u4-q6",
+                "system-design-s3-u4-q7",
+                "system-design-s3-u4-q8",
+                "system-design-s3-u4-q9",
+                "system-design-s3-u4-q10"
+              ]
             },
             {
               "id": "system-design-section-3-unit-4-least-connections-lesson-2",
@@ -731,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Least connections helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-3-unit-5-health-checks",
@@ -744,7 +1026,18 @@
               "unitId": "system-design-section-3-unit-5-health-checks",
               "title": "Learn Health checks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s3-u5-q1",
+                "system-design-s3-u5-q2",
+                "system-design-s3-u5-q3",
+                "system-design-s3-u5-q4",
+                "system-design-s3-u5-q5",
+                "system-design-s3-u5-q6",
+                "system-design-s3-u5-q7",
+                "system-design-s3-u5-q8",
+                "system-design-s3-u5-q9",
+                "system-design-s3-u5-q10"
+              ]
             },
             {
               "id": "system-design-section-3-unit-5-health-checks-lesson-2",
@@ -760,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Health checks helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-3-unit-6-sticky-sessions",
@@ -773,7 +1067,18 @@
               "unitId": "system-design-section-3-unit-6-sticky-sessions",
               "title": "Learn Sticky sessions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s3-u6-q1",
+                "system-design-s3-u6-q2",
+                "system-design-s3-u6-q3",
+                "system-design-s3-u6-q4",
+                "system-design-s3-u6-q5",
+                "system-design-s3-u6-q6",
+                "system-design-s3-u6-q7",
+                "system-design-s3-u6-q8",
+                "system-design-s3-u6-q9",
+                "system-design-s3-u6-q10"
+              ]
             },
             {
               "id": "system-design-section-3-unit-6-sticky-sessions-lesson-2",
@@ -789,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sticky sessions helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-3-unit-7-global-balancing",
@@ -802,7 +1108,18 @@
               "unitId": "system-design-section-3-unit-7-global-balancing",
               "title": "Learn Global balancing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s3-u7-q1",
+                "system-design-s3-u7-q2",
+                "system-design-s3-u7-q3",
+                "system-design-s3-u7-q4",
+                "system-design-s3-u7-q5",
+                "system-design-s3-u7-q6",
+                "system-design-s3-u7-q7",
+                "system-design-s3-u7-q8",
+                "system-design-s3-u7-q9",
+                "system-design-s3-u7-q10"
+              ]
             },
             {
               "id": "system-design-section-3-unit-7-global-balancing-lesson-2",
@@ -818,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Global balancing helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-3-unit-8-failover",
@@ -831,7 +1149,18 @@
               "unitId": "system-design-section-3-unit-8-failover",
               "title": "Learn Failover",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s3-u8-q1",
+                "system-design-s3-u8-q2",
+                "system-design-s3-u8-q3",
+                "system-design-s3-u8-q4",
+                "system-design-s3-u8-q5",
+                "system-design-s3-u8-q6",
+                "system-design-s3-u8-q7",
+                "system-design-s3-u8-q8",
+                "system-design-s3-u8-q9",
+                "system-design-s3-u8-q10"
+              ]
             },
             {
               "id": "system-design-section-3-unit-8-failover-lesson-2",
@@ -847,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Failover helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-3-unit-9-load-balancer-limits",
@@ -860,7 +1190,18 @@
               "unitId": "system-design-section-3-unit-9-load-balancer-limits",
               "title": "Learn Load balancer limits",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s3-u9-q1",
+                "system-design-s3-u9-q2",
+                "system-design-s3-u9-q3",
+                "system-design-s3-u9-q4",
+                "system-design-s3-u9-q5",
+                "system-design-s3-u9-q6",
+                "system-design-s3-u9-q7",
+                "system-design-s3-u9-q8",
+                "system-design-s3-u9-q9",
+                "system-design-s3-u9-q10"
+              ]
             },
             {
               "id": "system-design-section-3-unit-9-load-balancer-limits-lesson-2",
@@ -876,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Load balancer limits helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-3-unit-10-lb-design-drills",
@@ -889,7 +1231,18 @@
               "unitId": "system-design-section-3-unit-10-lb-design-drills",
               "title": "Learn LB design drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s3-u10-q1",
+                "system-design-s3-u10-q2",
+                "system-design-s3-u10-q3",
+                "system-design-s3-u10-q4",
+                "system-design-s3-u10-q5",
+                "system-design-s3-u10-q6",
+                "system-design-s3-u10-q7",
+                "system-design-s3-u10-q8",
+                "system-design-s3-u10-q9",
+                "system-design-s3-u10-q10"
+              ]
             },
             {
               "id": "system-design-section-3-unit-10-lb-design-drills-lesson-2",
@@ -905,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "LB design drills helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         }
       ]
     },
@@ -927,7 +1281,18 @@
               "unitId": "system-design-section-4-unit-1-cache-purpose",
               "title": "Learn Cache purpose",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s4-u1-q1",
+                "system-design-s4-u1-q2",
+                "system-design-s4-u1-q3",
+                "system-design-s4-u1-q4",
+                "system-design-s4-u1-q5",
+                "system-design-s4-u1-q6",
+                "system-design-s4-u1-q7",
+                "system-design-s4-u1-q8",
+                "system-design-s4-u1-q9",
+                "system-design-s4-u1-q10"
+              ]
             },
             {
               "id": "system-design-section-4-unit-1-cache-purpose-lesson-2",
@@ -943,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Cache purpose helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-4-unit-2-client-cache",
@@ -956,7 +1322,18 @@
               "unitId": "system-design-section-4-unit-2-client-cache",
               "title": "Learn Client cache",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s4-u2-q1",
+                "system-design-s4-u2-q2",
+                "system-design-s4-u2-q3",
+                "system-design-s4-u2-q4",
+                "system-design-s4-u2-q5",
+                "system-design-s4-u2-q6",
+                "system-design-s4-u2-q7",
+                "system-design-s4-u2-q8",
+                "system-design-s4-u2-q9",
+                "system-design-s4-u2-q10"
+              ]
             },
             {
               "id": "system-design-section-4-unit-2-client-cache-lesson-2",
@@ -972,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Client cache helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-4-unit-3-cdn-cache",
@@ -985,7 +1363,18 @@
               "unitId": "system-design-section-4-unit-3-cdn-cache",
               "title": "Learn CDN cache",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s4-u3-q1",
+                "system-design-s4-u3-q2",
+                "system-design-s4-u3-q3",
+                "system-design-s4-u3-q4",
+                "system-design-s4-u3-q5",
+                "system-design-s4-u3-q6",
+                "system-design-s4-u3-q7",
+                "system-design-s4-u3-q8",
+                "system-design-s4-u3-q9",
+                "system-design-s4-u3-q10"
+              ]
             },
             {
               "id": "system-design-section-4-unit-3-cdn-cache-lesson-2",
@@ -1001,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CDN cache helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-4-unit-4-application-cache",
@@ -1014,7 +1404,18 @@
               "unitId": "system-design-section-4-unit-4-application-cache",
               "title": "Learn Application cache",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s4-u4-q1",
+                "system-design-s4-u4-q2",
+                "system-design-s4-u4-q3",
+                "system-design-s4-u4-q4",
+                "system-design-s4-u4-q5",
+                "system-design-s4-u4-q6",
+                "system-design-s4-u4-q7",
+                "system-design-s4-u4-q8",
+                "system-design-s4-u4-q9",
+                "system-design-s4-u4-q10"
+              ]
             },
             {
               "id": "system-design-section-4-unit-4-application-cache-lesson-2",
@@ -1030,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Application cache helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-4-unit-5-database-cache",
@@ -1043,7 +1445,18 @@
               "unitId": "system-design-section-4-unit-5-database-cache",
               "title": "Learn Database cache",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s4-u5-q1",
+                "system-design-s4-u5-q2",
+                "system-design-s4-u5-q3",
+                "system-design-s4-u5-q4",
+                "system-design-s4-u5-q5",
+                "system-design-s4-u5-q6",
+                "system-design-s4-u5-q7",
+                "system-design-s4-u5-q8",
+                "system-design-s4-u5-q9",
+                "system-design-s4-u5-q10"
+              ]
             },
             {
               "id": "system-design-section-4-unit-5-database-cache-lesson-2",
@@ -1059,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Database cache helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-4-unit-6-cache-keys",
@@ -1072,7 +1486,18 @@
               "unitId": "system-design-section-4-unit-6-cache-keys",
               "title": "Learn Cache keys",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s4-u6-q1",
+                "system-design-s4-u6-q2",
+                "system-design-s4-u6-q3",
+                "system-design-s4-u6-q4",
+                "system-design-s4-u6-q5",
+                "system-design-s4-u6-q6",
+                "system-design-s4-u6-q7",
+                "system-design-s4-u6-q8",
+                "system-design-s4-u6-q9",
+                "system-design-s4-u6-q10"
+              ]
             },
             {
               "id": "system-design-section-4-unit-6-cache-keys-lesson-2",
@@ -1088,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Cache keys helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-4-unit-7-invalidation",
@@ -1101,7 +1527,18 @@
               "unitId": "system-design-section-4-unit-7-invalidation",
               "title": "Learn Invalidation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s4-u7-q1",
+                "system-design-s4-u7-q2",
+                "system-design-s4-u7-q3",
+                "system-design-s4-u7-q4",
+                "system-design-s4-u7-q5",
+                "system-design-s4-u7-q6",
+                "system-design-s4-u7-q7",
+                "system-design-s4-u7-q8",
+                "system-design-s4-u7-q9",
+                "system-design-s4-u7-q10"
+              ]
             },
             {
               "id": "system-design-section-4-unit-7-invalidation-lesson-2",
@@ -1117,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Invalidation helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-4-unit-8-ttl",
@@ -1130,7 +1568,18 @@
               "unitId": "system-design-section-4-unit-8-ttl",
               "title": "Learn TTL",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s4-u8-q1",
+                "system-design-s4-u8-q2",
+                "system-design-s4-u8-q3",
+                "system-design-s4-u8-q4",
+                "system-design-s4-u8-q5",
+                "system-design-s4-u8-q6",
+                "system-design-s4-u8-q7",
+                "system-design-s4-u8-q8",
+                "system-design-s4-u8-q9",
+                "system-design-s4-u8-q10"
+              ]
             },
             {
               "id": "system-design-section-4-unit-8-ttl-lesson-2",
@@ -1146,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "TTL helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-4-unit-9-cache-stampede",
@@ -1159,7 +1609,18 @@
               "unitId": "system-design-section-4-unit-9-cache-stampede",
               "title": "Learn Cache stampede",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s4-u9-q1",
+                "system-design-s4-u9-q2",
+                "system-design-s4-u9-q3",
+                "system-design-s4-u9-q4",
+                "system-design-s4-u9-q5",
+                "system-design-s4-u9-q6",
+                "system-design-s4-u9-q7",
+                "system-design-s4-u9-q8",
+                "system-design-s4-u9-q9",
+                "system-design-s4-u9-q10"
+              ]
             },
             {
               "id": "system-design-section-4-unit-9-cache-stampede-lesson-2",
@@ -1175,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Cache stampede helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-4-unit-10-caching-project",
@@ -1188,7 +1650,18 @@
               "unitId": "system-design-section-4-unit-10-caching-project",
               "title": "Learn Caching project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s4-u10-q1",
+                "system-design-s4-u10-q2",
+                "system-design-s4-u10-q3",
+                "system-design-s4-u10-q4",
+                "system-design-s4-u10-q5",
+                "system-design-s4-u10-q6",
+                "system-design-s4-u10-q7",
+                "system-design-s4-u10-q8",
+                "system-design-s4-u10-q9",
+                "system-design-s4-u10-q10"
+              ]
             },
             {
               "id": "system-design-section-4-unit-10-caching-project-lesson-2",
@@ -1204,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Caching project helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         }
       ]
     },
@@ -1226,7 +1700,18 @@
               "unitId": "system-design-section-5-unit-1-read-replicas",
               "title": "Learn Read replicas",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s5-u1-q1",
+                "system-design-s5-u1-q2",
+                "system-design-s5-u1-q3",
+                "system-design-s5-u1-q4",
+                "system-design-s5-u1-q5",
+                "system-design-s5-u1-q6",
+                "system-design-s5-u1-q7",
+                "system-design-s5-u1-q8",
+                "system-design-s5-u1-q9",
+                "system-design-s5-u1-q10"
+              ]
             },
             {
               "id": "system-design-section-5-unit-1-read-replicas-lesson-2",
@@ -1242,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Read replicas helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-5-unit-2-sharding",
@@ -1255,7 +1741,18 @@
               "unitId": "system-design-section-5-unit-2-sharding",
               "title": "Learn Sharding",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s5-u2-q1",
+                "system-design-s5-u2-q2",
+                "system-design-s5-u2-q3",
+                "system-design-s5-u2-q4",
+                "system-design-s5-u2-q5",
+                "system-design-s5-u2-q6",
+                "system-design-s5-u2-q7",
+                "system-design-s5-u2-q8",
+                "system-design-s5-u2-q9",
+                "system-design-s5-u2-q10"
+              ]
             },
             {
               "id": "system-design-section-5-unit-2-sharding-lesson-2",
@@ -1271,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sharding helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-5-unit-3-partition-keys",
@@ -1284,7 +1782,18 @@
               "unitId": "system-design-section-5-unit-3-partition-keys",
               "title": "Learn Partition keys",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s5-u3-q1",
+                "system-design-s5-u3-q2",
+                "system-design-s5-u3-q3",
+                "system-design-s5-u3-q4",
+                "system-design-s5-u3-q5",
+                "system-design-s5-u3-q6",
+                "system-design-s5-u3-q7",
+                "system-design-s5-u3-q8",
+                "system-design-s5-u3-q9",
+                "system-design-s5-u3-q10"
+              ]
             },
             {
               "id": "system-design-section-5-unit-3-partition-keys-lesson-2",
@@ -1300,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Partition keys helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-5-unit-4-hot-partitions",
@@ -1313,7 +1823,18 @@
               "unitId": "system-design-section-5-unit-4-hot-partitions",
               "title": "Learn Hot partitions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s5-u4-q1",
+                "system-design-s5-u4-q2",
+                "system-design-s5-u4-q3",
+                "system-design-s5-u4-q4",
+                "system-design-s5-u4-q5",
+                "system-design-s5-u4-q6",
+                "system-design-s5-u4-q7",
+                "system-design-s5-u4-q8",
+                "system-design-s5-u4-q9",
+                "system-design-s5-u4-q10"
+              ]
             },
             {
               "id": "system-design-section-5-unit-4-hot-partitions-lesson-2",
@@ -1329,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Hot partitions helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-5-unit-5-replication-lag",
@@ -1342,7 +1864,18 @@
               "unitId": "system-design-section-5-unit-5-replication-lag",
               "title": "Learn Replication lag",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s5-u5-q1",
+                "system-design-s5-u5-q2",
+                "system-design-s5-u5-q3",
+                "system-design-s5-u5-q4",
+                "system-design-s5-u5-q5",
+                "system-design-s5-u5-q6",
+                "system-design-s5-u5-q7",
+                "system-design-s5-u5-q8",
+                "system-design-s5-u5-q9",
+                "system-design-s5-u5-q10"
+              ]
             },
             {
               "id": "system-design-section-5-unit-5-replication-lag-lesson-2",
@@ -1358,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Replication lag helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-5-unit-6-sql-vs-nosql",
@@ -1371,7 +1905,18 @@
               "unitId": "system-design-section-5-unit-6-sql-vs-nosql",
               "title": "Learn SQL vs NoSQL",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s5-u6-q1",
+                "system-design-s5-u6-q2",
+                "system-design-s5-u6-q3",
+                "system-design-s5-u6-q4",
+                "system-design-s5-u6-q5",
+                "system-design-s5-u6-q6",
+                "system-design-s5-u6-q7",
+                "system-design-s5-u6-q8",
+                "system-design-s5-u6-q9",
+                "system-design-s5-u6-q10"
+              ]
             },
             {
               "id": "system-design-section-5-unit-6-sql-vs-nosql-lesson-2",
@@ -1387,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "SQL vs NoSQL helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-5-unit-7-indexes",
@@ -1400,7 +1946,18 @@
               "unitId": "system-design-section-5-unit-7-indexes",
               "title": "Learn Indexes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s5-u7-q1",
+                "system-design-s5-u7-q2",
+                "system-design-s5-u7-q3",
+                "system-design-s5-u7-q4",
+                "system-design-s5-u7-q5",
+                "system-design-s5-u7-q6",
+                "system-design-s5-u7-q7",
+                "system-design-s5-u7-q8",
+                "system-design-s5-u7-q9",
+                "system-design-s5-u7-q10"
+              ]
             },
             {
               "id": "system-design-section-5-unit-7-indexes-lesson-2",
@@ -1416,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Indexes helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-5-unit-8-transactions-tradeoffs",
@@ -1429,7 +1987,18 @@
               "unitId": "system-design-section-5-unit-8-transactions-tradeoffs",
               "title": "Learn Transactions tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s5-u8-q1",
+                "system-design-s5-u8-q2",
+                "system-design-s5-u8-q3",
+                "system-design-s5-u8-q4",
+                "system-design-s5-u8-q5",
+                "system-design-s5-u8-q6",
+                "system-design-s5-u8-q7",
+                "system-design-s5-u8-q8",
+                "system-design-s5-u8-q9",
+                "system-design-s5-u8-q10"
+              ]
             },
             {
               "id": "system-design-section-5-unit-8-transactions-tradeoffs-lesson-2",
@@ -1445,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Transactions tradeoffs helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-5-unit-9-data-retention",
@@ -1458,7 +2028,18 @@
               "unitId": "system-design-section-5-unit-9-data-retention",
               "title": "Learn Data retention",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s5-u9-q1",
+                "system-design-s5-u9-q2",
+                "system-design-s5-u9-q3",
+                "system-design-s5-u9-q4",
+                "system-design-s5-u9-q5",
+                "system-design-s5-u9-q6",
+                "system-design-s5-u9-q7",
+                "system-design-s5-u9-q8",
+                "system-design-s5-u9-q9",
+                "system-design-s5-u9-q10"
+              ]
             },
             {
               "id": "system-design-section-5-unit-9-data-retention-lesson-2",
@@ -1474,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data retention helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-5-unit-10-data-design-drills",
@@ -1487,7 +2069,18 @@
               "unitId": "system-design-section-5-unit-10-data-design-drills",
               "title": "Learn Data design drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s5-u10-q1",
+                "system-design-s5-u10-q2",
+                "system-design-s5-u10-q3",
+                "system-design-s5-u10-q4",
+                "system-design-s5-u10-q5",
+                "system-design-s5-u10-q6",
+                "system-design-s5-u10-q7",
+                "system-design-s5-u10-q8",
+                "system-design-s5-u10-q9",
+                "system-design-s5-u10-q10"
+              ]
             },
             {
               "id": "system-design-section-5-unit-10-data-design-drills-lesson-2",
@@ -1503,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data design drills helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         }
       ]
     },
@@ -1525,7 +2119,18 @@
               "unitId": "system-design-section-6-unit-1-message-queues",
               "title": "Learn Message queues",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s6-u1-q1",
+                "system-design-s6-u1-q2",
+                "system-design-s6-u1-q3",
+                "system-design-s6-u1-q4",
+                "system-design-s6-u1-q5",
+                "system-design-s6-u1-q6",
+                "system-design-s6-u1-q7",
+                "system-design-s6-u1-q8",
+                "system-design-s6-u1-q9",
+                "system-design-s6-u1-q10"
+              ]
             },
             {
               "id": "system-design-section-6-unit-1-message-queues-lesson-2",
@@ -1541,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Message queues helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-6-unit-2-pub-sub",
@@ -1554,7 +2160,18 @@
               "unitId": "system-design-section-6-unit-2-pub-sub",
               "title": "Learn Pub sub",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s6-u2-q1",
+                "system-design-s6-u2-q2",
+                "system-design-s6-u2-q3",
+                "system-design-s6-u2-q4",
+                "system-design-s6-u2-q5",
+                "system-design-s6-u2-q6",
+                "system-design-s6-u2-q7",
+                "system-design-s6-u2-q8",
+                "system-design-s6-u2-q9",
+                "system-design-s6-u2-q10"
+              ]
             },
             {
               "id": "system-design-section-6-unit-2-pub-sub-lesson-2",
@@ -1570,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pub sub helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-6-unit-3-background-jobs",
@@ -1583,7 +2201,18 @@
               "unitId": "system-design-section-6-unit-3-background-jobs",
               "title": "Learn Background jobs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s6-u3-q1",
+                "system-design-s6-u3-q2",
+                "system-design-s6-u3-q3",
+                "system-design-s6-u3-q4",
+                "system-design-s6-u3-q5",
+                "system-design-s6-u3-q6",
+                "system-design-s6-u3-q7",
+                "system-design-s6-u3-q8",
+                "system-design-s6-u3-q9",
+                "system-design-s6-u3-q10"
+              ]
             },
             {
               "id": "system-design-section-6-unit-3-background-jobs-lesson-2",
@@ -1599,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Background jobs helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-6-unit-4-retries",
@@ -1612,7 +2242,18 @@
               "unitId": "system-design-section-6-unit-4-retries",
               "title": "Learn Retries",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s6-u4-q1",
+                "system-design-s6-u4-q2",
+                "system-design-s6-u4-q3",
+                "system-design-s6-u4-q4",
+                "system-design-s6-u4-q5",
+                "system-design-s6-u4-q6",
+                "system-design-s6-u4-q7",
+                "system-design-s6-u4-q8",
+                "system-design-s6-u4-q9",
+                "system-design-s6-u4-q10"
+              ]
             },
             {
               "id": "system-design-section-6-unit-4-retries-lesson-2",
@@ -1628,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Retries helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-6-unit-5-dead-letter-queues",
@@ -1641,7 +2283,18 @@
               "unitId": "system-design-section-6-unit-5-dead-letter-queues",
               "title": "Learn Dead letter queues",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s6-u5-q1",
+                "system-design-s6-u5-q2",
+                "system-design-s6-u5-q3",
+                "system-design-s6-u5-q4",
+                "system-design-s6-u5-q5",
+                "system-design-s6-u5-q6",
+                "system-design-s6-u5-q7",
+                "system-design-s6-u5-q8",
+                "system-design-s6-u5-q9",
+                "system-design-s6-u5-q10"
+              ]
             },
             {
               "id": "system-design-section-6-unit-5-dead-letter-queues-lesson-2",
@@ -1657,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dead letter queues helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-6-unit-6-idempotency",
@@ -1670,7 +2324,18 @@
               "unitId": "system-design-section-6-unit-6-idempotency",
               "title": "Learn Idempotency",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s6-u6-q1",
+                "system-design-s6-u6-q2",
+                "system-design-s6-u6-q3",
+                "system-design-s6-u6-q4",
+                "system-design-s6-u6-q5",
+                "system-design-s6-u6-q6",
+                "system-design-s6-u6-q7",
+                "system-design-s6-u6-q8",
+                "system-design-s6-u6-q9",
+                "system-design-s6-u6-q10"
+              ]
             },
             {
               "id": "system-design-section-6-unit-6-idempotency-lesson-2",
@@ -1686,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Idempotency helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-6-unit-7-ordering",
@@ -1699,7 +2365,18 @@
               "unitId": "system-design-section-6-unit-7-ordering",
               "title": "Learn Ordering",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s6-u7-q1",
+                "system-design-s6-u7-q2",
+                "system-design-s6-u7-q3",
+                "system-design-s6-u7-q4",
+                "system-design-s6-u7-q5",
+                "system-design-s6-u7-q6",
+                "system-design-s6-u7-q7",
+                "system-design-s6-u7-q8",
+                "system-design-s6-u7-q9",
+                "system-design-s6-u7-q10"
+              ]
             },
             {
               "id": "system-design-section-6-unit-7-ordering-lesson-2",
@@ -1715,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Ordering helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-6-unit-8-backpressure",
@@ -1728,7 +2406,18 @@
               "unitId": "system-design-section-6-unit-8-backpressure",
               "title": "Learn Backpressure",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s6-u8-q1",
+                "system-design-s6-u8-q2",
+                "system-design-s6-u8-q3",
+                "system-design-s6-u8-q4",
+                "system-design-s6-u8-q5",
+                "system-design-s6-u8-q6",
+                "system-design-s6-u8-q7",
+                "system-design-s6-u8-q8",
+                "system-design-s6-u8-q9",
+                "system-design-s6-u8-q10"
+              ]
             },
             {
               "id": "system-design-section-6-unit-8-backpressure-lesson-2",
@@ -1744,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Backpressure helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-6-unit-9-eventual-consistency",
@@ -1757,7 +2447,18 @@
               "unitId": "system-design-section-6-unit-9-eventual-consistency",
               "title": "Learn Eventual consistency",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s6-u9-q1",
+                "system-design-s6-u9-q2",
+                "system-design-s6-u9-q3",
+                "system-design-s6-u9-q4",
+                "system-design-s6-u9-q5",
+                "system-design-s6-u9-q6",
+                "system-design-s6-u9-q7",
+                "system-design-s6-u9-q8",
+                "system-design-s6-u9-q9",
+                "system-design-s6-u9-q10"
+              ]
             },
             {
               "id": "system-design-section-6-unit-9-eventual-consistency-lesson-2",
@@ -1773,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Eventual consistency helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-6-unit-10-queue-project",
@@ -1786,7 +2488,18 @@
               "unitId": "system-design-section-6-unit-10-queue-project",
               "title": "Learn Queue project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s6-u10-q1",
+                "system-design-s6-u10-q2",
+                "system-design-s6-u10-q3",
+                "system-design-s6-u10-q4",
+                "system-design-s6-u10-q5",
+                "system-design-s6-u10-q6",
+                "system-design-s6-u10-q7",
+                "system-design-s6-u10-q8",
+                "system-design-s6-u10-q9",
+                "system-design-s6-u10-q10"
+              ]
             },
             {
               "id": "system-design-section-6-unit-10-queue-project-lesson-2",
@@ -1802,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Queue project helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         }
       ]
     },
@@ -1824,7 +2538,18 @@
               "unitId": "system-design-section-7-unit-1-monoliths",
               "title": "Learn Monoliths",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s7-u1-q1",
+                "system-design-s7-u1-q2",
+                "system-design-s7-u1-q3",
+                "system-design-s7-u1-q4",
+                "system-design-s7-u1-q5",
+                "system-design-s7-u1-q6",
+                "system-design-s7-u1-q7",
+                "system-design-s7-u1-q8",
+                "system-design-s7-u1-q9",
+                "system-design-s7-u1-q10"
+              ]
             },
             {
               "id": "system-design-section-7-unit-1-monoliths-lesson-2",
@@ -1840,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Monoliths helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-7-unit-2-service-boundaries",
@@ -1853,7 +2579,18 @@
               "unitId": "system-design-section-7-unit-2-service-boundaries",
               "title": "Learn Service boundaries",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s7-u2-q1",
+                "system-design-s7-u2-q2",
+                "system-design-s7-u2-q3",
+                "system-design-s7-u2-q4",
+                "system-design-s7-u2-q5",
+                "system-design-s7-u2-q6",
+                "system-design-s7-u2-q7",
+                "system-design-s7-u2-q8",
+                "system-design-s7-u2-q9",
+                "system-design-s7-u2-q10"
+              ]
             },
             {
               "id": "system-design-section-7-unit-2-service-boundaries-lesson-2",
@@ -1869,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Service boundaries helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-7-unit-3-api-gateways",
@@ -1882,7 +2620,18 @@
               "unitId": "system-design-section-7-unit-3-api-gateways",
               "title": "Learn API gateways",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s7-u3-q1",
+                "system-design-s7-u3-q2",
+                "system-design-s7-u3-q3",
+                "system-design-s7-u3-q4",
+                "system-design-s7-u3-q5",
+                "system-design-s7-u3-q6",
+                "system-design-s7-u3-q7",
+                "system-design-s7-u3-q8",
+                "system-design-s7-u3-q9",
+                "system-design-s7-u3-q10"
+              ]
             },
             {
               "id": "system-design-section-7-unit-3-api-gateways-lesson-2",
@@ -1898,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "API gateways helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-7-unit-4-service-discovery",
@@ -1911,7 +2661,18 @@
               "unitId": "system-design-section-7-unit-4-service-discovery",
               "title": "Learn Service discovery",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s7-u4-q1",
+                "system-design-s7-u4-q2",
+                "system-design-s7-u4-q3",
+                "system-design-s7-u4-q4",
+                "system-design-s7-u4-q5",
+                "system-design-s7-u4-q6",
+                "system-design-s7-u4-q7",
+                "system-design-s7-u4-q8",
+                "system-design-s7-u4-q9",
+                "system-design-s7-u4-q10"
+              ]
             },
             {
               "id": "system-design-section-7-unit-4-service-discovery-lesson-2",
@@ -1927,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Service discovery helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-7-unit-5-distributed-tracing",
@@ -1940,7 +2702,18 @@
               "unitId": "system-design-section-7-unit-5-distributed-tracing",
               "title": "Learn Distributed tracing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s7-u5-q1",
+                "system-design-s7-u5-q2",
+                "system-design-s7-u5-q3",
+                "system-design-s7-u5-q4",
+                "system-design-s7-u5-q5",
+                "system-design-s7-u5-q6",
+                "system-design-s7-u5-q7",
+                "system-design-s7-u5-q8",
+                "system-design-s7-u5-q9",
+                "system-design-s7-u5-q10"
+              ]
             },
             {
               "id": "system-design-section-7-unit-5-distributed-tracing-lesson-2",
@@ -1956,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Distributed tracing helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-7-unit-6-configuration",
@@ -1969,7 +2743,18 @@
               "unitId": "system-design-section-7-unit-6-configuration",
               "title": "Learn Configuration",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s7-u6-q1",
+                "system-design-s7-u6-q2",
+                "system-design-s7-u6-q3",
+                "system-design-s7-u6-q4",
+                "system-design-s7-u6-q5",
+                "system-design-s7-u6-q6",
+                "system-design-s7-u6-q7",
+                "system-design-s7-u6-q8",
+                "system-design-s7-u6-q9",
+                "system-design-s7-u6-q10"
+              ]
             },
             {
               "id": "system-design-section-7-unit-6-configuration-lesson-2",
@@ -1985,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Configuration helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-7-unit-7-deployments",
@@ -1998,7 +2784,18 @@
               "unitId": "system-design-section-7-unit-7-deployments",
               "title": "Learn Deployments",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s7-u7-q1",
+                "system-design-s7-u7-q2",
+                "system-design-s7-u7-q3",
+                "system-design-s7-u7-q4",
+                "system-design-s7-u7-q5",
+                "system-design-s7-u7-q6",
+                "system-design-s7-u7-q7",
+                "system-design-s7-u7-q8",
+                "system-design-s7-u7-q9",
+                "system-design-s7-u7-q10"
+              ]
             },
             {
               "id": "system-design-section-7-unit-7-deployments-lesson-2",
@@ -2014,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Deployments helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-7-unit-8-versioning",
@@ -2027,7 +2825,18 @@
               "unitId": "system-design-section-7-unit-8-versioning",
               "title": "Learn Versioning",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s7-u8-q1",
+                "system-design-s7-u8-q2",
+                "system-design-s7-u8-q3",
+                "system-design-s7-u8-q4",
+                "system-design-s7-u8-q5",
+                "system-design-s7-u8-q6",
+                "system-design-s7-u8-q7",
+                "system-design-s7-u8-q8",
+                "system-design-s7-u8-q9",
+                "system-design-s7-u8-q10"
+              ]
             },
             {
               "id": "system-design-section-7-unit-8-versioning-lesson-2",
@@ -2043,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Versioning helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-7-unit-9-failure-isolation",
@@ -2056,7 +2866,18 @@
               "unitId": "system-design-section-7-unit-9-failure-isolation",
               "title": "Learn Failure isolation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s7-u9-q1",
+                "system-design-s7-u9-q2",
+                "system-design-s7-u9-q3",
+                "system-design-s7-u9-q4",
+                "system-design-s7-u9-q5",
+                "system-design-s7-u9-q6",
+                "system-design-s7-u9-q7",
+                "system-design-s7-u9-q8",
+                "system-design-s7-u9-q9",
+                "system-design-s7-u9-q10"
+              ]
             },
             {
               "id": "system-design-section-7-unit-9-failure-isolation-lesson-2",
@@ -2072,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Failure isolation helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-7-unit-10-service-tradeoffs",
@@ -2085,7 +2907,18 @@
               "unitId": "system-design-section-7-unit-10-service-tradeoffs",
               "title": "Learn Service tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s7-u10-q1",
+                "system-design-s7-u10-q2",
+                "system-design-s7-u10-q3",
+                "system-design-s7-u10-q4",
+                "system-design-s7-u10-q5",
+                "system-design-s7-u10-q6",
+                "system-design-s7-u10-q7",
+                "system-design-s7-u10-q8",
+                "system-design-s7-u10-q9",
+                "system-design-s7-u10-q10"
+              ]
             },
             {
               "id": "system-design-section-7-unit-10-service-tradeoffs-lesson-2",
@@ -2101,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Service tradeoffs helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         }
       ]
     },
@@ -2123,7 +2957,18 @@
               "unitId": "system-design-section-8-unit-1-slos",
               "title": "Learn SLOs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s8-u1-q1",
+                "system-design-s8-u1-q2",
+                "system-design-s8-u1-q3",
+                "system-design-s8-u1-q4",
+                "system-design-s8-u1-q5",
+                "system-design-s8-u1-q6",
+                "system-design-s8-u1-q7",
+                "system-design-s8-u1-q8",
+                "system-design-s8-u1-q9",
+                "system-design-s8-u1-q10"
+              ]
             },
             {
               "id": "system-design-section-8-unit-1-slos-lesson-2",
@@ -2139,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "SLOs helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-8-unit-2-slis",
@@ -2152,7 +2998,18 @@
               "unitId": "system-design-section-8-unit-2-slis",
               "title": "Learn SLIs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s8-u2-q1",
+                "system-design-s8-u2-q2",
+                "system-design-s8-u2-q3",
+                "system-design-s8-u2-q4",
+                "system-design-s8-u2-q5",
+                "system-design-s8-u2-q6",
+                "system-design-s8-u2-q7",
+                "system-design-s8-u2-q8",
+                "system-design-s8-u2-q9",
+                "system-design-s8-u2-q10"
+              ]
             },
             {
               "id": "system-design-section-8-unit-2-slis-lesson-2",
@@ -2168,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "SLIs helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-8-unit-3-error-budgets",
@@ -2181,7 +3039,18 @@
               "unitId": "system-design-section-8-unit-3-error-budgets",
               "title": "Learn Error budgets",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s8-u3-q1",
+                "system-design-s8-u3-q2",
+                "system-design-s8-u3-q3",
+                "system-design-s8-u3-q4",
+                "system-design-s8-u3-q5",
+                "system-design-s8-u3-q6",
+                "system-design-s8-u3-q7",
+                "system-design-s8-u3-q8",
+                "system-design-s8-u3-q9",
+                "system-design-s8-u3-q10"
+              ]
             },
             {
               "id": "system-design-section-8-unit-3-error-budgets-lesson-2",
@@ -2197,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Error budgets helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-8-unit-4-circuit-breakers",
@@ -2210,7 +3080,18 @@
               "unitId": "system-design-section-8-unit-4-circuit-breakers",
               "title": "Learn Circuit breakers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s8-u4-q1",
+                "system-design-s8-u4-q2",
+                "system-design-s8-u4-q3",
+                "system-design-s8-u4-q4",
+                "system-design-s8-u4-q5",
+                "system-design-s8-u4-q6",
+                "system-design-s8-u4-q7",
+                "system-design-s8-u4-q8",
+                "system-design-s8-u4-q9",
+                "system-design-s8-u4-q10"
+              ]
             },
             {
               "id": "system-design-section-8-unit-4-circuit-breakers-lesson-2",
@@ -2226,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Circuit breakers helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-8-unit-5-bulkheads",
@@ -2239,7 +3121,18 @@
               "unitId": "system-design-section-8-unit-5-bulkheads",
               "title": "Learn Bulkheads",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s8-u5-q1",
+                "system-design-s8-u5-q2",
+                "system-design-s8-u5-q3",
+                "system-design-s8-u5-q4",
+                "system-design-s8-u5-q5",
+                "system-design-s8-u5-q6",
+                "system-design-s8-u5-q7",
+                "system-design-s8-u5-q8",
+                "system-design-s8-u5-q9",
+                "system-design-s8-u5-q10"
+              ]
             },
             {
               "id": "system-design-section-8-unit-5-bulkheads-lesson-2",
@@ -2255,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Bulkheads helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-8-unit-6-graceful-degradation",
@@ -2268,7 +3162,18 @@
               "unitId": "system-design-section-8-unit-6-graceful-degradation",
               "title": "Learn Graceful degradation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s8-u6-q1",
+                "system-design-s8-u6-q2",
+                "system-design-s8-u6-q3",
+                "system-design-s8-u6-q4",
+                "system-design-s8-u6-q5",
+                "system-design-s8-u6-q6",
+                "system-design-s8-u6-q7",
+                "system-design-s8-u6-q8",
+                "system-design-s8-u6-q9",
+                "system-design-s8-u6-q10"
+              ]
             },
             {
               "id": "system-design-section-8-unit-6-graceful-degradation-lesson-2",
@@ -2284,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Graceful degradation helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-8-unit-7-incident-response",
@@ -2297,7 +3203,18 @@
               "unitId": "system-design-section-8-unit-7-incident-response",
               "title": "Learn Incident response",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s8-u7-q1",
+                "system-design-s8-u7-q2",
+                "system-design-s8-u7-q3",
+                "system-design-s8-u7-q4",
+                "system-design-s8-u7-q5",
+                "system-design-s8-u7-q6",
+                "system-design-s8-u7-q7",
+                "system-design-s8-u7-q8",
+                "system-design-s8-u7-q9",
+                "system-design-s8-u7-q10"
+              ]
             },
             {
               "id": "system-design-section-8-unit-7-incident-response-lesson-2",
@@ -2313,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Incident response helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-8-unit-8-monitoring",
@@ -2326,7 +3244,18 @@
               "unitId": "system-design-section-8-unit-8-monitoring",
               "title": "Learn Monitoring",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s8-u8-q1",
+                "system-design-s8-u8-q2",
+                "system-design-s8-u8-q3",
+                "system-design-s8-u8-q4",
+                "system-design-s8-u8-q5",
+                "system-design-s8-u8-q6",
+                "system-design-s8-u8-q7",
+                "system-design-s8-u8-q8",
+                "system-design-s8-u8-q9",
+                "system-design-s8-u8-q10"
+              ]
             },
             {
               "id": "system-design-section-8-unit-8-monitoring-lesson-2",
@@ -2342,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Monitoring helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-8-unit-9-alerting",
@@ -2355,7 +3285,18 @@
               "unitId": "system-design-section-8-unit-9-alerting",
               "title": "Learn Alerting",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s8-u9-q1",
+                "system-design-s8-u9-q2",
+                "system-design-s8-u9-q3",
+                "system-design-s8-u9-q4",
+                "system-design-s8-u9-q5",
+                "system-design-s8-u9-q6",
+                "system-design-s8-u9-q7",
+                "system-design-s8-u9-q8",
+                "system-design-s8-u9-q9",
+                "system-design-s8-u9-q10"
+              ]
             },
             {
               "id": "system-design-section-8-unit-9-alerting-lesson-2",
@@ -2371,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Alerting helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-8-unit-10-reliability-drills",
@@ -2384,7 +3326,18 @@
               "unitId": "system-design-section-8-unit-10-reliability-drills",
               "title": "Learn Reliability drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s8-u10-q1",
+                "system-design-s8-u10-q2",
+                "system-design-s8-u10-q3",
+                "system-design-s8-u10-q4",
+                "system-design-s8-u10-q5",
+                "system-design-s8-u10-q6",
+                "system-design-s8-u10-q7",
+                "system-design-s8-u10-q8",
+                "system-design-s8-u10-q9",
+                "system-design-s8-u10-q10"
+              ]
             },
             {
               "id": "system-design-section-8-unit-10-reliability-drills-lesson-2",
@@ -2400,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reliability drills helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         }
       ]
     },
@@ -2422,7 +3376,18 @@
               "unitId": "system-design-section-9-unit-1-authentication",
               "title": "Learn Authentication",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s9-u1-q1",
+                "system-design-s9-u1-q2",
+                "system-design-s9-u1-q3",
+                "system-design-s9-u1-q4",
+                "system-design-s9-u1-q5",
+                "system-design-s9-u1-q6",
+                "system-design-s9-u1-q7",
+                "system-design-s9-u1-q8",
+                "system-design-s9-u1-q9",
+                "system-design-s9-u1-q10"
+              ]
             },
             {
               "id": "system-design-section-9-unit-1-authentication-lesson-2",
@@ -2438,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Authentication helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-9-unit-2-authorization",
@@ -2451,7 +3417,18 @@
               "unitId": "system-design-section-9-unit-2-authorization",
               "title": "Learn Authorization",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s9-u2-q1",
+                "system-design-s9-u2-q2",
+                "system-design-s9-u2-q3",
+                "system-design-s9-u2-q4",
+                "system-design-s9-u2-q5",
+                "system-design-s9-u2-q6",
+                "system-design-s9-u2-q7",
+                "system-design-s9-u2-q8",
+                "system-design-s9-u2-q9",
+                "system-design-s9-u2-q10"
+              ]
             },
             {
               "id": "system-design-section-9-unit-2-authorization-lesson-2",
@@ -2467,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Authorization helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-9-unit-3-secrets",
@@ -2480,7 +3458,18 @@
               "unitId": "system-design-section-9-unit-3-secrets",
               "title": "Learn Secrets",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s9-u3-q1",
+                "system-design-s9-u3-q2",
+                "system-design-s9-u3-q3",
+                "system-design-s9-u3-q4",
+                "system-design-s9-u3-q5",
+                "system-design-s9-u3-q6",
+                "system-design-s9-u3-q7",
+                "system-design-s9-u3-q8",
+                "system-design-s9-u3-q9",
+                "system-design-s9-u3-q10"
+              ]
             },
             {
               "id": "system-design-section-9-unit-3-secrets-lesson-2",
@@ -2496,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Secrets helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-9-unit-4-encryption",
@@ -2509,7 +3499,18 @@
               "unitId": "system-design-section-9-unit-4-encryption",
               "title": "Learn Encryption",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s9-u4-q1",
+                "system-design-s9-u4-q2",
+                "system-design-s9-u4-q3",
+                "system-design-s9-u4-q4",
+                "system-design-s9-u4-q5",
+                "system-design-s9-u4-q6",
+                "system-design-s9-u4-q7",
+                "system-design-s9-u4-q8",
+                "system-design-s9-u4-q9",
+                "system-design-s9-u4-q10"
+              ]
             },
             {
               "id": "system-design-section-9-unit-4-encryption-lesson-2",
@@ -2525,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Encryption helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-9-unit-5-audit-logs",
@@ -2538,7 +3540,18 @@
               "unitId": "system-design-section-9-unit-5-audit-logs",
               "title": "Learn Audit logs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s9-u5-q1",
+                "system-design-s9-u5-q2",
+                "system-design-s9-u5-q3",
+                "system-design-s9-u5-q4",
+                "system-design-s9-u5-q5",
+                "system-design-s9-u5-q6",
+                "system-design-s9-u5-q7",
+                "system-design-s9-u5-q8",
+                "system-design-s9-u5-q9",
+                "system-design-s9-u5-q10"
+              ]
             },
             {
               "id": "system-design-section-9-unit-5-audit-logs-lesson-2",
@@ -2554,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Audit logs helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-9-unit-6-input-validation",
@@ -2567,7 +3581,18 @@
               "unitId": "system-design-section-9-unit-6-input-validation",
               "title": "Learn Input validation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s9-u6-q1",
+                "system-design-s9-u6-q2",
+                "system-design-s9-u6-q3",
+                "system-design-s9-u6-q4",
+                "system-design-s9-u6-q5",
+                "system-design-s9-u6-q6",
+                "system-design-s9-u6-q7",
+                "system-design-s9-u6-q8",
+                "system-design-s9-u6-q9",
+                "system-design-s9-u6-q10"
+              ]
             },
             {
               "id": "system-design-section-9-unit-6-input-validation-lesson-2",
@@ -2583,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Input validation helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-9-unit-7-abuse-prevention",
@@ -2596,7 +3622,18 @@
               "unitId": "system-design-section-9-unit-7-abuse-prevention",
               "title": "Learn Abuse prevention",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s9-u7-q1",
+                "system-design-s9-u7-q2",
+                "system-design-s9-u7-q3",
+                "system-design-s9-u7-q4",
+                "system-design-s9-u7-q5",
+                "system-design-s9-u7-q6",
+                "system-design-s9-u7-q7",
+                "system-design-s9-u7-q8",
+                "system-design-s9-u7-q9",
+                "system-design-s9-u7-q10"
+              ]
             },
             {
               "id": "system-design-section-9-unit-7-abuse-prevention-lesson-2",
@@ -2612,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Abuse prevention helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-9-unit-8-data-privacy",
@@ -2625,7 +3663,18 @@
               "unitId": "system-design-section-9-unit-8-data-privacy",
               "title": "Learn Data privacy",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s9-u8-q1",
+                "system-design-s9-u8-q2",
+                "system-design-s9-u8-q3",
+                "system-design-s9-u8-q4",
+                "system-design-s9-u8-q5",
+                "system-design-s9-u8-q6",
+                "system-design-s9-u8-q7",
+                "system-design-s9-u8-q8",
+                "system-design-s9-u8-q9",
+                "system-design-s9-u8-q10"
+              ]
             },
             {
               "id": "system-design-section-9-unit-8-data-privacy-lesson-2",
@@ -2641,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data privacy helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-9-unit-9-threat-modeling",
@@ -2654,7 +3704,18 @@
               "unitId": "system-design-section-9-unit-9-threat-modeling",
               "title": "Learn Threat modeling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s9-u9-q1",
+                "system-design-s9-u9-q2",
+                "system-design-s9-u9-q3",
+                "system-design-s9-u9-q4",
+                "system-design-s9-u9-q5",
+                "system-design-s9-u9-q6",
+                "system-design-s9-u9-q7",
+                "system-design-s9-u9-q8",
+                "system-design-s9-u9-q9",
+                "system-design-s9-u9-q10"
+              ]
             },
             {
               "id": "system-design-section-9-unit-9-threat-modeling-lesson-2",
@@ -2670,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Threat modeling helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-9-unit-10-security-review",
@@ -2683,7 +3745,18 @@
               "unitId": "system-design-section-9-unit-10-security-review",
               "title": "Learn Security review",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s9-u10-q1",
+                "system-design-s9-u10-q2",
+                "system-design-s9-u10-q3",
+                "system-design-s9-u10-q4",
+                "system-design-s9-u10-q5",
+                "system-design-s9-u10-q6",
+                "system-design-s9-u10-q7",
+                "system-design-s9-u10-q8",
+                "system-design-s9-u10-q9",
+                "system-design-s9-u10-q10"
+              ]
             },
             {
               "id": "system-design-section-9-unit-10-security-review-lesson-2",
@@ -2699,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Security review helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         }
       ]
     },
@@ -2721,7 +3795,18 @@
               "unitId": "system-design-section-10-unit-1-url-shortener",
               "title": "Learn URL shortener",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s10-u1-q1",
+                "system-design-s10-u1-q2",
+                "system-design-s10-u1-q3",
+                "system-design-s10-u1-q4",
+                "system-design-s10-u1-q5",
+                "system-design-s10-u1-q6",
+                "system-design-s10-u1-q7",
+                "system-design-s10-u1-q8",
+                "system-design-s10-u1-q9",
+                "system-design-s10-u1-q10"
+              ]
             },
             {
               "id": "system-design-section-10-unit-1-url-shortener-lesson-2",
@@ -2737,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "URL shortener helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-10-unit-2-news-feed",
@@ -2750,7 +3836,18 @@
               "unitId": "system-design-section-10-unit-2-news-feed",
               "title": "Learn News feed",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s10-u2-q1",
+                "system-design-s10-u2-q2",
+                "system-design-s10-u2-q3",
+                "system-design-s10-u2-q4",
+                "system-design-s10-u2-q5",
+                "system-design-s10-u2-q6",
+                "system-design-s10-u2-q7",
+                "system-design-s10-u2-q8",
+                "system-design-s10-u2-q9",
+                "system-design-s10-u2-q10"
+              ]
             },
             {
               "id": "system-design-section-10-unit-2-news-feed-lesson-2",
@@ -2766,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "News feed helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-10-unit-3-chat-system",
@@ -2779,7 +3877,18 @@
               "unitId": "system-design-section-10-unit-3-chat-system",
               "title": "Learn Chat system",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s10-u3-q1",
+                "system-design-s10-u3-q2",
+                "system-design-s10-u3-q3",
+                "system-design-s10-u3-q4",
+                "system-design-s10-u3-q5",
+                "system-design-s10-u3-q6",
+                "system-design-s10-u3-q7",
+                "system-design-s10-u3-q8",
+                "system-design-s10-u3-q9",
+                "system-design-s10-u3-q10"
+              ]
             },
             {
               "id": "system-design-section-10-unit-3-chat-system-lesson-2",
@@ -2795,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Chat system helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-10-unit-4-leaderboard",
@@ -2808,7 +3918,18 @@
               "unitId": "system-design-section-10-unit-4-leaderboard",
               "title": "Learn Leaderboard",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s10-u4-q1",
+                "system-design-s10-u4-q2",
+                "system-design-s10-u4-q3",
+                "system-design-s10-u4-q4",
+                "system-design-s10-u4-q5",
+                "system-design-s10-u4-q6",
+                "system-design-s10-u4-q7",
+                "system-design-s10-u4-q8",
+                "system-design-s10-u4-q9",
+                "system-design-s10-u4-q10"
+              ]
             },
             {
               "id": "system-design-section-10-unit-4-leaderboard-lesson-2",
@@ -2824,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Leaderboard helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-10-unit-5-file-storage",
@@ -2837,7 +3959,18 @@
               "unitId": "system-design-section-10-unit-5-file-storage",
               "title": "Learn File storage",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s10-u5-q1",
+                "system-design-s10-u5-q2",
+                "system-design-s10-u5-q3",
+                "system-design-s10-u5-q4",
+                "system-design-s10-u5-q5",
+                "system-design-s10-u5-q6",
+                "system-design-s10-u5-q7",
+                "system-design-s10-u5-q8",
+                "system-design-s10-u5-q9",
+                "system-design-s10-u5-q10"
+              ]
             },
             {
               "id": "system-design-section-10-unit-5-file-storage-lesson-2",
@@ -2853,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "File storage helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-10-unit-6-notification-system",
@@ -2866,7 +4000,18 @@
               "unitId": "system-design-section-10-unit-6-notification-system",
               "title": "Learn Notification system",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s10-u6-q1",
+                "system-design-s10-u6-q2",
+                "system-design-s10-u6-q3",
+                "system-design-s10-u6-q4",
+                "system-design-s10-u6-q5",
+                "system-design-s10-u6-q6",
+                "system-design-s10-u6-q7",
+                "system-design-s10-u6-q8",
+                "system-design-s10-u6-q9",
+                "system-design-s10-u6-q10"
+              ]
             },
             {
               "id": "system-design-section-10-unit-6-notification-system-lesson-2",
@@ -2882,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Notification system helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-10-unit-7-ride-matching",
@@ -2895,7 +4041,18 @@
               "unitId": "system-design-section-10-unit-7-ride-matching",
               "title": "Learn Ride matching",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s10-u7-q1",
+                "system-design-s10-u7-q2",
+                "system-design-s10-u7-q3",
+                "system-design-s10-u7-q4",
+                "system-design-s10-u7-q5",
+                "system-design-s10-u7-q6",
+                "system-design-s10-u7-q7",
+                "system-design-s10-u7-q8",
+                "system-design-s10-u7-q9",
+                "system-design-s10-u7-q10"
+              ]
             },
             {
               "id": "system-design-section-10-unit-7-ride-matching-lesson-2",
@@ -2911,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Ride matching helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-10-unit-8-analytics-pipeline",
@@ -2924,7 +4082,18 @@
               "unitId": "system-design-section-10-unit-8-analytics-pipeline",
               "title": "Learn Analytics pipeline",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s10-u8-q1",
+                "system-design-s10-u8-q2",
+                "system-design-s10-u8-q3",
+                "system-design-s10-u8-q4",
+                "system-design-s10-u8-q5",
+                "system-design-s10-u8-q6",
+                "system-design-s10-u8-q7",
+                "system-design-s10-u8-q8",
+                "system-design-s10-u8-q9",
+                "system-design-s10-u8-q10"
+              ]
             },
             {
               "id": "system-design-section-10-unit-8-analytics-pipeline-lesson-2",
@@ -2940,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Analytics pipeline helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-10-unit-9-design-critique",
@@ -2953,7 +4123,18 @@
               "unitId": "system-design-section-10-unit-9-design-critique",
               "title": "Learn Design critique",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s10-u9-q1",
+                "system-design-s10-u9-q2",
+                "system-design-s10-u9-q3",
+                "system-design-s10-u9-q4",
+                "system-design-s10-u9-q5",
+                "system-design-s10-u9-q6",
+                "system-design-s10-u9-q7",
+                "system-design-s10-u9-q8",
+                "system-design-s10-u9-q9",
+                "system-design-s10-u9-q10"
+              ]
             },
             {
               "id": "system-design-section-10-unit-9-design-critique-lesson-2",
@@ -2969,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Design critique helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         },
         {
           "id": "system-design-section-10-unit-10-final-system-design-project",
@@ -2982,7 +4164,18 @@
               "unitId": "system-design-section-10-unit-10-final-system-design-project",
               "title": "Learn Final system design project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "system-design-s10-u10-q1",
+                "system-design-s10-u10-q2",
+                "system-design-s10-u10-q3",
+                "system-design-s10-u10-q4",
+                "system-design-s10-u10-q5",
+                "system-design-s10-u10-q6",
+                "system-design-s10-u10-q7",
+                "system-design-s10-u10-q8",
+                "system-design-s10-u10-q9",
+                "system-design-s10-u10-q10"
+              ]
             },
             {
               "id": "system-design-section-10-unit-10-final-system-design-project-lesson-2",
@@ -2998,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final system design project helps you combine services, data, and tradeoffs. Example: `client -> API -> database`. Avoid: choosing tools before requirements."
         }
       ]
     }

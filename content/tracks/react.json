@@ -25,7 +25,16 @@
               "title": "Learn React mental model",
               "order": 1,
               "exerciseIds": [
-                "react-s1-u1-sample"
+                "react-s1-u1-q1",
+                "react-s1-u1-q2",
+                "react-s1-u1-q3",
+                "react-s1-u1-q4",
+                "react-s1-u1-q5",
+                "react-s1-u1-q6",
+                "react-s1-u1-q7",
+                "react-s1-u1-q8",
+                "react-s1-u1-q9",
+                "react-s1-u1-q10"
               ]
             },
             {
@@ -42,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "React mental model helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-1-unit-2-jsx-syntax",
@@ -56,7 +66,16 @@
               "title": "Learn JSX syntax",
               "order": 1,
               "exerciseIds": [
-                "react-s1-u2-sample"
+                "react-s1-u2-q1",
+                "react-s1-u2-q2",
+                "react-s1-u2-q3",
+                "react-s1-u2-q4",
+                "react-s1-u2-q5",
+                "react-s1-u2-q6",
+                "react-s1-u2-q7",
+                "react-s1-u2-q8",
+                "react-s1-u2-q9",
+                "react-s1-u2-q10"
               ]
             },
             {
@@ -73,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "JSX syntax helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-1-unit-3-component-functions",
@@ -87,7 +107,16 @@
               "title": "Learn Component functions",
               "order": 1,
               "exerciseIds": [
-                "react-s1-u3-sample"
+                "react-s1-u3-q1",
+                "react-s1-u3-q2",
+                "react-s1-u3-q3",
+                "react-s1-u3-q4",
+                "react-s1-u3-q5",
+                "react-s1-u3-q6",
+                "react-s1-u3-q7",
+                "react-s1-u3-q8",
+                "react-s1-u3-q9",
+                "react-s1-u3-q10"
               ]
             },
             {
@@ -104,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Component functions helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-1-unit-4-composition",
@@ -117,7 +147,18 @@
               "unitId": "react-section-1-unit-4-composition",
               "title": "Learn Composition",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s1-u4-q1",
+                "react-s1-u4-q2",
+                "react-s1-u4-q3",
+                "react-s1-u4-q4",
+                "react-s1-u4-q5",
+                "react-s1-u4-q6",
+                "react-s1-u4-q7",
+                "react-s1-u4-q8",
+                "react-s1-u4-q9",
+                "react-s1-u4-q10"
+              ]
             },
             {
               "id": "react-section-1-unit-4-composition-lesson-2",
@@ -133,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Composition helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-1-unit-5-fragments",
@@ -146,7 +188,18 @@
               "unitId": "react-section-1-unit-5-fragments",
               "title": "Learn Fragments",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s1-u5-q1",
+                "react-s1-u5-q2",
+                "react-s1-u5-q3",
+                "react-s1-u5-q4",
+                "react-s1-u5-q5",
+                "react-s1-u5-q6",
+                "react-s1-u5-q7",
+                "react-s1-u5-q8",
+                "react-s1-u5-q9",
+                "react-s1-u5-q10"
+              ]
             },
             {
               "id": "react-section-1-unit-5-fragments-lesson-2",
@@ -162,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Fragments helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-1-unit-6-rendering-variables",
@@ -175,7 +229,18 @@
               "unitId": "react-section-1-unit-6-rendering-variables",
               "title": "Learn Rendering variables",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s1-u6-q1",
+                "react-s1-u6-q2",
+                "react-s1-u6-q3",
+                "react-s1-u6-q4",
+                "react-s1-u6-q5",
+                "react-s1-u6-q6",
+                "react-s1-u6-q7",
+                "react-s1-u6-q8",
+                "react-s1-u6-q9",
+                "react-s1-u6-q10"
+              ]
             },
             {
               "id": "react-section-1-unit-6-rendering-variables-lesson-2",
@@ -191,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Rendering variables helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-1-unit-7-inline-expressions",
@@ -204,7 +270,18 @@
               "unitId": "react-section-1-unit-7-inline-expressions",
               "title": "Learn Inline expressions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s1-u7-q1",
+                "react-s1-u7-q2",
+                "react-s1-u7-q3",
+                "react-s1-u7-q4",
+                "react-s1-u7-q5",
+                "react-s1-u7-q6",
+                "react-s1-u7-q7",
+                "react-s1-u7-q8",
+                "react-s1-u7-q9",
+                "react-s1-u7-q10"
+              ]
             },
             {
               "id": "react-section-1-unit-7-inline-expressions-lesson-2",
@@ -220,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Inline expressions helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-1-unit-8-styling-basics",
@@ -233,7 +311,18 @@
               "unitId": "react-section-1-unit-8-styling-basics",
               "title": "Learn Styling basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s1-u8-q1",
+                "react-s1-u8-q2",
+                "react-s1-u8-q3",
+                "react-s1-u8-q4",
+                "react-s1-u8-q5",
+                "react-s1-u8-q6",
+                "react-s1-u8-q7",
+                "react-s1-u8-q8",
+                "react-s1-u8-q9",
+                "react-s1-u8-q10"
+              ]
             },
             {
               "id": "react-section-1-unit-8-styling-basics-lesson-2",
@@ -249,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Styling basics helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-1-unit-9-file-organization",
@@ -262,7 +352,18 @@
               "unitId": "react-section-1-unit-9-file-organization",
               "title": "Learn File organization",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s1-u9-q1",
+                "react-s1-u9-q2",
+                "react-s1-u9-q3",
+                "react-s1-u9-q4",
+                "react-s1-u9-q5",
+                "react-s1-u9-q6",
+                "react-s1-u9-q7",
+                "react-s1-u9-q8",
+                "react-s1-u9-q9",
+                "react-s1-u9-q10"
+              ]
             },
             {
               "id": "react-section-1-unit-9-file-organization-lesson-2",
@@ -278,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "File organization helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-1-unit-10-component-practice",
@@ -291,7 +393,18 @@
               "unitId": "react-section-1-unit-10-component-practice",
               "title": "Learn Component practice",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s1-u10-q1",
+                "react-s1-u10-q2",
+                "react-s1-u10-q3",
+                "react-s1-u10-q4",
+                "react-s1-u10-q5",
+                "react-s1-u10-q6",
+                "react-s1-u10-q7",
+                "react-s1-u10-q8",
+                "react-s1-u10-q9",
+                "react-s1-u10-q10"
+              ]
             },
             {
               "id": "react-section-1-unit-10-component-practice-lesson-2",
@@ -307,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Component practice helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         }
       ]
     },
@@ -329,7 +443,18 @@
               "unitId": "react-section-2-unit-1-passing-props",
               "title": "Learn Passing props",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s2-u1-q1",
+                "react-s2-u1-q2",
+                "react-s2-u1-q3",
+                "react-s2-u1-q4",
+                "react-s2-u1-q5",
+                "react-s2-u1-q6",
+                "react-s2-u1-q7",
+                "react-s2-u1-q8",
+                "react-s2-u1-q9",
+                "react-s2-u1-q10"
+              ]
             },
             {
               "id": "react-section-2-unit-1-passing-props-lesson-2",
@@ -345,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Passing props helps you build UI from components, props, and state. Example: `<Card title=\"Profile\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-2-unit-2-default-props-patterns",
@@ -358,7 +484,18 @@
               "unitId": "react-section-2-unit-2-default-props-patterns",
               "title": "Learn Default props patterns",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s2-u2-q1",
+                "react-s2-u2-q2",
+                "react-s2-u2-q3",
+                "react-s2-u2-q4",
+                "react-s2-u2-q5",
+                "react-s2-u2-q6",
+                "react-s2-u2-q7",
+                "react-s2-u2-q8",
+                "react-s2-u2-q9",
+                "react-s2-u2-q10"
+              ]
             },
             {
               "id": "react-section-2-unit-2-default-props-patterns-lesson-2",
@@ -374,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Default props patterns helps you build UI from components, props, and state. Example: `<Card title=\"Profile\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-2-unit-3-state-basics",
@@ -387,7 +525,18 @@
               "unitId": "react-section-2-unit-3-state-basics",
               "title": "Learn State basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s2-u3-q1",
+                "react-s2-u3-q2",
+                "react-s2-u3-q3",
+                "react-s2-u3-q4",
+                "react-s2-u3-q5",
+                "react-s2-u3-q6",
+                "react-s2-u3-q7",
+                "react-s2-u3-q8",
+                "react-s2-u3-q9",
+                "react-s2-u3-q10"
+              ]
             },
             {
               "id": "react-section-2-unit-3-state-basics-lesson-2",
@@ -403,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "State basics helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-2-unit-4-updating-state",
@@ -416,7 +566,18 @@
               "unitId": "react-section-2-unit-4-updating-state",
               "title": "Learn Updating state",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s2-u4-q1",
+                "react-s2-u4-q2",
+                "react-s2-u4-q3",
+                "react-s2-u4-q4",
+                "react-s2-u4-q5",
+                "react-s2-u4-q6",
+                "react-s2-u4-q7",
+                "react-s2-u4-q8",
+                "react-s2-u4-q9",
+                "react-s2-u4-q10"
+              ]
             },
             {
               "id": "react-section-2-unit-4-updating-state-lesson-2",
@@ -432,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Updating state helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-2-unit-5-state-immutability",
@@ -445,7 +607,18 @@
               "unitId": "react-section-2-unit-5-state-immutability",
               "title": "Learn State immutability",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s2-u5-q1",
+                "react-s2-u5-q2",
+                "react-s2-u5-q3",
+                "react-s2-u5-q4",
+                "react-s2-u5-q5",
+                "react-s2-u5-q6",
+                "react-s2-u5-q7",
+                "react-s2-u5-q8",
+                "react-s2-u5-q9",
+                "react-s2-u5-q10"
+              ]
             },
             {
               "id": "react-section-2-unit-5-state-immutability-lesson-2",
@@ -461,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "State immutability helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-2-unit-6-derived-values",
@@ -474,7 +648,18 @@
               "unitId": "react-section-2-unit-6-derived-values",
               "title": "Learn Derived values",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s2-u6-q1",
+                "react-s2-u6-q2",
+                "react-s2-u6-q3",
+                "react-s2-u6-q4",
+                "react-s2-u6-q5",
+                "react-s2-u6-q6",
+                "react-s2-u6-q7",
+                "react-s2-u6-q8",
+                "react-s2-u6-q9",
+                "react-s2-u6-q10"
+              ]
             },
             {
               "id": "react-section-2-unit-6-derived-values-lesson-2",
@@ -490,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Derived values helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-2-unit-7-lifting-state",
@@ -503,7 +689,18 @@
               "unitId": "react-section-2-unit-7-lifting-state",
               "title": "Learn Lifting state",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s2-u7-q1",
+                "react-s2-u7-q2",
+                "react-s2-u7-q3",
+                "react-s2-u7-q4",
+                "react-s2-u7-q5",
+                "react-s2-u7-q6",
+                "react-s2-u7-q7",
+                "react-s2-u7-q8",
+                "react-s2-u7-q9",
+                "react-s2-u7-q10"
+              ]
             },
             {
               "id": "react-section-2-unit-7-lifting-state-lesson-2",
@@ -519,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Lifting state helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-2-unit-8-controlled-inputs",
@@ -532,7 +730,18 @@
               "unitId": "react-section-2-unit-8-controlled-inputs",
               "title": "Learn Controlled inputs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s2-u8-q1",
+                "react-s2-u8-q2",
+                "react-s2-u8-q3",
+                "react-s2-u8-q4",
+                "react-s2-u8-q5",
+                "react-s2-u8-q6",
+                "react-s2-u8-q7",
+                "react-s2-u8-q8",
+                "react-s2-u8-q9",
+                "react-s2-u8-q10"
+              ]
             },
             {
               "id": "react-section-2-unit-8-controlled-inputs-lesson-2",
@@ -548,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Controlled inputs helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-2-unit-9-state-debugging",
@@ -561,7 +771,18 @@
               "unitId": "react-section-2-unit-9-state-debugging",
               "title": "Learn State debugging",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s2-u9-q1",
+                "react-s2-u9-q2",
+                "react-s2-u9-q3",
+                "react-s2-u9-q4",
+                "react-s2-u9-q5",
+                "react-s2-u9-q6",
+                "react-s2-u9-q7",
+                "react-s2-u9-q8",
+                "react-s2-u9-q9",
+                "react-s2-u9-q10"
+              ]
             },
             {
               "id": "react-section-2-unit-9-state-debugging-lesson-2",
@@ -577,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "State debugging helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-2-unit-10-small-app-state",
@@ -590,7 +812,18 @@
               "unitId": "react-section-2-unit-10-small-app-state",
               "title": "Learn Small app state",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s2-u10-q1",
+                "react-s2-u10-q2",
+                "react-s2-u10-q3",
+                "react-s2-u10-q4",
+                "react-s2-u10-q5",
+                "react-s2-u10-q6",
+                "react-s2-u10-q7",
+                "react-s2-u10-q8",
+                "react-s2-u10-q9",
+                "react-s2-u10-q10"
+              ]
             },
             {
               "id": "react-section-2-unit-10-small-app-state-lesson-2",
@@ -606,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Small app state helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         }
       ]
     },
@@ -628,7 +862,18 @@
               "unitId": "react-section-3-unit-1-usestate",
               "title": "Learn useState",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s3-u1-q1",
+                "react-s3-u1-q2",
+                "react-s3-u1-q3",
+                "react-s3-u1-q4",
+                "react-s3-u1-q5",
+                "react-s3-u1-q6",
+                "react-s3-u1-q7",
+                "react-s3-u1-q8",
+                "react-s3-u1-q9",
+                "react-s3-u1-q10"
+              ]
             },
             {
               "id": "react-section-3-unit-1-usestate-lesson-2",
@@ -644,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "useState helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-3-unit-2-useeffect",
@@ -657,7 +903,18 @@
               "unitId": "react-section-3-unit-2-useeffect",
               "title": "Learn useEffect",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s3-u2-q1",
+                "react-s3-u2-q2",
+                "react-s3-u2-q3",
+                "react-s3-u2-q4",
+                "react-s3-u2-q5",
+                "react-s3-u2-q6",
+                "react-s3-u2-q7",
+                "react-s3-u2-q8",
+                "react-s3-u2-q9",
+                "react-s3-u2-q10"
+              ]
             },
             {
               "id": "react-section-3-unit-2-useeffect-lesson-2",
@@ -673,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "useEffect helps you build UI from components, props, and state. Example: `useEffect(() => {}, [])`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-3-unit-3-effect-dependencies",
@@ -686,7 +944,18 @@
               "unitId": "react-section-3-unit-3-effect-dependencies",
               "title": "Learn Effect dependencies",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s3-u3-q1",
+                "react-s3-u3-q2",
+                "react-s3-u3-q3",
+                "react-s3-u3-q4",
+                "react-s3-u3-q5",
+                "react-s3-u3-q6",
+                "react-s3-u3-q7",
+                "react-s3-u3-q8",
+                "react-s3-u3-q9",
+                "react-s3-u3-q10"
+              ]
             },
             {
               "id": "react-section-3-unit-3-effect-dependencies-lesson-2",
@@ -702,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Effect dependencies helps you build UI from components, props, and state. Example: `useEffect(() => {}, [])`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-3-unit-4-cleanup-functions",
@@ -715,7 +985,18 @@
               "unitId": "react-section-3-unit-4-cleanup-functions",
               "title": "Learn Cleanup functions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s3-u4-q1",
+                "react-s3-u4-q2",
+                "react-s3-u4-q3",
+                "react-s3-u4-q4",
+                "react-s3-u4-q5",
+                "react-s3-u4-q6",
+                "react-s3-u4-q7",
+                "react-s3-u4-q8",
+                "react-s3-u4-q9",
+                "react-s3-u4-q10"
+              ]
             },
             {
               "id": "react-section-3-unit-4-cleanup-functions-lesson-2",
@@ -731,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Cleanup functions helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-3-unit-5-useref",
@@ -744,7 +1026,18 @@
               "unitId": "react-section-3-unit-5-useref",
               "title": "Learn useRef",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s3-u5-q1",
+                "react-s3-u5-q2",
+                "react-s3-u5-q3",
+                "react-s3-u5-q4",
+                "react-s3-u5-q5",
+                "react-s3-u5-q6",
+                "react-s3-u5-q7",
+                "react-s3-u5-q8",
+                "react-s3-u5-q9",
+                "react-s3-u5-q10"
+              ]
             },
             {
               "id": "react-section-3-unit-5-useref-lesson-2",
@@ -760,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "useRef helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-3-unit-6-usememo",
@@ -773,7 +1067,18 @@
               "unitId": "react-section-3-unit-6-usememo",
               "title": "Learn useMemo",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s3-u6-q1",
+                "react-s3-u6-q2",
+                "react-s3-u6-q3",
+                "react-s3-u6-q4",
+                "react-s3-u6-q5",
+                "react-s3-u6-q6",
+                "react-s3-u6-q7",
+                "react-s3-u6-q8",
+                "react-s3-u6-q9",
+                "react-s3-u6-q10"
+              ]
             },
             {
               "id": "react-section-3-unit-6-usememo-lesson-2",
@@ -789,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "useMemo helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-3-unit-7-usecallback",
@@ -802,7 +1108,18 @@
               "unitId": "react-section-3-unit-7-usecallback",
               "title": "Learn useCallback",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s3-u7-q1",
+                "react-s3-u7-q2",
+                "react-s3-u7-q3",
+                "react-s3-u7-q4",
+                "react-s3-u7-q5",
+                "react-s3-u7-q6",
+                "react-s3-u7-q7",
+                "react-s3-u7-q8",
+                "react-s3-u7-q9",
+                "react-s3-u7-q10"
+              ]
             },
             {
               "id": "react-section-3-unit-7-usecallback-lesson-2",
@@ -818,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "useCallback helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-3-unit-8-rules-of-hooks",
@@ -831,7 +1149,18 @@
               "unitId": "react-section-3-unit-8-rules-of-hooks",
               "title": "Learn Rules of hooks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s3-u8-q1",
+                "react-s3-u8-q2",
+                "react-s3-u8-q3",
+                "react-s3-u8-q4",
+                "react-s3-u8-q5",
+                "react-s3-u8-q6",
+                "react-s3-u8-q7",
+                "react-s3-u8-q8",
+                "react-s3-u8-q9",
+                "react-s3-u8-q10"
+              ]
             },
             {
               "id": "react-section-3-unit-8-rules-of-hooks-lesson-2",
@@ -847,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Rules of hooks helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-3-unit-9-custom-hook-intro",
@@ -860,7 +1190,18 @@
               "unitId": "react-section-3-unit-9-custom-hook-intro",
               "title": "Learn Custom hook intro",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s3-u9-q1",
+                "react-s3-u9-q2",
+                "react-s3-u9-q3",
+                "react-s3-u9-q4",
+                "react-s3-u9-q5",
+                "react-s3-u9-q6",
+                "react-s3-u9-q7",
+                "react-s3-u9-q8",
+                "react-s3-u9-q9",
+                "react-s3-u9-q10"
+              ]
             },
             {
               "id": "react-section-3-unit-9-custom-hook-intro-lesson-2",
@@ -876,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Custom hook intro helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-3-unit-10-hook-troubleshooting",
@@ -889,7 +1231,18 @@
               "unitId": "react-section-3-unit-10-hook-troubleshooting",
               "title": "Learn Hook troubleshooting",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s3-u10-q1",
+                "react-s3-u10-q2",
+                "react-s3-u10-q3",
+                "react-s3-u10-q4",
+                "react-s3-u10-q5",
+                "react-s3-u10-q6",
+                "react-s3-u10-q7",
+                "react-s3-u10-q8",
+                "react-s3-u10-q9",
+                "react-s3-u10-q10"
+              ]
             },
             {
               "id": "react-section-3-unit-10-hook-troubleshooting-lesson-2",
@@ -905,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Hook troubleshooting helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         }
       ]
     },
@@ -927,7 +1281,18 @@
               "unitId": "react-section-4-unit-1-conditional-rendering",
               "title": "Learn Conditional rendering",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s4-u1-q1",
+                "react-s4-u1-q2",
+                "react-s4-u1-q3",
+                "react-s4-u1-q4",
+                "react-s4-u1-q5",
+                "react-s4-u1-q6",
+                "react-s4-u1-q7",
+                "react-s4-u1-q8",
+                "react-s4-u1-q9",
+                "react-s4-u1-q10"
+              ]
             },
             {
               "id": "react-section-4-unit-1-conditional-rendering-lesson-2",
@@ -943,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Conditional rendering helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-4-unit-2-lists-and-keys",
@@ -956,7 +1322,18 @@
               "unitId": "react-section-4-unit-2-lists-and-keys",
               "title": "Learn Lists and keys",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s4-u2-q1",
+                "react-s4-u2-q2",
+                "react-s4-u2-q3",
+                "react-s4-u2-q4",
+                "react-s4-u2-q5",
+                "react-s4-u2-q6",
+                "react-s4-u2-q7",
+                "react-s4-u2-q8",
+                "react-s4-u2-q9",
+                "react-s4-u2-q10"
+              ]
             },
             {
               "id": "react-section-4-unit-2-lists-and-keys-lesson-2",
@@ -972,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Lists and keys helps you build UI from components, props, and state. Example: `<li key={item.id}>`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-4-unit-3-empty-states",
@@ -985,7 +1363,18 @@
               "unitId": "react-section-4-unit-3-empty-states",
               "title": "Learn Empty states",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s4-u3-q1",
+                "react-s4-u3-q2",
+                "react-s4-u3-q3",
+                "react-s4-u3-q4",
+                "react-s4-u3-q5",
+                "react-s4-u3-q6",
+                "react-s4-u3-q7",
+                "react-s4-u3-q8",
+                "react-s4-u3-q9",
+                "react-s4-u3-q10"
+              ]
             },
             {
               "id": "react-section-4-unit-3-empty-states-lesson-2",
@@ -1001,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Empty states helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-4-unit-4-loading-states",
@@ -1014,7 +1404,18 @@
               "unitId": "react-section-4-unit-4-loading-states",
               "title": "Learn Loading states",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s4-u4-q1",
+                "react-s4-u4-q2",
+                "react-s4-u4-q3",
+                "react-s4-u4-q4",
+                "react-s4-u4-q5",
+                "react-s4-u4-q6",
+                "react-s4-u4-q7",
+                "react-s4-u4-q8",
+                "react-s4-u4-q9",
+                "react-s4-u4-q10"
+              ]
             },
             {
               "id": "react-section-4-unit-4-loading-states-lesson-2",
@@ -1030,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Loading states helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-4-unit-5-error-states",
@@ -1043,7 +1445,18 @@
               "unitId": "react-section-4-unit-5-error-states",
               "title": "Learn Error states",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s4-u5-q1",
+                "react-s4-u5-q2",
+                "react-s4-u5-q3",
+                "react-s4-u5-q4",
+                "react-s4-u5-q5",
+                "react-s4-u5-q6",
+                "react-s4-u5-q7",
+                "react-s4-u5-q8",
+                "react-s4-u5-q9",
+                "react-s4-u5-q10"
+              ]
             },
             {
               "id": "react-section-4-unit-5-error-states-lesson-2",
@@ -1059,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Error states helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-4-unit-6-slot-patterns",
@@ -1072,7 +1486,18 @@
               "unitId": "react-section-4-unit-6-slot-patterns",
               "title": "Learn Slot patterns",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s4-u6-q1",
+                "react-s4-u6-q2",
+                "react-s4-u6-q3",
+                "react-s4-u6-q4",
+                "react-s4-u6-q5",
+                "react-s4-u6-q6",
+                "react-s4-u6-q7",
+                "react-s4-u6-q8",
+                "react-s4-u6-q9",
+                "react-s4-u6-q10"
+              ]
             },
             {
               "id": "react-section-4-unit-6-slot-patterns-lesson-2",
@@ -1088,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Slot patterns helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-4-unit-7-children-composition",
@@ -1101,7 +1527,18 @@
               "unitId": "react-section-4-unit-7-children-composition",
               "title": "Learn Children composition",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s4-u7-q1",
+                "react-s4-u7-q2",
+                "react-s4-u7-q3",
+                "react-s4-u7-q4",
+                "react-s4-u7-q5",
+                "react-s4-u7-q6",
+                "react-s4-u7-q7",
+                "react-s4-u7-q8",
+                "react-s4-u7-q9",
+                "react-s4-u7-q10"
+              ]
             },
             {
               "id": "react-section-4-unit-7-children-composition-lesson-2",
@@ -1117,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Children composition helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-4-unit-8-render-helpers",
@@ -1130,7 +1568,18 @@
               "unitId": "react-section-4-unit-8-render-helpers",
               "title": "Learn Render helpers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s4-u8-q1",
+                "react-s4-u8-q2",
+                "react-s4-u8-q3",
+                "react-s4-u8-q4",
+                "react-s4-u8-q5",
+                "react-s4-u8-q6",
+                "react-s4-u8-q7",
+                "react-s4-u8-q8",
+                "react-s4-u8-q9",
+                "react-s4-u8-q10"
+              ]
             },
             {
               "id": "react-section-4-unit-8-render-helpers-lesson-2",
@@ -1146,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Render helpers helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-4-unit-9-reusable-cards",
@@ -1159,7 +1609,18 @@
               "unitId": "react-section-4-unit-9-reusable-cards",
               "title": "Learn Reusable cards",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s4-u9-q1",
+                "react-s4-u9-q2",
+                "react-s4-u9-q3",
+                "react-s4-u9-q4",
+                "react-s4-u9-q5",
+                "react-s4-u9-q6",
+                "react-s4-u9-q7",
+                "react-s4-u9-q8",
+                "react-s4-u9-q9",
+                "react-s4-u9-q10"
+              ]
             },
             {
               "id": "react-section-4-unit-9-reusable-cards-lesson-2",
@@ -1175,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reusable cards helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-4-unit-10-rendering-polish",
@@ -1188,7 +1650,18 @@
               "unitId": "react-section-4-unit-10-rendering-polish",
               "title": "Learn Rendering polish",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s4-u10-q1",
+                "react-s4-u10-q2",
+                "react-s4-u10-q3",
+                "react-s4-u10-q4",
+                "react-s4-u10-q5",
+                "react-s4-u10-q6",
+                "react-s4-u10-q7",
+                "react-s4-u10-q8",
+                "react-s4-u10-q9",
+                "react-s4-u10-q10"
+              ]
             },
             {
               "id": "react-section-4-unit-10-rendering-polish-lesson-2",
@@ -1204,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Rendering polish helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         }
       ]
     },
@@ -1226,7 +1700,18 @@
               "unitId": "react-section-5-unit-1-controlled-forms",
               "title": "Learn Controlled forms",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s5-u1-q1",
+                "react-s5-u1-q2",
+                "react-s5-u1-q3",
+                "react-s5-u1-q4",
+                "react-s5-u1-q5",
+                "react-s5-u1-q6",
+                "react-s5-u1-q7",
+                "react-s5-u1-q8",
+                "react-s5-u1-q9",
+                "react-s5-u1-q10"
+              ]
             },
             {
               "id": "react-section-5-unit-1-controlled-forms-lesson-2",
@@ -1242,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Controlled forms helps you build UI from components, props, and state. Example: `value={email}`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-5-unit-2-textarea-and-select",
@@ -1255,7 +1741,18 @@
               "unitId": "react-section-5-unit-2-textarea-and-select",
               "title": "Learn Textarea and select",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s5-u2-q1",
+                "react-s5-u2-q2",
+                "react-s5-u2-q3",
+                "react-s5-u2-q4",
+                "react-s5-u2-q5",
+                "react-s5-u2-q6",
+                "react-s5-u2-q7",
+                "react-s5-u2-q8",
+                "react-s5-u2-q9",
+                "react-s5-u2-q10"
+              ]
             },
             {
               "id": "react-section-5-unit-2-textarea-and-select-lesson-2",
@@ -1271,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Textarea and select helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-5-unit-3-checkboxes",
@@ -1284,7 +1782,18 @@
               "unitId": "react-section-5-unit-3-checkboxes",
               "title": "Learn Checkboxes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s5-u3-q1",
+                "react-s5-u3-q2",
+                "react-s5-u3-q3",
+                "react-s5-u3-q4",
+                "react-s5-u3-q5",
+                "react-s5-u3-q6",
+                "react-s5-u3-q7",
+                "react-s5-u3-q8",
+                "react-s5-u3-q9",
+                "react-s5-u3-q10"
+              ]
             },
             {
               "id": "react-section-5-unit-3-checkboxes-lesson-2",
@@ -1300,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Checkboxes helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-5-unit-4-validation",
@@ -1313,7 +1823,18 @@
               "unitId": "react-section-5-unit-4-validation",
               "title": "Learn Validation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s5-u4-q1",
+                "react-s5-u4-q2",
+                "react-s5-u4-q3",
+                "react-s5-u4-q4",
+                "react-s5-u4-q5",
+                "react-s5-u4-q6",
+                "react-s5-u4-q7",
+                "react-s5-u4-q8",
+                "react-s5-u4-q9",
+                "react-s5-u4-q10"
+              ]
             },
             {
               "id": "react-section-5-unit-4-validation-lesson-2",
@@ -1329,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Validation helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-5-unit-5-form-errors",
@@ -1342,7 +1864,18 @@
               "unitId": "react-section-5-unit-5-form-errors",
               "title": "Learn Form errors",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s5-u5-q1",
+                "react-s5-u5-q2",
+                "react-s5-u5-q3",
+                "react-s5-u5-q4",
+                "react-s5-u5-q5",
+                "react-s5-u5-q6",
+                "react-s5-u5-q7",
+                "react-s5-u5-q8",
+                "react-s5-u5-q9",
+                "react-s5-u5-q10"
+              ]
             },
             {
               "id": "react-section-5-unit-5-form-errors-lesson-2",
@@ -1358,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Form errors helps you build UI from components, props, and state. Example: `value={email}`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-5-unit-6-submission-state",
@@ -1371,7 +1905,18 @@
               "unitId": "react-section-5-unit-6-submission-state",
               "title": "Learn Submission state",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s5-u6-q1",
+                "react-s5-u6-q2",
+                "react-s5-u6-q3",
+                "react-s5-u6-q4",
+                "react-s5-u6-q5",
+                "react-s5-u6-q6",
+                "react-s5-u6-q7",
+                "react-s5-u6-q8",
+                "react-s5-u6-q9",
+                "react-s5-u6-q10"
+              ]
             },
             {
               "id": "react-section-5-unit-6-submission-state-lesson-2",
@@ -1387,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Submission state helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-5-unit-7-reset-flows",
@@ -1400,7 +1946,18 @@
               "unitId": "react-section-5-unit-7-reset-flows",
               "title": "Learn Reset flows",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s5-u7-q1",
+                "react-s5-u7-q2",
+                "react-s5-u7-q3",
+                "react-s5-u7-q4",
+                "react-s5-u7-q5",
+                "react-s5-u7-q6",
+                "react-s5-u7-q7",
+                "react-s5-u7-q8",
+                "react-s5-u7-q9",
+                "react-s5-u7-q10"
+              ]
             },
             {
               "id": "react-section-5-unit-7-reset-flows-lesson-2",
@@ -1416,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reset flows helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-5-unit-8-accessible-labels",
@@ -1429,7 +1987,18 @@
               "unitId": "react-section-5-unit-8-accessible-labels",
               "title": "Learn Accessible labels",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s5-u8-q1",
+                "react-s5-u8-q2",
+                "react-s5-u8-q3",
+                "react-s5-u8-q4",
+                "react-s5-u8-q5",
+                "react-s5-u8-q6",
+                "react-s5-u8-q7",
+                "react-s5-u8-q8",
+                "react-s5-u8-q9",
+                "react-s5-u8-q10"
+              ]
             },
             {
               "id": "react-section-5-unit-8-accessible-labels-lesson-2",
@@ -1445,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Accessible labels helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-5-unit-9-multi-step-forms",
@@ -1458,7 +2028,18 @@
               "unitId": "react-section-5-unit-9-multi-step-forms",
               "title": "Learn Multi-step forms",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s5-u9-q1",
+                "react-s5-u9-q2",
+                "react-s5-u9-q3",
+                "react-s5-u9-q4",
+                "react-s5-u9-q5",
+                "react-s5-u9-q6",
+                "react-s5-u9-q7",
+                "react-s5-u9-q8",
+                "react-s5-u9-q9",
+                "react-s5-u9-q10"
+              ]
             },
             {
               "id": "react-section-5-unit-9-multi-step-forms-lesson-2",
@@ -1474,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Multi-step forms helps you build UI from components, props, and state. Example: `value={email}`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-5-unit-10-form-project",
@@ -1487,7 +2069,18 @@
               "unitId": "react-section-5-unit-10-form-project",
               "title": "Learn Form project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s5-u10-q1",
+                "react-s5-u10-q2",
+                "react-s5-u10-q3",
+                "react-s5-u10-q4",
+                "react-s5-u10-q5",
+                "react-s5-u10-q6",
+                "react-s5-u10-q7",
+                "react-s5-u10-q8",
+                "react-s5-u10-q9",
+                "react-s5-u10-q10"
+              ]
             },
             {
               "id": "react-section-5-unit-10-form-project-lesson-2",
@@ -1503,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Form project helps you build UI from components, props, and state. Example: `value={email}`. Avoid: mutating state directly."
         }
       ]
     },
@@ -1525,7 +2119,18 @@
               "unitId": "react-section-6-unit-1-context-basics",
               "title": "Learn Context basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s6-u1-q1",
+                "react-s6-u1-q2",
+                "react-s6-u1-q3",
+                "react-s6-u1-q4",
+                "react-s6-u1-q5",
+                "react-s6-u1-q6",
+                "react-s6-u1-q7",
+                "react-s6-u1-q8",
+                "react-s6-u1-q9",
+                "react-s6-u1-q10"
+              ]
             },
             {
               "id": "react-section-6-unit-1-context-basics-lesson-2",
@@ -1541,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Context basics helps you build UI from components, props, and state. Example: `const theme = useContext(ThemeContext)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-6-unit-2-provider-setup",
@@ -1554,7 +2160,18 @@
               "unitId": "react-section-6-unit-2-provider-setup",
               "title": "Learn Provider setup",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s6-u2-q1",
+                "react-s6-u2-q2",
+                "react-s6-u2-q3",
+                "react-s6-u2-q4",
+                "react-s6-u2-q5",
+                "react-s6-u2-q6",
+                "react-s6-u2-q7",
+                "react-s6-u2-q8",
+                "react-s6-u2-q9",
+                "react-s6-u2-q10"
+              ]
             },
             {
               "id": "react-section-6-unit-2-provider-setup-lesson-2",
@@ -1570,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Provider setup helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-6-unit-3-usecontext",
@@ -1583,7 +2201,18 @@
               "unitId": "react-section-6-unit-3-usecontext",
               "title": "Learn useContext",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s6-u3-q1",
+                "react-s6-u3-q2",
+                "react-s6-u3-q3",
+                "react-s6-u3-q4",
+                "react-s6-u3-q5",
+                "react-s6-u3-q6",
+                "react-s6-u3-q7",
+                "react-s6-u3-q8",
+                "react-s6-u3-q9",
+                "react-s6-u3-q10"
+              ]
             },
             {
               "id": "react-section-6-unit-3-usecontext-lesson-2",
@@ -1599,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "useContext helps you build UI from components, props, and state. Example: `const theme = useContext(ThemeContext)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-6-unit-4-reducer-basics",
@@ -1612,7 +2242,18 @@
               "unitId": "react-section-6-unit-4-reducer-basics",
               "title": "Learn Reducer basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s6-u4-q1",
+                "react-s6-u4-q2",
+                "react-s6-u4-q3",
+                "react-s6-u4-q4",
+                "react-s6-u4-q5",
+                "react-s6-u4-q6",
+                "react-s6-u4-q7",
+                "react-s6-u4-q8",
+                "react-s6-u4-q9",
+                "react-s6-u4-q10"
+              ]
             },
             {
               "id": "react-section-6-unit-4-reducer-basics-lesson-2",
@@ -1628,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reducer basics helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-6-unit-5-usereducer",
@@ -1641,7 +2283,18 @@
               "unitId": "react-section-6-unit-5-usereducer",
               "title": "Learn useReducer",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s6-u5-q1",
+                "react-s6-u5-q2",
+                "react-s6-u5-q3",
+                "react-s6-u5-q4",
+                "react-s6-u5-q5",
+                "react-s6-u5-q6",
+                "react-s6-u5-q7",
+                "react-s6-u5-q8",
+                "react-s6-u5-q9",
+                "react-s6-u5-q10"
+              ]
             },
             {
               "id": "react-section-6-unit-5-usereducer-lesson-2",
@@ -1657,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "useReducer helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-6-unit-6-action-modeling",
@@ -1670,7 +2324,18 @@
               "unitId": "react-section-6-unit-6-action-modeling",
               "title": "Learn Action modeling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s6-u6-q1",
+                "react-s6-u6-q2",
+                "react-s6-u6-q3",
+                "react-s6-u6-q4",
+                "react-s6-u6-q5",
+                "react-s6-u6-q6",
+                "react-s6-u6-q7",
+                "react-s6-u6-q8",
+                "react-s6-u6-q9",
+                "react-s6-u6-q10"
+              ]
             },
             {
               "id": "react-section-6-unit-6-action-modeling-lesson-2",
@@ -1686,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Action modeling helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-6-unit-7-avoiding-over-render",
@@ -1699,7 +2365,18 @@
               "unitId": "react-section-6-unit-7-avoiding-over-render",
               "title": "Learn Avoiding over-render",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s6-u7-q1",
+                "react-s6-u7-q2",
+                "react-s6-u7-q3",
+                "react-s6-u7-q4",
+                "react-s6-u7-q5",
+                "react-s6-u7-q6",
+                "react-s6-u7-q7",
+                "react-s6-u7-q8",
+                "react-s6-u7-q9",
+                "react-s6-u7-q10"
+              ]
             },
             {
               "id": "react-section-6-unit-7-avoiding-over-render-lesson-2",
@@ -1715,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Avoiding over-render helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-6-unit-8-global-ui-state",
@@ -1728,7 +2406,18 @@
               "unitId": "react-section-6-unit-8-global-ui-state",
               "title": "Learn Global UI state",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s6-u8-q1",
+                "react-s6-u8-q2",
+                "react-s6-u8-q3",
+                "react-s6-u8-q4",
+                "react-s6-u8-q5",
+                "react-s6-u8-q6",
+                "react-s6-u8-q7",
+                "react-s6-u8-q8",
+                "react-s6-u8-q9",
+                "react-s6-u8-q10"
+              ]
             },
             {
               "id": "react-section-6-unit-8-global-ui-state-lesson-2",
@@ -1744,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Global UI state helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-6-unit-9-persisted-state",
@@ -1757,7 +2447,18 @@
               "unitId": "react-section-6-unit-9-persisted-state",
               "title": "Learn Persisted state",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s6-u9-q1",
+                "react-s6-u9-q2",
+                "react-s6-u9-q3",
+                "react-s6-u9-q4",
+                "react-s6-u9-q5",
+                "react-s6-u9-q6",
+                "react-s6-u9-q7",
+                "react-s6-u9-q8",
+                "react-s6-u9-q9",
+                "react-s6-u9-q10"
+              ]
             },
             {
               "id": "react-section-6-unit-9-persisted-state-lesson-2",
@@ -1773,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Persisted state helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-6-unit-10-state-architecture",
@@ -1786,7 +2488,18 @@
               "unitId": "react-section-6-unit-10-state-architecture",
               "title": "Learn State architecture",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s6-u10-q1",
+                "react-s6-u10-q2",
+                "react-s6-u10-q3",
+                "react-s6-u10-q4",
+                "react-s6-u10-q5",
+                "react-s6-u10-q6",
+                "react-s6-u10-q7",
+                "react-s6-u10-q8",
+                "react-s6-u10-q9",
+                "react-s6-u10-q10"
+              ]
             },
             {
               "id": "react-section-6-unit-10-state-architecture-lesson-2",
@@ -1802,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "State architecture helps you build UI from components, props, and state. Example: `const [open, setOpen] = useState(false)`. Avoid: mutating state directly."
         }
       ]
     },
@@ -1824,7 +2538,18 @@
               "unitId": "react-section-7-unit-1-client-fetching",
               "title": "Learn Client fetching",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s7-u1-q1",
+                "react-s7-u1-q2",
+                "react-s7-u1-q3",
+                "react-s7-u1-q4",
+                "react-s7-u1-q5",
+                "react-s7-u1-q6",
+                "react-s7-u1-q7",
+                "react-s7-u1-q8",
+                "react-s7-u1-q9",
+                "react-s7-u1-q10"
+              ]
             },
             {
               "id": "react-section-7-unit-1-client-fetching-lesson-2",
@@ -1840,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Client fetching helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-7-unit-2-effect-fetching",
@@ -1853,7 +2579,18 @@
               "unitId": "react-section-7-unit-2-effect-fetching",
               "title": "Learn Effect fetching",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s7-u2-q1",
+                "react-s7-u2-q2",
+                "react-s7-u2-q3",
+                "react-s7-u2-q4",
+                "react-s7-u2-q5",
+                "react-s7-u2-q6",
+                "react-s7-u2-q7",
+                "react-s7-u2-q8",
+                "react-s7-u2-q9",
+                "react-s7-u2-q10"
+              ]
             },
             {
               "id": "react-section-7-unit-2-effect-fetching-lesson-2",
@@ -1869,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Effect fetching helps you build UI from components, props, and state. Example: `useEffect(() => {}, [])`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-7-unit-3-abort-controller",
@@ -1882,7 +2620,18 @@
               "unitId": "react-section-7-unit-3-abort-controller",
               "title": "Learn Abort controller",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s7-u3-q1",
+                "react-s7-u3-q2",
+                "react-s7-u3-q3",
+                "react-s7-u3-q4",
+                "react-s7-u3-q5",
+                "react-s7-u3-q6",
+                "react-s7-u3-q7",
+                "react-s7-u3-q8",
+                "react-s7-u3-q9",
+                "react-s7-u3-q10"
+              ]
             },
             {
               "id": "react-section-7-unit-3-abort-controller-lesson-2",
@@ -1898,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Abort controller helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-7-unit-4-loading-skeletons",
@@ -1911,7 +2661,18 @@
               "unitId": "react-section-7-unit-4-loading-skeletons",
               "title": "Learn Loading skeletons",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s7-u4-q1",
+                "react-s7-u4-q2",
+                "react-s7-u4-q3",
+                "react-s7-u4-q4",
+                "react-s7-u4-q5",
+                "react-s7-u4-q6",
+                "react-s7-u4-q7",
+                "react-s7-u4-q8",
+                "react-s7-u4-q9",
+                "react-s7-u4-q10"
+              ]
             },
             {
               "id": "react-section-7-unit-4-loading-skeletons-lesson-2",
@@ -1927,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Loading skeletons helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-7-unit-5-error-retries",
@@ -1940,7 +2702,18 @@
               "unitId": "react-section-7-unit-5-error-retries",
               "title": "Learn Error retries",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s7-u5-q1",
+                "react-s7-u5-q2",
+                "react-s7-u5-q3",
+                "react-s7-u5-q4",
+                "react-s7-u5-q5",
+                "react-s7-u5-q6",
+                "react-s7-u5-q7",
+                "react-s7-u5-q8",
+                "react-s7-u5-q9",
+                "react-s7-u5-q10"
+              ]
             },
             {
               "id": "react-section-7-unit-5-error-retries-lesson-2",
@@ -1956,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Error retries helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-7-unit-6-pagination",
@@ -1969,7 +2743,18 @@
               "unitId": "react-section-7-unit-6-pagination",
               "title": "Learn Pagination",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s7-u6-q1",
+                "react-s7-u6-q2",
+                "react-s7-u6-q3",
+                "react-s7-u6-q4",
+                "react-s7-u6-q5",
+                "react-s7-u6-q6",
+                "react-s7-u6-q7",
+                "react-s7-u6-q8",
+                "react-s7-u6-q9",
+                "react-s7-u6-q10"
+              ]
             },
             {
               "id": "react-section-7-unit-6-pagination-lesson-2",
@@ -1985,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pagination helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-7-unit-7-optimistic-ui",
@@ -1998,7 +2784,18 @@
               "unitId": "react-section-7-unit-7-optimistic-ui",
               "title": "Learn Optimistic UI",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s7-u7-q1",
+                "react-s7-u7-q2",
+                "react-s7-u7-q3",
+                "react-s7-u7-q4",
+                "react-s7-u7-q5",
+                "react-s7-u7-q6",
+                "react-s7-u7-q7",
+                "react-s7-u7-q8",
+                "react-s7-u7-q9",
+                "react-s7-u7-q10"
+              ]
             },
             {
               "id": "react-section-7-unit-7-optimistic-ui-lesson-2",
@@ -2014,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Optimistic UI helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-7-unit-8-caching-concepts",
@@ -2027,7 +2825,18 @@
               "unitId": "react-section-7-unit-8-caching-concepts",
               "title": "Learn Caching concepts",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s7-u8-q1",
+                "react-s7-u8-q2",
+                "react-s7-u8-q3",
+                "react-s7-u8-q4",
+                "react-s7-u8-q5",
+                "react-s7-u8-q6",
+                "react-s7-u8-q7",
+                "react-s7-u8-q8",
+                "react-s7-u8-q9",
+                "react-s7-u8-q10"
+              ]
             },
             {
               "id": "react-section-7-unit-8-caching-concepts-lesson-2",
@@ -2043,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Caching concepts helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-7-unit-9-server-data-boundaries",
@@ -2056,7 +2866,18 @@
               "unitId": "react-section-7-unit-9-server-data-boundaries",
               "title": "Learn Server data boundaries",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s7-u9-q1",
+                "react-s7-u9-q2",
+                "react-s7-u9-q3",
+                "react-s7-u9-q4",
+                "react-s7-u9-q5",
+                "react-s7-u9-q6",
+                "react-s7-u9-q7",
+                "react-s7-u9-q8",
+                "react-s7-u9-q9",
+                "react-s7-u9-q10"
+              ]
             },
             {
               "id": "react-section-7-unit-9-server-data-boundaries-lesson-2",
@@ -2072,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Server data boundaries helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-7-unit-10-data-project",
@@ -2085,7 +2907,18 @@
               "unitId": "react-section-7-unit-10-data-project",
               "title": "Learn Data project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s7-u10-q1",
+                "react-s7-u10-q2",
+                "react-s7-u10-q3",
+                "react-s7-u10-q4",
+                "react-s7-u10-q5",
+                "react-s7-u10-q6",
+                "react-s7-u10-q7",
+                "react-s7-u10-q8",
+                "react-s7-u10-q9",
+                "react-s7-u10-q10"
+              ]
             },
             {
               "id": "react-section-7-unit-10-data-project-lesson-2",
@@ -2101,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data project helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         }
       ]
     },
@@ -2123,7 +2957,18 @@
               "unitId": "react-section-8-unit-1-render-costs",
               "title": "Learn Render costs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s8-u1-q1",
+                "react-s8-u1-q2",
+                "react-s8-u1-q3",
+                "react-s8-u1-q4",
+                "react-s8-u1-q5",
+                "react-s8-u1-q6",
+                "react-s8-u1-q7",
+                "react-s8-u1-q8",
+                "react-s8-u1-q9",
+                "react-s8-u1-q10"
+              ]
             },
             {
               "id": "react-section-8-unit-1-render-costs-lesson-2",
@@ -2139,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Render costs helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-8-unit-2-react-memo",
@@ -2152,7 +2998,18 @@
               "unitId": "react-section-8-unit-2-react-memo",
               "title": "Learn React memo",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s8-u2-q1",
+                "react-s8-u2-q2",
+                "react-s8-u2-q3",
+                "react-s8-u2-q4",
+                "react-s8-u2-q5",
+                "react-s8-u2-q6",
+                "react-s8-u2-q7",
+                "react-s8-u2-q8",
+                "react-s8-u2-q9",
+                "react-s8-u2-q10"
+              ]
             },
             {
               "id": "react-section-8-unit-2-react-memo-lesson-2",
@@ -2168,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "React memo helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-8-unit-3-stable-props",
@@ -2181,7 +3039,18 @@
               "unitId": "react-section-8-unit-3-stable-props",
               "title": "Learn Stable props",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s8-u3-q1",
+                "react-s8-u3-q2",
+                "react-s8-u3-q3",
+                "react-s8-u3-q4",
+                "react-s8-u3-q5",
+                "react-s8-u3-q6",
+                "react-s8-u3-q7",
+                "react-s8-u3-q8",
+                "react-s8-u3-q9",
+                "react-s8-u3-q10"
+              ]
             },
             {
               "id": "react-section-8-unit-3-stable-props-lesson-2",
@@ -2197,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Stable props helps you build UI from components, props, and state. Example: `<Card title=\"Profile\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-8-unit-4-usememo-patterns",
@@ -2210,7 +3080,18 @@
               "unitId": "react-section-8-unit-4-usememo-patterns",
               "title": "Learn useMemo patterns",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s8-u4-q1",
+                "react-s8-u4-q2",
+                "react-s8-u4-q3",
+                "react-s8-u4-q4",
+                "react-s8-u4-q5",
+                "react-s8-u4-q6",
+                "react-s8-u4-q7",
+                "react-s8-u4-q8",
+                "react-s8-u4-q9",
+                "react-s8-u4-q10"
+              ]
             },
             {
               "id": "react-section-8-unit-4-usememo-patterns-lesson-2",
@@ -2226,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "useMemo patterns helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-8-unit-5-usecallback-patterns",
@@ -2239,7 +3121,18 @@
               "unitId": "react-section-8-unit-5-usecallback-patterns",
               "title": "Learn useCallback patterns",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s8-u5-q1",
+                "react-s8-u5-q2",
+                "react-s8-u5-q3",
+                "react-s8-u5-q4",
+                "react-s8-u5-q5",
+                "react-s8-u5-q6",
+                "react-s8-u5-q7",
+                "react-s8-u5-q8",
+                "react-s8-u5-q9",
+                "react-s8-u5-q10"
+              ]
             },
             {
               "id": "react-section-8-unit-5-usecallback-patterns-lesson-2",
@@ -2255,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "useCallback patterns helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-8-unit-6-virtual-lists",
@@ -2268,7 +3162,18 @@
               "unitId": "react-section-8-unit-6-virtual-lists",
               "title": "Learn Virtual lists",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s8-u6-q1",
+                "react-s8-u6-q2",
+                "react-s8-u6-q3",
+                "react-s8-u6-q4",
+                "react-s8-u6-q5",
+                "react-s8-u6-q6",
+                "react-s8-u6-q7",
+                "react-s8-u6-q8",
+                "react-s8-u6-q9",
+                "react-s8-u6-q10"
+              ]
             },
             {
               "id": "react-section-8-unit-6-virtual-lists-lesson-2",
@@ -2284,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Virtual lists helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-8-unit-7-code-splitting",
@@ -2297,7 +3203,18 @@
               "unitId": "react-section-8-unit-7-code-splitting",
               "title": "Learn Code splitting",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s8-u7-q1",
+                "react-s8-u7-q2",
+                "react-s8-u7-q3",
+                "react-s8-u7-q4",
+                "react-s8-u7-q5",
+                "react-s8-u7-q6",
+                "react-s8-u7-q7",
+                "react-s8-u7-q8",
+                "react-s8-u7-q9",
+                "react-s8-u7-q10"
+              ]
             },
             {
               "id": "react-section-8-unit-7-code-splitting-lesson-2",
@@ -2313,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Code splitting helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-8-unit-8-profiler-basics",
@@ -2326,7 +3244,18 @@
               "unitId": "react-section-8-unit-8-profiler-basics",
               "title": "Learn Profiler basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s8-u8-q1",
+                "react-s8-u8-q2",
+                "react-s8-u8-q3",
+                "react-s8-u8-q4",
+                "react-s8-u8-q5",
+                "react-s8-u8-q6",
+                "react-s8-u8-q7",
+                "react-s8-u8-q8",
+                "react-s8-u8-q9",
+                "react-s8-u8-q10"
+              ]
             },
             {
               "id": "react-section-8-unit-8-profiler-basics-lesson-2",
@@ -2342,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Profiler basics helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-8-unit-9-avoiding-work",
@@ -2355,7 +3285,18 @@
               "unitId": "react-section-8-unit-9-avoiding-work",
               "title": "Learn Avoiding work",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s8-u9-q1",
+                "react-s8-u9-q2",
+                "react-s8-u9-q3",
+                "react-s8-u9-q4",
+                "react-s8-u9-q5",
+                "react-s8-u9-q6",
+                "react-s8-u9-q7",
+                "react-s8-u9-q8",
+                "react-s8-u9-q9",
+                "react-s8-u9-q10"
+              ]
             },
             {
               "id": "react-section-8-unit-9-avoiding-work-lesson-2",
@@ -2371,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Avoiding work helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-8-unit-10-performance-audit",
@@ -2384,7 +3326,18 @@
               "unitId": "react-section-8-unit-10-performance-audit",
               "title": "Learn Performance audit",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s8-u10-q1",
+                "react-s8-u10-q2",
+                "react-s8-u10-q3",
+                "react-s8-u10-q4",
+                "react-s8-u10-q5",
+                "react-s8-u10-q6",
+                "react-s8-u10-q7",
+                "react-s8-u10-q8",
+                "react-s8-u10-q9",
+                "react-s8-u10-q10"
+              ]
             },
             {
               "id": "react-section-8-unit-10-performance-audit-lesson-2",
@@ -2400,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Performance audit helps you build UI from components, props, and state. Example: `value={email}`. Avoid: mutating state directly."
         }
       ]
     },
@@ -2422,7 +3376,18 @@
               "unitId": "react-section-9-unit-1-compound-components",
               "title": "Learn Compound components",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s9-u1-q1",
+                "react-s9-u1-q2",
+                "react-s9-u1-q3",
+                "react-s9-u1-q4",
+                "react-s9-u1-q5",
+                "react-s9-u1-q6",
+                "react-s9-u1-q7",
+                "react-s9-u1-q8",
+                "react-s9-u1-q9",
+                "react-s9-u1-q10"
+              ]
             },
             {
               "id": "react-section-9-unit-1-compound-components-lesson-2",
@@ -2438,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Compound components helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-9-unit-2-controlled-vs-uncontrolled",
@@ -2451,7 +3417,18 @@
               "unitId": "react-section-9-unit-2-controlled-vs-uncontrolled",
               "title": "Learn Controlled vs uncontrolled",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s9-u2-q1",
+                "react-s9-u2-q2",
+                "react-s9-u2-q3",
+                "react-s9-u2-q4",
+                "react-s9-u2-q5",
+                "react-s9-u2-q6",
+                "react-s9-u2-q7",
+                "react-s9-u2-q8",
+                "react-s9-u2-q9",
+                "react-s9-u2-q10"
+              ]
             },
             {
               "id": "react-section-9-unit-2-controlled-vs-uncontrolled-lesson-2",
@@ -2467,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Controlled vs uncontrolled helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-9-unit-3-portals",
@@ -2480,7 +3458,18 @@
               "unitId": "react-section-9-unit-3-portals",
               "title": "Learn Portals",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s9-u3-q1",
+                "react-s9-u3-q2",
+                "react-s9-u3-q3",
+                "react-s9-u3-q4",
+                "react-s9-u3-q5",
+                "react-s9-u3-q6",
+                "react-s9-u3-q7",
+                "react-s9-u3-q8",
+                "react-s9-u3-q9",
+                "react-s9-u3-q10"
+              ]
             },
             {
               "id": "react-section-9-unit-3-portals-lesson-2",
@@ -2496,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Portals helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-9-unit-4-error-boundaries",
@@ -2509,7 +3499,18 @@
               "unitId": "react-section-9-unit-4-error-boundaries",
               "title": "Learn Error boundaries",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s9-u4-q1",
+                "react-s9-u4-q2",
+                "react-s9-u4-q3",
+                "react-s9-u4-q4",
+                "react-s9-u4-q5",
+                "react-s9-u4-q6",
+                "react-s9-u4-q7",
+                "react-s9-u4-q8",
+                "react-s9-u4-q9",
+                "react-s9-u4-q10"
+              ]
             },
             {
               "id": "react-section-9-unit-4-error-boundaries-lesson-2",
@@ -2525,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Error boundaries helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-9-unit-5-suspense-basics",
@@ -2538,7 +3540,18 @@
               "unitId": "react-section-9-unit-5-suspense-basics",
               "title": "Learn Suspense basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s9-u5-q1",
+                "react-s9-u5-q2",
+                "react-s9-u5-q3",
+                "react-s9-u5-q4",
+                "react-s9-u5-q5",
+                "react-s9-u5-q6",
+                "react-s9-u5-q7",
+                "react-s9-u5-q8",
+                "react-s9-u5-q9",
+                "react-s9-u5-q10"
+              ]
             },
             {
               "id": "react-section-9-unit-5-suspense-basics-lesson-2",
@@ -2554,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Suspense basics helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-9-unit-6-animations",
@@ -2567,7 +3581,18 @@
               "unitId": "react-section-9-unit-6-animations",
               "title": "Learn Animations",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s9-u6-q1",
+                "react-s9-u6-q2",
+                "react-s9-u6-q3",
+                "react-s9-u6-q4",
+                "react-s9-u6-q5",
+                "react-s9-u6-q6",
+                "react-s9-u6-q7",
+                "react-s9-u6-q8",
+                "react-s9-u6-q9",
+                "react-s9-u6-q10"
+              ]
             },
             {
               "id": "react-section-9-unit-6-animations-lesson-2",
@@ -2583,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Animations helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-9-unit-7-accessibility-patterns",
@@ -2596,7 +3622,18 @@
               "unitId": "react-section-9-unit-7-accessibility-patterns",
               "title": "Learn Accessibility patterns",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s9-u7-q1",
+                "react-s9-u7-q2",
+                "react-s9-u7-q3",
+                "react-s9-u7-q4",
+                "react-s9-u7-q5",
+                "react-s9-u7-q6",
+                "react-s9-u7-q7",
+                "react-s9-u7-q8",
+                "react-s9-u7-q9",
+                "react-s9-u7-q10"
+              ]
             },
             {
               "id": "react-section-9-unit-7-accessibility-patterns-lesson-2",
@@ -2612,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Accessibility patterns helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-9-unit-8-testing-components",
@@ -2625,7 +3663,18 @@
               "unitId": "react-section-9-unit-8-testing-components",
               "title": "Learn Testing components",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s9-u8-q1",
+                "react-s9-u8-q2",
+                "react-s9-u8-q3",
+                "react-s9-u8-q4",
+                "react-s9-u8-q5",
+                "react-s9-u8-q6",
+                "react-s9-u8-q7",
+                "react-s9-u8-q8",
+                "react-s9-u8-q9",
+                "react-s9-u8-q10"
+              ]
             },
             {
               "id": "react-section-9-unit-8-testing-components-lesson-2",
@@ -2641,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Testing components helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-9-unit-9-design-systems",
@@ -2654,7 +3704,18 @@
               "unitId": "react-section-9-unit-9-design-systems",
               "title": "Learn Design systems",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s9-u9-q1",
+                "react-s9-u9-q2",
+                "react-s9-u9-q3",
+                "react-s9-u9-q4",
+                "react-s9-u9-q5",
+                "react-s9-u9-q6",
+                "react-s9-u9-q7",
+                "react-s9-u9-q8",
+                "react-s9-u9-q9",
+                "react-s9-u9-q10"
+              ]
             },
             {
               "id": "react-section-9-unit-9-design-systems-lesson-2",
@@ -2670,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Design systems helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-9-unit-10-advanced-refactor",
@@ -2683,7 +3745,18 @@
               "unitId": "react-section-9-unit-10-advanced-refactor",
               "title": "Learn Advanced refactor",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s9-u10-q1",
+                "react-s9-u10-q2",
+                "react-s9-u10-q3",
+                "react-s9-u10-q4",
+                "react-s9-u10-q5",
+                "react-s9-u10-q6",
+                "react-s9-u10-q7",
+                "react-s9-u10-q8",
+                "react-s9-u10-q9",
+                "react-s9-u10-q10"
+              ]
             },
             {
               "id": "react-section-9-unit-10-advanced-refactor-lesson-2",
@@ -2699,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Advanced refactor helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         }
       ]
     },
@@ -2721,7 +3795,18 @@
               "unitId": "react-section-10-unit-1-todo-app",
               "title": "Learn Todo app",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s10-u1-q1",
+                "react-s10-u1-q2",
+                "react-s10-u1-q3",
+                "react-s10-u1-q4",
+                "react-s10-u1-q5",
+                "react-s10-u1-q6",
+                "react-s10-u1-q7",
+                "react-s10-u1-q8",
+                "react-s10-u1-q9",
+                "react-s10-u1-q10"
+              ]
             },
             {
               "id": "react-section-10-unit-1-todo-app-lesson-2",
@@ -2737,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Todo app helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-10-unit-2-quiz-app",
@@ -2750,7 +3836,18 @@
               "unitId": "react-section-10-unit-2-quiz-app",
               "title": "Learn Quiz app",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s10-u2-q1",
+                "react-s10-u2-q2",
+                "react-s10-u2-q3",
+                "react-s10-u2-q4",
+                "react-s10-u2-q5",
+                "react-s10-u2-q6",
+                "react-s10-u2-q7",
+                "react-s10-u2-q8",
+                "react-s10-u2-q9",
+                "react-s10-u2-q10"
+              ]
             },
             {
               "id": "react-section-10-unit-2-quiz-app-lesson-2",
@@ -2766,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Quiz app helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-10-unit-3-dashboard",
@@ -2779,7 +3877,18 @@
               "unitId": "react-section-10-unit-3-dashboard",
               "title": "Learn Dashboard",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s10-u3-q1",
+                "react-s10-u3-q2",
+                "react-s10-u3-q3",
+                "react-s10-u3-q4",
+                "react-s10-u3-q5",
+                "react-s10-u3-q6",
+                "react-s10-u3-q7",
+                "react-s10-u3-q8",
+                "react-s10-u3-q9",
+                "react-s10-u3-q10"
+              ]
             },
             {
               "id": "react-section-10-unit-3-dashboard-lesson-2",
@@ -2795,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dashboard helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-10-unit-4-settings-page",
@@ -2808,7 +3918,18 @@
               "unitId": "react-section-10-unit-4-settings-page",
               "title": "Learn Settings page",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s10-u4-q1",
+                "react-s10-u4-q2",
+                "react-s10-u4-q3",
+                "react-s10-u4-q4",
+                "react-s10-u4-q5",
+                "react-s10-u4-q6",
+                "react-s10-u4-q7",
+                "react-s10-u4-q8",
+                "react-s10-u4-q9",
+                "react-s10-u4-q10"
+              ]
             },
             {
               "id": "react-section-10-unit-4-settings-page-lesson-2",
@@ -2824,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Settings page helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-10-unit-5-search-ui",
@@ -2837,7 +3959,18 @@
               "unitId": "react-section-10-unit-5-search-ui",
               "title": "Learn Search UI",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s10-u5-q1",
+                "react-s10-u5-q2",
+                "react-s10-u5-q3",
+                "react-s10-u5-q4",
+                "react-s10-u5-q5",
+                "react-s10-u5-q6",
+                "react-s10-u5-q7",
+                "react-s10-u5-q8",
+                "react-s10-u5-q9",
+                "react-s10-u5-q10"
+              ]
             },
             {
               "id": "react-section-10-unit-5-search-ui-lesson-2",
@@ -2853,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Search UI helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-10-unit-6-modal-flow",
@@ -2866,7 +4000,18 @@
               "unitId": "react-section-10-unit-6-modal-flow",
               "title": "Learn Modal flow",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s10-u6-q1",
+                "react-s10-u6-q2",
+                "react-s10-u6-q3",
+                "react-s10-u6-q4",
+                "react-s10-u6-q5",
+                "react-s10-u6-q6",
+                "react-s10-u6-q7",
+                "react-s10-u6-q8",
+                "react-s10-u6-q9",
+                "react-s10-u6-q10"
+              ]
             },
             {
               "id": "react-section-10-unit-6-modal-flow-lesson-2",
@@ -2882,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Modal flow helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-10-unit-7-theme-switcher",
@@ -2895,7 +4041,18 @@
               "unitId": "react-section-10-unit-7-theme-switcher",
               "title": "Learn Theme switcher",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s10-u7-q1",
+                "react-s10-u7-q2",
+                "react-s10-u7-q3",
+                "react-s10-u7-q4",
+                "react-s10-u7-q5",
+                "react-s10-u7-q6",
+                "react-s10-u7-q7",
+                "react-s10-u7-q8",
+                "react-s10-u7-q9",
+                "react-s10-u7-q10"
+              ]
             },
             {
               "id": "react-section-10-unit-7-theme-switcher-lesson-2",
@@ -2911,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Theme switcher helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-10-unit-8-data-table",
@@ -2924,7 +4082,18 @@
               "unitId": "react-section-10-unit-8-data-table",
               "title": "Learn Data table",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s10-u8-q1",
+                "react-s10-u8-q2",
+                "react-s10-u8-q3",
+                "react-s10-u8-q4",
+                "react-s10-u8-q5",
+                "react-s10-u8-q6",
+                "react-s10-u8-q7",
+                "react-s10-u8-q8",
+                "react-s10-u8-q9",
+                "react-s10-u8-q10"
+              ]
             },
             {
               "id": "react-section-10-unit-8-data-table-lesson-2",
@@ -2940,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data table helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-10-unit-9-performance-pass",
@@ -2953,7 +4123,18 @@
               "unitId": "react-section-10-unit-9-performance-pass",
               "title": "Learn Performance pass",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s10-u9-q1",
+                "react-s10-u9-q2",
+                "react-s10-u9-q3",
+                "react-s10-u9-q4",
+                "react-s10-u9-q5",
+                "react-s10-u9-q6",
+                "react-s10-u9-q7",
+                "react-s10-u9-q8",
+                "react-s10-u9-q9",
+                "react-s10-u9-q10"
+              ]
             },
             {
               "id": "react-section-10-unit-9-performance-pass-lesson-2",
@@ -2969,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Performance pass helps you build UI from components, props, and state. Example: `value={email}`. Avoid: mutating state directly."
         },
         {
           "id": "react-section-10-unit-10-final-react-project",
@@ -2982,7 +4164,18 @@
               "unitId": "react-section-10-unit-10-final-react-project",
               "title": "Learn Final React project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "react-s10-u10-q1",
+                "react-s10-u10-q2",
+                "react-s10-u10-q3",
+                "react-s10-u10-q4",
+                "react-s10-u10-q5",
+                "react-s10-u10-q6",
+                "react-s10-u10-q7",
+                "react-s10-u10-q8",
+                "react-s10-u10-q9",
+                "react-s10-u10-q10"
+              ]
             },
             {
               "id": "react-section-10-unit-10-final-react-project-lesson-2",
@@ -2998,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final React project helps you build UI from components, props, and state. Example: `<Profile name=\"Ada\" />`. Avoid: mutating state directly."
         }
       ]
     }

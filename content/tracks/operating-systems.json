@@ -25,7 +25,16 @@
               "title": "Learn What an OS does",
               "order": 1,
               "exerciseIds": [
-                "operating-systems-s1-u1-sample"
+                "operating-systems-s1-u1-q1",
+                "operating-systems-s1-u1-q2",
+                "operating-systems-s1-u1-q3",
+                "operating-systems-s1-u1-q4",
+                "operating-systems-s1-u1-q5",
+                "operating-systems-s1-u1-q6",
+                "operating-systems-s1-u1-q7",
+                "operating-systems-s1-u1-q8",
+                "operating-systems-s1-u1-q9",
+                "operating-systems-s1-u1-q10"
               ]
             },
             {
@@ -42,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "What an OS does helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-1-unit-2-kernel-vs-user-space",
@@ -56,7 +66,16 @@
               "title": "Learn Kernel vs user space",
               "order": 1,
               "exerciseIds": [
-                "operating-systems-s1-u2-sample"
+                "operating-systems-s1-u2-q1",
+                "operating-systems-s1-u2-q2",
+                "operating-systems-s1-u2-q3",
+                "operating-systems-s1-u2-q4",
+                "operating-systems-s1-u2-q5",
+                "operating-systems-s1-u2-q6",
+                "operating-systems-s1-u2-q7",
+                "operating-systems-s1-u2-q8",
+                "operating-systems-s1-u2-q9",
+                "operating-systems-s1-u2-q10"
               ]
             },
             {
@@ -73,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Kernel vs user space helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-1-unit-3-system-calls",
@@ -87,7 +107,16 @@
               "title": "Learn System calls",
               "order": 1,
               "exerciseIds": [
-                "operating-systems-s1-u3-sample"
+                "operating-systems-s1-u3-q1",
+                "operating-systems-s1-u3-q2",
+                "operating-systems-s1-u3-q3",
+                "operating-systems-s1-u3-q4",
+                "operating-systems-s1-u3-q5",
+                "operating-systems-s1-u3-q6",
+                "operating-systems-s1-u3-q7",
+                "operating-systems-s1-u3-q8",
+                "operating-systems-s1-u3-q9",
+                "operating-systems-s1-u3-q10"
               ]
             },
             {
@@ -104,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "System calls helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-1-unit-4-boot-process-concept",
@@ -117,7 +147,18 @@
               "unitId": "operating-systems-section-1-unit-4-boot-process-concept",
               "title": "Learn Boot process concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s1-u4-q1",
+                "operating-systems-s1-u4-q2",
+                "operating-systems-s1-u4-q3",
+                "operating-systems-s1-u4-q4",
+                "operating-systems-s1-u4-q5",
+                "operating-systems-s1-u4-q6",
+                "operating-systems-s1-u4-q7",
+                "operating-systems-s1-u4-q8",
+                "operating-systems-s1-u4-q9",
+                "operating-systems-s1-u4-q10"
+              ]
             },
             {
               "id": "operating-systems-section-1-unit-4-boot-process-concept-lesson-2",
@@ -133,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Boot process concept helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-1-unit-5-processes",
@@ -146,7 +188,18 @@
               "unitId": "operating-systems-section-1-unit-5-processes",
               "title": "Learn Processes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s1-u5-q1",
+                "operating-systems-s1-u5-q2",
+                "operating-systems-s1-u5-q3",
+                "operating-systems-s1-u5-q4",
+                "operating-systems-s1-u5-q5",
+                "operating-systems-s1-u5-q6",
+                "operating-systems-s1-u5-q7",
+                "operating-systems-s1-u5-q8",
+                "operating-systems-s1-u5-q9",
+                "operating-systems-s1-u5-q10"
+              ]
             },
             {
               "id": "operating-systems-section-1-unit-5-processes-lesson-2",
@@ -162,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Processes helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-1-unit-6-threads",
@@ -175,7 +229,18 @@
               "unitId": "operating-systems-section-1-unit-6-threads",
               "title": "Learn Threads",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s1-u6-q1",
+                "operating-systems-s1-u6-q2",
+                "operating-systems-s1-u6-q3",
+                "operating-systems-s1-u6-q4",
+                "operating-systems-s1-u6-q5",
+                "operating-systems-s1-u6-q6",
+                "operating-systems-s1-u6-q7",
+                "operating-systems-s1-u6-q8",
+                "operating-systems-s1-u6-q9",
+                "operating-systems-s1-u6-q10"
+              ]
             },
             {
               "id": "operating-systems-section-1-unit-6-threads-lesson-2",
@@ -191,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Threads helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-1-unit-7-context-switching",
@@ -204,7 +270,18 @@
               "unitId": "operating-systems-section-1-unit-7-context-switching",
               "title": "Learn Context switching",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s1-u7-q1",
+                "operating-systems-s1-u7-q2",
+                "operating-systems-s1-u7-q3",
+                "operating-systems-s1-u7-q4",
+                "operating-systems-s1-u7-q5",
+                "operating-systems-s1-u7-q6",
+                "operating-systems-s1-u7-q7",
+                "operating-systems-s1-u7-q8",
+                "operating-systems-s1-u7-q9",
+                "operating-systems-s1-u7-q10"
+              ]
             },
             {
               "id": "operating-systems-section-1-unit-7-context-switching-lesson-2",
@@ -220,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Context switching helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-1-unit-8-interrupts",
@@ -233,7 +311,18 @@
               "unitId": "operating-systems-section-1-unit-8-interrupts",
               "title": "Learn Interrupts",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s1-u8-q1",
+                "operating-systems-s1-u8-q2",
+                "operating-systems-s1-u8-q3",
+                "operating-systems-s1-u8-q4",
+                "operating-systems-s1-u8-q5",
+                "operating-systems-s1-u8-q6",
+                "operating-systems-s1-u8-q7",
+                "operating-systems-s1-u8-q8",
+                "operating-systems-s1-u8-q9",
+                "operating-systems-s1-u8-q10"
+              ]
             },
             {
               "id": "operating-systems-section-1-unit-8-interrupts-lesson-2",
@@ -249,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Interrupts helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-1-unit-9-privilege-levels",
@@ -262,7 +352,18 @@
               "unitId": "operating-systems-section-1-unit-9-privilege-levels",
               "title": "Learn Privilege levels",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s1-u9-q1",
+                "operating-systems-s1-u9-q2",
+                "operating-systems-s1-u9-q3",
+                "operating-systems-s1-u9-q4",
+                "operating-systems-s1-u9-q5",
+                "operating-systems-s1-u9-q6",
+                "operating-systems-s1-u9-q7",
+                "operating-systems-s1-u9-q8",
+                "operating-systems-s1-u9-q9",
+                "operating-systems-s1-u9-q10"
+              ]
             },
             {
               "id": "operating-systems-section-1-unit-9-privilege-levels-lesson-2",
@@ -278,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Privilege levels helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-1-unit-10-os-vocabulary",
@@ -291,7 +393,18 @@
               "unitId": "operating-systems-section-1-unit-10-os-vocabulary",
               "title": "Learn OS vocabulary",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s1-u10-q1",
+                "operating-systems-s1-u10-q2",
+                "operating-systems-s1-u10-q3",
+                "operating-systems-s1-u10-q4",
+                "operating-systems-s1-u10-q5",
+                "operating-systems-s1-u10-q6",
+                "operating-systems-s1-u10-q7",
+                "operating-systems-s1-u10-q8",
+                "operating-systems-s1-u10-q9",
+                "operating-systems-s1-u10-q10"
+              ]
             },
             {
               "id": "operating-systems-section-1-unit-10-os-vocabulary-lesson-2",
@@ -307,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "OS vocabulary helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         }
       ]
     },
@@ -329,7 +443,18 @@
               "unitId": "operating-systems-section-2-unit-1-process-states",
               "title": "Learn Process states",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s2-u1-q1",
+                "operating-systems-s2-u1-q2",
+                "operating-systems-s2-u1-q3",
+                "operating-systems-s2-u1-q4",
+                "operating-systems-s2-u1-q5",
+                "operating-systems-s2-u1-q6",
+                "operating-systems-s2-u1-q7",
+                "operating-systems-s2-u1-q8",
+                "operating-systems-s2-u1-q9",
+                "operating-systems-s2-u1-q10"
+              ]
             },
             {
               "id": "operating-systems-section-2-unit-1-process-states-lesson-2",
@@ -345,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Process states helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-2-unit-2-pcb-concept",
@@ -358,7 +484,18 @@
               "unitId": "operating-systems-section-2-unit-2-pcb-concept",
               "title": "Learn PCB concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s2-u2-q1",
+                "operating-systems-s2-u2-q2",
+                "operating-systems-s2-u2-q3",
+                "operating-systems-s2-u2-q4",
+                "operating-systems-s2-u2-q5",
+                "operating-systems-s2-u2-q6",
+                "operating-systems-s2-u2-q7",
+                "operating-systems-s2-u2-q8",
+                "operating-systems-s2-u2-q9",
+                "operating-systems-s2-u2-q10"
+              ]
             },
             {
               "id": "operating-systems-section-2-unit-2-pcb-concept-lesson-2",
@@ -374,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "PCB concept helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-2-unit-3-process-creation",
@@ -387,7 +525,18 @@
               "unitId": "operating-systems-section-2-unit-3-process-creation",
               "title": "Learn Process creation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s2-u3-q1",
+                "operating-systems-s2-u3-q2",
+                "operating-systems-s2-u3-q3",
+                "operating-systems-s2-u3-q4",
+                "operating-systems-s2-u3-q5",
+                "operating-systems-s2-u3-q6",
+                "operating-systems-s2-u3-q7",
+                "operating-systems-s2-u3-q8",
+                "operating-systems-s2-u3-q9",
+                "operating-systems-s2-u3-q10"
+              ]
             },
             {
               "id": "operating-systems-section-2-unit-3-process-creation-lesson-2",
@@ -403,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Process creation helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-2-unit-4-fork-concept",
@@ -416,7 +566,18 @@
               "unitId": "operating-systems-section-2-unit-4-fork-concept",
               "title": "Learn fork concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s2-u4-q1",
+                "operating-systems-s2-u4-q2",
+                "operating-systems-s2-u4-q3",
+                "operating-systems-s2-u4-q4",
+                "operating-systems-s2-u4-q5",
+                "operating-systems-s2-u4-q6",
+                "operating-systems-s2-u4-q7",
+                "operating-systems-s2-u4-q8",
+                "operating-systems-s2-u4-q9",
+                "operating-systems-s2-u4-q10"
+              ]
             },
             {
               "id": "operating-systems-section-2-unit-4-fork-concept-lesson-2",
@@ -432,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "fork concept helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-2-unit-5-exec-concept",
@@ -445,7 +607,18 @@
               "unitId": "operating-systems-section-2-unit-5-exec-concept",
               "title": "Learn exec concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s2-u5-q1",
+                "operating-systems-s2-u5-q2",
+                "operating-systems-s2-u5-q3",
+                "operating-systems-s2-u5-q4",
+                "operating-systems-s2-u5-q5",
+                "operating-systems-s2-u5-q6",
+                "operating-systems-s2-u5-q7",
+                "operating-systems-s2-u5-q8",
+                "operating-systems-s2-u5-q9",
+                "operating-systems-s2-u5-q10"
+              ]
             },
             {
               "id": "operating-systems-section-2-unit-5-exec-concept-lesson-2",
@@ -461,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "exec concept helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-2-unit-6-ipc-basics",
@@ -474,7 +648,18 @@
               "unitId": "operating-systems-section-2-unit-6-ipc-basics",
               "title": "Learn IPC basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s2-u6-q1",
+                "operating-systems-s2-u6-q2",
+                "operating-systems-s2-u6-q3",
+                "operating-systems-s2-u6-q4",
+                "operating-systems-s2-u6-q5",
+                "operating-systems-s2-u6-q6",
+                "operating-systems-s2-u6-q7",
+                "operating-systems-s2-u6-q8",
+                "operating-systems-s2-u6-q9",
+                "operating-systems-s2-u6-q10"
+              ]
             },
             {
               "id": "operating-systems-section-2-unit-6-ipc-basics-lesson-2",
@@ -490,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "IPC basics helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-2-unit-7-pipes",
@@ -503,7 +689,18 @@
               "unitId": "operating-systems-section-2-unit-7-pipes",
               "title": "Learn Pipes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s2-u7-q1",
+                "operating-systems-s2-u7-q2",
+                "operating-systems-s2-u7-q3",
+                "operating-systems-s2-u7-q4",
+                "operating-systems-s2-u7-q5",
+                "operating-systems-s2-u7-q6",
+                "operating-systems-s2-u7-q7",
+                "operating-systems-s2-u7-q8",
+                "operating-systems-s2-u7-q9",
+                "operating-systems-s2-u7-q10"
+              ]
             },
             {
               "id": "operating-systems-section-2-unit-7-pipes-lesson-2",
@@ -519,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pipes helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-2-unit-8-signals",
@@ -532,7 +730,18 @@
               "unitId": "operating-systems-section-2-unit-8-signals",
               "title": "Learn Signals",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s2-u8-q1",
+                "operating-systems-s2-u8-q2",
+                "operating-systems-s2-u8-q3",
+                "operating-systems-s2-u8-q4",
+                "operating-systems-s2-u8-q5",
+                "operating-systems-s2-u8-q6",
+                "operating-systems-s2-u8-q7",
+                "operating-systems-s2-u8-q8",
+                "operating-systems-s2-u8-q9",
+                "operating-systems-s2-u8-q10"
+              ]
             },
             {
               "id": "operating-systems-section-2-unit-8-signals-lesson-2",
@@ -548,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Signals helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-2-unit-9-process-termination",
@@ -561,7 +771,18 @@
               "unitId": "operating-systems-section-2-unit-9-process-termination",
               "title": "Learn Process termination",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s2-u9-q1",
+                "operating-systems-s2-u9-q2",
+                "operating-systems-s2-u9-q3",
+                "operating-systems-s2-u9-q4",
+                "operating-systems-s2-u9-q5",
+                "operating-systems-s2-u9-q6",
+                "operating-systems-s2-u9-q7",
+                "operating-systems-s2-u9-q8",
+                "operating-systems-s2-u9-q9",
+                "operating-systems-s2-u9-q10"
+              ]
             },
             {
               "id": "operating-systems-section-2-unit-9-process-termination-lesson-2",
@@ -577,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Process termination helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-2-unit-10-process-drills",
@@ -590,7 +812,18 @@
               "unitId": "operating-systems-section-2-unit-10-process-drills",
               "title": "Learn Process drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s2-u10-q1",
+                "operating-systems-s2-u10-q2",
+                "operating-systems-s2-u10-q3",
+                "operating-systems-s2-u10-q4",
+                "operating-systems-s2-u10-q5",
+                "operating-systems-s2-u10-q6",
+                "operating-systems-s2-u10-q7",
+                "operating-systems-s2-u10-q8",
+                "operating-systems-s2-u10-q9",
+                "operating-systems-s2-u10-q10"
+              ]
             },
             {
               "id": "operating-systems-section-2-unit-10-process-drills-lesson-2",
@@ -606,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Process drills helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         }
       ]
     },
@@ -628,7 +862,18 @@
               "unitId": "operating-systems-section-3-unit-1-thread-model",
               "title": "Learn Thread model",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s3-u1-q1",
+                "operating-systems-s3-u1-q2",
+                "operating-systems-s3-u1-q3",
+                "operating-systems-s3-u1-q4",
+                "operating-systems-s3-u1-q5",
+                "operating-systems-s3-u1-q6",
+                "operating-systems-s3-u1-q7",
+                "operating-systems-s3-u1-q8",
+                "operating-systems-s3-u1-q9",
+                "operating-systems-s3-u1-q10"
+              ]
             },
             {
               "id": "operating-systems-section-3-unit-1-thread-model-lesson-2",
@@ -644,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Thread model helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-3-unit-2-user-vs-kernel-threads",
@@ -657,7 +903,18 @@
               "unitId": "operating-systems-section-3-unit-2-user-vs-kernel-threads",
               "title": "Learn User vs kernel threads",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s3-u2-q1",
+                "operating-systems-s3-u2-q2",
+                "operating-systems-s3-u2-q3",
+                "operating-systems-s3-u2-q4",
+                "operating-systems-s3-u2-q5",
+                "operating-systems-s3-u2-q6",
+                "operating-systems-s3-u2-q7",
+                "operating-systems-s3-u2-q8",
+                "operating-systems-s3-u2-q9",
+                "operating-systems-s3-u2-q10"
+              ]
             },
             {
               "id": "operating-systems-section-3-unit-2-user-vs-kernel-threads-lesson-2",
@@ -673,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "User vs kernel threads helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-3-unit-3-shared-memory",
@@ -686,7 +944,18 @@
               "unitId": "operating-systems-section-3-unit-3-shared-memory",
               "title": "Learn Shared memory",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s3-u3-q1",
+                "operating-systems-s3-u3-q2",
+                "operating-systems-s3-u3-q3",
+                "operating-systems-s3-u3-q4",
+                "operating-systems-s3-u3-q5",
+                "operating-systems-s3-u3-q6",
+                "operating-systems-s3-u3-q7",
+                "operating-systems-s3-u3-q8",
+                "operating-systems-s3-u3-q9",
+                "operating-systems-s3-u3-q10"
+              ]
             },
             {
               "id": "operating-systems-section-3-unit-3-shared-memory-lesson-2",
@@ -702,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Shared memory helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-3-unit-4-race-conditions",
@@ -715,7 +985,18 @@
               "unitId": "operating-systems-section-3-unit-4-race-conditions",
               "title": "Learn Race conditions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s3-u4-q1",
+                "operating-systems-s3-u4-q2",
+                "operating-systems-s3-u4-q3",
+                "operating-systems-s3-u4-q4",
+                "operating-systems-s3-u4-q5",
+                "operating-systems-s3-u4-q6",
+                "operating-systems-s3-u4-q7",
+                "operating-systems-s3-u4-q8",
+                "operating-systems-s3-u4-q9",
+                "operating-systems-s3-u4-q10"
+              ]
             },
             {
               "id": "operating-systems-section-3-unit-4-race-conditions-lesson-2",
@@ -731,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Race conditions helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-3-unit-5-critical-sections",
@@ -744,7 +1026,18 @@
               "unitId": "operating-systems-section-3-unit-5-critical-sections",
               "title": "Learn Critical sections",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s3-u5-q1",
+                "operating-systems-s3-u5-q2",
+                "operating-systems-s3-u5-q3",
+                "operating-systems-s3-u5-q4",
+                "operating-systems-s3-u5-q5",
+                "operating-systems-s3-u5-q6",
+                "operating-systems-s3-u5-q7",
+                "operating-systems-s3-u5-q8",
+                "operating-systems-s3-u5-q9",
+                "operating-systems-s3-u5-q10"
+              ]
             },
             {
               "id": "operating-systems-section-3-unit-5-critical-sections-lesson-2",
@@ -760,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Critical sections helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-3-unit-6-mutexes",
@@ -773,7 +1067,18 @@
               "unitId": "operating-systems-section-3-unit-6-mutexes",
               "title": "Learn Mutexes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s3-u6-q1",
+                "operating-systems-s3-u6-q2",
+                "operating-systems-s3-u6-q3",
+                "operating-systems-s3-u6-q4",
+                "operating-systems-s3-u6-q5",
+                "operating-systems-s3-u6-q6",
+                "operating-systems-s3-u6-q7",
+                "operating-systems-s3-u6-q8",
+                "operating-systems-s3-u6-q9",
+                "operating-systems-s3-u6-q10"
+              ]
             },
             {
               "id": "operating-systems-section-3-unit-6-mutexes-lesson-2",
@@ -789,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Mutexes helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-3-unit-7-semaphores",
@@ -802,7 +1108,18 @@
               "unitId": "operating-systems-section-3-unit-7-semaphores",
               "title": "Learn Semaphores",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s3-u7-q1",
+                "operating-systems-s3-u7-q2",
+                "operating-systems-s3-u7-q3",
+                "operating-systems-s3-u7-q4",
+                "operating-systems-s3-u7-q5",
+                "operating-systems-s3-u7-q6",
+                "operating-systems-s3-u7-q7",
+                "operating-systems-s3-u7-q8",
+                "operating-systems-s3-u7-q9",
+                "operating-systems-s3-u7-q10"
+              ]
             },
             {
               "id": "operating-systems-section-3-unit-7-semaphores-lesson-2",
@@ -818,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Semaphores helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-3-unit-8-condition-variables",
@@ -831,7 +1149,18 @@
               "unitId": "operating-systems-section-3-unit-8-condition-variables",
               "title": "Learn Condition variables",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s3-u8-q1",
+                "operating-systems-s3-u8-q2",
+                "operating-systems-s3-u8-q3",
+                "operating-systems-s3-u8-q4",
+                "operating-systems-s3-u8-q5",
+                "operating-systems-s3-u8-q6",
+                "operating-systems-s3-u8-q7",
+                "operating-systems-s3-u8-q8",
+                "operating-systems-s3-u8-q9",
+                "operating-systems-s3-u8-q10"
+              ]
             },
             {
               "id": "operating-systems-section-3-unit-8-condition-variables-lesson-2",
@@ -847,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Condition variables helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-3-unit-9-thread-pools",
@@ -860,7 +1190,18 @@
               "unitId": "operating-systems-section-3-unit-9-thread-pools",
               "title": "Learn Thread pools",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s3-u9-q1",
+                "operating-systems-s3-u9-q2",
+                "operating-systems-s3-u9-q3",
+                "operating-systems-s3-u9-q4",
+                "operating-systems-s3-u9-q5",
+                "operating-systems-s3-u9-q6",
+                "operating-systems-s3-u9-q7",
+                "operating-systems-s3-u9-q8",
+                "operating-systems-s3-u9-q9",
+                "operating-systems-s3-u9-q10"
+              ]
             },
             {
               "id": "operating-systems-section-3-unit-9-thread-pools-lesson-2",
@@ -876,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Thread pools helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-3-unit-10-thread-drills",
@@ -889,7 +1231,18 @@
               "unitId": "operating-systems-section-3-unit-10-thread-drills",
               "title": "Learn Thread drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s3-u10-q1",
+                "operating-systems-s3-u10-q2",
+                "operating-systems-s3-u10-q3",
+                "operating-systems-s3-u10-q4",
+                "operating-systems-s3-u10-q5",
+                "operating-systems-s3-u10-q6",
+                "operating-systems-s3-u10-q7",
+                "operating-systems-s3-u10-q8",
+                "operating-systems-s3-u10-q9",
+                "operating-systems-s3-u10-q10"
+              ]
             },
             {
               "id": "operating-systems-section-3-unit-10-thread-drills-lesson-2",
@@ -905,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Thread drills helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         }
       ]
     },
@@ -927,7 +1281,18 @@
               "unitId": "operating-systems-section-4-unit-1-scheduling-goals",
               "title": "Learn Scheduling goals",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s4-u1-q1",
+                "operating-systems-s4-u1-q2",
+                "operating-systems-s4-u1-q3",
+                "operating-systems-s4-u1-q4",
+                "operating-systems-s4-u1-q5",
+                "operating-systems-s4-u1-q6",
+                "operating-systems-s4-u1-q7",
+                "operating-systems-s4-u1-q8",
+                "operating-systems-s4-u1-q9",
+                "operating-systems-s4-u1-q10"
+              ]
             },
             {
               "id": "operating-systems-section-4-unit-1-scheduling-goals-lesson-2",
@@ -943,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Scheduling goals helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-4-unit-2-fcfs",
@@ -956,7 +1322,18 @@
               "unitId": "operating-systems-section-4-unit-2-fcfs",
               "title": "Learn FCFS",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s4-u2-q1",
+                "operating-systems-s4-u2-q2",
+                "operating-systems-s4-u2-q3",
+                "operating-systems-s4-u2-q4",
+                "operating-systems-s4-u2-q5",
+                "operating-systems-s4-u2-q6",
+                "operating-systems-s4-u2-q7",
+                "operating-systems-s4-u2-q8",
+                "operating-systems-s4-u2-q9",
+                "operating-systems-s4-u2-q10"
+              ]
             },
             {
               "id": "operating-systems-section-4-unit-2-fcfs-lesson-2",
@@ -972,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "FCFS helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-4-unit-3-sjf",
@@ -985,7 +1363,18 @@
               "unitId": "operating-systems-section-4-unit-3-sjf",
               "title": "Learn SJF",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s4-u3-q1",
+                "operating-systems-s4-u3-q2",
+                "operating-systems-s4-u3-q3",
+                "operating-systems-s4-u3-q4",
+                "operating-systems-s4-u3-q5",
+                "operating-systems-s4-u3-q6",
+                "operating-systems-s4-u3-q7",
+                "operating-systems-s4-u3-q8",
+                "operating-systems-s4-u3-q9",
+                "operating-systems-s4-u3-q10"
+              ]
             },
             {
               "id": "operating-systems-section-4-unit-3-sjf-lesson-2",
@@ -1001,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "SJF helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-4-unit-4-round-robin",
@@ -1014,7 +1404,18 @@
               "unitId": "operating-systems-section-4-unit-4-round-robin",
               "title": "Learn Round robin",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s4-u4-q1",
+                "operating-systems-s4-u4-q2",
+                "operating-systems-s4-u4-q3",
+                "operating-systems-s4-u4-q4",
+                "operating-systems-s4-u4-q5",
+                "operating-systems-s4-u4-q6",
+                "operating-systems-s4-u4-q7",
+                "operating-systems-s4-u4-q8",
+                "operating-systems-s4-u4-q9",
+                "operating-systems-s4-u4-q10"
+              ]
             },
             {
               "id": "operating-systems-section-4-unit-4-round-robin-lesson-2",
@@ -1030,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Round robin helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-4-unit-5-priority-scheduling",
@@ -1043,7 +1445,18 @@
               "unitId": "operating-systems-section-4-unit-5-priority-scheduling",
               "title": "Learn Priority scheduling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s4-u5-q1",
+                "operating-systems-s4-u5-q2",
+                "operating-systems-s4-u5-q3",
+                "operating-systems-s4-u5-q4",
+                "operating-systems-s4-u5-q5",
+                "operating-systems-s4-u5-q6",
+                "operating-systems-s4-u5-q7",
+                "operating-systems-s4-u5-q8",
+                "operating-systems-s4-u5-q9",
+                "operating-systems-s4-u5-q10"
+              ]
             },
             {
               "id": "operating-systems-section-4-unit-5-priority-scheduling-lesson-2",
@@ -1059,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Priority scheduling helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-4-unit-6-multilevel-queues",
@@ -1072,7 +1486,18 @@
               "unitId": "operating-systems-section-4-unit-6-multilevel-queues",
               "title": "Learn Multilevel queues",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s4-u6-q1",
+                "operating-systems-s4-u6-q2",
+                "operating-systems-s4-u6-q3",
+                "operating-systems-s4-u6-q4",
+                "operating-systems-s4-u6-q5",
+                "operating-systems-s4-u6-q6",
+                "operating-systems-s4-u6-q7",
+                "operating-systems-s4-u6-q8",
+                "operating-systems-s4-u6-q9",
+                "operating-systems-s4-u6-q10"
+              ]
             },
             {
               "id": "operating-systems-section-4-unit-6-multilevel-queues-lesson-2",
@@ -1088,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Multilevel queues helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-4-unit-7-starvation",
@@ -1101,7 +1527,18 @@
               "unitId": "operating-systems-section-4-unit-7-starvation",
               "title": "Learn Starvation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s4-u7-q1",
+                "operating-systems-s4-u7-q2",
+                "operating-systems-s4-u7-q3",
+                "operating-systems-s4-u7-q4",
+                "operating-systems-s4-u7-q5",
+                "operating-systems-s4-u7-q6",
+                "operating-systems-s4-u7-q7",
+                "operating-systems-s4-u7-q8",
+                "operating-systems-s4-u7-q9",
+                "operating-systems-s4-u7-q10"
+              ]
             },
             {
               "id": "operating-systems-section-4-unit-7-starvation-lesson-2",
@@ -1117,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Starvation helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-4-unit-8-aging",
@@ -1130,7 +1568,18 @@
               "unitId": "operating-systems-section-4-unit-8-aging",
               "title": "Learn Aging",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s4-u8-q1",
+                "operating-systems-s4-u8-q2",
+                "operating-systems-s4-u8-q3",
+                "operating-systems-s4-u8-q4",
+                "operating-systems-s4-u8-q5",
+                "operating-systems-s4-u8-q6",
+                "operating-systems-s4-u8-q7",
+                "operating-systems-s4-u8-q8",
+                "operating-systems-s4-u8-q9",
+                "operating-systems-s4-u8-q10"
+              ]
             },
             {
               "id": "operating-systems-section-4-unit-8-aging-lesson-2",
@@ -1146,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Aging helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-4-unit-9-realtime-scheduling",
@@ -1159,7 +1609,18 @@
               "unitId": "operating-systems-section-4-unit-9-realtime-scheduling",
               "title": "Learn Realtime scheduling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s4-u9-q1",
+                "operating-systems-s4-u9-q2",
+                "operating-systems-s4-u9-q3",
+                "operating-systems-s4-u9-q4",
+                "operating-systems-s4-u9-q5",
+                "operating-systems-s4-u9-q6",
+                "operating-systems-s4-u9-q7",
+                "operating-systems-s4-u9-q8",
+                "operating-systems-s4-u9-q9",
+                "operating-systems-s4-u9-q10"
+              ]
             },
             {
               "id": "operating-systems-section-4-unit-9-realtime-scheduling-lesson-2",
@@ -1175,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Realtime scheduling helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-4-unit-10-scheduling-comparison",
@@ -1188,7 +1650,18 @@
               "unitId": "operating-systems-section-4-unit-10-scheduling-comparison",
               "title": "Learn Scheduling comparison",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s4-u10-q1",
+                "operating-systems-s4-u10-q2",
+                "operating-systems-s4-u10-q3",
+                "operating-systems-s4-u10-q4",
+                "operating-systems-s4-u10-q5",
+                "operating-systems-s4-u10-q6",
+                "operating-systems-s4-u10-q7",
+                "operating-systems-s4-u10-q8",
+                "operating-systems-s4-u10-q9",
+                "operating-systems-s4-u10-q10"
+              ]
             },
             {
               "id": "operating-systems-section-4-unit-10-scheduling-comparison-lesson-2",
@@ -1204,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Scheduling comparison helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         }
       ]
     },
@@ -1226,7 +1700,18 @@
               "unitId": "operating-systems-section-5-unit-1-address-spaces",
               "title": "Learn Address spaces",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s5-u1-q1",
+                "operating-systems-s5-u1-q2",
+                "operating-systems-s5-u1-q3",
+                "operating-systems-s5-u1-q4",
+                "operating-systems-s5-u1-q5",
+                "operating-systems-s5-u1-q6",
+                "operating-systems-s5-u1-q7",
+                "operating-systems-s5-u1-q8",
+                "operating-systems-s5-u1-q9",
+                "operating-systems-s5-u1-q10"
+              ]
             },
             {
               "id": "operating-systems-section-5-unit-1-address-spaces-lesson-2",
@@ -1242,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Address spaces helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-5-unit-2-stack-and-heap",
@@ -1255,7 +1741,18 @@
               "unitId": "operating-systems-section-5-unit-2-stack-and-heap",
               "title": "Learn Stack and heap",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s5-u2-q1",
+                "operating-systems-s5-u2-q2",
+                "operating-systems-s5-u2-q3",
+                "operating-systems-s5-u2-q4",
+                "operating-systems-s5-u2-q5",
+                "operating-systems-s5-u2-q6",
+                "operating-systems-s5-u2-q7",
+                "operating-systems-s5-u2-q8",
+                "operating-systems-s5-u2-q9",
+                "operating-systems-s5-u2-q10"
+              ]
             },
             {
               "id": "operating-systems-section-5-unit-2-stack-and-heap-lesson-2",
@@ -1271,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Stack and heap helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-5-unit-3-paging",
@@ -1284,7 +1782,18 @@
               "unitId": "operating-systems-section-5-unit-3-paging",
               "title": "Learn Paging",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s5-u3-q1",
+                "operating-systems-s5-u3-q2",
+                "operating-systems-s5-u3-q3",
+                "operating-systems-s5-u3-q4",
+                "operating-systems-s5-u3-q5",
+                "operating-systems-s5-u3-q6",
+                "operating-systems-s5-u3-q7",
+                "operating-systems-s5-u3-q8",
+                "operating-systems-s5-u3-q9",
+                "operating-systems-s5-u3-q10"
+              ]
             },
             {
               "id": "operating-systems-section-5-unit-3-paging-lesson-2",
@@ -1300,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Paging helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-5-unit-4-page-tables",
@@ -1313,7 +1823,18 @@
               "unitId": "operating-systems-section-5-unit-4-page-tables",
               "title": "Learn Page tables",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s5-u4-q1",
+                "operating-systems-s5-u4-q2",
+                "operating-systems-s5-u4-q3",
+                "operating-systems-s5-u4-q4",
+                "operating-systems-s5-u4-q5",
+                "operating-systems-s5-u4-q6",
+                "operating-systems-s5-u4-q7",
+                "operating-systems-s5-u4-q8",
+                "operating-systems-s5-u4-q9",
+                "operating-systems-s5-u4-q10"
+              ]
             },
             {
               "id": "operating-systems-section-5-unit-4-page-tables-lesson-2",
@@ -1329,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Page tables helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-5-unit-5-tlb-concept",
@@ -1342,7 +1864,18 @@
               "unitId": "operating-systems-section-5-unit-5-tlb-concept",
               "title": "Learn TLB concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s5-u5-q1",
+                "operating-systems-s5-u5-q2",
+                "operating-systems-s5-u5-q3",
+                "operating-systems-s5-u5-q4",
+                "operating-systems-s5-u5-q5",
+                "operating-systems-s5-u5-q6",
+                "operating-systems-s5-u5-q7",
+                "operating-systems-s5-u5-q8",
+                "operating-systems-s5-u5-q9",
+                "operating-systems-s5-u5-q10"
+              ]
             },
             {
               "id": "operating-systems-section-5-unit-5-tlb-concept-lesson-2",
@@ -1358,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "TLB concept helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-5-unit-6-segmentation-concept",
@@ -1371,7 +1905,18 @@
               "unitId": "operating-systems-section-5-unit-6-segmentation-concept",
               "title": "Learn Segmentation concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s5-u6-q1",
+                "operating-systems-s5-u6-q2",
+                "operating-systems-s5-u6-q3",
+                "operating-systems-s5-u6-q4",
+                "operating-systems-s5-u6-q5",
+                "operating-systems-s5-u6-q6",
+                "operating-systems-s5-u6-q7",
+                "operating-systems-s5-u6-q8",
+                "operating-systems-s5-u6-q9",
+                "operating-systems-s5-u6-q10"
+              ]
             },
             {
               "id": "operating-systems-section-5-unit-6-segmentation-concept-lesson-2",
@@ -1387,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Segmentation concept helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-5-unit-7-virtual-memory",
@@ -1400,7 +1946,18 @@
               "unitId": "operating-systems-section-5-unit-7-virtual-memory",
               "title": "Learn Virtual memory",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s5-u7-q1",
+                "operating-systems-s5-u7-q2",
+                "operating-systems-s5-u7-q3",
+                "operating-systems-s5-u7-q4",
+                "operating-systems-s5-u7-q5",
+                "operating-systems-s5-u7-q6",
+                "operating-systems-s5-u7-q7",
+                "operating-systems-s5-u7-q8",
+                "operating-systems-s5-u7-q9",
+                "operating-systems-s5-u7-q10"
+              ]
             },
             {
               "id": "operating-systems-section-5-unit-7-virtual-memory-lesson-2",
@@ -1416,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Virtual memory helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-5-unit-8-page-faults",
@@ -1429,7 +1987,18 @@
               "unitId": "operating-systems-section-5-unit-8-page-faults",
               "title": "Learn Page faults",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s5-u8-q1",
+                "operating-systems-s5-u8-q2",
+                "operating-systems-s5-u8-q3",
+                "operating-systems-s5-u8-q4",
+                "operating-systems-s5-u8-q5",
+                "operating-systems-s5-u8-q6",
+                "operating-systems-s5-u8-q7",
+                "operating-systems-s5-u8-q8",
+                "operating-systems-s5-u8-q9",
+                "operating-systems-s5-u8-q10"
+              ]
             },
             {
               "id": "operating-systems-section-5-unit-8-page-faults-lesson-2",
@@ -1445,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Page faults helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-5-unit-9-replacement-policies",
@@ -1458,7 +2028,18 @@
               "unitId": "operating-systems-section-5-unit-9-replacement-policies",
               "title": "Learn Replacement policies",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s5-u9-q1",
+                "operating-systems-s5-u9-q2",
+                "operating-systems-s5-u9-q3",
+                "operating-systems-s5-u9-q4",
+                "operating-systems-s5-u9-q5",
+                "operating-systems-s5-u9-q6",
+                "operating-systems-s5-u9-q7",
+                "operating-systems-s5-u9-q8",
+                "operating-systems-s5-u9-q9",
+                "operating-systems-s5-u9-q10"
+              ]
             },
             {
               "id": "operating-systems-section-5-unit-9-replacement-policies-lesson-2",
@@ -1474,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Replacement policies helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-5-unit-10-memory-drills",
@@ -1487,7 +2069,18 @@
               "unitId": "operating-systems-section-5-unit-10-memory-drills",
               "title": "Learn Memory drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s5-u10-q1",
+                "operating-systems-s5-u10-q2",
+                "operating-systems-s5-u10-q3",
+                "operating-systems-s5-u10-q4",
+                "operating-systems-s5-u10-q5",
+                "operating-systems-s5-u10-q6",
+                "operating-systems-s5-u10-q7",
+                "operating-systems-s5-u10-q8",
+                "operating-systems-s5-u10-q9",
+                "operating-systems-s5-u10-q10"
+              ]
             },
             {
               "id": "operating-systems-section-5-unit-10-memory-drills-lesson-2",
@@ -1503,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Memory drills helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         }
       ]
     },
@@ -1525,7 +2119,18 @@
               "unitId": "operating-systems-section-6-unit-1-deadlock-definition",
               "title": "Learn Deadlock definition",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s6-u1-q1",
+                "operating-systems-s6-u1-q2",
+                "operating-systems-s6-u1-q3",
+                "operating-systems-s6-u1-q4",
+                "operating-systems-s6-u1-q5",
+                "operating-systems-s6-u1-q6",
+                "operating-systems-s6-u1-q7",
+                "operating-systems-s6-u1-q8",
+                "operating-systems-s6-u1-q9",
+                "operating-systems-s6-u1-q10"
+              ]
             },
             {
               "id": "operating-systems-section-6-unit-1-deadlock-definition-lesson-2",
@@ -1541,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Deadlock definition helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-6-unit-2-necessary-conditions",
@@ -1554,7 +2160,18 @@
               "unitId": "operating-systems-section-6-unit-2-necessary-conditions",
               "title": "Learn Necessary conditions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s6-u2-q1",
+                "operating-systems-s6-u2-q2",
+                "operating-systems-s6-u2-q3",
+                "operating-systems-s6-u2-q4",
+                "operating-systems-s6-u2-q5",
+                "operating-systems-s6-u2-q6",
+                "operating-systems-s6-u2-q7",
+                "operating-systems-s6-u2-q8",
+                "operating-systems-s6-u2-q9",
+                "operating-systems-s6-u2-q10"
+              ]
             },
             {
               "id": "operating-systems-section-6-unit-2-necessary-conditions-lesson-2",
@@ -1570,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Necessary conditions helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-6-unit-3-resource-allocation-graph",
@@ -1583,7 +2201,18 @@
               "unitId": "operating-systems-section-6-unit-3-resource-allocation-graph",
               "title": "Learn Resource allocation graph",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s6-u3-q1",
+                "operating-systems-s6-u3-q2",
+                "operating-systems-s6-u3-q3",
+                "operating-systems-s6-u3-q4",
+                "operating-systems-s6-u3-q5",
+                "operating-systems-s6-u3-q6",
+                "operating-systems-s6-u3-q7",
+                "operating-systems-s6-u3-q8",
+                "operating-systems-s6-u3-q9",
+                "operating-systems-s6-u3-q10"
+              ]
             },
             {
               "id": "operating-systems-section-6-unit-3-resource-allocation-graph-lesson-2",
@@ -1599,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Resource allocation graph helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-6-unit-4-deadlock-prevention",
@@ -1612,7 +2242,18 @@
               "unitId": "operating-systems-section-6-unit-4-deadlock-prevention",
               "title": "Learn Deadlock prevention",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s6-u4-q1",
+                "operating-systems-s6-u4-q2",
+                "operating-systems-s6-u4-q3",
+                "operating-systems-s6-u4-q4",
+                "operating-systems-s6-u4-q5",
+                "operating-systems-s6-u4-q6",
+                "operating-systems-s6-u4-q7",
+                "operating-systems-s6-u4-q8",
+                "operating-systems-s6-u4-q9",
+                "operating-systems-s6-u4-q10"
+              ]
             },
             {
               "id": "operating-systems-section-6-unit-4-deadlock-prevention-lesson-2",
@@ -1628,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Deadlock prevention helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-6-unit-5-deadlock-avoidance",
@@ -1641,7 +2283,18 @@
               "unitId": "operating-systems-section-6-unit-5-deadlock-avoidance",
               "title": "Learn Deadlock avoidance",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s6-u5-q1",
+                "operating-systems-s6-u5-q2",
+                "operating-systems-s6-u5-q3",
+                "operating-systems-s6-u5-q4",
+                "operating-systems-s6-u5-q5",
+                "operating-systems-s6-u5-q6",
+                "operating-systems-s6-u5-q7",
+                "operating-systems-s6-u5-q8",
+                "operating-systems-s6-u5-q9",
+                "operating-systems-s6-u5-q10"
+              ]
             },
             {
               "id": "operating-systems-section-6-unit-5-deadlock-avoidance-lesson-2",
@@ -1657,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Deadlock avoidance helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-6-unit-6-banker-s-algorithm-concept",
@@ -1670,7 +2324,18 @@
               "unitId": "operating-systems-section-6-unit-6-banker-s-algorithm-concept",
               "title": "Learn Banker's algorithm concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s6-u6-q1",
+                "operating-systems-s6-u6-q2",
+                "operating-systems-s6-u6-q3",
+                "operating-systems-s6-u6-q4",
+                "operating-systems-s6-u6-q5",
+                "operating-systems-s6-u6-q6",
+                "operating-systems-s6-u6-q7",
+                "operating-systems-s6-u6-q8",
+                "operating-systems-s6-u6-q9",
+                "operating-systems-s6-u6-q10"
+              ]
             },
             {
               "id": "operating-systems-section-6-unit-6-banker-s-algorithm-concept-lesson-2",
@@ -1686,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Banker's algorithm concept helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-6-unit-7-deadlock-detection",
@@ -1699,7 +2365,18 @@
               "unitId": "operating-systems-section-6-unit-7-deadlock-detection",
               "title": "Learn Deadlock detection",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s6-u7-q1",
+                "operating-systems-s6-u7-q2",
+                "operating-systems-s6-u7-q3",
+                "operating-systems-s6-u7-q4",
+                "operating-systems-s6-u7-q5",
+                "operating-systems-s6-u7-q6",
+                "operating-systems-s6-u7-q7",
+                "operating-systems-s6-u7-q8",
+                "operating-systems-s6-u7-q9",
+                "operating-systems-s6-u7-q10"
+              ]
             },
             {
               "id": "operating-systems-section-6-unit-7-deadlock-detection-lesson-2",
@@ -1715,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Deadlock detection helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-6-unit-8-recovery",
@@ -1728,7 +2406,18 @@
               "unitId": "operating-systems-section-6-unit-8-recovery",
               "title": "Learn Recovery",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s6-u8-q1",
+                "operating-systems-s6-u8-q2",
+                "operating-systems-s6-u8-q3",
+                "operating-systems-s6-u8-q4",
+                "operating-systems-s6-u8-q5",
+                "operating-systems-s6-u8-q6",
+                "operating-systems-s6-u8-q7",
+                "operating-systems-s6-u8-q8",
+                "operating-systems-s6-u8-q9",
+                "operating-systems-s6-u8-q10"
+              ]
             },
             {
               "id": "operating-systems-section-6-unit-8-recovery-lesson-2",
@@ -1744,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Recovery helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-6-unit-9-livelock",
@@ -1757,7 +2447,18 @@
               "unitId": "operating-systems-section-6-unit-9-livelock",
               "title": "Learn Livelock",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s6-u9-q1",
+                "operating-systems-s6-u9-q2",
+                "operating-systems-s6-u9-q3",
+                "operating-systems-s6-u9-q4",
+                "operating-systems-s6-u9-q5",
+                "operating-systems-s6-u9-q6",
+                "operating-systems-s6-u9-q7",
+                "operating-systems-s6-u9-q8",
+                "operating-systems-s6-u9-q9",
+                "operating-systems-s6-u9-q10"
+              ]
             },
             {
               "id": "operating-systems-section-6-unit-9-livelock-lesson-2",
@@ -1773,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Livelock helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-6-unit-10-deadlock-drills",
@@ -1786,7 +2488,18 @@
               "unitId": "operating-systems-section-6-unit-10-deadlock-drills",
               "title": "Learn Deadlock drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s6-u10-q1",
+                "operating-systems-s6-u10-q2",
+                "operating-systems-s6-u10-q3",
+                "operating-systems-s6-u10-q4",
+                "operating-systems-s6-u10-q5",
+                "operating-systems-s6-u10-q6",
+                "operating-systems-s6-u10-q7",
+                "operating-systems-s6-u10-q8",
+                "operating-systems-s6-u10-q9",
+                "operating-systems-s6-u10-q10"
+              ]
             },
             {
               "id": "operating-systems-section-6-unit-10-deadlock-drills-lesson-2",
@@ -1802,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Deadlock drills helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         }
       ]
     },
@@ -1824,7 +2538,18 @@
               "unitId": "operating-systems-section-7-unit-1-files-and-directories",
               "title": "Learn Files and directories",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s7-u1-q1",
+                "operating-systems-s7-u1-q2",
+                "operating-systems-s7-u1-q3",
+                "operating-systems-s7-u1-q4",
+                "operating-systems-s7-u1-q5",
+                "operating-systems-s7-u1-q6",
+                "operating-systems-s7-u1-q7",
+                "operating-systems-s7-u1-q8",
+                "operating-systems-s7-u1-q9",
+                "operating-systems-s7-u1-q10"
+              ]
             },
             {
               "id": "operating-systems-section-7-unit-1-files-and-directories-lesson-2",
@@ -1840,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Files and directories helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-7-unit-2-inodes-concept",
@@ -1853,7 +2579,18 @@
               "unitId": "operating-systems-section-7-unit-2-inodes-concept",
               "title": "Learn Inodes concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s7-u2-q1",
+                "operating-systems-s7-u2-q2",
+                "operating-systems-s7-u2-q3",
+                "operating-systems-s7-u2-q4",
+                "operating-systems-s7-u2-q5",
+                "operating-systems-s7-u2-q6",
+                "operating-systems-s7-u2-q7",
+                "operating-systems-s7-u2-q8",
+                "operating-systems-s7-u2-q9",
+                "operating-systems-s7-u2-q10"
+              ]
             },
             {
               "id": "operating-systems-section-7-unit-2-inodes-concept-lesson-2",
@@ -1869,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Inodes concept helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-7-unit-3-blocks",
@@ -1882,7 +2620,18 @@
               "unitId": "operating-systems-section-7-unit-3-blocks",
               "title": "Learn Blocks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s7-u3-q1",
+                "operating-systems-s7-u3-q2",
+                "operating-systems-s7-u3-q3",
+                "operating-systems-s7-u3-q4",
+                "operating-systems-s7-u3-q5",
+                "operating-systems-s7-u3-q6",
+                "operating-systems-s7-u3-q7",
+                "operating-systems-s7-u3-q8",
+                "operating-systems-s7-u3-q9",
+                "operating-systems-s7-u3-q10"
+              ]
             },
             {
               "id": "operating-systems-section-7-unit-3-blocks-lesson-2",
@@ -1898,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Blocks helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-7-unit-4-permissions",
@@ -1911,7 +2661,18 @@
               "unitId": "operating-systems-section-7-unit-4-permissions",
               "title": "Learn Permissions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s7-u4-q1",
+                "operating-systems-s7-u4-q2",
+                "operating-systems-s7-u4-q3",
+                "operating-systems-s7-u4-q4",
+                "operating-systems-s7-u4-q5",
+                "operating-systems-s7-u4-q6",
+                "operating-systems-s7-u4-q7",
+                "operating-systems-s7-u4-q8",
+                "operating-systems-s7-u4-q9",
+                "operating-systems-s7-u4-q10"
+              ]
             },
             {
               "id": "operating-systems-section-7-unit-4-permissions-lesson-2",
@@ -1927,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Permissions helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-7-unit-5-links",
@@ -1940,7 +2702,18 @@
               "unitId": "operating-systems-section-7-unit-5-links",
               "title": "Learn Links",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s7-u5-q1",
+                "operating-systems-s7-u5-q2",
+                "operating-systems-s7-u5-q3",
+                "operating-systems-s7-u5-q4",
+                "operating-systems-s7-u5-q5",
+                "operating-systems-s7-u5-q6",
+                "operating-systems-s7-u5-q7",
+                "operating-systems-s7-u5-q8",
+                "operating-systems-s7-u5-q9",
+                "operating-systems-s7-u5-q10"
+              ]
             },
             {
               "id": "operating-systems-section-7-unit-5-links-lesson-2",
@@ -1956,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Links helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-7-unit-6-mounting",
@@ -1969,7 +2743,18 @@
               "unitId": "operating-systems-section-7-unit-6-mounting",
               "title": "Learn Mounting",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s7-u6-q1",
+                "operating-systems-s7-u6-q2",
+                "operating-systems-s7-u6-q3",
+                "operating-systems-s7-u6-q4",
+                "operating-systems-s7-u6-q5",
+                "operating-systems-s7-u6-q6",
+                "operating-systems-s7-u6-q7",
+                "operating-systems-s7-u6-q8",
+                "operating-systems-s7-u6-q9",
+                "operating-systems-s7-u6-q10"
+              ]
             },
             {
               "id": "operating-systems-section-7-unit-6-mounting-lesson-2",
@@ -1985,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Mounting helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-7-unit-7-journaling",
@@ -1998,7 +2784,18 @@
               "unitId": "operating-systems-section-7-unit-7-journaling",
               "title": "Learn Journaling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s7-u7-q1",
+                "operating-systems-s7-u7-q2",
+                "operating-systems-s7-u7-q3",
+                "operating-systems-s7-u7-q4",
+                "operating-systems-s7-u7-q5",
+                "operating-systems-s7-u7-q6",
+                "operating-systems-s7-u7-q7",
+                "operating-systems-s7-u7-q8",
+                "operating-systems-s7-u7-q9",
+                "operating-systems-s7-u7-q10"
+              ]
             },
             {
               "id": "operating-systems-section-7-unit-7-journaling-lesson-2",
@@ -2014,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Journaling helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-7-unit-8-caching",
@@ -2027,7 +2825,18 @@
               "unitId": "operating-systems-section-7-unit-8-caching",
               "title": "Learn Caching",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s7-u8-q1",
+                "operating-systems-s7-u8-q2",
+                "operating-systems-s7-u8-q3",
+                "operating-systems-s7-u8-q4",
+                "operating-systems-s7-u8-q5",
+                "operating-systems-s7-u8-q6",
+                "operating-systems-s7-u8-q7",
+                "operating-systems-s7-u8-q8",
+                "operating-systems-s7-u8-q9",
+                "operating-systems-s7-u8-q10"
+              ]
             },
             {
               "id": "operating-systems-section-7-unit-8-caching-lesson-2",
@@ -2043,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Caching helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-7-unit-9-path-resolution",
@@ -2056,7 +2866,18 @@
               "unitId": "operating-systems-section-7-unit-9-path-resolution",
               "title": "Learn Path resolution",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s7-u9-q1",
+                "operating-systems-s7-u9-q2",
+                "operating-systems-s7-u9-q3",
+                "operating-systems-s7-u9-q4",
+                "operating-systems-s7-u9-q5",
+                "operating-systems-s7-u9-q6",
+                "operating-systems-s7-u9-q7",
+                "operating-systems-s7-u9-q8",
+                "operating-systems-s7-u9-q9",
+                "operating-systems-s7-u9-q10"
+              ]
             },
             {
               "id": "operating-systems-section-7-unit-9-path-resolution-lesson-2",
@@ -2072,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Path resolution helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-7-unit-10-file-system-drills",
@@ -2085,7 +2907,18 @@
               "unitId": "operating-systems-section-7-unit-10-file-system-drills",
               "title": "Learn File system drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s7-u10-q1",
+                "operating-systems-s7-u10-q2",
+                "operating-systems-s7-u10-q3",
+                "operating-systems-s7-u10-q4",
+                "operating-systems-s7-u10-q5",
+                "operating-systems-s7-u10-q6",
+                "operating-systems-s7-u10-q7",
+                "operating-systems-s7-u10-q8",
+                "operating-systems-s7-u10-q9",
+                "operating-systems-s7-u10-q10"
+              ]
             },
             {
               "id": "operating-systems-section-7-unit-10-file-system-drills-lesson-2",
@@ -2101,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "File system drills helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         }
       ]
     },
@@ -2123,7 +2957,18 @@
               "unitId": "operating-systems-section-8-unit-1-device-drivers",
               "title": "Learn Device drivers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s8-u1-q1",
+                "operating-systems-s8-u1-q2",
+                "operating-systems-s8-u1-q3",
+                "operating-systems-s8-u1-q4",
+                "operating-systems-s8-u1-q5",
+                "operating-systems-s8-u1-q6",
+                "operating-systems-s8-u1-q7",
+                "operating-systems-s8-u1-q8",
+                "operating-systems-s8-u1-q9",
+                "operating-systems-s8-u1-q10"
+              ]
             },
             {
               "id": "operating-systems-section-8-unit-1-device-drivers-lesson-2",
@@ -2139,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Device drivers helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-8-unit-2-polling-vs-interrupts",
@@ -2152,7 +2998,18 @@
               "unitId": "operating-systems-section-8-unit-2-polling-vs-interrupts",
               "title": "Learn Polling vs interrupts",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s8-u2-q1",
+                "operating-systems-s8-u2-q2",
+                "operating-systems-s8-u2-q3",
+                "operating-systems-s8-u2-q4",
+                "operating-systems-s8-u2-q5",
+                "operating-systems-s8-u2-q6",
+                "operating-systems-s8-u2-q7",
+                "operating-systems-s8-u2-q8",
+                "operating-systems-s8-u2-q9",
+                "operating-systems-s8-u2-q10"
+              ]
             },
             {
               "id": "operating-systems-section-8-unit-2-polling-vs-interrupts-lesson-2",
@@ -2168,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Polling vs interrupts helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-8-unit-3-dma-concept",
@@ -2181,7 +3039,18 @@
               "unitId": "operating-systems-section-8-unit-3-dma-concept",
               "title": "Learn DMA concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s8-u3-q1",
+                "operating-systems-s8-u3-q2",
+                "operating-systems-s8-u3-q3",
+                "operating-systems-s8-u3-q4",
+                "operating-systems-s8-u3-q5",
+                "operating-systems-s8-u3-q6",
+                "operating-systems-s8-u3-q7",
+                "operating-systems-s8-u3-q8",
+                "operating-systems-s8-u3-q9",
+                "operating-systems-s8-u3-q10"
+              ]
             },
             {
               "id": "operating-systems-section-8-unit-3-dma-concept-lesson-2",
@@ -2197,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DMA concept helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-8-unit-4-disk-scheduling",
@@ -2210,7 +3080,18 @@
               "unitId": "operating-systems-section-8-unit-4-disk-scheduling",
               "title": "Learn Disk scheduling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s8-u4-q1",
+                "operating-systems-s8-u4-q2",
+                "operating-systems-s8-u4-q3",
+                "operating-systems-s8-u4-q4",
+                "operating-systems-s8-u4-q5",
+                "operating-systems-s8-u4-q6",
+                "operating-systems-s8-u4-q7",
+                "operating-systems-s8-u4-q8",
+                "operating-systems-s8-u4-q9",
+                "operating-systems-s8-u4-q10"
+              ]
             },
             {
               "id": "operating-systems-section-8-unit-4-disk-scheduling-lesson-2",
@@ -2226,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Disk scheduling helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-8-unit-5-buffering",
@@ -2239,7 +3121,18 @@
               "unitId": "operating-systems-section-8-unit-5-buffering",
               "title": "Learn Buffering",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s8-u5-q1",
+                "operating-systems-s8-u5-q2",
+                "operating-systems-s8-u5-q3",
+                "operating-systems-s8-u5-q4",
+                "operating-systems-s8-u5-q5",
+                "operating-systems-s8-u5-q6",
+                "operating-systems-s8-u5-q7",
+                "operating-systems-s8-u5-q8",
+                "operating-systems-s8-u5-q9",
+                "operating-systems-s8-u5-q10"
+              ]
             },
             {
               "id": "operating-systems-section-8-unit-5-buffering-lesson-2",
@@ -2255,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Buffering helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-8-unit-6-spooling",
@@ -2268,7 +3162,18 @@
               "unitId": "operating-systems-section-8-unit-6-spooling",
               "title": "Learn Spooling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s8-u6-q1",
+                "operating-systems-s8-u6-q2",
+                "operating-systems-s8-u6-q3",
+                "operating-systems-s8-u6-q4",
+                "operating-systems-s8-u6-q5",
+                "operating-systems-s8-u6-q6",
+                "operating-systems-s8-u6-q7",
+                "operating-systems-s8-u6-q8",
+                "operating-systems-s8-u6-q9",
+                "operating-systems-s8-u6-q10"
+              ]
             },
             {
               "id": "operating-systems-section-8-unit-6-spooling-lesson-2",
@@ -2284,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Spooling helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-8-unit-7-terminal-io",
@@ -2297,7 +3203,18 @@
               "unitId": "operating-systems-section-8-unit-7-terminal-io",
               "title": "Learn Terminal IO",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s8-u7-q1",
+                "operating-systems-s8-u7-q2",
+                "operating-systems-s8-u7-q3",
+                "operating-systems-s8-u7-q4",
+                "operating-systems-s8-u7-q5",
+                "operating-systems-s8-u7-q6",
+                "operating-systems-s8-u7-q7",
+                "operating-systems-s8-u7-q8",
+                "operating-systems-s8-u7-q9",
+                "operating-systems-s8-u7-q10"
+              ]
             },
             {
               "id": "operating-systems-section-8-unit-7-terminal-io-lesson-2",
@@ -2313,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Terminal IO helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-8-unit-8-network-io",
@@ -2326,7 +3244,18 @@
               "unitId": "operating-systems-section-8-unit-8-network-io",
               "title": "Learn Network IO",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s8-u8-q1",
+                "operating-systems-s8-u8-q2",
+                "operating-systems-s8-u8-q3",
+                "operating-systems-s8-u8-q4",
+                "operating-systems-s8-u8-q5",
+                "operating-systems-s8-u8-q6",
+                "operating-systems-s8-u8-q7",
+                "operating-systems-s8-u8-q8",
+                "operating-systems-s8-u8-q9",
+                "operating-systems-s8-u8-q10"
+              ]
             },
             {
               "id": "operating-systems-section-8-unit-8-network-io-lesson-2",
@@ -2342,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Network IO helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-8-unit-9-device-files",
@@ -2355,7 +3285,18 @@
               "unitId": "operating-systems-section-8-unit-9-device-files",
               "title": "Learn Device files",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s8-u9-q1",
+                "operating-systems-s8-u9-q2",
+                "operating-systems-s8-u9-q3",
+                "operating-systems-s8-u9-q4",
+                "operating-systems-s8-u9-q5",
+                "operating-systems-s8-u9-q6",
+                "operating-systems-s8-u9-q7",
+                "operating-systems-s8-u9-q8",
+                "operating-systems-s8-u9-q9",
+                "operating-systems-s8-u9-q10"
+              ]
             },
             {
               "id": "operating-systems-section-8-unit-9-device-files-lesson-2",
@@ -2371,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Device files helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-8-unit-10-i-o-project",
@@ -2384,7 +3326,18 @@
               "unitId": "operating-systems-section-8-unit-10-i-o-project",
               "title": "Learn I/O project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s8-u10-q1",
+                "operating-systems-s8-u10-q2",
+                "operating-systems-s8-u10-q3",
+                "operating-systems-s8-u10-q4",
+                "operating-systems-s8-u10-q5",
+                "operating-systems-s8-u10-q6",
+                "operating-systems-s8-u10-q7",
+                "operating-systems-s8-u10-q8",
+                "operating-systems-s8-u10-q9",
+                "operating-systems-s8-u10-q10"
+              ]
             },
             {
               "id": "operating-systems-section-8-unit-10-i-o-project-lesson-2",
@@ -2400,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "I/O project helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         }
       ]
     },
@@ -2422,7 +3376,18 @@
               "unitId": "operating-systems-section-9-unit-1-access-control",
               "title": "Learn Access control",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s9-u1-q1",
+                "operating-systems-s9-u1-q2",
+                "operating-systems-s9-u1-q3",
+                "operating-systems-s9-u1-q4",
+                "operating-systems-s9-u1-q5",
+                "operating-systems-s9-u1-q6",
+                "operating-systems-s9-u1-q7",
+                "operating-systems-s9-u1-q8",
+                "operating-systems-s9-u1-q9",
+                "operating-systems-s9-u1-q10"
+              ]
             },
             {
               "id": "operating-systems-section-9-unit-1-access-control-lesson-2",
@@ -2438,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Access control helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-9-unit-2-users-and-groups",
@@ -2451,7 +3417,18 @@
               "unitId": "operating-systems-section-9-unit-2-users-and-groups",
               "title": "Learn Users and groups",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s9-u2-q1",
+                "operating-systems-s9-u2-q2",
+                "operating-systems-s9-u2-q3",
+                "operating-systems-s9-u2-q4",
+                "operating-systems-s9-u2-q5",
+                "operating-systems-s9-u2-q6",
+                "operating-systems-s9-u2-q7",
+                "operating-systems-s9-u2-q8",
+                "operating-systems-s9-u2-q9",
+                "operating-systems-s9-u2-q10"
+              ]
             },
             {
               "id": "operating-systems-section-9-unit-2-users-and-groups-lesson-2",
@@ -2467,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Users and groups helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-9-unit-3-permissions-model",
@@ -2480,7 +3458,18 @@
               "unitId": "operating-systems-section-9-unit-3-permissions-model",
               "title": "Learn Permissions model",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s9-u3-q1",
+                "operating-systems-s9-u3-q2",
+                "operating-systems-s9-u3-q3",
+                "operating-systems-s9-u3-q4",
+                "operating-systems-s9-u3-q5",
+                "operating-systems-s9-u3-q6",
+                "operating-systems-s9-u3-q7",
+                "operating-systems-s9-u3-q8",
+                "operating-systems-s9-u3-q9",
+                "operating-systems-s9-u3-q10"
+              ]
             },
             {
               "id": "operating-systems-section-9-unit-3-permissions-model-lesson-2",
@@ -2496,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Permissions model helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-9-unit-4-capabilities-concept",
@@ -2509,7 +3499,18 @@
               "unitId": "operating-systems-section-9-unit-4-capabilities-concept",
               "title": "Learn Capabilities concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s9-u4-q1",
+                "operating-systems-s9-u4-q2",
+                "operating-systems-s9-u4-q3",
+                "operating-systems-s9-u4-q4",
+                "operating-systems-s9-u4-q5",
+                "operating-systems-s9-u4-q6",
+                "operating-systems-s9-u4-q7",
+                "operating-systems-s9-u4-q8",
+                "operating-systems-s9-u4-q9",
+                "operating-systems-s9-u4-q10"
+              ]
             },
             {
               "id": "operating-systems-section-9-unit-4-capabilities-concept-lesson-2",
@@ -2525,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Capabilities concept helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-9-unit-5-sandboxing",
@@ -2538,7 +3540,18 @@
               "unitId": "operating-systems-section-9-unit-5-sandboxing",
               "title": "Learn Sandboxing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s9-u5-q1",
+                "operating-systems-s9-u5-q2",
+                "operating-systems-s9-u5-q3",
+                "operating-systems-s9-u5-q4",
+                "operating-systems-s9-u5-q5",
+                "operating-systems-s9-u5-q6",
+                "operating-systems-s9-u5-q7",
+                "operating-systems-s9-u5-q8",
+                "operating-systems-s9-u5-q9",
+                "operating-systems-s9-u5-q10"
+              ]
             },
             {
               "id": "operating-systems-section-9-unit-5-sandboxing-lesson-2",
@@ -2554,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sandboxing helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-9-unit-6-process-isolation",
@@ -2567,7 +3581,18 @@
               "unitId": "operating-systems-section-9-unit-6-process-isolation",
               "title": "Learn Process isolation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s9-u6-q1",
+                "operating-systems-s9-u6-q2",
+                "operating-systems-s9-u6-q3",
+                "operating-systems-s9-u6-q4",
+                "operating-systems-s9-u6-q5",
+                "operating-systems-s9-u6-q6",
+                "operating-systems-s9-u6-q7",
+                "operating-systems-s9-u6-q8",
+                "operating-systems-s9-u6-q9",
+                "operating-systems-s9-u6-q10"
+              ]
             },
             {
               "id": "operating-systems-section-9-unit-6-process-isolation-lesson-2",
@@ -2583,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Process isolation helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-9-unit-7-memory-protection",
@@ -2596,7 +3622,18 @@
               "unitId": "operating-systems-section-9-unit-7-memory-protection",
               "title": "Learn Memory protection",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s9-u7-q1",
+                "operating-systems-s9-u7-q2",
+                "operating-systems-s9-u7-q3",
+                "operating-systems-s9-u7-q4",
+                "operating-systems-s9-u7-q5",
+                "operating-systems-s9-u7-q6",
+                "operating-systems-s9-u7-q7",
+                "operating-systems-s9-u7-q8",
+                "operating-systems-s9-u7-q9",
+                "operating-systems-s9-u7-q10"
+              ]
             },
             {
               "id": "operating-systems-section-9-unit-7-memory-protection-lesson-2",
@@ -2612,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Memory protection helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-9-unit-8-audit-logs",
@@ -2625,7 +3663,18 @@
               "unitId": "operating-systems-section-9-unit-8-audit-logs",
               "title": "Learn Audit logs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s9-u8-q1",
+                "operating-systems-s9-u8-q2",
+                "operating-systems-s9-u8-q3",
+                "operating-systems-s9-u8-q4",
+                "operating-systems-s9-u8-q5",
+                "operating-systems-s9-u8-q6",
+                "operating-systems-s9-u8-q7",
+                "operating-systems-s9-u8-q8",
+                "operating-systems-s9-u8-q9",
+                "operating-systems-s9-u8-q10"
+              ]
             },
             {
               "id": "operating-systems-section-9-unit-8-audit-logs-lesson-2",
@@ -2641,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Audit logs helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-9-unit-9-common-attacks",
@@ -2654,7 +3704,18 @@
               "unitId": "operating-systems-section-9-unit-9-common-attacks",
               "title": "Learn Common attacks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s9-u9-q1",
+                "operating-systems-s9-u9-q2",
+                "operating-systems-s9-u9-q3",
+                "operating-systems-s9-u9-q4",
+                "operating-systems-s9-u9-q5",
+                "operating-systems-s9-u9-q6",
+                "operating-systems-s9-u9-q7",
+                "operating-systems-s9-u9-q8",
+                "operating-systems-s9-u9-q9",
+                "operating-systems-s9-u9-q10"
+              ]
             },
             {
               "id": "operating-systems-section-9-unit-9-common-attacks-lesson-2",
@@ -2670,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Common attacks helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-9-unit-10-security-drills",
@@ -2683,7 +3745,18 @@
               "unitId": "operating-systems-section-9-unit-10-security-drills",
               "title": "Learn Security drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s9-u10-q1",
+                "operating-systems-s9-u10-q2",
+                "operating-systems-s9-u10-q3",
+                "operating-systems-s9-u10-q4",
+                "operating-systems-s9-u10-q5",
+                "operating-systems-s9-u10-q6",
+                "operating-systems-s9-u10-q7",
+                "operating-systems-s9-u10-q8",
+                "operating-systems-s9-u10-q9",
+                "operating-systems-s9-u10-q10"
+              ]
             },
             {
               "id": "operating-systems-section-9-unit-10-security-drills-lesson-2",
@@ -2699,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Security drills helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         }
       ]
     },
@@ -2721,7 +3795,18 @@
               "unitId": "operating-systems-section-10-unit-1-scheduling-simulator",
               "title": "Learn Scheduling simulator",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s10-u1-q1",
+                "operating-systems-s10-u1-q2",
+                "operating-systems-s10-u1-q3",
+                "operating-systems-s10-u1-q4",
+                "operating-systems-s10-u1-q5",
+                "operating-systems-s10-u1-q6",
+                "operating-systems-s10-u1-q7",
+                "operating-systems-s10-u1-q8",
+                "operating-systems-s10-u1-q9",
+                "operating-systems-s10-u1-q10"
+              ]
             },
             {
               "id": "operating-systems-section-10-unit-1-scheduling-simulator-lesson-2",
@@ -2737,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Scheduling simulator helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-10-unit-2-memory-trace-analysis",
@@ -2750,7 +3836,18 @@
               "unitId": "operating-systems-section-10-unit-2-memory-trace-analysis",
               "title": "Learn Memory trace analysis",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s10-u2-q1",
+                "operating-systems-s10-u2-q2",
+                "operating-systems-s10-u2-q3",
+                "operating-systems-s10-u2-q4",
+                "operating-systems-s10-u2-q5",
+                "operating-systems-s10-u2-q6",
+                "operating-systems-s10-u2-q7",
+                "operating-systems-s10-u2-q8",
+                "operating-systems-s10-u2-q9",
+                "operating-systems-s10-u2-q10"
+              ]
             },
             {
               "id": "operating-systems-section-10-unit-2-memory-trace-analysis-lesson-2",
@@ -2766,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Memory trace analysis helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-10-unit-3-deadlock-detection",
@@ -2779,7 +3877,18 @@
               "unitId": "operating-systems-section-10-unit-3-deadlock-detection",
               "title": "Learn Deadlock detection",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s10-u3-q1",
+                "operating-systems-s10-u3-q2",
+                "operating-systems-s10-u3-q3",
+                "operating-systems-s10-u3-q4",
+                "operating-systems-s10-u3-q5",
+                "operating-systems-s10-u3-q6",
+                "operating-systems-s10-u3-q7",
+                "operating-systems-s10-u3-q8",
+                "operating-systems-s10-u3-q9",
+                "operating-systems-s10-u3-q10"
+              ]
             },
             {
               "id": "operating-systems-section-10-unit-3-deadlock-detection-lesson-2",
@@ -2795,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Deadlock detection helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-10-unit-4-file-permission-audit",
@@ -2808,7 +3918,18 @@
               "unitId": "operating-systems-section-10-unit-4-file-permission-audit",
               "title": "Learn File permission audit",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s10-u4-q1",
+                "operating-systems-s10-u4-q2",
+                "operating-systems-s10-u4-q3",
+                "operating-systems-s10-u4-q4",
+                "operating-systems-s10-u4-q5",
+                "operating-systems-s10-u4-q6",
+                "operating-systems-s10-u4-q7",
+                "operating-systems-s10-u4-q8",
+                "operating-systems-s10-u4-q9",
+                "operating-systems-s10-u4-q10"
+              ]
             },
             {
               "id": "operating-systems-section-10-unit-4-file-permission-audit-lesson-2",
@@ -2824,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "File permission audit helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-10-unit-5-thread-race-demo",
@@ -2837,7 +3959,18 @@
               "unitId": "operating-systems-section-10-unit-5-thread-race-demo",
               "title": "Learn Thread race demo",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s10-u5-q1",
+                "operating-systems-s10-u5-q2",
+                "operating-systems-s10-u5-q3",
+                "operating-systems-s10-u5-q4",
+                "operating-systems-s10-u5-q5",
+                "operating-systems-s10-u5-q6",
+                "operating-systems-s10-u5-q7",
+                "operating-systems-s10-u5-q8",
+                "operating-systems-s10-u5-q9",
+                "operating-systems-s10-u5-q10"
+              ]
             },
             {
               "id": "operating-systems-section-10-unit-5-thread-race-demo-lesson-2",
@@ -2853,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Thread race demo helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-10-unit-6-ipc-design",
@@ -2866,7 +4000,18 @@
               "unitId": "operating-systems-section-10-unit-6-ipc-design",
               "title": "Learn IPC design",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s10-u6-q1",
+                "operating-systems-s10-u6-q2",
+                "operating-systems-s10-u6-q3",
+                "operating-systems-s10-u6-q4",
+                "operating-systems-s10-u6-q5",
+                "operating-systems-s10-u6-q6",
+                "operating-systems-s10-u6-q7",
+                "operating-systems-s10-u6-q8",
+                "operating-systems-s10-u6-q9",
+                "operating-systems-s10-u6-q10"
+              ]
             },
             {
               "id": "operating-systems-section-10-unit-6-ipc-design-lesson-2",
@@ -2882,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "IPC design helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-10-unit-7-virtual-memory-quiz",
@@ -2895,7 +4041,18 @@
               "unitId": "operating-systems-section-10-unit-7-virtual-memory-quiz",
               "title": "Learn Virtual memory quiz",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s10-u7-q1",
+                "operating-systems-s10-u7-q2",
+                "operating-systems-s10-u7-q3",
+                "operating-systems-s10-u7-q4",
+                "operating-systems-s10-u7-q5",
+                "operating-systems-s10-u7-q6",
+                "operating-systems-s10-u7-q7",
+                "operating-systems-s10-u7-q8",
+                "operating-systems-s10-u7-q9",
+                "operating-systems-s10-u7-q10"
+              ]
             },
             {
               "id": "operating-systems-section-10-unit-7-virtual-memory-quiz-lesson-2",
@@ -2911,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Virtual memory quiz helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-10-unit-8-os-debugging-lab",
@@ -2924,7 +4082,18 @@
               "unitId": "operating-systems-section-10-unit-8-os-debugging-lab",
               "title": "Learn OS debugging lab",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s10-u8-q1",
+                "operating-systems-s10-u8-q2",
+                "operating-systems-s10-u8-q3",
+                "operating-systems-s10-u8-q4",
+                "operating-systems-s10-u8-q5",
+                "operating-systems-s10-u8-q6",
+                "operating-systems-s10-u8-q7",
+                "operating-systems-s10-u8-q8",
+                "operating-systems-s10-u8-q9",
+                "operating-systems-s10-u8-q10"
+              ]
             },
             {
               "id": "operating-systems-section-10-unit-8-os-debugging-lab-lesson-2",
@@ -2940,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "OS debugging lab helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-10-unit-9-concept-map",
@@ -2953,7 +4123,18 @@
               "unitId": "operating-systems-section-10-unit-9-concept-map",
               "title": "Learn Concept map",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s10-u9-q1",
+                "operating-systems-s10-u9-q2",
+                "operating-systems-s10-u9-q3",
+                "operating-systems-s10-u9-q4",
+                "operating-systems-s10-u9-q5",
+                "operating-systems-s10-u9-q6",
+                "operating-systems-s10-u9-q7",
+                "operating-systems-s10-u9-q8",
+                "operating-systems-s10-u9-q9",
+                "operating-systems-s10-u9-q10"
+              ]
             },
             {
               "id": "operating-systems-section-10-unit-9-concept-map-lesson-2",
@@ -2969,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Concept map helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         },
         {
           "id": "operating-systems-section-10-unit-10-final-os-project",
@@ -2982,7 +4164,18 @@
               "unitId": "operating-systems-section-10-unit-10-final-os-project",
               "title": "Learn Final OS project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "operating-systems-s10-u10-q1",
+                "operating-systems-s10-u10-q2",
+                "operating-systems-s10-u10-q3",
+                "operating-systems-s10-u10-q4",
+                "operating-systems-s10-u10-q5",
+                "operating-systems-s10-u10-q6",
+                "operating-systems-s10-u10-q7",
+                "operating-systems-s10-u10-q8",
+                "operating-systems-s10-u10-q9",
+                "operating-systems-s10-u10-q10"
+              ]
             },
             {
               "id": "operating-systems-section-10-unit-10-final-os-project-lesson-2",
@@ -2998,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final OS project helps you explain how programs share machine resources. Example: `process -> thread -> CPU`. Avoid: assuming one program owns the whole machine."
         }
       ]
     }

@@ -25,7 +25,16 @@
               "title": "Learn Objects",
               "order": 1,
               "exerciseIds": [
-                "ood-s1-u1-sample"
+                "ood-s1-u1-q1",
+                "ood-s1-u1-q2",
+                "ood-s1-u1-q3",
+                "ood-s1-u1-q4",
+                "ood-s1-u1-q5",
+                "ood-s1-u1-q6",
+                "ood-s1-u1-q7",
+                "ood-s1-u1-q8",
+                "ood-s1-u1-q9",
+                "ood-s1-u1-q10"
               ]
             },
             {
@@ -42,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Objects helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-1-unit-2-classes",
@@ -56,7 +66,16 @@
               "title": "Learn Classes",
               "order": 1,
               "exerciseIds": [
-                "ood-s1-u2-sample"
+                "ood-s1-u2-q1",
+                "ood-s1-u2-q2",
+                "ood-s1-u2-q3",
+                "ood-s1-u2-q4",
+                "ood-s1-u2-q5",
+                "ood-s1-u2-q6",
+                "ood-s1-u2-q7",
+                "ood-s1-u2-q8",
+                "ood-s1-u2-q9",
+                "ood-s1-u2-q10"
               ]
             },
             {
@@ -73,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Classes helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-1-unit-3-state-and-behavior",
@@ -87,7 +107,16 @@
               "title": "Learn State and behavior",
               "order": 1,
               "exerciseIds": [
-                "ood-s1-u3-sample"
+                "ood-s1-u3-q1",
+                "ood-s1-u3-q2",
+                "ood-s1-u3-q3",
+                "ood-s1-u3-q4",
+                "ood-s1-u3-q5",
+                "ood-s1-u3-q6",
+                "ood-s1-u3-q7",
+                "ood-s1-u3-q8",
+                "ood-s1-u3-q9",
+                "ood-s1-u3-q10"
               ]
             },
             {
@@ -104,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "State and behavior helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-1-unit-4-encapsulation",
@@ -117,7 +147,18 @@
               "unitId": "ood-section-1-unit-4-encapsulation",
               "title": "Learn Encapsulation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s1-u4-q1",
+                "ood-s1-u4-q2",
+                "ood-s1-u4-q3",
+                "ood-s1-u4-q4",
+                "ood-s1-u4-q5",
+                "ood-s1-u4-q6",
+                "ood-s1-u4-q7",
+                "ood-s1-u4-q8",
+                "ood-s1-u4-q9",
+                "ood-s1-u4-q10"
+              ]
             },
             {
               "id": "ood-section-1-unit-4-encapsulation-lesson-2",
@@ -133,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Encapsulation helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-1-unit-5-abstraction",
@@ -146,7 +188,18 @@
               "unitId": "ood-section-1-unit-5-abstraction",
               "title": "Learn Abstraction",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s1-u5-q1",
+                "ood-s1-u5-q2",
+                "ood-s1-u5-q3",
+                "ood-s1-u5-q4",
+                "ood-s1-u5-q5",
+                "ood-s1-u5-q6",
+                "ood-s1-u5-q7",
+                "ood-s1-u5-q8",
+                "ood-s1-u5-q9",
+                "ood-s1-u5-q10"
+              ]
             },
             {
               "id": "ood-section-1-unit-5-abstraction-lesson-2",
@@ -162,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Abstraction helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-1-unit-6-inheritance",
@@ -175,7 +229,18 @@
               "unitId": "ood-section-1-unit-6-inheritance",
               "title": "Learn Inheritance",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s1-u6-q1",
+                "ood-s1-u6-q2",
+                "ood-s1-u6-q3",
+                "ood-s1-u6-q4",
+                "ood-s1-u6-q5",
+                "ood-s1-u6-q6",
+                "ood-s1-u6-q7",
+                "ood-s1-u6-q8",
+                "ood-s1-u6-q9",
+                "ood-s1-u6-q10"
+              ]
             },
             {
               "id": "ood-section-1-unit-6-inheritance-lesson-2",
@@ -191,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Inheritance helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-1-unit-7-polymorphism",
@@ -204,7 +270,18 @@
               "unitId": "ood-section-1-unit-7-polymorphism",
               "title": "Learn Polymorphism",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s1-u7-q1",
+                "ood-s1-u7-q2",
+                "ood-s1-u7-q3",
+                "ood-s1-u7-q4",
+                "ood-s1-u7-q5",
+                "ood-s1-u7-q6",
+                "ood-s1-u7-q7",
+                "ood-s1-u7-q8",
+                "ood-s1-u7-q9",
+                "ood-s1-u7-q10"
+              ]
             },
             {
               "id": "ood-section-1-unit-7-polymorphism-lesson-2",
@@ -220,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Polymorphism helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-1-unit-8-composition",
@@ -233,7 +311,18 @@
               "unitId": "ood-section-1-unit-8-composition",
               "title": "Learn Composition",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s1-u8-q1",
+                "ood-s1-u8-q2",
+                "ood-s1-u8-q3",
+                "ood-s1-u8-q4",
+                "ood-s1-u8-q5",
+                "ood-s1-u8-q6",
+                "ood-s1-u8-q7",
+                "ood-s1-u8-q8",
+                "ood-s1-u8-q9",
+                "ood-s1-u8-q10"
+              ]
             },
             {
               "id": "ood-section-1-unit-8-composition-lesson-2",
@@ -249,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Composition helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-1-unit-9-coupling",
@@ -262,7 +352,18 @@
               "unitId": "ood-section-1-unit-9-coupling",
               "title": "Learn Coupling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s1-u9-q1",
+                "ood-s1-u9-q2",
+                "ood-s1-u9-q3",
+                "ood-s1-u9-q4",
+                "ood-s1-u9-q5",
+                "ood-s1-u9-q6",
+                "ood-s1-u9-q7",
+                "ood-s1-u9-q8",
+                "ood-s1-u9-q9",
+                "ood-s1-u9-q10"
+              ]
             },
             {
               "id": "ood-section-1-unit-9-coupling-lesson-2",
@@ -278,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Coupling helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-1-unit-10-cohesion",
@@ -291,7 +393,18 @@
               "unitId": "ood-section-1-unit-10-cohesion",
               "title": "Learn Cohesion",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s1-u10-q1",
+                "ood-s1-u10-q2",
+                "ood-s1-u10-q3",
+                "ood-s1-u10-q4",
+                "ood-s1-u10-q5",
+                "ood-s1-u10-q6",
+                "ood-s1-u10-q7",
+                "ood-s1-u10-q8",
+                "ood-s1-u10-q9",
+                "ood-s1-u10-q10"
+              ]
             },
             {
               "id": "ood-section-1-unit-10-cohesion-lesson-2",
@@ -307,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Cohesion helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         }
       ]
     },
@@ -329,7 +443,18 @@
               "unitId": "ood-section-2-unit-1-responsibilities",
               "title": "Learn Responsibilities",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s2-u1-q1",
+                "ood-s2-u1-q2",
+                "ood-s2-u1-q3",
+                "ood-s2-u1-q4",
+                "ood-s2-u1-q5",
+                "ood-s2-u1-q6",
+                "ood-s2-u1-q7",
+                "ood-s2-u1-q8",
+                "ood-s2-u1-q9",
+                "ood-s2-u1-q10"
+              ]
             },
             {
               "id": "ood-section-2-unit-1-responsibilities-lesson-2",
@@ -345,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Responsibilities helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-2-unit-2-public-apis",
@@ -358,7 +484,18 @@
               "unitId": "ood-section-2-unit-2-public-apis",
               "title": "Learn Public APIs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s2-u2-q1",
+                "ood-s2-u2-q2",
+                "ood-s2-u2-q3",
+                "ood-s2-u2-q4",
+                "ood-s2-u2-q5",
+                "ood-s2-u2-q6",
+                "ood-s2-u2-q7",
+                "ood-s2-u2-q8",
+                "ood-s2-u2-q9",
+                "ood-s2-u2-q10"
+              ]
             },
             {
               "id": "ood-section-2-unit-2-public-apis-lesson-2",
@@ -374,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Public APIs helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-2-unit-3-private-state",
@@ -387,7 +525,18 @@
               "unitId": "ood-section-2-unit-3-private-state",
               "title": "Learn Private state",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s2-u3-q1",
+                "ood-s2-u3-q2",
+                "ood-s2-u3-q3",
+                "ood-s2-u3-q4",
+                "ood-s2-u3-q5",
+                "ood-s2-u3-q6",
+                "ood-s2-u3-q7",
+                "ood-s2-u3-q8",
+                "ood-s2-u3-q9",
+                "ood-s2-u3-q10"
+              ]
             },
             {
               "id": "ood-section-2-unit-3-private-state-lesson-2",
@@ -403,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Private state helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-2-unit-4-constructors",
@@ -416,7 +566,18 @@
               "unitId": "ood-section-2-unit-4-constructors",
               "title": "Learn Constructors",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s2-u4-q1",
+                "ood-s2-u4-q2",
+                "ood-s2-u4-q3",
+                "ood-s2-u4-q4",
+                "ood-s2-u4-q5",
+                "ood-s2-u4-q6",
+                "ood-s2-u4-q7",
+                "ood-s2-u4-q8",
+                "ood-s2-u4-q9",
+                "ood-s2-u4-q10"
+              ]
             },
             {
               "id": "ood-section-2-unit-4-constructors-lesson-2",
@@ -432,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Constructors helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-2-unit-5-invariants",
@@ -445,7 +607,18 @@
               "unitId": "ood-section-2-unit-5-invariants",
               "title": "Learn Invariants",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s2-u5-q1",
+                "ood-s2-u5-q2",
+                "ood-s2-u5-q3",
+                "ood-s2-u5-q4",
+                "ood-s2-u5-q5",
+                "ood-s2-u5-q6",
+                "ood-s2-u5-q7",
+                "ood-s2-u5-q8",
+                "ood-s2-u5-q9",
+                "ood-s2-u5-q10"
+              ]
             },
             {
               "id": "ood-section-2-unit-5-invariants-lesson-2",
@@ -461,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Invariants helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-2-unit-6-value-objects",
@@ -474,7 +648,18 @@
               "unitId": "ood-section-2-unit-6-value-objects",
               "title": "Learn Value objects",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s2-u6-q1",
+                "ood-s2-u6-q2",
+                "ood-s2-u6-q3",
+                "ood-s2-u6-q4",
+                "ood-s2-u6-q5",
+                "ood-s2-u6-q6",
+                "ood-s2-u6-q7",
+                "ood-s2-u6-q8",
+                "ood-s2-u6-q9",
+                "ood-s2-u6-q10"
+              ]
             },
             {
               "id": "ood-section-2-unit-6-value-objects-lesson-2",
@@ -490,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Value objects helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-2-unit-7-entities",
@@ -503,7 +689,18 @@
               "unitId": "ood-section-2-unit-7-entities",
               "title": "Learn Entities",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s2-u7-q1",
+                "ood-s2-u7-q2",
+                "ood-s2-u7-q3",
+                "ood-s2-u7-q4",
+                "ood-s2-u7-q5",
+                "ood-s2-u7-q6",
+                "ood-s2-u7-q7",
+                "ood-s2-u7-q8",
+                "ood-s2-u7-q9",
+                "ood-s2-u7-q10"
+              ]
             },
             {
               "id": "ood-section-2-unit-7-entities-lesson-2",
@@ -519,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Entities helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-2-unit-8-services",
@@ -532,7 +730,18 @@
               "unitId": "ood-section-2-unit-8-services",
               "title": "Learn Services",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s2-u8-q1",
+                "ood-s2-u8-q2",
+                "ood-s2-u8-q3",
+                "ood-s2-u8-q4",
+                "ood-s2-u8-q5",
+                "ood-s2-u8-q6",
+                "ood-s2-u8-q7",
+                "ood-s2-u8-q8",
+                "ood-s2-u8-q9",
+                "ood-s2-u8-q10"
+              ]
             },
             {
               "id": "ood-section-2-unit-8-services-lesson-2",
@@ -548,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Services helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-2-unit-9-naming",
@@ -561,7 +771,18 @@
               "unitId": "ood-section-2-unit-9-naming",
               "title": "Learn Naming",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s2-u9-q1",
+                "ood-s2-u9-q2",
+                "ood-s2-u9-q3",
+                "ood-s2-u9-q4",
+                "ood-s2-u9-q5",
+                "ood-s2-u9-q6",
+                "ood-s2-u9-q7",
+                "ood-s2-u9-q8",
+                "ood-s2-u9-q9",
+                "ood-s2-u9-q10"
+              ]
             },
             {
               "id": "ood-section-2-unit-9-naming-lesson-2",
@@ -577,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Naming helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-2-unit-10-class-design-drills",
@@ -590,7 +812,18 @@
               "unitId": "ood-section-2-unit-10-class-design-drills",
               "title": "Learn Class design drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s2-u10-q1",
+                "ood-s2-u10-q2",
+                "ood-s2-u10-q3",
+                "ood-s2-u10-q4",
+                "ood-s2-u10-q5",
+                "ood-s2-u10-q6",
+                "ood-s2-u10-q7",
+                "ood-s2-u10-q8",
+                "ood-s2-u10-q9",
+                "ood-s2-u10-q10"
+              ]
             },
             {
               "id": "ood-section-2-unit-10-class-design-drills-lesson-2",
@@ -606,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Class design drills helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         }
       ]
     },
@@ -628,7 +862,18 @@
               "unitId": "ood-section-3-unit-1-association",
               "title": "Learn Association",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s3-u1-q1",
+                "ood-s3-u1-q2",
+                "ood-s3-u1-q3",
+                "ood-s3-u1-q4",
+                "ood-s3-u1-q5",
+                "ood-s3-u1-q6",
+                "ood-s3-u1-q7",
+                "ood-s3-u1-q8",
+                "ood-s3-u1-q9",
+                "ood-s3-u1-q10"
+              ]
             },
             {
               "id": "ood-section-3-unit-1-association-lesson-2",
@@ -644,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Association helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-3-unit-2-aggregation",
@@ -657,7 +903,18 @@
               "unitId": "ood-section-3-unit-2-aggregation",
               "title": "Learn Aggregation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s3-u2-q1",
+                "ood-s3-u2-q2",
+                "ood-s3-u2-q3",
+                "ood-s3-u2-q4",
+                "ood-s3-u2-q5",
+                "ood-s3-u2-q6",
+                "ood-s3-u2-q7",
+                "ood-s3-u2-q8",
+                "ood-s3-u2-q9",
+                "ood-s3-u2-q10"
+              ]
             },
             {
               "id": "ood-section-3-unit-2-aggregation-lesson-2",
@@ -673,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Aggregation helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-3-unit-3-composition",
@@ -686,7 +944,18 @@
               "unitId": "ood-section-3-unit-3-composition",
               "title": "Learn Composition",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s3-u3-q1",
+                "ood-s3-u3-q2",
+                "ood-s3-u3-q3",
+                "ood-s3-u3-q4",
+                "ood-s3-u3-q5",
+                "ood-s3-u3-q6",
+                "ood-s3-u3-q7",
+                "ood-s3-u3-q8",
+                "ood-s3-u3-q9",
+                "ood-s3-u3-q10"
+              ]
             },
             {
               "id": "ood-section-3-unit-3-composition-lesson-2",
@@ -702,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Composition helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-3-unit-4-inheritance-tradeoffs",
@@ -715,7 +985,18 @@
               "unitId": "ood-section-3-unit-4-inheritance-tradeoffs",
               "title": "Learn Inheritance tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s3-u4-q1",
+                "ood-s3-u4-q2",
+                "ood-s3-u4-q3",
+                "ood-s3-u4-q4",
+                "ood-s3-u4-q5",
+                "ood-s3-u4-q6",
+                "ood-s3-u4-q7",
+                "ood-s3-u4-q8",
+                "ood-s3-u4-q9",
+                "ood-s3-u4-q10"
+              ]
             },
             {
               "id": "ood-section-3-unit-4-inheritance-tradeoffs-lesson-2",
@@ -731,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Inheritance tradeoffs helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-3-unit-5-interfaces",
@@ -744,7 +1026,18 @@
               "unitId": "ood-section-3-unit-5-interfaces",
               "title": "Learn Interfaces",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s3-u5-q1",
+                "ood-s3-u5-q2",
+                "ood-s3-u5-q3",
+                "ood-s3-u5-q4",
+                "ood-s3-u5-q5",
+                "ood-s3-u5-q6",
+                "ood-s3-u5-q7",
+                "ood-s3-u5-q8",
+                "ood-s3-u5-q9",
+                "ood-s3-u5-q10"
+              ]
             },
             {
               "id": "ood-section-3-unit-5-interfaces-lesson-2",
@@ -760,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Interfaces helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-3-unit-6-abstract-classes",
@@ -773,7 +1067,18 @@
               "unitId": "ood-section-3-unit-6-abstract-classes",
               "title": "Learn Abstract classes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s3-u6-q1",
+                "ood-s3-u6-q2",
+                "ood-s3-u6-q3",
+                "ood-s3-u6-q4",
+                "ood-s3-u6-q5",
+                "ood-s3-u6-q6",
+                "ood-s3-u6-q7",
+                "ood-s3-u6-q8",
+                "ood-s3-u6-q9",
+                "ood-s3-u6-q10"
+              ]
             },
             {
               "id": "ood-section-3-unit-6-abstract-classes-lesson-2",
@@ -789,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Abstract classes helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-3-unit-7-dependency-direction",
@@ -802,7 +1108,18 @@
               "unitId": "ood-section-3-unit-7-dependency-direction",
               "title": "Learn Dependency direction",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s3-u7-q1",
+                "ood-s3-u7-q2",
+                "ood-s3-u7-q3",
+                "ood-s3-u7-q4",
+                "ood-s3-u7-q5",
+                "ood-s3-u7-q6",
+                "ood-s3-u7-q7",
+                "ood-s3-u7-q8",
+                "ood-s3-u7-q9",
+                "ood-s3-u7-q10"
+              ]
             },
             {
               "id": "ood-section-3-unit-7-dependency-direction-lesson-2",
@@ -818,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dependency direction helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-3-unit-8-object-lifetimes",
@@ -831,7 +1149,18 @@
               "unitId": "ood-section-3-unit-8-object-lifetimes",
               "title": "Learn Object lifetimes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s3-u8-q1",
+                "ood-s3-u8-q2",
+                "ood-s3-u8-q3",
+                "ood-s3-u8-q4",
+                "ood-s3-u8-q5",
+                "ood-s3-u8-q6",
+                "ood-s3-u8-q7",
+                "ood-s3-u8-q8",
+                "ood-s3-u8-q9",
+                "ood-s3-u8-q10"
+              ]
             },
             {
               "id": "ood-section-3-unit-8-object-lifetimes-lesson-2",
@@ -847,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Object lifetimes helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-3-unit-9-relationship-diagrams",
@@ -860,7 +1190,18 @@
               "unitId": "ood-section-3-unit-9-relationship-diagrams",
               "title": "Learn Relationship diagrams",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s3-u9-q1",
+                "ood-s3-u9-q2",
+                "ood-s3-u9-q3",
+                "ood-s3-u9-q4",
+                "ood-s3-u9-q5",
+                "ood-s3-u9-q6",
+                "ood-s3-u9-q7",
+                "ood-s3-u9-q8",
+                "ood-s3-u9-q9",
+                "ood-s3-u9-q10"
+              ]
             },
             {
               "id": "ood-section-3-unit-9-relationship-diagrams-lesson-2",
@@ -876,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Relationship diagrams helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-3-unit-10-relationship-project",
@@ -889,7 +1231,18 @@
               "unitId": "ood-section-3-unit-10-relationship-project",
               "title": "Learn Relationship project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s3-u10-q1",
+                "ood-s3-u10-q2",
+                "ood-s3-u10-q3",
+                "ood-s3-u10-q4",
+                "ood-s3-u10-q5",
+                "ood-s3-u10-q6",
+                "ood-s3-u10-q7",
+                "ood-s3-u10-q8",
+                "ood-s3-u10-q9",
+                "ood-s3-u10-q10"
+              ]
             },
             {
               "id": "ood-section-3-unit-10-relationship-project-lesson-2",
@@ -905,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Relationship project helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         }
       ]
     },
@@ -927,7 +1281,18 @@
               "unitId": "ood-section-4-unit-1-single-responsibility",
               "title": "Learn Single responsibility",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s4-u1-q1",
+                "ood-s4-u1-q2",
+                "ood-s4-u1-q3",
+                "ood-s4-u1-q4",
+                "ood-s4-u1-q5",
+                "ood-s4-u1-q6",
+                "ood-s4-u1-q7",
+                "ood-s4-u1-q8",
+                "ood-s4-u1-q9",
+                "ood-s4-u1-q10"
+              ]
             },
             {
               "id": "ood-section-4-unit-1-single-responsibility-lesson-2",
@@ -943,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Single responsibility helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-4-unit-2-open-closed",
@@ -956,7 +1322,18 @@
               "unitId": "ood-section-4-unit-2-open-closed",
               "title": "Learn Open closed",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s4-u2-q1",
+                "ood-s4-u2-q2",
+                "ood-s4-u2-q3",
+                "ood-s4-u2-q4",
+                "ood-s4-u2-q5",
+                "ood-s4-u2-q6",
+                "ood-s4-u2-q7",
+                "ood-s4-u2-q8",
+                "ood-s4-u2-q9",
+                "ood-s4-u2-q10"
+              ]
             },
             {
               "id": "ood-section-4-unit-2-open-closed-lesson-2",
@@ -972,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Open closed helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-4-unit-3-liskov-substitution",
@@ -985,7 +1363,18 @@
               "unitId": "ood-section-4-unit-3-liskov-substitution",
               "title": "Learn Liskov substitution",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s4-u3-q1",
+                "ood-s4-u3-q2",
+                "ood-s4-u3-q3",
+                "ood-s4-u3-q4",
+                "ood-s4-u3-q5",
+                "ood-s4-u3-q6",
+                "ood-s4-u3-q7",
+                "ood-s4-u3-q8",
+                "ood-s4-u3-q9",
+                "ood-s4-u3-q10"
+              ]
             },
             {
               "id": "ood-section-4-unit-3-liskov-substitution-lesson-2",
@@ -1001,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Liskov substitution helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-4-unit-4-interface-segregation",
@@ -1014,7 +1404,18 @@
               "unitId": "ood-section-4-unit-4-interface-segregation",
               "title": "Learn Interface segregation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s4-u4-q1",
+                "ood-s4-u4-q2",
+                "ood-s4-u4-q3",
+                "ood-s4-u4-q4",
+                "ood-s4-u4-q5",
+                "ood-s4-u4-q6",
+                "ood-s4-u4-q7",
+                "ood-s4-u4-q8",
+                "ood-s4-u4-q9",
+                "ood-s4-u4-q10"
+              ]
             },
             {
               "id": "ood-section-4-unit-4-interface-segregation-lesson-2",
@@ -1030,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Interface segregation helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-4-unit-5-dependency-inversion",
@@ -1043,7 +1445,18 @@
               "unitId": "ood-section-4-unit-5-dependency-inversion",
               "title": "Learn Dependency inversion",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s4-u5-q1",
+                "ood-s4-u5-q2",
+                "ood-s4-u5-q3",
+                "ood-s4-u5-q4",
+                "ood-s4-u5-q5",
+                "ood-s4-u5-q6",
+                "ood-s4-u5-q7",
+                "ood-s4-u5-q8",
+                "ood-s4-u5-q9",
+                "ood-s4-u5-q10"
+              ]
             },
             {
               "id": "ood-section-4-unit-5-dependency-inversion-lesson-2",
@@ -1059,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dependency inversion helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-4-unit-6-solid-smells",
@@ -1072,7 +1486,18 @@
               "unitId": "ood-section-4-unit-6-solid-smells",
               "title": "Learn SOLID smells",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s4-u6-q1",
+                "ood-s4-u6-q2",
+                "ood-s4-u6-q3",
+                "ood-s4-u6-q4",
+                "ood-s4-u6-q5",
+                "ood-s4-u6-q6",
+                "ood-s4-u6-q7",
+                "ood-s4-u6-q8",
+                "ood-s4-u6-q9",
+                "ood-s4-u6-q10"
+              ]
             },
             {
               "id": "ood-section-4-unit-6-solid-smells-lesson-2",
@@ -1088,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "SOLID smells helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-4-unit-7-refactoring-to-solid",
@@ -1101,7 +1527,18 @@
               "unitId": "ood-section-4-unit-7-refactoring-to-solid",
               "title": "Learn Refactoring to SOLID",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s4-u7-q1",
+                "ood-s4-u7-q2",
+                "ood-s4-u7-q3",
+                "ood-s4-u7-q4",
+                "ood-s4-u7-q5",
+                "ood-s4-u7-q6",
+                "ood-s4-u7-q7",
+                "ood-s4-u7-q8",
+                "ood-s4-u7-q9",
+                "ood-s4-u7-q10"
+              ]
             },
             {
               "id": "ood-section-4-unit-7-refactoring-to-solid-lesson-2",
@@ -1117,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Refactoring to SOLID helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-4-unit-8-testing-solid-code",
@@ -1130,7 +1568,18 @@
               "unitId": "ood-section-4-unit-8-testing-solid-code",
               "title": "Learn Testing SOLID code",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s4-u8-q1",
+                "ood-s4-u8-q2",
+                "ood-s4-u8-q3",
+                "ood-s4-u8-q4",
+                "ood-s4-u8-q5",
+                "ood-s4-u8-q6",
+                "ood-s4-u8-q7",
+                "ood-s4-u8-q8",
+                "ood-s4-u8-q9",
+                "ood-s4-u8-q10"
+              ]
             },
             {
               "id": "ood-section-4-unit-8-testing-solid-code-lesson-2",
@@ -1146,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Testing SOLID code helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-4-unit-9-solid-tradeoffs",
@@ -1159,7 +1609,18 @@
               "unitId": "ood-section-4-unit-9-solid-tradeoffs",
               "title": "Learn SOLID tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s4-u9-q1",
+                "ood-s4-u9-q2",
+                "ood-s4-u9-q3",
+                "ood-s4-u9-q4",
+                "ood-s4-u9-q5",
+                "ood-s4-u9-q6",
+                "ood-s4-u9-q7",
+                "ood-s4-u9-q8",
+                "ood-s4-u9-q9",
+                "ood-s4-u9-q10"
+              ]
             },
             {
               "id": "ood-section-4-unit-9-solid-tradeoffs-lesson-2",
@@ -1175,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "SOLID tradeoffs helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-4-unit-10-solid-project",
@@ -1188,7 +1650,18 @@
               "unitId": "ood-section-4-unit-10-solid-project",
               "title": "Learn SOLID project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s4-u10-q1",
+                "ood-s4-u10-q2",
+                "ood-s4-u10-q3",
+                "ood-s4-u10-q4",
+                "ood-s4-u10-q5",
+                "ood-s4-u10-q6",
+                "ood-s4-u10-q7",
+                "ood-s4-u10-q8",
+                "ood-s4-u10-q9",
+                "ood-s4-u10-q10"
+              ]
             },
             {
               "id": "ood-section-4-unit-10-solid-project-lesson-2",
@@ -1204,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "SOLID project helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         }
       ]
     },
@@ -1226,7 +1700,18 @@
               "unitId": "ood-section-5-unit-1-factory-method",
               "title": "Learn Factory method",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s5-u1-q1",
+                "ood-s5-u1-q2",
+                "ood-s5-u1-q3",
+                "ood-s5-u1-q4",
+                "ood-s5-u1-q5",
+                "ood-s5-u1-q6",
+                "ood-s5-u1-q7",
+                "ood-s5-u1-q8",
+                "ood-s5-u1-q9",
+                "ood-s5-u1-q10"
+              ]
             },
             {
               "id": "ood-section-5-unit-1-factory-method-lesson-2",
@@ -1242,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Factory method helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-5-unit-2-abstract-factory",
@@ -1255,7 +1741,18 @@
               "unitId": "ood-section-5-unit-2-abstract-factory",
               "title": "Learn Abstract factory",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s5-u2-q1",
+                "ood-s5-u2-q2",
+                "ood-s5-u2-q3",
+                "ood-s5-u2-q4",
+                "ood-s5-u2-q5",
+                "ood-s5-u2-q6",
+                "ood-s5-u2-q7",
+                "ood-s5-u2-q8",
+                "ood-s5-u2-q9",
+                "ood-s5-u2-q10"
+              ]
             },
             {
               "id": "ood-section-5-unit-2-abstract-factory-lesson-2",
@@ -1271,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Abstract factory helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-5-unit-3-builder",
@@ -1284,7 +1782,18 @@
               "unitId": "ood-section-5-unit-3-builder",
               "title": "Learn Builder",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s5-u3-q1",
+                "ood-s5-u3-q2",
+                "ood-s5-u3-q3",
+                "ood-s5-u3-q4",
+                "ood-s5-u3-q5",
+                "ood-s5-u3-q6",
+                "ood-s5-u3-q7",
+                "ood-s5-u3-q8",
+                "ood-s5-u3-q9",
+                "ood-s5-u3-q10"
+              ]
             },
             {
               "id": "ood-section-5-unit-3-builder-lesson-2",
@@ -1300,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Builder helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-5-unit-4-prototype",
@@ -1313,7 +1823,18 @@
               "unitId": "ood-section-5-unit-4-prototype",
               "title": "Learn Prototype",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s5-u4-q1",
+                "ood-s5-u4-q2",
+                "ood-s5-u4-q3",
+                "ood-s5-u4-q4",
+                "ood-s5-u4-q5",
+                "ood-s5-u4-q6",
+                "ood-s5-u4-q7",
+                "ood-s5-u4-q8",
+                "ood-s5-u4-q9",
+                "ood-s5-u4-q10"
+              ]
             },
             {
               "id": "ood-section-5-unit-4-prototype-lesson-2",
@@ -1329,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Prototype helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-5-unit-5-singleton",
@@ -1342,7 +1864,18 @@
               "unitId": "ood-section-5-unit-5-singleton",
               "title": "Learn Singleton",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s5-u5-q1",
+                "ood-s5-u5-q2",
+                "ood-s5-u5-q3",
+                "ood-s5-u5-q4",
+                "ood-s5-u5-q5",
+                "ood-s5-u5-q6",
+                "ood-s5-u5-q7",
+                "ood-s5-u5-q8",
+                "ood-s5-u5-q9",
+                "ood-s5-u5-q10"
+              ]
             },
             {
               "id": "ood-section-5-unit-5-singleton-lesson-2",
@@ -1358,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Singleton helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-5-unit-6-dependency-injection",
@@ -1371,7 +1905,18 @@
               "unitId": "ood-section-5-unit-6-dependency-injection",
               "title": "Learn Dependency injection",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s5-u6-q1",
+                "ood-s5-u6-q2",
+                "ood-s5-u6-q3",
+                "ood-s5-u6-q4",
+                "ood-s5-u6-q5",
+                "ood-s5-u6-q6",
+                "ood-s5-u6-q7",
+                "ood-s5-u6-q8",
+                "ood-s5-u6-q9",
+                "ood-s5-u6-q10"
+              ]
             },
             {
               "id": "ood-section-5-unit-6-dependency-injection-lesson-2",
@@ -1387,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dependency injection helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-5-unit-7-object-pools-concept",
@@ -1400,7 +1946,18 @@
               "unitId": "ood-section-5-unit-7-object-pools-concept",
               "title": "Learn Object pools concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s5-u7-q1",
+                "ood-s5-u7-q2",
+                "ood-s5-u7-q3",
+                "ood-s5-u7-q4",
+                "ood-s5-u7-q5",
+                "ood-s5-u7-q6",
+                "ood-s5-u7-q7",
+                "ood-s5-u7-q8",
+                "ood-s5-u7-q9",
+                "ood-s5-u7-q10"
+              ]
             },
             {
               "id": "ood-section-5-unit-7-object-pools-concept-lesson-2",
@@ -1416,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Object pools concept helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-5-unit-8-pattern-selection",
@@ -1429,7 +1987,18 @@
               "unitId": "ood-section-5-unit-8-pattern-selection",
               "title": "Learn Pattern selection",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s5-u8-q1",
+                "ood-s5-u8-q2",
+                "ood-s5-u8-q3",
+                "ood-s5-u8-q4",
+                "ood-s5-u8-q5",
+                "ood-s5-u8-q6",
+                "ood-s5-u8-q7",
+                "ood-s5-u8-q8",
+                "ood-s5-u8-q9",
+                "ood-s5-u8-q10"
+              ]
             },
             {
               "id": "ood-section-5-unit-8-pattern-selection-lesson-2",
@@ -1445,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pattern selection helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-5-unit-9-pattern-pitfalls",
@@ -1458,7 +2028,18 @@
               "unitId": "ood-section-5-unit-9-pattern-pitfalls",
               "title": "Learn Pattern pitfalls",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s5-u9-q1",
+                "ood-s5-u9-q2",
+                "ood-s5-u9-q3",
+                "ood-s5-u9-q4",
+                "ood-s5-u9-q5",
+                "ood-s5-u9-q6",
+                "ood-s5-u9-q7",
+                "ood-s5-u9-q8",
+                "ood-s5-u9-q9",
+                "ood-s5-u9-q10"
+              ]
             },
             {
               "id": "ood-section-5-unit-9-pattern-pitfalls-lesson-2",
@@ -1474,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pattern pitfalls helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-5-unit-10-creational-project",
@@ -1487,7 +2069,18 @@
               "unitId": "ood-section-5-unit-10-creational-project",
               "title": "Learn Creational project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s5-u10-q1",
+                "ood-s5-u10-q2",
+                "ood-s5-u10-q3",
+                "ood-s5-u10-q4",
+                "ood-s5-u10-q5",
+                "ood-s5-u10-q6",
+                "ood-s5-u10-q7",
+                "ood-s5-u10-q8",
+                "ood-s5-u10-q9",
+                "ood-s5-u10-q10"
+              ]
             },
             {
               "id": "ood-section-5-unit-10-creational-project-lesson-2",
@@ -1503,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Creational project helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         }
       ]
     },
@@ -1525,7 +2119,18 @@
               "unitId": "ood-section-6-unit-1-adapter",
               "title": "Learn Adapter",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s6-u1-q1",
+                "ood-s6-u1-q2",
+                "ood-s6-u1-q3",
+                "ood-s6-u1-q4",
+                "ood-s6-u1-q5",
+                "ood-s6-u1-q6",
+                "ood-s6-u1-q7",
+                "ood-s6-u1-q8",
+                "ood-s6-u1-q9",
+                "ood-s6-u1-q10"
+              ]
             },
             {
               "id": "ood-section-6-unit-1-adapter-lesson-2",
@@ -1541,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Adapter helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-6-unit-2-facade",
@@ -1554,7 +2160,18 @@
               "unitId": "ood-section-6-unit-2-facade",
               "title": "Learn Facade",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s6-u2-q1",
+                "ood-s6-u2-q2",
+                "ood-s6-u2-q3",
+                "ood-s6-u2-q4",
+                "ood-s6-u2-q5",
+                "ood-s6-u2-q6",
+                "ood-s6-u2-q7",
+                "ood-s6-u2-q8",
+                "ood-s6-u2-q9",
+                "ood-s6-u2-q10"
+              ]
             },
             {
               "id": "ood-section-6-unit-2-facade-lesson-2",
@@ -1570,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Facade helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-6-unit-3-decorator",
@@ -1583,7 +2201,18 @@
               "unitId": "ood-section-6-unit-3-decorator",
               "title": "Learn Decorator",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s6-u3-q1",
+                "ood-s6-u3-q2",
+                "ood-s6-u3-q3",
+                "ood-s6-u3-q4",
+                "ood-s6-u3-q5",
+                "ood-s6-u3-q6",
+                "ood-s6-u3-q7",
+                "ood-s6-u3-q8",
+                "ood-s6-u3-q9",
+                "ood-s6-u3-q10"
+              ]
             },
             {
               "id": "ood-section-6-unit-3-decorator-lesson-2",
@@ -1599,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Decorator helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-6-unit-4-composite",
@@ -1612,7 +2242,18 @@
               "unitId": "ood-section-6-unit-4-composite",
               "title": "Learn Composite",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s6-u4-q1",
+                "ood-s6-u4-q2",
+                "ood-s6-u4-q3",
+                "ood-s6-u4-q4",
+                "ood-s6-u4-q5",
+                "ood-s6-u4-q6",
+                "ood-s6-u4-q7",
+                "ood-s6-u4-q8",
+                "ood-s6-u4-q9",
+                "ood-s6-u4-q10"
+              ]
             },
             {
               "id": "ood-section-6-unit-4-composite-lesson-2",
@@ -1628,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Composite helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-6-unit-5-proxy",
@@ -1641,7 +2283,18 @@
               "unitId": "ood-section-6-unit-5-proxy",
               "title": "Learn Proxy",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s6-u5-q1",
+                "ood-s6-u5-q2",
+                "ood-s6-u5-q3",
+                "ood-s6-u5-q4",
+                "ood-s6-u5-q5",
+                "ood-s6-u5-q6",
+                "ood-s6-u5-q7",
+                "ood-s6-u5-q8",
+                "ood-s6-u5-q9",
+                "ood-s6-u5-q10"
+              ]
             },
             {
               "id": "ood-section-6-unit-5-proxy-lesson-2",
@@ -1657,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Proxy helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-6-unit-6-bridge",
@@ -1670,7 +2324,18 @@
               "unitId": "ood-section-6-unit-6-bridge",
               "title": "Learn Bridge",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s6-u6-q1",
+                "ood-s6-u6-q2",
+                "ood-s6-u6-q3",
+                "ood-s6-u6-q4",
+                "ood-s6-u6-q5",
+                "ood-s6-u6-q6",
+                "ood-s6-u6-q7",
+                "ood-s6-u6-q8",
+                "ood-s6-u6-q9",
+                "ood-s6-u6-q10"
+              ]
             },
             {
               "id": "ood-section-6-unit-6-bridge-lesson-2",
@@ -1686,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Bridge helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-6-unit-7-flyweight-concept",
@@ -1699,7 +2365,18 @@
               "unitId": "ood-section-6-unit-7-flyweight-concept",
               "title": "Learn Flyweight concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s6-u7-q1",
+                "ood-s6-u7-q2",
+                "ood-s6-u7-q3",
+                "ood-s6-u7-q4",
+                "ood-s6-u7-q5",
+                "ood-s6-u7-q6",
+                "ood-s6-u7-q7",
+                "ood-s6-u7-q8",
+                "ood-s6-u7-q9",
+                "ood-s6-u7-q10"
+              ]
             },
             {
               "id": "ood-section-6-unit-7-flyweight-concept-lesson-2",
@@ -1715,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Flyweight concept helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-6-unit-8-wrapper-patterns",
@@ -1728,7 +2406,18 @@
               "unitId": "ood-section-6-unit-8-wrapper-patterns",
               "title": "Learn Wrapper patterns",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s6-u8-q1",
+                "ood-s6-u8-q2",
+                "ood-s6-u8-q3",
+                "ood-s6-u8-q4",
+                "ood-s6-u8-q5",
+                "ood-s6-u8-q6",
+                "ood-s6-u8-q7",
+                "ood-s6-u8-q8",
+                "ood-s6-u8-q9",
+                "ood-s6-u8-q10"
+              ]
             },
             {
               "id": "ood-section-6-unit-8-wrapper-patterns-lesson-2",
@@ -1744,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Wrapper patterns helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-6-unit-9-structural-tradeoffs",
@@ -1757,7 +2447,18 @@
               "unitId": "ood-section-6-unit-9-structural-tradeoffs",
               "title": "Learn Structural tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s6-u9-q1",
+                "ood-s6-u9-q2",
+                "ood-s6-u9-q3",
+                "ood-s6-u9-q4",
+                "ood-s6-u9-q5",
+                "ood-s6-u9-q6",
+                "ood-s6-u9-q7",
+                "ood-s6-u9-q8",
+                "ood-s6-u9-q9",
+                "ood-s6-u9-q10"
+              ]
             },
             {
               "id": "ood-section-6-unit-9-structural-tradeoffs-lesson-2",
@@ -1773,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Structural tradeoffs helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-6-unit-10-structural-project",
@@ -1786,7 +2488,18 @@
               "unitId": "ood-section-6-unit-10-structural-project",
               "title": "Learn Structural project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s6-u10-q1",
+                "ood-s6-u10-q2",
+                "ood-s6-u10-q3",
+                "ood-s6-u10-q4",
+                "ood-s6-u10-q5",
+                "ood-s6-u10-q6",
+                "ood-s6-u10-q7",
+                "ood-s6-u10-q8",
+                "ood-s6-u10-q9",
+                "ood-s6-u10-q10"
+              ]
             },
             {
               "id": "ood-section-6-unit-10-structural-project-lesson-2",
@@ -1802,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Structural project helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         }
       ]
     },
@@ -1824,7 +2538,18 @@
               "unitId": "ood-section-7-unit-1-observer",
               "title": "Learn Observer",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s7-u1-q1",
+                "ood-s7-u1-q2",
+                "ood-s7-u1-q3",
+                "ood-s7-u1-q4",
+                "ood-s7-u1-q5",
+                "ood-s7-u1-q6",
+                "ood-s7-u1-q7",
+                "ood-s7-u1-q8",
+                "ood-s7-u1-q9",
+                "ood-s7-u1-q10"
+              ]
             },
             {
               "id": "ood-section-7-unit-1-observer-lesson-2",
@@ -1840,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Observer helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-7-unit-2-strategy",
@@ -1853,7 +2579,18 @@
               "unitId": "ood-section-7-unit-2-strategy",
               "title": "Learn Strategy",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s7-u2-q1",
+                "ood-s7-u2-q2",
+                "ood-s7-u2-q3",
+                "ood-s7-u2-q4",
+                "ood-s7-u2-q5",
+                "ood-s7-u2-q6",
+                "ood-s7-u2-q7",
+                "ood-s7-u2-q8",
+                "ood-s7-u2-q9",
+                "ood-s7-u2-q10"
+              ]
             },
             {
               "id": "ood-section-7-unit-2-strategy-lesson-2",
@@ -1869,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Strategy helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-7-unit-3-command",
@@ -1882,7 +2620,18 @@
               "unitId": "ood-section-7-unit-3-command",
               "title": "Learn Command",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s7-u3-q1",
+                "ood-s7-u3-q2",
+                "ood-s7-u3-q3",
+                "ood-s7-u3-q4",
+                "ood-s7-u3-q5",
+                "ood-s7-u3-q6",
+                "ood-s7-u3-q7",
+                "ood-s7-u3-q8",
+                "ood-s7-u3-q9",
+                "ood-s7-u3-q10"
+              ]
             },
             {
               "id": "ood-section-7-unit-3-command-lesson-2",
@@ -1898,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Command helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-7-unit-4-state",
@@ -1911,7 +2661,18 @@
               "unitId": "ood-section-7-unit-4-state",
               "title": "Learn State",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s7-u4-q1",
+                "ood-s7-u4-q2",
+                "ood-s7-u4-q3",
+                "ood-s7-u4-q4",
+                "ood-s7-u4-q5",
+                "ood-s7-u4-q6",
+                "ood-s7-u4-q7",
+                "ood-s7-u4-q8",
+                "ood-s7-u4-q9",
+                "ood-s7-u4-q10"
+              ]
             },
             {
               "id": "ood-section-7-unit-4-state-lesson-2",
@@ -1927,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "State helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-7-unit-5-template-method",
@@ -1940,7 +2702,18 @@
               "unitId": "ood-section-7-unit-5-template-method",
               "title": "Learn Template method",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s7-u5-q1",
+                "ood-s7-u5-q2",
+                "ood-s7-u5-q3",
+                "ood-s7-u5-q4",
+                "ood-s7-u5-q5",
+                "ood-s7-u5-q6",
+                "ood-s7-u5-q7",
+                "ood-s7-u5-q8",
+                "ood-s7-u5-q9",
+                "ood-s7-u5-q10"
+              ]
             },
             {
               "id": "ood-section-7-unit-5-template-method-lesson-2",
@@ -1956,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Template method helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-7-unit-6-iterator",
@@ -1969,7 +2743,18 @@
               "unitId": "ood-section-7-unit-6-iterator",
               "title": "Learn Iterator",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s7-u6-q1",
+                "ood-s7-u6-q2",
+                "ood-s7-u6-q3",
+                "ood-s7-u6-q4",
+                "ood-s7-u6-q5",
+                "ood-s7-u6-q6",
+                "ood-s7-u6-q7",
+                "ood-s7-u6-q8",
+                "ood-s7-u6-q9",
+                "ood-s7-u6-q10"
+              ]
             },
             {
               "id": "ood-section-7-unit-6-iterator-lesson-2",
@@ -1985,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Iterator helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-7-unit-7-mediator",
@@ -1998,7 +2784,18 @@
               "unitId": "ood-section-7-unit-7-mediator",
               "title": "Learn Mediator",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s7-u7-q1",
+                "ood-s7-u7-q2",
+                "ood-s7-u7-q3",
+                "ood-s7-u7-q4",
+                "ood-s7-u7-q5",
+                "ood-s7-u7-q6",
+                "ood-s7-u7-q7",
+                "ood-s7-u7-q8",
+                "ood-s7-u7-q9",
+                "ood-s7-u7-q10"
+              ]
             },
             {
               "id": "ood-section-7-unit-7-mediator-lesson-2",
@@ -2014,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Mediator helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-7-unit-8-chain-of-responsibility",
@@ -2027,7 +2825,18 @@
               "unitId": "ood-section-7-unit-8-chain-of-responsibility",
               "title": "Learn Chain of responsibility",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s7-u8-q1",
+                "ood-s7-u8-q2",
+                "ood-s7-u8-q3",
+                "ood-s7-u8-q4",
+                "ood-s7-u8-q5",
+                "ood-s7-u8-q6",
+                "ood-s7-u8-q7",
+                "ood-s7-u8-q8",
+                "ood-s7-u8-q9",
+                "ood-s7-u8-q10"
+              ]
             },
             {
               "id": "ood-section-7-unit-8-chain-of-responsibility-lesson-2",
@@ -2043,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Chain of responsibility helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-7-unit-9-visitor-concept",
@@ -2056,7 +2866,18 @@
               "unitId": "ood-section-7-unit-9-visitor-concept",
               "title": "Learn Visitor concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s7-u9-q1",
+                "ood-s7-u9-q2",
+                "ood-s7-u9-q3",
+                "ood-s7-u9-q4",
+                "ood-s7-u9-q5",
+                "ood-s7-u9-q6",
+                "ood-s7-u9-q7",
+                "ood-s7-u9-q8",
+                "ood-s7-u9-q9",
+                "ood-s7-u9-q10"
+              ]
             },
             {
               "id": "ood-section-7-unit-9-visitor-concept-lesson-2",
@@ -2072,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Visitor concept helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-7-unit-10-behavioral-project",
@@ -2085,7 +2907,18 @@
               "unitId": "ood-section-7-unit-10-behavioral-project",
               "title": "Learn Behavioral project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s7-u10-q1",
+                "ood-s7-u10-q2",
+                "ood-s7-u10-q3",
+                "ood-s7-u10-q4",
+                "ood-s7-u10-q5",
+                "ood-s7-u10-q6",
+                "ood-s7-u10-q7",
+                "ood-s7-u10-q8",
+                "ood-s7-u10-q9",
+                "ood-s7-u10-q10"
+              ]
             },
             {
               "id": "ood-section-7-unit-10-behavioral-project-lesson-2",
@@ -2101,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Behavioral project helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         }
       ]
     },
@@ -2123,7 +2957,18 @@
               "unitId": "ood-section-8-unit-1-class-diagrams",
               "title": "Learn Class diagrams",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s8-u1-q1",
+                "ood-s8-u1-q2",
+                "ood-s8-u1-q3",
+                "ood-s8-u1-q4",
+                "ood-s8-u1-q5",
+                "ood-s8-u1-q6",
+                "ood-s8-u1-q7",
+                "ood-s8-u1-q8",
+                "ood-s8-u1-q9",
+                "ood-s8-u1-q10"
+              ]
             },
             {
               "id": "ood-section-8-unit-1-class-diagrams-lesson-2",
@@ -2139,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Class diagrams helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-8-unit-2-sequence-diagrams",
@@ -2152,7 +2998,18 @@
               "unitId": "ood-section-8-unit-2-sequence-diagrams",
               "title": "Learn Sequence diagrams",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s8-u2-q1",
+                "ood-s8-u2-q2",
+                "ood-s8-u2-q3",
+                "ood-s8-u2-q4",
+                "ood-s8-u2-q5",
+                "ood-s8-u2-q6",
+                "ood-s8-u2-q7",
+                "ood-s8-u2-q8",
+                "ood-s8-u2-q9",
+                "ood-s8-u2-q10"
+              ]
             },
             {
               "id": "ood-section-8-unit-2-sequence-diagrams-lesson-2",
@@ -2168,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sequence diagrams helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-8-unit-3-state-diagrams",
@@ -2181,7 +3039,18 @@
               "unitId": "ood-section-8-unit-3-state-diagrams",
               "title": "Learn State diagrams",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s8-u3-q1",
+                "ood-s8-u3-q2",
+                "ood-s8-u3-q3",
+                "ood-s8-u3-q4",
+                "ood-s8-u3-q5",
+                "ood-s8-u3-q6",
+                "ood-s8-u3-q7",
+                "ood-s8-u3-q8",
+                "ood-s8-u3-q9",
+                "ood-s8-u3-q10"
+              ]
             },
             {
               "id": "ood-section-8-unit-3-state-diagrams-lesson-2",
@@ -2197,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "State diagrams helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-8-unit-4-use-cases",
@@ -2210,7 +3080,18 @@
               "unitId": "ood-section-8-unit-4-use-cases",
               "title": "Learn Use cases",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s8-u4-q1",
+                "ood-s8-u4-q2",
+                "ood-s8-u4-q3",
+                "ood-s8-u4-q4",
+                "ood-s8-u4-q5",
+                "ood-s8-u4-q6",
+                "ood-s8-u4-q7",
+                "ood-s8-u4-q8",
+                "ood-s8-u4-q9",
+                "ood-s8-u4-q10"
+              ]
             },
             {
               "id": "ood-section-8-unit-4-use-cases-lesson-2",
@@ -2226,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Use cases helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-8-unit-5-crc-cards",
@@ -2239,7 +3121,18 @@
               "unitId": "ood-section-8-unit-5-crc-cards",
               "title": "Learn CRC cards",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s8-u5-q1",
+                "ood-s8-u5-q2",
+                "ood-s8-u5-q3",
+                "ood-s8-u5-q4",
+                "ood-s8-u5-q5",
+                "ood-s8-u5-q6",
+                "ood-s8-u5-q7",
+                "ood-s8-u5-q8",
+                "ood-s8-u5-q9",
+                "ood-s8-u5-q10"
+              ]
             },
             {
               "id": "ood-section-8-unit-5-crc-cards-lesson-2",
@@ -2255,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CRC cards helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-8-unit-6-architecture-sketches",
@@ -2268,7 +3162,18 @@
               "unitId": "ood-section-8-unit-6-architecture-sketches",
               "title": "Learn Architecture sketches",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s8-u6-q1",
+                "ood-s8-u6-q2",
+                "ood-s8-u6-q3",
+                "ood-s8-u6-q4",
+                "ood-s8-u6-q5",
+                "ood-s8-u6-q6",
+                "ood-s8-u6-q7",
+                "ood-s8-u6-q8",
+                "ood-s8-u6-q9",
+                "ood-s8-u6-q10"
+              ]
             },
             {
               "id": "ood-section-8-unit-6-architecture-sketches-lesson-2",
@@ -2284,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Architecture sketches helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-8-unit-7-design-docs",
@@ -2297,7 +3203,18 @@
               "unitId": "ood-section-8-unit-7-design-docs",
               "title": "Learn Design docs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s8-u7-q1",
+                "ood-s8-u7-q2",
+                "ood-s8-u7-q3",
+                "ood-s8-u7-q4",
+                "ood-s8-u7-q5",
+                "ood-s8-u7-q6",
+                "ood-s8-u7-q7",
+                "ood-s8-u7-q8",
+                "ood-s8-u7-q9",
+                "ood-s8-u7-q10"
+              ]
             },
             {
               "id": "ood-section-8-unit-7-design-docs-lesson-2",
@@ -2313,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Design docs helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-8-unit-8-tradeoff-notes",
@@ -2326,7 +3244,18 @@
               "unitId": "ood-section-8-unit-8-tradeoff-notes",
               "title": "Learn Tradeoff notes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s8-u8-q1",
+                "ood-s8-u8-q2",
+                "ood-s8-u8-q3",
+                "ood-s8-u8-q4",
+                "ood-s8-u8-q5",
+                "ood-s8-u8-q6",
+                "ood-s8-u8-q7",
+                "ood-s8-u8-q8",
+                "ood-s8-u8-q9",
+                "ood-s8-u8-q10"
+              ]
             },
             {
               "id": "ood-section-8-unit-8-tradeoff-notes-lesson-2",
@@ -2342,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tradeoff notes helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-8-unit-9-reviewing-designs",
@@ -2355,7 +3285,18 @@
               "unitId": "ood-section-8-unit-9-reviewing-designs",
               "title": "Learn Reviewing designs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s8-u9-q1",
+                "ood-s8-u9-q2",
+                "ood-s8-u9-q3",
+                "ood-s8-u9-q4",
+                "ood-s8-u9-q5",
+                "ood-s8-u9-q6",
+                "ood-s8-u9-q7",
+                "ood-s8-u9-q8",
+                "ood-s8-u9-q9",
+                "ood-s8-u9-q10"
+              ]
             },
             {
               "id": "ood-section-8-unit-9-reviewing-designs-lesson-2",
@@ -2371,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reviewing designs helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-8-unit-10-diagram-project",
@@ -2384,7 +3326,18 @@
               "unitId": "ood-section-8-unit-10-diagram-project",
               "title": "Learn Diagram project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s8-u10-q1",
+                "ood-s8-u10-q2",
+                "ood-s8-u10-q3",
+                "ood-s8-u10-q4",
+                "ood-s8-u10-q5",
+                "ood-s8-u10-q6",
+                "ood-s8-u10-q7",
+                "ood-s8-u10-q8",
+                "ood-s8-u10-q9",
+                "ood-s8-u10-q10"
+              ]
             },
             {
               "id": "ood-section-8-unit-10-diagram-project-lesson-2",
@@ -2400,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Diagram project helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         }
       ]
     },
@@ -2422,7 +3376,18 @@
               "unitId": "ood-section-9-unit-1-code-smells",
               "title": "Learn Code smells",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s9-u1-q1",
+                "ood-s9-u1-q2",
+                "ood-s9-u1-q3",
+                "ood-s9-u1-q4",
+                "ood-s9-u1-q5",
+                "ood-s9-u1-q6",
+                "ood-s9-u1-q7",
+                "ood-s9-u1-q8",
+                "ood-s9-u1-q9",
+                "ood-s9-u1-q10"
+              ]
             },
             {
               "id": "ood-section-9-unit-1-code-smells-lesson-2",
@@ -2438,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Code smells helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-9-unit-2-extract-class",
@@ -2451,7 +3417,18 @@
               "unitId": "ood-section-9-unit-2-extract-class",
               "title": "Learn Extract class",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s9-u2-q1",
+                "ood-s9-u2-q2",
+                "ood-s9-u2-q3",
+                "ood-s9-u2-q4",
+                "ood-s9-u2-q5",
+                "ood-s9-u2-q6",
+                "ood-s9-u2-q7",
+                "ood-s9-u2-q8",
+                "ood-s9-u2-q9",
+                "ood-s9-u2-q10"
+              ]
             },
             {
               "id": "ood-section-9-unit-2-extract-class-lesson-2",
@@ -2467,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Extract class helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-9-unit-3-extract-method",
@@ -2480,7 +3458,18 @@
               "unitId": "ood-section-9-unit-3-extract-method",
               "title": "Learn Extract method",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s9-u3-q1",
+                "ood-s9-u3-q2",
+                "ood-s9-u3-q3",
+                "ood-s9-u3-q4",
+                "ood-s9-u3-q5",
+                "ood-s9-u3-q6",
+                "ood-s9-u3-q7",
+                "ood-s9-u3-q8",
+                "ood-s9-u3-q9",
+                "ood-s9-u3-q10"
+              ]
             },
             {
               "id": "ood-section-9-unit-3-extract-method-lesson-2",
@@ -2496,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Extract method helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-9-unit-4-replace-inheritance",
@@ -2509,7 +3499,18 @@
               "unitId": "ood-section-9-unit-4-replace-inheritance",
               "title": "Learn Replace inheritance",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s9-u4-q1",
+                "ood-s9-u4-q2",
+                "ood-s9-u4-q3",
+                "ood-s9-u4-q4",
+                "ood-s9-u4-q5",
+                "ood-s9-u4-q6",
+                "ood-s9-u4-q7",
+                "ood-s9-u4-q8",
+                "ood-s9-u4-q9",
+                "ood-s9-u4-q10"
+              ]
             },
             {
               "id": "ood-section-9-unit-4-replace-inheritance-lesson-2",
@@ -2525,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Replace inheritance helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-9-unit-5-introduce-interface",
@@ -2538,7 +3540,18 @@
               "unitId": "ood-section-9-unit-5-introduce-interface",
               "title": "Learn Introduce interface",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s9-u5-q1",
+                "ood-s9-u5-q2",
+                "ood-s9-u5-q3",
+                "ood-s9-u5-q4",
+                "ood-s9-u5-q5",
+                "ood-s9-u5-q6",
+                "ood-s9-u5-q7",
+                "ood-s9-u5-q8",
+                "ood-s9-u5-q9",
+                "ood-s9-u5-q10"
+              ]
             },
             {
               "id": "ood-section-9-unit-5-introduce-interface-lesson-2",
@@ -2554,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Introduce interface helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-9-unit-6-dependency-cleanup",
@@ -2567,7 +3581,18 @@
               "unitId": "ood-section-9-unit-6-dependency-cleanup",
               "title": "Learn Dependency cleanup",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s9-u6-q1",
+                "ood-s9-u6-q2",
+                "ood-s9-u6-q3",
+                "ood-s9-u6-q4",
+                "ood-s9-u6-q5",
+                "ood-s9-u6-q6",
+                "ood-s9-u6-q7",
+                "ood-s9-u6-q8",
+                "ood-s9-u6-q9",
+                "ood-s9-u6-q10"
+              ]
             },
             {
               "id": "ood-section-9-unit-6-dependency-cleanup-lesson-2",
@@ -2583,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dependency cleanup helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-9-unit-7-testing-refactors",
@@ -2596,7 +3622,18 @@
               "unitId": "ood-section-9-unit-7-testing-refactors",
               "title": "Learn Testing refactors",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s9-u7-q1",
+                "ood-s9-u7-q2",
+                "ood-s9-u7-q3",
+                "ood-s9-u7-q4",
+                "ood-s9-u7-q5",
+                "ood-s9-u7-q6",
+                "ood-s9-u7-q7",
+                "ood-s9-u7-q8",
+                "ood-s9-u7-q9",
+                "ood-s9-u7-q10"
+              ]
             },
             {
               "id": "ood-section-9-unit-7-testing-refactors-lesson-2",
@@ -2612,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Testing refactors helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-9-unit-8-legacy-seams",
@@ -2625,7 +3663,18 @@
               "unitId": "ood-section-9-unit-8-legacy-seams",
               "title": "Learn Legacy seams",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s9-u8-q1",
+                "ood-s9-u8-q2",
+                "ood-s9-u8-q3",
+                "ood-s9-u8-q4",
+                "ood-s9-u8-q5",
+                "ood-s9-u8-q6",
+                "ood-s9-u8-q7",
+                "ood-s9-u8-q8",
+                "ood-s9-u8-q9",
+                "ood-s9-u8-q10"
+              ]
             },
             {
               "id": "ood-section-9-unit-8-legacy-seams-lesson-2",
@@ -2641,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Legacy seams helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-9-unit-9-refactor-plan",
@@ -2654,7 +3704,18 @@
               "unitId": "ood-section-9-unit-9-refactor-plan",
               "title": "Learn Refactor plan",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s9-u9-q1",
+                "ood-s9-u9-q2",
+                "ood-s9-u9-q3",
+                "ood-s9-u9-q4",
+                "ood-s9-u9-q5",
+                "ood-s9-u9-q6",
+                "ood-s9-u9-q7",
+                "ood-s9-u9-q8",
+                "ood-s9-u9-q9",
+                "ood-s9-u9-q10"
+              ]
             },
             {
               "id": "ood-section-9-unit-9-refactor-plan-lesson-2",
@@ -2670,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Refactor plan helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-9-unit-10-refactor-project",
@@ -2683,7 +3745,18 @@
               "unitId": "ood-section-9-unit-10-refactor-project",
               "title": "Learn Refactor project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s9-u10-q1",
+                "ood-s9-u10-q2",
+                "ood-s9-u10-q3",
+                "ood-s9-u10-q4",
+                "ood-s9-u10-q5",
+                "ood-s9-u10-q6",
+                "ood-s9-u10-q7",
+                "ood-s9-u10-q8",
+                "ood-s9-u10-q9",
+                "ood-s9-u10-q10"
+              ]
             },
             {
               "id": "ood-section-9-unit-10-refactor-project-lesson-2",
@@ -2699,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Refactor project helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         }
       ]
     },
@@ -2721,7 +3795,18 @@
               "unitId": "ood-section-10-unit-1-parking-lot",
               "title": "Learn Parking lot",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s10-u1-q1",
+                "ood-s10-u1-q2",
+                "ood-s10-u1-q3",
+                "ood-s10-u1-q4",
+                "ood-s10-u1-q5",
+                "ood-s10-u1-q6",
+                "ood-s10-u1-q7",
+                "ood-s10-u1-q8",
+                "ood-s10-u1-q9",
+                "ood-s10-u1-q10"
+              ]
             },
             {
               "id": "ood-section-10-unit-1-parking-lot-lesson-2",
@@ -2737,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Parking lot helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-10-unit-2-library-system",
@@ -2750,7 +3836,18 @@
               "unitId": "ood-section-10-unit-2-library-system",
               "title": "Learn Library system",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s10-u2-q1",
+                "ood-s10-u2-q2",
+                "ood-s10-u2-q3",
+                "ood-s10-u2-q4",
+                "ood-s10-u2-q5",
+                "ood-s10-u2-q6",
+                "ood-s10-u2-q7",
+                "ood-s10-u2-q8",
+                "ood-s10-u2-q9",
+                "ood-s10-u2-q10"
+              ]
             },
             {
               "id": "ood-section-10-unit-2-library-system-lesson-2",
@@ -2766,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Library system helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-10-unit-3-elevator-model",
@@ -2779,7 +3877,18 @@
               "unitId": "ood-section-10-unit-3-elevator-model",
               "title": "Learn Elevator model",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s10-u3-q1",
+                "ood-s10-u3-q2",
+                "ood-s10-u3-q3",
+                "ood-s10-u3-q4",
+                "ood-s10-u3-q5",
+                "ood-s10-u3-q6",
+                "ood-s10-u3-q7",
+                "ood-s10-u3-q8",
+                "ood-s10-u3-q9",
+                "ood-s10-u3-q10"
+              ]
             },
             {
               "id": "ood-section-10-unit-3-elevator-model-lesson-2",
@@ -2795,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Elevator model helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-10-unit-4-notification-system",
@@ -2808,7 +3918,18 @@
               "unitId": "ood-section-10-unit-4-notification-system",
               "title": "Learn Notification system",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s10-u4-q1",
+                "ood-s10-u4-q2",
+                "ood-s10-u4-q3",
+                "ood-s10-u4-q4",
+                "ood-s10-u4-q5",
+                "ood-s10-u4-q6",
+                "ood-s10-u4-q7",
+                "ood-s10-u4-q8",
+                "ood-s10-u4-q9",
+                "ood-s10-u4-q10"
+              ]
             },
             {
               "id": "ood-section-10-unit-4-notification-system-lesson-2",
@@ -2824,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Notification system helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-10-unit-5-game-inventory",
@@ -2837,7 +3959,18 @@
               "unitId": "ood-section-10-unit-5-game-inventory",
               "title": "Learn Game inventory",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s10-u5-q1",
+                "ood-s10-u5-q2",
+                "ood-s10-u5-q3",
+                "ood-s10-u5-q4",
+                "ood-s10-u5-q5",
+                "ood-s10-u5-q6",
+                "ood-s10-u5-q7",
+                "ood-s10-u5-q8",
+                "ood-s10-u5-q9",
+                "ood-s10-u5-q10"
+              ]
             },
             {
               "id": "ood-section-10-unit-5-game-inventory-lesson-2",
@@ -2853,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Game inventory helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-10-unit-6-payment-flow",
@@ -2866,7 +4000,18 @@
               "unitId": "ood-section-10-unit-6-payment-flow",
               "title": "Learn Payment flow",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s10-u6-q1",
+                "ood-s10-u6-q2",
+                "ood-s10-u6-q3",
+                "ood-s10-u6-q4",
+                "ood-s10-u6-q5",
+                "ood-s10-u6-q6",
+                "ood-s10-u6-q7",
+                "ood-s10-u6-q8",
+                "ood-s10-u6-q9",
+                "ood-s10-u6-q10"
+              ]
             },
             {
               "id": "ood-section-10-unit-6-payment-flow-lesson-2",
@@ -2882,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Payment flow helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-10-unit-7-ride-sharing-model",
@@ -2895,7 +4041,18 @@
               "unitId": "ood-section-10-unit-7-ride-sharing-model",
               "title": "Learn Ride sharing model",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s10-u7-q1",
+                "ood-s10-u7-q2",
+                "ood-s10-u7-q3",
+                "ood-s10-u7-q4",
+                "ood-s10-u7-q5",
+                "ood-s10-u7-q6",
+                "ood-s10-u7-q7",
+                "ood-s10-u7-q8",
+                "ood-s10-u7-q9",
+                "ood-s10-u7-q10"
+              ]
             },
             {
               "id": "ood-section-10-unit-7-ride-sharing-model-lesson-2",
@@ -2911,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Ride sharing model helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-10-unit-8-design-review",
@@ -2924,7 +4082,18 @@
               "unitId": "ood-section-10-unit-8-design-review",
               "title": "Learn Design review",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s10-u8-q1",
+                "ood-s10-u8-q2",
+                "ood-s10-u8-q3",
+                "ood-s10-u8-q4",
+                "ood-s10-u8-q5",
+                "ood-s10-u8-q6",
+                "ood-s10-u8-q7",
+                "ood-s10-u8-q8",
+                "ood-s10-u8-q9",
+                "ood-s10-u8-q10"
+              ]
             },
             {
               "id": "ood-section-10-unit-8-design-review-lesson-2",
@@ -2940,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Design review helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-10-unit-9-refactor-pass",
@@ -2953,7 +4123,18 @@
               "unitId": "ood-section-10-unit-9-refactor-pass",
               "title": "Learn Refactor pass",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s10-u9-q1",
+                "ood-s10-u9-q2",
+                "ood-s10-u9-q3",
+                "ood-s10-u9-q4",
+                "ood-s10-u9-q5",
+                "ood-s10-u9-q6",
+                "ood-s10-u9-q7",
+                "ood-s10-u9-q8",
+                "ood-s10-u9-q9",
+                "ood-s10-u9-q10"
+              ]
             },
             {
               "id": "ood-section-10-unit-9-refactor-pass-lesson-2",
@@ -2969,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Refactor pass helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         },
         {
           "id": "ood-section-10-unit-10-final-ood-project",
@@ -2982,7 +4164,18 @@
               "unitId": "ood-section-10-unit-10-final-ood-project",
               "title": "Learn Final OOD project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "ood-s10-u10-q1",
+                "ood-s10-u10-q2",
+                "ood-s10-u10-q3",
+                "ood-s10-u10-q4",
+                "ood-s10-u10-q5",
+                "ood-s10-u10-q6",
+                "ood-s10-u10-q7",
+                "ood-s10-u10-q8",
+                "ood-s10-u10-q9",
+                "ood-s10-u10-q10"
+              ]
             },
             {
               "id": "ood-section-10-unit-10-final-ood-project-lesson-2",
@@ -2998,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final OOD project helps you assign clear object responsibilities. Example: `Order.calculateTotal()`. Avoid: creating classes for every noun."
         }
       ]
     }

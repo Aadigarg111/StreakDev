@@ -25,7 +25,16 @@
               "title": "Learn Variables",
               "order": 1,
               "exerciseIds": [
-                "javascript-s1-u1-sample"
+                "javascript-s1-u1-q1",
+                "javascript-s1-u1-q2",
+                "javascript-s1-u1-q3",
+                "javascript-s1-u1-q4",
+                "javascript-s1-u1-q5",
+                "javascript-s1-u1-q6",
+                "javascript-s1-u1-q7",
+                "javascript-s1-u1-q8",
+                "javascript-s1-u1-q9",
+                "javascript-s1-u1-q10"
               ]
             },
             {
@@ -42,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Variables helps you make programs respond to data and events. Example: `let count = 0`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-1-unit-2-data-types",
@@ -56,7 +66,16 @@
               "title": "Learn Data types",
               "order": 1,
               "exerciseIds": [
-                "javascript-s1-u2-sample"
+                "javascript-s1-u2-q1",
+                "javascript-s1-u2-q2",
+                "javascript-s1-u2-q3",
+                "javascript-s1-u2-q4",
+                "javascript-s1-u2-q5",
+                "javascript-s1-u2-q6",
+                "javascript-s1-u2-q7",
+                "javascript-s1-u2-q8",
+                "javascript-s1-u2-q9",
+                "javascript-s1-u2-q10"
               ]
             },
             {
@@ -73,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data types helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-1-unit-3-operators",
@@ -87,7 +107,16 @@
               "title": "Learn Operators",
               "order": 1,
               "exerciseIds": [
-                "javascript-s1-u3-sample"
+                "javascript-s1-u3-q1",
+                "javascript-s1-u3-q2",
+                "javascript-s1-u3-q3",
+                "javascript-s1-u3-q4",
+                "javascript-s1-u3-q5",
+                "javascript-s1-u3-q6",
+                "javascript-s1-u3-q7",
+                "javascript-s1-u3-q8",
+                "javascript-s1-u3-q9",
+                "javascript-s1-u3-q10"
               ]
             },
             {
@@ -104,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Operators helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-1-unit-4-type-coercion",
@@ -117,7 +147,18 @@
               "unitId": "javascript-section-1-unit-4-type-coercion",
               "title": "Learn Type coercion",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s1-u4-q1",
+                "javascript-s1-u4-q2",
+                "javascript-s1-u4-q3",
+                "javascript-s1-u4-q4",
+                "javascript-s1-u4-q5",
+                "javascript-s1-u4-q6",
+                "javascript-s1-u4-q7",
+                "javascript-s1-u4-q8",
+                "javascript-s1-u4-q9",
+                "javascript-s1-u4-q10"
+              ]
             },
             {
               "id": "javascript-section-1-unit-4-type-coercion-lesson-2",
@@ -133,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Type coercion helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-1-unit-5-comments",
@@ -146,7 +188,18 @@
               "unitId": "javascript-section-1-unit-5-comments",
               "title": "Learn Comments",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s1-u5-q1",
+                "javascript-s1-u5-q2",
+                "javascript-s1-u5-q3",
+                "javascript-s1-u5-q4",
+                "javascript-s1-u5-q5",
+                "javascript-s1-u5-q6",
+                "javascript-s1-u5-q7",
+                "javascript-s1-u5-q8",
+                "javascript-s1-u5-q9",
+                "javascript-s1-u5-q10"
+              ]
             },
             {
               "id": "javascript-section-1-unit-5-comments-lesson-2",
@@ -162,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Comments helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-1-unit-6-console-basics",
@@ -175,7 +229,18 @@
               "unitId": "javascript-section-1-unit-6-console-basics",
               "title": "Learn Console basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s1-u6-q1",
+                "javascript-s1-u6-q2",
+                "javascript-s1-u6-q3",
+                "javascript-s1-u6-q4",
+                "javascript-s1-u6-q5",
+                "javascript-s1-u6-q6",
+                "javascript-s1-u6-q7",
+                "javascript-s1-u6-q8",
+                "javascript-s1-u6-q9",
+                "javascript-s1-u6-q10"
+              ]
             },
             {
               "id": "javascript-section-1-unit-6-console-basics-lesson-2",
@@ -191,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Console basics helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-1-unit-7-strict-mode",
@@ -204,7 +270,18 @@
               "unitId": "javascript-section-1-unit-7-strict-mode",
               "title": "Learn Strict mode",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s1-u7-q1",
+                "javascript-s1-u7-q2",
+                "javascript-s1-u7-q3",
+                "javascript-s1-u7-q4",
+                "javascript-s1-u7-q5",
+                "javascript-s1-u7-q6",
+                "javascript-s1-u7-q7",
+                "javascript-s1-u7-q8",
+                "javascript-s1-u7-q9",
+                "javascript-s1-u7-q10"
+              ]
             },
             {
               "id": "javascript-section-1-unit-7-strict-mode-lesson-2",
@@ -220,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Strict mode helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-1-unit-8-template-literals",
@@ -233,7 +311,18 @@
               "unitId": "javascript-section-1-unit-8-template-literals",
               "title": "Learn Template literals",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s1-u8-q1",
+                "javascript-s1-u8-q2",
+                "javascript-s1-u8-q3",
+                "javascript-s1-u8-q4",
+                "javascript-s1-u8-q5",
+                "javascript-s1-u8-q6",
+                "javascript-s1-u8-q7",
+                "javascript-s1-u8-q8",
+                "javascript-s1-u8-q9",
+                "javascript-s1-u8-q10"
+              ]
             },
             {
               "id": "javascript-section-1-unit-8-template-literals-lesson-2",
@@ -249,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Template literals helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-1-unit-9-var-vs-let-vs-const",
@@ -262,7 +352,18 @@
               "unitId": "javascript-section-1-unit-9-var-vs-let-vs-const",
               "title": "Learn var vs let vs const",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s1-u9-q1",
+                "javascript-s1-u9-q2",
+                "javascript-s1-u9-q3",
+                "javascript-s1-u9-q4",
+                "javascript-s1-u9-q5",
+                "javascript-s1-u9-q6",
+                "javascript-s1-u9-q7",
+                "javascript-s1-u9-q8",
+                "javascript-s1-u9-q9",
+                "javascript-s1-u9-q10"
+              ]
             },
             {
               "id": "javascript-section-1-unit-9-var-vs-let-vs-const-lesson-2",
@@ -278,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "var vs let vs const helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-1-unit-10-basic-input-and-output",
@@ -291,7 +393,18 @@
               "unitId": "javascript-section-1-unit-10-basic-input-and-output",
               "title": "Learn Basic input and output",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s1-u10-q1",
+                "javascript-s1-u10-q2",
+                "javascript-s1-u10-q3",
+                "javascript-s1-u10-q4",
+                "javascript-s1-u10-q5",
+                "javascript-s1-u10-q6",
+                "javascript-s1-u10-q7",
+                "javascript-s1-u10-q8",
+                "javascript-s1-u10-q9",
+                "javascript-s1-u10-q10"
+              ]
             },
             {
               "id": "javascript-section-1-unit-10-basic-input-and-output-lesson-2",
@@ -307,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Basic input and output helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         }
       ]
     },
@@ -329,7 +443,18 @@
               "unitId": "javascript-section-2-unit-1-if-and-else",
               "title": "Learn if and else",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s2-u1-q1",
+                "javascript-s2-u1-q2",
+                "javascript-s2-u1-q3",
+                "javascript-s2-u1-q4",
+                "javascript-s2-u1-q5",
+                "javascript-s2-u1-q6",
+                "javascript-s2-u1-q7",
+                "javascript-s2-u1-q8",
+                "javascript-s2-u1-q9",
+                "javascript-s2-u1-q10"
+              ]
             },
             {
               "id": "javascript-section-2-unit-1-if-and-else-lesson-2",
@@ -345,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "if and else helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-2-unit-2-switch-statements",
@@ -358,7 +484,18 @@
               "unitId": "javascript-section-2-unit-2-switch-statements",
               "title": "Learn switch statements",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s2-u2-q1",
+                "javascript-s2-u2-q2",
+                "javascript-s2-u2-q3",
+                "javascript-s2-u2-q4",
+                "javascript-s2-u2-q5",
+                "javascript-s2-u2-q6",
+                "javascript-s2-u2-q7",
+                "javascript-s2-u2-q8",
+                "javascript-s2-u2-q9",
+                "javascript-s2-u2-q10"
+              ]
             },
             {
               "id": "javascript-section-2-unit-2-switch-statements-lesson-2",
@@ -374,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "switch statements helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-2-unit-3-ternary-expressions",
@@ -387,7 +525,18 @@
               "unitId": "javascript-section-2-unit-3-ternary-expressions",
               "title": "Learn Ternary expressions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s2-u3-q1",
+                "javascript-s2-u3-q2",
+                "javascript-s2-u3-q3",
+                "javascript-s2-u3-q4",
+                "javascript-s2-u3-q5",
+                "javascript-s2-u3-q6",
+                "javascript-s2-u3-q7",
+                "javascript-s2-u3-q8",
+                "javascript-s2-u3-q9",
+                "javascript-s2-u3-q10"
+              ]
             },
             {
               "id": "javascript-section-2-unit-3-ternary-expressions-lesson-2",
@@ -403,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Ternary expressions helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-2-unit-4-for-loops",
@@ -416,7 +566,18 @@
               "unitId": "javascript-section-2-unit-4-for-loops",
               "title": "Learn for loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s2-u4-q1",
+                "javascript-s2-u4-q2",
+                "javascript-s2-u4-q3",
+                "javascript-s2-u4-q4",
+                "javascript-s2-u4-q5",
+                "javascript-s2-u4-q6",
+                "javascript-s2-u4-q7",
+                "javascript-s2-u4-q8",
+                "javascript-s2-u4-q9",
+                "javascript-s2-u4-q10"
+              ]
             },
             {
               "id": "javascript-section-2-unit-4-for-loops-lesson-2",
@@ -432,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "for loops helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-2-unit-5-while-loops",
@@ -445,7 +607,18 @@
               "unitId": "javascript-section-2-unit-5-while-loops",
               "title": "Learn while loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s2-u5-q1",
+                "javascript-s2-u5-q2",
+                "javascript-s2-u5-q3",
+                "javascript-s2-u5-q4",
+                "javascript-s2-u5-q5",
+                "javascript-s2-u5-q6",
+                "javascript-s2-u5-q7",
+                "javascript-s2-u5-q8",
+                "javascript-s2-u5-q9",
+                "javascript-s2-u5-q10"
+              ]
             },
             {
               "id": "javascript-section-2-unit-5-while-loops-lesson-2",
@@ -461,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "while loops helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-2-unit-6-break-and-continue",
@@ -474,7 +648,18 @@
               "unitId": "javascript-section-2-unit-6-break-and-continue",
               "title": "Learn break and continue",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s2-u6-q1",
+                "javascript-s2-u6-q2",
+                "javascript-s2-u6-q3",
+                "javascript-s2-u6-q4",
+                "javascript-s2-u6-q5",
+                "javascript-s2-u6-q6",
+                "javascript-s2-u6-q7",
+                "javascript-s2-u6-q8",
+                "javascript-s2-u6-q9",
+                "javascript-s2-u6-q10"
+              ]
             },
             {
               "id": "javascript-section-2-unit-6-break-and-continue-lesson-2",
@@ -490,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "break and continue helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-2-unit-7-nested-conditionals",
@@ -503,7 +689,18 @@
               "unitId": "javascript-section-2-unit-7-nested-conditionals",
               "title": "Learn Nested conditionals",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s2-u7-q1",
+                "javascript-s2-u7-q2",
+                "javascript-s2-u7-q3",
+                "javascript-s2-u7-q4",
+                "javascript-s2-u7-q5",
+                "javascript-s2-u7-q6",
+                "javascript-s2-u7-q7",
+                "javascript-s2-u7-q8",
+                "javascript-s2-u7-q9",
+                "javascript-s2-u7-q10"
+              ]
             },
             {
               "id": "javascript-section-2-unit-7-nested-conditionals-lesson-2",
@@ -519,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Nested conditionals helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-2-unit-8-truthy-and-falsy-values",
@@ -532,7 +730,18 @@
               "unitId": "javascript-section-2-unit-8-truthy-and-falsy-values",
               "title": "Learn Truthy and falsy values",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s2-u8-q1",
+                "javascript-s2-u8-q2",
+                "javascript-s2-u8-q3",
+                "javascript-s2-u8-q4",
+                "javascript-s2-u8-q5",
+                "javascript-s2-u8-q6",
+                "javascript-s2-u8-q7",
+                "javascript-s2-u8-q8",
+                "javascript-s2-u8-q9",
+                "javascript-s2-u8-q10"
+              ]
             },
             {
               "id": "javascript-section-2-unit-8-truthy-and-falsy-values-lesson-2",
@@ -548,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Truthy and falsy values helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-2-unit-9-logical-operators",
@@ -561,7 +771,18 @@
               "unitId": "javascript-section-2-unit-9-logical-operators",
               "title": "Learn Logical operators",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s2-u9-q1",
+                "javascript-s2-u9-q2",
+                "javascript-s2-u9-q3",
+                "javascript-s2-u9-q4",
+                "javascript-s2-u9-q5",
+                "javascript-s2-u9-q6",
+                "javascript-s2-u9-q7",
+                "javascript-s2-u9-q8",
+                "javascript-s2-u9-q9",
+                "javascript-s2-u9-q10"
+              ]
             },
             {
               "id": "javascript-section-2-unit-9-logical-operators-lesson-2",
@@ -577,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Logical operators helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-2-unit-10-guard-clauses",
@@ -590,7 +812,18 @@
               "unitId": "javascript-section-2-unit-10-guard-clauses",
               "title": "Learn Guard clauses",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s2-u10-q1",
+                "javascript-s2-u10-q2",
+                "javascript-s2-u10-q3",
+                "javascript-s2-u10-q4",
+                "javascript-s2-u10-q5",
+                "javascript-s2-u10-q6",
+                "javascript-s2-u10-q7",
+                "javascript-s2-u10-q8",
+                "javascript-s2-u10-q9",
+                "javascript-s2-u10-q10"
+              ]
             },
             {
               "id": "javascript-section-2-unit-10-guard-clauses-lesson-2",
@@ -606,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Guard clauses helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         }
       ]
     },
@@ -629,12 +863,16 @@
               "title": "Learn Function declarations",
               "order": 1,
               "exerciseIds": [
-                "js-functions-mc-declaration",
-                "js-functions-fill-return",
-                "js-functions-spot-bug",
-                "js-functions-predict-output",
-                "js-functions-drag-reorder",
-                "js-functions-type-function"
+                "javascript-s3-u1-q1",
+                "javascript-s3-u1-q2",
+                "javascript-s3-u1-q3",
+                "javascript-s3-u1-q4",
+                "javascript-s3-u1-q5",
+                "javascript-s3-u1-q6",
+                "javascript-s3-u1-q7",
+                "javascript-s3-u1-q8",
+                "javascript-s3-u1-q9",
+                "javascript-s3-u1-q10"
               ]
             },
             {
@@ -651,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Function declarations helps you make programs respond to data and events. Example: `function add(a, b) { return a + b }`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-3-unit-2-function-expressions",
@@ -664,7 +903,18 @@
               "unitId": "javascript-section-3-unit-2-function-expressions",
               "title": "Learn Function expressions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s3-u2-q1",
+                "javascript-s3-u2-q2",
+                "javascript-s3-u2-q3",
+                "javascript-s3-u2-q4",
+                "javascript-s3-u2-q5",
+                "javascript-s3-u2-q6",
+                "javascript-s3-u2-q7",
+                "javascript-s3-u2-q8",
+                "javascript-s3-u2-q9",
+                "javascript-s3-u2-q10"
+              ]
             },
             {
               "id": "javascript-section-3-unit-2-function-expressions-lesson-2",
@@ -680,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Function expressions helps you make programs respond to data and events. Example: `function add(a, b) { return a + b }`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-3-unit-3-arrow-functions",
@@ -693,7 +944,18 @@
               "unitId": "javascript-section-3-unit-3-arrow-functions",
               "title": "Learn Arrow functions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s3-u3-q1",
+                "javascript-s3-u3-q2",
+                "javascript-s3-u3-q3",
+                "javascript-s3-u3-q4",
+                "javascript-s3-u3-q5",
+                "javascript-s3-u3-q6",
+                "javascript-s3-u3-q7",
+                "javascript-s3-u3-q8",
+                "javascript-s3-u3-q9",
+                "javascript-s3-u3-q10"
+              ]
             },
             {
               "id": "javascript-section-3-unit-3-arrow-functions-lesson-2",
@@ -709,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Arrow functions helps you make programs respond to data and events. Example: `function add(a, b) { return a + b }`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-3-unit-4-parameters-and-arguments",
@@ -722,7 +985,18 @@
               "unitId": "javascript-section-3-unit-4-parameters-and-arguments",
               "title": "Learn Parameters and arguments",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s3-u4-q1",
+                "javascript-s3-u4-q2",
+                "javascript-s3-u4-q3",
+                "javascript-s3-u4-q4",
+                "javascript-s3-u4-q5",
+                "javascript-s3-u4-q6",
+                "javascript-s3-u4-q7",
+                "javascript-s3-u4-q8",
+                "javascript-s3-u4-q9",
+                "javascript-s3-u4-q10"
+              ]
             },
             {
               "id": "javascript-section-3-unit-4-parameters-and-arguments-lesson-2",
@@ -738,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Parameters and arguments helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-3-unit-5-default-parameters",
@@ -751,7 +1026,18 @@
               "unitId": "javascript-section-3-unit-5-default-parameters",
               "title": "Learn Default parameters",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s3-u5-q1",
+                "javascript-s3-u5-q2",
+                "javascript-s3-u5-q3",
+                "javascript-s3-u5-q4",
+                "javascript-s3-u5-q5",
+                "javascript-s3-u5-q6",
+                "javascript-s3-u5-q7",
+                "javascript-s3-u5-q8",
+                "javascript-s3-u5-q9",
+                "javascript-s3-u5-q10"
+              ]
             },
             {
               "id": "javascript-section-3-unit-5-default-parameters-lesson-2",
@@ -767,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Default parameters helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-3-unit-6-rest-parameters",
@@ -780,7 +1067,18 @@
               "unitId": "javascript-section-3-unit-6-rest-parameters",
               "title": "Learn Rest parameters",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s3-u6-q1",
+                "javascript-s3-u6-q2",
+                "javascript-s3-u6-q3",
+                "javascript-s3-u6-q4",
+                "javascript-s3-u6-q5",
+                "javascript-s3-u6-q6",
+                "javascript-s3-u6-q7",
+                "javascript-s3-u6-q8",
+                "javascript-s3-u6-q9",
+                "javascript-s3-u6-q10"
+              ]
             },
             {
               "id": "javascript-section-3-unit-6-rest-parameters-lesson-2",
@@ -796,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Rest parameters helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-3-unit-7-return-values",
@@ -809,7 +1108,18 @@
               "unitId": "javascript-section-3-unit-7-return-values",
               "title": "Learn Return values",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s3-u7-q1",
+                "javascript-s3-u7-q2",
+                "javascript-s3-u7-q3",
+                "javascript-s3-u7-q4",
+                "javascript-s3-u7-q5",
+                "javascript-s3-u7-q6",
+                "javascript-s3-u7-q7",
+                "javascript-s3-u7-q8",
+                "javascript-s3-u7-q9",
+                "javascript-s3-u7-q10"
+              ]
             },
             {
               "id": "javascript-section-3-unit-7-return-values-lesson-2",
@@ -825,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Return values helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-3-unit-8-scope",
@@ -838,7 +1149,18 @@
               "unitId": "javascript-section-3-unit-8-scope",
               "title": "Learn Scope",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s3-u8-q1",
+                "javascript-s3-u8-q2",
+                "javascript-s3-u8-q3",
+                "javascript-s3-u8-q4",
+                "javascript-s3-u8-q5",
+                "javascript-s3-u8-q6",
+                "javascript-s3-u8-q7",
+                "javascript-s3-u8-q8",
+                "javascript-s3-u8-q9",
+                "javascript-s3-u8-q10"
+              ]
             },
             {
               "id": "javascript-section-3-unit-8-scope-lesson-2",
@@ -854,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Scope helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-3-unit-9-hoisting",
@@ -867,7 +1190,18 @@
               "unitId": "javascript-section-3-unit-9-hoisting",
               "title": "Learn Hoisting",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s3-u9-q1",
+                "javascript-s3-u9-q2",
+                "javascript-s3-u9-q3",
+                "javascript-s3-u9-q4",
+                "javascript-s3-u9-q5",
+                "javascript-s3-u9-q6",
+                "javascript-s3-u9-q7",
+                "javascript-s3-u9-q8",
+                "javascript-s3-u9-q9",
+                "javascript-s3-u9-q10"
+              ]
             },
             {
               "id": "javascript-section-3-unit-9-hoisting-lesson-2",
@@ -883,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Hoisting helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-3-unit-10-recursion",
@@ -896,7 +1231,18 @@
               "unitId": "javascript-section-3-unit-10-recursion",
               "title": "Learn Recursion",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s3-u10-q1",
+                "javascript-s3-u10-q2",
+                "javascript-s3-u10-q3",
+                "javascript-s3-u10-q4",
+                "javascript-s3-u10-q5",
+                "javascript-s3-u10-q6",
+                "javascript-s3-u10-q7",
+                "javascript-s3-u10-q8",
+                "javascript-s3-u10-q9",
+                "javascript-s3-u10-q10"
+              ]
             },
             {
               "id": "javascript-section-3-unit-10-recursion-lesson-2",
@@ -912,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Recursion helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         }
       ]
     },
@@ -934,7 +1281,18 @@
               "unitId": "javascript-section-4-unit-1-array-creation",
               "title": "Learn Array creation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s4-u1-q1",
+                "javascript-s4-u1-q2",
+                "javascript-s4-u1-q3",
+                "javascript-s4-u1-q4",
+                "javascript-s4-u1-q5",
+                "javascript-s4-u1-q6",
+                "javascript-s4-u1-q7",
+                "javascript-s4-u1-q8",
+                "javascript-s4-u1-q9",
+                "javascript-s4-u1-q10"
+              ]
             },
             {
               "id": "javascript-section-4-unit-1-array-creation-lesson-2",
@@ -950,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Array creation helps you make programs respond to data and events. Example: `items.map(item => item.name)`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-4-unit-2-indexing",
@@ -963,7 +1322,18 @@
               "unitId": "javascript-section-4-unit-2-indexing",
               "title": "Learn Indexing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s4-u2-q1",
+                "javascript-s4-u2-q2",
+                "javascript-s4-u2-q3",
+                "javascript-s4-u2-q4",
+                "javascript-s4-u2-q5",
+                "javascript-s4-u2-q6",
+                "javascript-s4-u2-q7",
+                "javascript-s4-u2-q8",
+                "javascript-s4-u2-q9",
+                "javascript-s4-u2-q10"
+              ]
             },
             {
               "id": "javascript-section-4-unit-2-indexing-lesson-2",
@@ -979,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Indexing helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-4-unit-3-mutation-methods",
@@ -992,7 +1363,18 @@
               "unitId": "javascript-section-4-unit-3-mutation-methods",
               "title": "Learn Mutation methods",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s4-u3-q1",
+                "javascript-s4-u3-q2",
+                "javascript-s4-u3-q3",
+                "javascript-s4-u3-q4",
+                "javascript-s4-u3-q5",
+                "javascript-s4-u3-q6",
+                "javascript-s4-u3-q7",
+                "javascript-s4-u3-q8",
+                "javascript-s4-u3-q9",
+                "javascript-s4-u3-q10"
+              ]
             },
             {
               "id": "javascript-section-4-unit-3-mutation-methods-lesson-2",
@@ -1008,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Mutation methods helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-4-unit-4-iteration-methods",
@@ -1021,7 +1404,18 @@
               "unitId": "javascript-section-4-unit-4-iteration-methods",
               "title": "Learn Iteration methods",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s4-u4-q1",
+                "javascript-s4-u4-q2",
+                "javascript-s4-u4-q3",
+                "javascript-s4-u4-q4",
+                "javascript-s4-u4-q5",
+                "javascript-s4-u4-q6",
+                "javascript-s4-u4-q7",
+                "javascript-s4-u4-q8",
+                "javascript-s4-u4-q9",
+                "javascript-s4-u4-q10"
+              ]
             },
             {
               "id": "javascript-section-4-unit-4-iteration-methods-lesson-2",
@@ -1037,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Iteration methods helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-4-unit-5-map",
@@ -1050,7 +1445,18 @@
               "unitId": "javascript-section-4-unit-5-map",
               "title": "Learn map",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s4-u5-q1",
+                "javascript-s4-u5-q2",
+                "javascript-s4-u5-q3",
+                "javascript-s4-u5-q4",
+                "javascript-s4-u5-q5",
+                "javascript-s4-u5-q6",
+                "javascript-s4-u5-q7",
+                "javascript-s4-u5-q8",
+                "javascript-s4-u5-q9",
+                "javascript-s4-u5-q10"
+              ]
             },
             {
               "id": "javascript-section-4-unit-5-map-lesson-2",
@@ -1066,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "map helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-4-unit-6-filter",
@@ -1079,7 +1486,18 @@
               "unitId": "javascript-section-4-unit-6-filter",
               "title": "Learn filter",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s4-u6-q1",
+                "javascript-s4-u6-q2",
+                "javascript-s4-u6-q3",
+                "javascript-s4-u6-q4",
+                "javascript-s4-u6-q5",
+                "javascript-s4-u6-q6",
+                "javascript-s4-u6-q7",
+                "javascript-s4-u6-q8",
+                "javascript-s4-u6-q9",
+                "javascript-s4-u6-q10"
+              ]
             },
             {
               "id": "javascript-section-4-unit-6-filter-lesson-2",
@@ -1095,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "filter helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-4-unit-7-reduce",
@@ -1108,7 +1527,18 @@
               "unitId": "javascript-section-4-unit-7-reduce",
               "title": "Learn reduce",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s4-u7-q1",
+                "javascript-s4-u7-q2",
+                "javascript-s4-u7-q3",
+                "javascript-s4-u7-q4",
+                "javascript-s4-u7-q5",
+                "javascript-s4-u7-q6",
+                "javascript-s4-u7-q7",
+                "javascript-s4-u7-q8",
+                "javascript-s4-u7-q9",
+                "javascript-s4-u7-q10"
+              ]
             },
             {
               "id": "javascript-section-4-unit-7-reduce-lesson-2",
@@ -1124,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "reduce helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-4-unit-8-find-and-some",
@@ -1137,7 +1568,18 @@
               "unitId": "javascript-section-4-unit-8-find-and-some",
               "title": "Learn find and some",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s4-u8-q1",
+                "javascript-s4-u8-q2",
+                "javascript-s4-u8-q3",
+                "javascript-s4-u8-q4",
+                "javascript-s4-u8-q5",
+                "javascript-s4-u8-q6",
+                "javascript-s4-u8-q7",
+                "javascript-s4-u8-q8",
+                "javascript-s4-u8-q9",
+                "javascript-s4-u8-q10"
+              ]
             },
             {
               "id": "javascript-section-4-unit-8-find-and-some-lesson-2",
@@ -1153,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "find and some helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-4-unit-9-sorting-arrays",
@@ -1166,7 +1609,18 @@
               "unitId": "javascript-section-4-unit-9-sorting-arrays",
               "title": "Learn Sorting arrays",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s4-u9-q1",
+                "javascript-s4-u9-q2",
+                "javascript-s4-u9-q3",
+                "javascript-s4-u9-q4",
+                "javascript-s4-u9-q5",
+                "javascript-s4-u9-q6",
+                "javascript-s4-u9-q7",
+                "javascript-s4-u9-q8",
+                "javascript-s4-u9-q9",
+                "javascript-s4-u9-q10"
+              ]
             },
             {
               "id": "javascript-section-4-unit-9-sorting-arrays-lesson-2",
@@ -1182,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sorting arrays helps you make programs respond to data and events. Example: `items.map(item => item.name)`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-4-unit-10-nested-arrays",
@@ -1195,7 +1650,18 @@
               "unitId": "javascript-section-4-unit-10-nested-arrays",
               "title": "Learn Nested arrays",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s4-u10-q1",
+                "javascript-s4-u10-q2",
+                "javascript-s4-u10-q3",
+                "javascript-s4-u10-q4",
+                "javascript-s4-u10-q5",
+                "javascript-s4-u10-q6",
+                "javascript-s4-u10-q7",
+                "javascript-s4-u10-q8",
+                "javascript-s4-u10-q9",
+                "javascript-s4-u10-q10"
+              ]
             },
             {
               "id": "javascript-section-4-unit-10-nested-arrays-lesson-2",
@@ -1211,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Nested arrays helps you make programs respond to data and events. Example: `items.map(item => item.name)`. Avoid: not tracking what value an expression returns."
         }
       ]
     },
@@ -1233,7 +1700,18 @@
               "unitId": "javascript-section-5-unit-1-object-literals",
               "title": "Learn Object literals",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s5-u1-q1",
+                "javascript-s5-u1-q2",
+                "javascript-s5-u1-q3",
+                "javascript-s5-u1-q4",
+                "javascript-s5-u1-q5",
+                "javascript-s5-u1-q6",
+                "javascript-s5-u1-q7",
+                "javascript-s5-u1-q8",
+                "javascript-s5-u1-q9",
+                "javascript-s5-u1-q10"
+              ]
             },
             {
               "id": "javascript-section-5-unit-1-object-literals-lesson-2",
@@ -1249,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Object literals helps you make programs respond to data and events. Example: `user.name`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-5-unit-2-property-access",
@@ -1262,7 +1741,18 @@
               "unitId": "javascript-section-5-unit-2-property-access",
               "title": "Learn Property access",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s5-u2-q1",
+                "javascript-s5-u2-q2",
+                "javascript-s5-u2-q3",
+                "javascript-s5-u2-q4",
+                "javascript-s5-u2-q5",
+                "javascript-s5-u2-q6",
+                "javascript-s5-u2-q7",
+                "javascript-s5-u2-q8",
+                "javascript-s5-u2-q9",
+                "javascript-s5-u2-q10"
+              ]
             },
             {
               "id": "javascript-section-5-unit-2-property-access-lesson-2",
@@ -1278,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Property access helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-5-unit-3-methods",
@@ -1291,7 +1782,18 @@
               "unitId": "javascript-section-5-unit-3-methods",
               "title": "Learn Methods",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s5-u3-q1",
+                "javascript-s5-u3-q2",
+                "javascript-s5-u3-q3",
+                "javascript-s5-u3-q4",
+                "javascript-s5-u3-q5",
+                "javascript-s5-u3-q6",
+                "javascript-s5-u3-q7",
+                "javascript-s5-u3-q8",
+                "javascript-s5-u3-q9",
+                "javascript-s5-u3-q10"
+              ]
             },
             {
               "id": "javascript-section-5-unit-3-methods-lesson-2",
@@ -1307,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Methods helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-5-unit-4-this-basics",
@@ -1320,7 +1823,18 @@
               "unitId": "javascript-section-5-unit-4-this-basics",
               "title": "Learn this basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s5-u4-q1",
+                "javascript-s5-u4-q2",
+                "javascript-s5-u4-q3",
+                "javascript-s5-u4-q4",
+                "javascript-s5-u4-q5",
+                "javascript-s5-u4-q6",
+                "javascript-s5-u4-q7",
+                "javascript-s5-u4-q8",
+                "javascript-s5-u4-q9",
+                "javascript-s5-u4-q10"
+              ]
             },
             {
               "id": "javascript-section-5-unit-4-this-basics-lesson-2",
@@ -1336,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "this basics helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-5-unit-5-destructuring",
@@ -1349,7 +1864,18 @@
               "unitId": "javascript-section-5-unit-5-destructuring",
               "title": "Learn Destructuring",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s5-u5-q1",
+                "javascript-s5-u5-q2",
+                "javascript-s5-u5-q3",
+                "javascript-s5-u5-q4",
+                "javascript-s5-u5-q5",
+                "javascript-s5-u5-q6",
+                "javascript-s5-u5-q7",
+                "javascript-s5-u5-q8",
+                "javascript-s5-u5-q9",
+                "javascript-s5-u5-q10"
+              ]
             },
             {
               "id": "javascript-section-5-unit-5-destructuring-lesson-2",
@@ -1365,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Destructuring helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-5-unit-6-spread-and-clone",
@@ -1378,7 +1905,18 @@
               "unitId": "javascript-section-5-unit-6-spread-and-clone",
               "title": "Learn Spread and clone",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s5-u6-q1",
+                "javascript-s5-u6-q2",
+                "javascript-s5-u6-q3",
+                "javascript-s5-u6-q4",
+                "javascript-s5-u6-q5",
+                "javascript-s5-u6-q6",
+                "javascript-s5-u6-q7",
+                "javascript-s5-u6-q8",
+                "javascript-s5-u6-q9",
+                "javascript-s5-u6-q10"
+              ]
             },
             {
               "id": "javascript-section-5-unit-6-spread-and-clone-lesson-2",
@@ -1394,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Spread and clone helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-5-unit-7-object-keys",
@@ -1407,7 +1946,18 @@
               "unitId": "javascript-section-5-unit-7-object-keys",
               "title": "Learn Object.keys",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s5-u7-q1",
+                "javascript-s5-u7-q2",
+                "javascript-s5-u7-q3",
+                "javascript-s5-u7-q4",
+                "javascript-s5-u7-q5",
+                "javascript-s5-u7-q6",
+                "javascript-s5-u7-q7",
+                "javascript-s5-u7-q8",
+                "javascript-s5-u7-q9",
+                "javascript-s5-u7-q10"
+              ]
             },
             {
               "id": "javascript-section-5-unit-7-object-keys-lesson-2",
@@ -1423,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Object.keys helps you make programs respond to data and events. Example: `user.name`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-5-unit-8-optional-chaining",
@@ -1436,7 +1987,18 @@
               "unitId": "javascript-section-5-unit-8-optional-chaining",
               "title": "Learn Optional chaining",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s5-u8-q1",
+                "javascript-s5-u8-q2",
+                "javascript-s5-u8-q3",
+                "javascript-s5-u8-q4",
+                "javascript-s5-u8-q5",
+                "javascript-s5-u8-q6",
+                "javascript-s5-u8-q7",
+                "javascript-s5-u8-q8",
+                "javascript-s5-u8-q9",
+                "javascript-s5-u8-q10"
+              ]
             },
             {
               "id": "javascript-section-5-unit-8-optional-chaining-lesson-2",
@@ -1452,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Optional chaining helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-5-unit-9-json-basics",
@@ -1465,7 +2028,18 @@
               "unitId": "javascript-section-5-unit-9-json-basics",
               "title": "Learn JSON basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s5-u9-q1",
+                "javascript-s5-u9-q2",
+                "javascript-s5-u9-q3",
+                "javascript-s5-u9-q4",
+                "javascript-s5-u9-q5",
+                "javascript-s5-u9-q6",
+                "javascript-s5-u9-q7",
+                "javascript-s5-u9-q8",
+                "javascript-s5-u9-q9",
+                "javascript-s5-u9-q10"
+              ]
             },
             {
               "id": "javascript-section-5-unit-9-json-basics-lesson-2",
@@ -1481,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "JSON basics helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-5-unit-10-object-patterns",
@@ -1494,7 +2069,18 @@
               "unitId": "javascript-section-5-unit-10-object-patterns",
               "title": "Learn Object patterns",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s5-u10-q1",
+                "javascript-s5-u10-q2",
+                "javascript-s5-u10-q3",
+                "javascript-s5-u10-q4",
+                "javascript-s5-u10-q5",
+                "javascript-s5-u10-q6",
+                "javascript-s5-u10-q7",
+                "javascript-s5-u10-q8",
+                "javascript-s5-u10-q9",
+                "javascript-s5-u10-q10"
+              ]
             },
             {
               "id": "javascript-section-5-unit-10-object-patterns-lesson-2",
@@ -1510,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Object patterns helps you make programs respond to data and events. Example: `user.name`. Avoid: not tracking what value an expression returns."
         }
       ]
     },
@@ -1532,7 +2119,18 @@
               "unitId": "javascript-section-6-unit-1-selecting-elements",
               "title": "Learn Selecting elements",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s6-u1-q1",
+                "javascript-s6-u1-q2",
+                "javascript-s6-u1-q3",
+                "javascript-s6-u1-q4",
+                "javascript-s6-u1-q5",
+                "javascript-s6-u1-q6",
+                "javascript-s6-u1-q7",
+                "javascript-s6-u1-q8",
+                "javascript-s6-u1-q9",
+                "javascript-s6-u1-q10"
+              ]
             },
             {
               "id": "javascript-section-6-unit-1-selecting-elements-lesson-2",
@@ -1548,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Selecting elements helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-6-unit-2-changing-text",
@@ -1561,7 +2160,18 @@
               "unitId": "javascript-section-6-unit-2-changing-text",
               "title": "Learn Changing text",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s6-u2-q1",
+                "javascript-s6-u2-q2",
+                "javascript-s6-u2-q3",
+                "javascript-s6-u2-q4",
+                "javascript-s6-u2-q5",
+                "javascript-s6-u2-q6",
+                "javascript-s6-u2-q7",
+                "javascript-s6-u2-q8",
+                "javascript-s6-u2-q9",
+                "javascript-s6-u2-q10"
+              ]
             },
             {
               "id": "javascript-section-6-unit-2-changing-text-lesson-2",
@@ -1577,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Changing text helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-6-unit-3-changing-styles",
@@ -1590,7 +2201,18 @@
               "unitId": "javascript-section-6-unit-3-changing-styles",
               "title": "Learn Changing styles",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s6-u3-q1",
+                "javascript-s6-u3-q2",
+                "javascript-s6-u3-q3",
+                "javascript-s6-u3-q4",
+                "javascript-s6-u3-q5",
+                "javascript-s6-u3-q6",
+                "javascript-s6-u3-q7",
+                "javascript-s6-u3-q8",
+                "javascript-s6-u3-q9",
+                "javascript-s6-u3-q10"
+              ]
             },
             {
               "id": "javascript-section-6-unit-3-changing-styles-lesson-2",
@@ -1606,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Changing styles helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-6-unit-4-creating-elements",
@@ -1619,7 +2242,18 @@
               "unitId": "javascript-section-6-unit-4-creating-elements",
               "title": "Learn Creating elements",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s6-u4-q1",
+                "javascript-s6-u4-q2",
+                "javascript-s6-u4-q3",
+                "javascript-s6-u4-q4",
+                "javascript-s6-u4-q5",
+                "javascript-s6-u4-q6",
+                "javascript-s6-u4-q7",
+                "javascript-s6-u4-q8",
+                "javascript-s6-u4-q9",
+                "javascript-s6-u4-q10"
+              ]
             },
             {
               "id": "javascript-section-6-unit-4-creating-elements-lesson-2",
@@ -1635,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Creating elements helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-6-unit-5-event-listeners",
@@ -1648,7 +2283,18 @@
               "unitId": "javascript-section-6-unit-5-event-listeners",
               "title": "Learn Event listeners",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s6-u5-q1",
+                "javascript-s6-u5-q2",
+                "javascript-s6-u5-q3",
+                "javascript-s6-u5-q4",
+                "javascript-s6-u5-q5",
+                "javascript-s6-u5-q6",
+                "javascript-s6-u5-q7",
+                "javascript-s6-u5-q8",
+                "javascript-s6-u5-q9",
+                "javascript-s6-u5-q10"
+              ]
             },
             {
               "id": "javascript-section-6-unit-5-event-listeners-lesson-2",
@@ -1664,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Event listeners helps you make programs respond to data and events. Example: `button.addEventListener('click', fn)`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-6-unit-6-event-object",
@@ -1677,7 +2324,18 @@
               "unitId": "javascript-section-6-unit-6-event-object",
               "title": "Learn Event object",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s6-u6-q1",
+                "javascript-s6-u6-q2",
+                "javascript-s6-u6-q3",
+                "javascript-s6-u6-q4",
+                "javascript-s6-u6-q5",
+                "javascript-s6-u6-q6",
+                "javascript-s6-u6-q7",
+                "javascript-s6-u6-q8",
+                "javascript-s6-u6-q9",
+                "javascript-s6-u6-q10"
+              ]
             },
             {
               "id": "javascript-section-6-unit-6-event-object-lesson-2",
@@ -1693,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Event object helps you make programs respond to data and events. Example: `user.name`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-6-unit-7-event-bubbling",
@@ -1706,7 +2365,18 @@
               "unitId": "javascript-section-6-unit-7-event-bubbling",
               "title": "Learn Event bubbling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s6-u7-q1",
+                "javascript-s6-u7-q2",
+                "javascript-s6-u7-q3",
+                "javascript-s6-u7-q4",
+                "javascript-s6-u7-q5",
+                "javascript-s6-u7-q6",
+                "javascript-s6-u7-q7",
+                "javascript-s6-u7-q8",
+                "javascript-s6-u7-q9",
+                "javascript-s6-u7-q10"
+              ]
             },
             {
               "id": "javascript-section-6-unit-7-event-bubbling-lesson-2",
@@ -1722,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Event bubbling helps you make programs respond to data and events. Example: `button.addEventListener('click', fn)`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-6-unit-8-forms-and-input",
@@ -1735,7 +2406,18 @@
               "unitId": "javascript-section-6-unit-8-forms-and-input",
               "title": "Learn Forms and input",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s6-u8-q1",
+                "javascript-s6-u8-q2",
+                "javascript-s6-u8-q3",
+                "javascript-s6-u8-q4",
+                "javascript-s6-u8-q5",
+                "javascript-s6-u8-q6",
+                "javascript-s6-u8-q7",
+                "javascript-s6-u8-q8",
+                "javascript-s6-u8-q9",
+                "javascript-s6-u8-q10"
+              ]
             },
             {
               "id": "javascript-section-6-unit-8-forms-and-input-lesson-2",
@@ -1751,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Forms and input helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-6-unit-9-local-storage",
@@ -1764,7 +2447,18 @@
               "unitId": "javascript-section-6-unit-9-local-storage",
               "title": "Learn Local storage",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s6-u9-q1",
+                "javascript-s6-u9-q2",
+                "javascript-s6-u9-q3",
+                "javascript-s6-u9-q4",
+                "javascript-s6-u9-q5",
+                "javascript-s6-u9-q6",
+                "javascript-s6-u9-q7",
+                "javascript-s6-u9-q8",
+                "javascript-s6-u9-q9",
+                "javascript-s6-u9-q10"
+              ]
             },
             {
               "id": "javascript-section-6-unit-9-local-storage-lesson-2",
@@ -1780,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Local storage helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-6-unit-10-dom-project",
@@ -1793,7 +2488,18 @@
               "unitId": "javascript-section-6-unit-10-dom-project",
               "title": "Learn DOM project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s6-u10-q1",
+                "javascript-s6-u10-q2",
+                "javascript-s6-u10-q3",
+                "javascript-s6-u10-q4",
+                "javascript-s6-u10-q5",
+                "javascript-s6-u10-q6",
+                "javascript-s6-u10-q7",
+                "javascript-s6-u10-q8",
+                "javascript-s6-u10-q9",
+                "javascript-s6-u10-q10"
+              ]
             },
             {
               "id": "javascript-section-6-unit-10-dom-project-lesson-2",
@@ -1809,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DOM project helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         }
       ]
     },
@@ -1831,7 +2538,18 @@
               "unitId": "javascript-section-7-unit-1-callbacks",
               "title": "Learn Callbacks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s7-u1-q1",
+                "javascript-s7-u1-q2",
+                "javascript-s7-u1-q3",
+                "javascript-s7-u1-q4",
+                "javascript-s7-u1-q5",
+                "javascript-s7-u1-q6",
+                "javascript-s7-u1-q7",
+                "javascript-s7-u1-q8",
+                "javascript-s7-u1-q9",
+                "javascript-s7-u1-q10"
+              ]
             },
             {
               "id": "javascript-section-7-unit-1-callbacks-lesson-2",
@@ -1847,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Callbacks helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-7-unit-2-timers",
@@ -1860,7 +2579,18 @@
               "unitId": "javascript-section-7-unit-2-timers",
               "title": "Learn Timers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s7-u2-q1",
+                "javascript-s7-u2-q2",
+                "javascript-s7-u2-q3",
+                "javascript-s7-u2-q4",
+                "javascript-s7-u2-q5",
+                "javascript-s7-u2-q6",
+                "javascript-s7-u2-q7",
+                "javascript-s7-u2-q8",
+                "javascript-s7-u2-q9",
+                "javascript-s7-u2-q10"
+              ]
             },
             {
               "id": "javascript-section-7-unit-2-timers-lesson-2",
@@ -1876,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Timers helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-7-unit-3-promises",
@@ -1889,7 +2620,18 @@
               "unitId": "javascript-section-7-unit-3-promises",
               "title": "Learn Promises",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s7-u3-q1",
+                "javascript-s7-u3-q2",
+                "javascript-s7-u3-q3",
+                "javascript-s7-u3-q4",
+                "javascript-s7-u3-q5",
+                "javascript-s7-u3-q6",
+                "javascript-s7-u3-q7",
+                "javascript-s7-u3-q8",
+                "javascript-s7-u3-q9",
+                "javascript-s7-u3-q10"
+              ]
             },
             {
               "id": "javascript-section-7-unit-3-promises-lesson-2",
@@ -1905,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Promises helps you make programs respond to data and events. Example: `fetch(url).then(...)`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-7-unit-4-promise-chains",
@@ -1918,7 +2661,18 @@
               "unitId": "javascript-section-7-unit-4-promise-chains",
               "title": "Learn Promise chains",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s7-u4-q1",
+                "javascript-s7-u4-q2",
+                "javascript-s7-u4-q3",
+                "javascript-s7-u4-q4",
+                "javascript-s7-u4-q5",
+                "javascript-s7-u4-q6",
+                "javascript-s7-u4-q7",
+                "javascript-s7-u4-q8",
+                "javascript-s7-u4-q9",
+                "javascript-s7-u4-q10"
+              ]
             },
             {
               "id": "javascript-section-7-unit-4-promise-chains-lesson-2",
@@ -1934,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Promise chains helps you make programs respond to data and events. Example: `fetch(url).then(...)`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-7-unit-5-async-and-await",
@@ -1947,7 +2702,18 @@
               "unitId": "javascript-section-7-unit-5-async-and-await",
               "title": "Learn async and await",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s7-u5-q1",
+                "javascript-s7-u5-q2",
+                "javascript-s7-u5-q3",
+                "javascript-s7-u5-q4",
+                "javascript-s7-u5-q5",
+                "javascript-s7-u5-q6",
+                "javascript-s7-u5-q7",
+                "javascript-s7-u5-q8",
+                "javascript-s7-u5-q9",
+                "javascript-s7-u5-q10"
+              ]
             },
             {
               "id": "javascript-section-7-unit-5-async-and-await-lesson-2",
@@ -1963,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "async and await helps you make programs respond to data and events. Example: `const data = await fetch(url)`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-7-unit-6-try-and-catch",
@@ -1976,7 +2743,18 @@
               "unitId": "javascript-section-7-unit-6-try-and-catch",
               "title": "Learn try and catch",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s7-u6-q1",
+                "javascript-s7-u6-q2",
+                "javascript-s7-u6-q3",
+                "javascript-s7-u6-q4",
+                "javascript-s7-u6-q5",
+                "javascript-s7-u6-q6",
+                "javascript-s7-u6-q7",
+                "javascript-s7-u6-q8",
+                "javascript-s7-u6-q9",
+                "javascript-s7-u6-q10"
+              ]
             },
             {
               "id": "javascript-section-7-unit-6-try-and-catch-lesson-2",
@@ -1992,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "try and catch helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-7-unit-7-fetch",
@@ -2005,7 +2784,18 @@
               "unitId": "javascript-section-7-unit-7-fetch",
               "title": "Learn fetch",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s7-u7-q1",
+                "javascript-s7-u7-q2",
+                "javascript-s7-u7-q3",
+                "javascript-s7-u7-q4",
+                "javascript-s7-u7-q5",
+                "javascript-s7-u7-q6",
+                "javascript-s7-u7-q7",
+                "javascript-s7-u7-q8",
+                "javascript-s7-u7-q9",
+                "javascript-s7-u7-q10"
+              ]
             },
             {
               "id": "javascript-section-7-unit-7-fetch-lesson-2",
@@ -2021,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "fetch helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-7-unit-8-parallel-requests",
@@ -2034,7 +2825,18 @@
               "unitId": "javascript-section-7-unit-8-parallel-requests",
               "title": "Learn Parallel requests",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s7-u8-q1",
+                "javascript-s7-u8-q2",
+                "javascript-s7-u8-q3",
+                "javascript-s7-u8-q4",
+                "javascript-s7-u8-q5",
+                "javascript-s7-u8-q6",
+                "javascript-s7-u8-q7",
+                "javascript-s7-u8-q8",
+                "javascript-s7-u8-q9",
+                "javascript-s7-u8-q10"
+              ]
             },
             {
               "id": "javascript-section-7-unit-8-parallel-requests-lesson-2",
@@ -2050,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Parallel requests helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-7-unit-9-race-conditions",
@@ -2063,7 +2866,18 @@
               "unitId": "javascript-section-7-unit-9-race-conditions",
               "title": "Learn Race conditions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s7-u9-q1",
+                "javascript-s7-u9-q2",
+                "javascript-s7-u9-q3",
+                "javascript-s7-u9-q4",
+                "javascript-s7-u9-q5",
+                "javascript-s7-u9-q6",
+                "javascript-s7-u9-q7",
+                "javascript-s7-u9-q8",
+                "javascript-s7-u9-q9",
+                "javascript-s7-u9-q10"
+              ]
             },
             {
               "id": "javascript-section-7-unit-9-race-conditions-lesson-2",
@@ -2079,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Race conditions helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-7-unit-10-async-project",
@@ -2092,7 +2907,18 @@
               "unitId": "javascript-section-7-unit-10-async-project",
               "title": "Learn Async project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s7-u10-q1",
+                "javascript-s7-u10-q2",
+                "javascript-s7-u10-q3",
+                "javascript-s7-u10-q4",
+                "javascript-s7-u10-q5",
+                "javascript-s7-u10-q6",
+                "javascript-s7-u10-q7",
+                "javascript-s7-u10-q8",
+                "javascript-s7-u10-q9",
+                "javascript-s7-u10-q10"
+              ]
             },
             {
               "id": "javascript-section-7-unit-10-async-project-lesson-2",
@@ -2108,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Async project helps you make programs respond to data and events. Example: `const data = await fetch(url)`. Avoid: not tracking what value an expression returns."
         }
       ]
     },
@@ -2130,7 +2957,18 @@
               "unitId": "javascript-section-8-unit-1-lexical-scope",
               "title": "Learn Lexical scope",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s8-u1-q1",
+                "javascript-s8-u1-q2",
+                "javascript-s8-u1-q3",
+                "javascript-s8-u1-q4",
+                "javascript-s8-u1-q5",
+                "javascript-s8-u1-q6",
+                "javascript-s8-u1-q7",
+                "javascript-s8-u1-q8",
+                "javascript-s8-u1-q9",
+                "javascript-s8-u1-q10"
+              ]
             },
             {
               "id": "javascript-section-8-unit-1-lexical-scope-lesson-2",
@@ -2146,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Lexical scope helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-8-unit-2-closures",
@@ -2159,7 +2998,18 @@
               "unitId": "javascript-section-8-unit-2-closures",
               "title": "Learn Closures",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s8-u2-q1",
+                "javascript-s8-u2-q2",
+                "javascript-s8-u2-q3",
+                "javascript-s8-u2-q4",
+                "javascript-s8-u2-q5",
+                "javascript-s8-u2-q6",
+                "javascript-s8-u2-q7",
+                "javascript-s8-u2-q8",
+                "javascript-s8-u2-q9",
+                "javascript-s8-u2-q10"
+              ]
             },
             {
               "id": "javascript-section-8-unit-2-closures-lesson-2",
@@ -2175,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Closures helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-8-unit-3-factory-functions",
@@ -2188,7 +3039,18 @@
               "unitId": "javascript-section-8-unit-3-factory-functions",
               "title": "Learn Factory functions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s8-u3-q1",
+                "javascript-s8-u3-q2",
+                "javascript-s8-u3-q3",
+                "javascript-s8-u3-q4",
+                "javascript-s8-u3-q5",
+                "javascript-s8-u3-q6",
+                "javascript-s8-u3-q7",
+                "javascript-s8-u3-q8",
+                "javascript-s8-u3-q9",
+                "javascript-s8-u3-q10"
+              ]
             },
             {
               "id": "javascript-section-8-unit-3-factory-functions-lesson-2",
@@ -2204,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Factory functions helps you make programs respond to data and events. Example: `function add(a, b) { return a + b }`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-8-unit-4-higher-order-functions",
@@ -2217,7 +3080,18 @@
               "unitId": "javascript-section-8-unit-4-higher-order-functions",
               "title": "Learn Higher-order functions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s8-u4-q1",
+                "javascript-s8-u4-q2",
+                "javascript-s8-u4-q3",
+                "javascript-s8-u4-q4",
+                "javascript-s8-u4-q5",
+                "javascript-s8-u4-q6",
+                "javascript-s8-u4-q7",
+                "javascript-s8-u4-q8",
+                "javascript-s8-u4-q9",
+                "javascript-s8-u4-q10"
+              ]
             },
             {
               "id": "javascript-section-8-unit-4-higher-order-functions-lesson-2",
@@ -2233,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Higher-order functions helps you make programs respond to data and events. Example: `function add(a, b) { return a + b }`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-8-unit-5-callback-patterns",
@@ -2246,7 +3121,18 @@
               "unitId": "javascript-section-8-unit-5-callback-patterns",
               "title": "Learn Callback patterns",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s8-u5-q1",
+                "javascript-s8-u5-q2",
+                "javascript-s8-u5-q3",
+                "javascript-s8-u5-q4",
+                "javascript-s8-u5-q5",
+                "javascript-s8-u5-q6",
+                "javascript-s8-u5-q7",
+                "javascript-s8-u5-q8",
+                "javascript-s8-u5-q9",
+                "javascript-s8-u5-q10"
+              ]
             },
             {
               "id": "javascript-section-8-unit-5-callback-patterns-lesson-2",
@@ -2262,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Callback patterns helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-8-unit-6-pure-functions",
@@ -2275,7 +3162,18 @@
               "unitId": "javascript-section-8-unit-6-pure-functions",
               "title": "Learn Pure functions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s8-u6-q1",
+                "javascript-s8-u6-q2",
+                "javascript-s8-u6-q3",
+                "javascript-s8-u6-q4",
+                "javascript-s8-u6-q5",
+                "javascript-s8-u6-q6",
+                "javascript-s8-u6-q7",
+                "javascript-s8-u6-q8",
+                "javascript-s8-u6-q9",
+                "javascript-s8-u6-q10"
+              ]
             },
             {
               "id": "javascript-section-8-unit-6-pure-functions-lesson-2",
@@ -2291,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pure functions helps you make programs respond to data and events. Example: `function add(a, b) { return a + b }`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-8-unit-7-immutability",
@@ -2304,7 +3203,18 @@
               "unitId": "javascript-section-8-unit-7-immutability",
               "title": "Learn Immutability",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s8-u7-q1",
+                "javascript-s8-u7-q2",
+                "javascript-s8-u7-q3",
+                "javascript-s8-u7-q4",
+                "javascript-s8-u7-q5",
+                "javascript-s8-u7-q6",
+                "javascript-s8-u7-q7",
+                "javascript-s8-u7-q8",
+                "javascript-s8-u7-q9",
+                "javascript-s8-u7-q10"
+              ]
             },
             {
               "id": "javascript-section-8-unit-7-immutability-lesson-2",
@@ -2320,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Immutability helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-8-unit-8-composition",
@@ -2333,7 +3244,18 @@
               "unitId": "javascript-section-8-unit-8-composition",
               "title": "Learn Composition",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s8-u8-q1",
+                "javascript-s8-u8-q2",
+                "javascript-s8-u8-q3",
+                "javascript-s8-u8-q4",
+                "javascript-s8-u8-q5",
+                "javascript-s8-u8-q6",
+                "javascript-s8-u8-q7",
+                "javascript-s8-u8-q8",
+                "javascript-s8-u8-q9",
+                "javascript-s8-u8-q10"
+              ]
             },
             {
               "id": "javascript-section-8-unit-8-composition-lesson-2",
@@ -2349,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Composition helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-8-unit-9-currying-basics",
@@ -2362,7 +3285,18 @@
               "unitId": "javascript-section-8-unit-9-currying-basics",
               "title": "Learn Currying basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s8-u9-q1",
+                "javascript-s8-u9-q2",
+                "javascript-s8-u9-q3",
+                "javascript-s8-u9-q4",
+                "javascript-s8-u9-q5",
+                "javascript-s8-u9-q6",
+                "javascript-s8-u9-q7",
+                "javascript-s8-u9-q8",
+                "javascript-s8-u9-q9",
+                "javascript-s8-u9-q10"
+              ]
             },
             {
               "id": "javascript-section-8-unit-9-currying-basics-lesson-2",
@@ -2378,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Currying basics helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-8-unit-10-functional-refactor",
@@ -2391,7 +3326,18 @@
               "unitId": "javascript-section-8-unit-10-functional-refactor",
               "title": "Learn Functional refactor",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s8-u10-q1",
+                "javascript-s8-u10-q2",
+                "javascript-s8-u10-q3",
+                "javascript-s8-u10-q4",
+                "javascript-s8-u10-q5",
+                "javascript-s8-u10-q6",
+                "javascript-s8-u10-q7",
+                "javascript-s8-u10-q8",
+                "javascript-s8-u10-q9",
+                "javascript-s8-u10-q10"
+              ]
             },
             {
               "id": "javascript-section-8-unit-10-functional-refactor-lesson-2",
@@ -2407,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Functional refactor helps you make programs respond to data and events. Example: `function add(a, b) { return a + b }`. Avoid: not tracking what value an expression returns."
         }
       ]
     },
@@ -2429,7 +3376,18 @@
               "unitId": "javascript-section-9-unit-1-modules",
               "title": "Learn Modules",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s9-u1-q1",
+                "javascript-s9-u1-q2",
+                "javascript-s9-u1-q3",
+                "javascript-s9-u1-q4",
+                "javascript-s9-u1-q5",
+                "javascript-s9-u1-q6",
+                "javascript-s9-u1-q7",
+                "javascript-s9-u1-q8",
+                "javascript-s9-u1-q9",
+                "javascript-s9-u1-q10"
+              ]
             },
             {
               "id": "javascript-section-9-unit-1-modules-lesson-2",
@@ -2445,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Modules helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-9-unit-2-import-and-export",
@@ -2458,7 +3417,18 @@
               "unitId": "javascript-section-9-unit-2-import-and-export",
               "title": "Learn Import and export",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s9-u2-q1",
+                "javascript-s9-u2-q2",
+                "javascript-s9-u2-q3",
+                "javascript-s9-u2-q4",
+                "javascript-s9-u2-q5",
+                "javascript-s9-u2-q6",
+                "javascript-s9-u2-q7",
+                "javascript-s9-u2-q8",
+                "javascript-s9-u2-q9",
+                "javascript-s9-u2-q10"
+              ]
             },
             {
               "id": "javascript-section-9-unit-2-import-and-export-lesson-2",
@@ -2474,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Import and export helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-9-unit-3-classes",
@@ -2487,7 +3458,18 @@
               "unitId": "javascript-section-9-unit-3-classes",
               "title": "Learn Classes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s9-u3-q1",
+                "javascript-s9-u3-q2",
+                "javascript-s9-u3-q3",
+                "javascript-s9-u3-q4",
+                "javascript-s9-u3-q5",
+                "javascript-s9-u3-q6",
+                "javascript-s9-u3-q7",
+                "javascript-s9-u3-q8",
+                "javascript-s9-u3-q9",
+                "javascript-s9-u3-q10"
+              ]
             },
             {
               "id": "javascript-section-9-unit-3-classes-lesson-2",
@@ -2503,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Classes helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-9-unit-4-private-fields",
@@ -2516,7 +3499,18 @@
               "unitId": "javascript-section-9-unit-4-private-fields",
               "title": "Learn Private fields",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s9-u4-q1",
+                "javascript-s9-u4-q2",
+                "javascript-s9-u4-q3",
+                "javascript-s9-u4-q4",
+                "javascript-s9-u4-q5",
+                "javascript-s9-u4-q6",
+                "javascript-s9-u4-q7",
+                "javascript-s9-u4-q8",
+                "javascript-s9-u4-q9",
+                "javascript-s9-u4-q10"
+              ]
             },
             {
               "id": "javascript-section-9-unit-4-private-fields-lesson-2",
@@ -2532,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Private fields helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-9-unit-5-sets",
@@ -2545,7 +3540,18 @@
               "unitId": "javascript-section-9-unit-5-sets",
               "title": "Learn Sets",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s9-u5-q1",
+                "javascript-s9-u5-q2",
+                "javascript-s9-u5-q3",
+                "javascript-s9-u5-q4",
+                "javascript-s9-u5-q5",
+                "javascript-s9-u5-q6",
+                "javascript-s9-u5-q7",
+                "javascript-s9-u5-q8",
+                "javascript-s9-u5-q9",
+                "javascript-s9-u5-q10"
+              ]
             },
             {
               "id": "javascript-section-9-unit-5-sets-lesson-2",
@@ -2561,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sets helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-9-unit-6-maps",
@@ -2574,7 +3581,18 @@
               "unitId": "javascript-section-9-unit-6-maps",
               "title": "Learn Maps",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s9-u6-q1",
+                "javascript-s9-u6-q2",
+                "javascript-s9-u6-q3",
+                "javascript-s9-u6-q4",
+                "javascript-s9-u6-q5",
+                "javascript-s9-u6-q6",
+                "javascript-s9-u6-q7",
+                "javascript-s9-u6-q8",
+                "javascript-s9-u6-q9",
+                "javascript-s9-u6-q10"
+              ]
             },
             {
               "id": "javascript-section-9-unit-6-maps-lesson-2",
@@ -2590,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Maps helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-9-unit-7-symbols",
@@ -2603,7 +3622,18 @@
               "unitId": "javascript-section-9-unit-7-symbols",
               "title": "Learn Symbols",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s9-u7-q1",
+                "javascript-s9-u7-q2",
+                "javascript-s9-u7-q3",
+                "javascript-s9-u7-q4",
+                "javascript-s9-u7-q5",
+                "javascript-s9-u7-q6",
+                "javascript-s9-u7-q7",
+                "javascript-s9-u7-q8",
+                "javascript-s9-u7-q9",
+                "javascript-s9-u7-q10"
+              ]
             },
             {
               "id": "javascript-section-9-unit-7-symbols-lesson-2",
@@ -2619,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Symbols helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-9-unit-8-iterators",
@@ -2632,7 +3663,18 @@
               "unitId": "javascript-section-9-unit-8-iterators",
               "title": "Learn Iterators",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s9-u8-q1",
+                "javascript-s9-u8-q2",
+                "javascript-s9-u8-q3",
+                "javascript-s9-u8-q4",
+                "javascript-s9-u8-q5",
+                "javascript-s9-u8-q6",
+                "javascript-s9-u8-q7",
+                "javascript-s9-u8-q8",
+                "javascript-s9-u8-q9",
+                "javascript-s9-u8-q10"
+              ]
             },
             {
               "id": "javascript-section-9-unit-8-iterators-lesson-2",
@@ -2648,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Iterators helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-9-unit-9-generators-basics",
@@ -2661,7 +3704,18 @@
               "unitId": "javascript-section-9-unit-9-generators-basics",
               "title": "Learn Generators basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s9-u9-q1",
+                "javascript-s9-u9-q2",
+                "javascript-s9-u9-q3",
+                "javascript-s9-u9-q4",
+                "javascript-s9-u9-q5",
+                "javascript-s9-u9-q6",
+                "javascript-s9-u9-q7",
+                "javascript-s9-u9-q8",
+                "javascript-s9-u9-q9",
+                "javascript-s9-u9-q10"
+              ]
             },
             {
               "id": "javascript-section-9-unit-9-generators-basics-lesson-2",
@@ -2677,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Generators basics helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-9-unit-10-tooling-basics",
@@ -2690,7 +3745,18 @@
               "unitId": "javascript-section-9-unit-10-tooling-basics",
               "title": "Learn Tooling basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s9-u10-q1",
+                "javascript-s9-u10-q2",
+                "javascript-s9-u10-q3",
+                "javascript-s9-u10-q4",
+                "javascript-s9-u10-q5",
+                "javascript-s9-u10-q6",
+                "javascript-s9-u10-q7",
+                "javascript-s9-u10-q8",
+                "javascript-s9-u10-q9",
+                "javascript-s9-u10-q10"
+              ]
             },
             {
               "id": "javascript-section-9-unit-10-tooling-basics-lesson-2",
@@ -2706,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tooling basics helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         }
       ]
     },
@@ -2728,7 +3795,18 @@
               "unitId": "javascript-section-10-unit-1-error-handling",
               "title": "Learn Error handling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s10-u1-q1",
+                "javascript-s10-u1-q2",
+                "javascript-s10-u1-q3",
+                "javascript-s10-u1-q4",
+                "javascript-s10-u1-q5",
+                "javascript-s10-u1-q6",
+                "javascript-s10-u1-q7",
+                "javascript-s10-u1-q8",
+                "javascript-s10-u1-q9",
+                "javascript-s10-u1-q10"
+              ]
             },
             {
               "id": "javascript-section-10-unit-1-error-handling-lesson-2",
@@ -2744,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Error handling helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-10-unit-2-debugging",
@@ -2757,7 +3836,18 @@
               "unitId": "javascript-section-10-unit-2-debugging",
               "title": "Learn Debugging",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s10-u2-q1",
+                "javascript-s10-u2-q2",
+                "javascript-s10-u2-q3",
+                "javascript-s10-u2-q4",
+                "javascript-s10-u2-q5",
+                "javascript-s10-u2-q6",
+                "javascript-s10-u2-q7",
+                "javascript-s10-u2-q8",
+                "javascript-s10-u2-q9",
+                "javascript-s10-u2-q10"
+              ]
             },
             {
               "id": "javascript-section-10-unit-2-debugging-lesson-2",
@@ -2773,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Debugging helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-10-unit-3-performance-basics",
@@ -2786,7 +3877,18 @@
               "unitId": "javascript-section-10-unit-3-performance-basics",
               "title": "Learn Performance basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s10-u3-q1",
+                "javascript-s10-u3-q2",
+                "javascript-s10-u3-q3",
+                "javascript-s10-u3-q4",
+                "javascript-s10-u3-q5",
+                "javascript-s10-u3-q6",
+                "javascript-s10-u3-q7",
+                "javascript-s10-u3-q8",
+                "javascript-s10-u3-q9",
+                "javascript-s10-u3-q10"
+              ]
             },
             {
               "id": "javascript-section-10-unit-3-performance-basics-lesson-2",
@@ -2802,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Performance basics helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-10-unit-4-memory-basics",
@@ -2815,7 +3918,18 @@
               "unitId": "javascript-section-10-unit-4-memory-basics",
               "title": "Learn Memory basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s10-u4-q1",
+                "javascript-s10-u4-q2",
+                "javascript-s10-u4-q3",
+                "javascript-s10-u4-q4",
+                "javascript-s10-u4-q5",
+                "javascript-s10-u4-q6",
+                "javascript-s10-u4-q7",
+                "javascript-s10-u4-q8",
+                "javascript-s10-u4-q9",
+                "javascript-s10-u4-q10"
+              ]
             },
             {
               "id": "javascript-section-10-unit-4-memory-basics-lesson-2",
@@ -2831,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Memory basics helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-10-unit-5-testing-basics",
@@ -2844,7 +3959,18 @@
               "unitId": "javascript-section-10-unit-5-testing-basics",
               "title": "Learn Testing basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s10-u5-q1",
+                "javascript-s10-u5-q2",
+                "javascript-s10-u5-q3",
+                "javascript-s10-u5-q4",
+                "javascript-s10-u5-q5",
+                "javascript-s10-u5-q6",
+                "javascript-s10-u5-q7",
+                "javascript-s10-u5-q8",
+                "javascript-s10-u5-q9",
+                "javascript-s10-u5-q10"
+              ]
             },
             {
               "id": "javascript-section-10-unit-5-testing-basics-lesson-2",
@@ -2860,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Testing basics helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-10-unit-6-browser-apis",
@@ -2873,7 +4000,18 @@
               "unitId": "javascript-section-10-unit-6-browser-apis",
               "title": "Learn Browser APIs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s10-u6-q1",
+                "javascript-s10-u6-q2",
+                "javascript-s10-u6-q3",
+                "javascript-s10-u6-q4",
+                "javascript-s10-u6-q5",
+                "javascript-s10-u6-q6",
+                "javascript-s10-u6-q7",
+                "javascript-s10-u6-q8",
+                "javascript-s10-u6-q9",
+                "javascript-s10-u6-q10"
+              ]
             },
             {
               "id": "javascript-section-10-unit-6-browser-apis-lesson-2",
@@ -2889,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Browser APIs helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-10-unit-7-date-and-intl",
@@ -2902,7 +4041,18 @@
               "unitId": "javascript-section-10-unit-7-date-and-intl",
               "title": "Learn Date and Intl",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s10-u7-q1",
+                "javascript-s10-u7-q2",
+                "javascript-s10-u7-q3",
+                "javascript-s10-u7-q4",
+                "javascript-s10-u7-q5",
+                "javascript-s10-u7-q6",
+                "javascript-s10-u7-q7",
+                "javascript-s10-u7-q8",
+                "javascript-s10-u7-q9",
+                "javascript-s10-u7-q10"
+              ]
             },
             {
               "id": "javascript-section-10-unit-7-date-and-intl-lesson-2",
@@ -2918,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Date and Intl helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-10-unit-8-regular-expressions",
@@ -2931,7 +4082,18 @@
               "unitId": "javascript-section-10-unit-8-regular-expressions",
               "title": "Learn Regular expressions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s10-u8-q1",
+                "javascript-s10-u8-q2",
+                "javascript-s10-u8-q3",
+                "javascript-s10-u8-q4",
+                "javascript-s10-u8-q5",
+                "javascript-s10-u8-q6",
+                "javascript-s10-u8-q7",
+                "javascript-s10-u8-q8",
+                "javascript-s10-u8-q9",
+                "javascript-s10-u8-q10"
+              ]
             },
             {
               "id": "javascript-section-10-unit-8-regular-expressions-lesson-2",
@@ -2947,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Regular expressions helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-10-unit-9-security-basics",
@@ -2960,7 +4123,18 @@
               "unitId": "javascript-section-10-unit-9-security-basics",
               "title": "Learn Security basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s10-u9-q1",
+                "javascript-s10-u9-q2",
+                "javascript-s10-u9-q3",
+                "javascript-s10-u9-q4",
+                "javascript-s10-u9-q5",
+                "javascript-s10-u9-q6",
+                "javascript-s10-u9-q7",
+                "javascript-s10-u9-q8",
+                "javascript-s10-u9-q9",
+                "javascript-s10-u9-q10"
+              ]
             },
             {
               "id": "javascript-section-10-unit-9-security-basics-lesson-2",
@@ -2976,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Security basics helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         },
         {
           "id": "javascript-section-10-unit-10-final-js-app",
@@ -2989,7 +4164,18 @@
               "unitId": "javascript-section-10-unit-10-final-js-app",
               "title": "Learn Final JS app",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "javascript-s10-u10-q1",
+                "javascript-s10-u10-q2",
+                "javascript-s10-u10-q3",
+                "javascript-s10-u10-q4",
+                "javascript-s10-u10-q5",
+                "javascript-s10-u10-q6",
+                "javascript-s10-u10-q7",
+                "javascript-s10-u10-q8",
+                "javascript-s10-u10-q9",
+                "javascript-s10-u10-q10"
+              ]
             },
             {
               "id": "javascript-section-10-unit-10-final-js-app-lesson-2",
@@ -3005,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final JS app helps you make programs respond to data and events. Example: `const total = price * count`. Avoid: not tracking what value an expression returns."
         }
       ]
     }

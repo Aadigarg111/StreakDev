@@ -25,7 +25,16 @@
               "title": "Learn Why networks",
               "order": 1,
               "exerciseIds": [
-                "networks-s1-u1-sample"
+                "networks-s1-u1-q1",
+                "networks-s1-u1-q2",
+                "networks-s1-u1-q3",
+                "networks-s1-u1-q4",
+                "networks-s1-u1-q5",
+                "networks-s1-u1-q6",
+                "networks-s1-u1-q7",
+                "networks-s1-u1-q8",
+                "networks-s1-u1-q9",
+                "networks-s1-u1-q10"
               ]
             },
             {
@@ -42,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Why networks helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-1-unit-2-hosts-and-links",
@@ -56,7 +66,16 @@
               "title": "Learn Hosts and links",
               "order": 1,
               "exerciseIds": [
-                "networks-s1-u2-sample"
+                "networks-s1-u2-q1",
+                "networks-s1-u2-q2",
+                "networks-s1-u2-q3",
+                "networks-s1-u2-q4",
+                "networks-s1-u2-q5",
+                "networks-s1-u2-q6",
+                "networks-s1-u2-q7",
+                "networks-s1-u2-q8",
+                "networks-s1-u2-q9",
+                "networks-s1-u2-q10"
               ]
             },
             {
@@ -73,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Hosts and links helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-1-unit-3-packets",
@@ -87,7 +107,16 @@
               "title": "Learn Packets",
               "order": 1,
               "exerciseIds": [
-                "networks-s1-u3-sample"
+                "networks-s1-u3-q1",
+                "networks-s1-u3-q2",
+                "networks-s1-u3-q3",
+                "networks-s1-u3-q4",
+                "networks-s1-u3-q5",
+                "networks-s1-u3-q6",
+                "networks-s1-u3-q7",
+                "networks-s1-u3-q8",
+                "networks-s1-u3-q9",
+                "networks-s1-u3-q10"
               ]
             },
             {
@@ -104,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Packets helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-1-unit-4-latency",
@@ -117,7 +147,18 @@
               "unitId": "networks-section-1-unit-4-latency",
               "title": "Learn Latency",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s1-u4-q1",
+                "networks-s1-u4-q2",
+                "networks-s1-u4-q3",
+                "networks-s1-u4-q4",
+                "networks-s1-u4-q5",
+                "networks-s1-u4-q6",
+                "networks-s1-u4-q7",
+                "networks-s1-u4-q8",
+                "networks-s1-u4-q9",
+                "networks-s1-u4-q10"
+              ]
             },
             {
               "id": "networks-section-1-unit-4-latency-lesson-2",
@@ -133,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Latency helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-1-unit-5-bandwidth",
@@ -146,7 +188,18 @@
               "unitId": "networks-section-1-unit-5-bandwidth",
               "title": "Learn Bandwidth",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s1-u5-q1",
+                "networks-s1-u5-q2",
+                "networks-s1-u5-q3",
+                "networks-s1-u5-q4",
+                "networks-s1-u5-q5",
+                "networks-s1-u5-q6",
+                "networks-s1-u5-q7",
+                "networks-s1-u5-q8",
+                "networks-s1-u5-q9",
+                "networks-s1-u5-q10"
+              ]
             },
             {
               "id": "networks-section-1-unit-5-bandwidth-lesson-2",
@@ -162,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Bandwidth helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-1-unit-6-throughput",
@@ -175,7 +229,18 @@
               "unitId": "networks-section-1-unit-6-throughput",
               "title": "Learn Throughput",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s1-u6-q1",
+                "networks-s1-u6-q2",
+                "networks-s1-u6-q3",
+                "networks-s1-u6-q4",
+                "networks-s1-u6-q5",
+                "networks-s1-u6-q6",
+                "networks-s1-u6-q7",
+                "networks-s1-u6-q8",
+                "networks-s1-u6-q9",
+                "networks-s1-u6-q10"
+              ]
             },
             {
               "id": "networks-section-1-unit-6-throughput-lesson-2",
@@ -191,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Throughput helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-1-unit-7-clients-and-servers",
@@ -204,7 +270,18 @@
               "unitId": "networks-section-1-unit-7-clients-and-servers",
               "title": "Learn Clients and servers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s1-u7-q1",
+                "networks-s1-u7-q2",
+                "networks-s1-u7-q3",
+                "networks-s1-u7-q4",
+                "networks-s1-u7-q5",
+                "networks-s1-u7-q6",
+                "networks-s1-u7-q7",
+                "networks-s1-u7-q8",
+                "networks-s1-u7-q9",
+                "networks-s1-u7-q10"
+              ]
             },
             {
               "id": "networks-section-1-unit-7-clients-and-servers-lesson-2",
@@ -220,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Clients and servers helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-1-unit-8-protocols",
@@ -233,7 +311,18 @@
               "unitId": "networks-section-1-unit-8-protocols",
               "title": "Learn Protocols",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s1-u8-q1",
+                "networks-s1-u8-q2",
+                "networks-s1-u8-q3",
+                "networks-s1-u8-q4",
+                "networks-s1-u8-q5",
+                "networks-s1-u8-q6",
+                "networks-s1-u8-q7",
+                "networks-s1-u8-q8",
+                "networks-s1-u8-q9",
+                "networks-s1-u8-q10"
+              ]
             },
             {
               "id": "networks-section-1-unit-8-protocols-lesson-2",
@@ -249,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Protocols helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-1-unit-9-encapsulation",
@@ -262,7 +352,18 @@
               "unitId": "networks-section-1-unit-9-encapsulation",
               "title": "Learn Encapsulation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s1-u9-q1",
+                "networks-s1-u9-q2",
+                "networks-s1-u9-q3",
+                "networks-s1-u9-q4",
+                "networks-s1-u9-q5",
+                "networks-s1-u9-q6",
+                "networks-s1-u9-q7",
+                "networks-s1-u9-q8",
+                "networks-s1-u9-q9",
+                "networks-s1-u9-q10"
+              ]
             },
             {
               "id": "networks-section-1-unit-9-encapsulation-lesson-2",
@@ -278,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Encapsulation helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-1-unit-10-network-vocabulary",
@@ -291,7 +393,18 @@
               "unitId": "networks-section-1-unit-10-network-vocabulary",
               "title": "Learn Network vocabulary",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s1-u10-q1",
+                "networks-s1-u10-q2",
+                "networks-s1-u10-q3",
+                "networks-s1-u10-q4",
+                "networks-s1-u10-q5",
+                "networks-s1-u10-q6",
+                "networks-s1-u10-q7",
+                "networks-s1-u10-q8",
+                "networks-s1-u10-q9",
+                "networks-s1-u10-q10"
+              ]
             },
             {
               "id": "networks-section-1-unit-10-network-vocabulary-lesson-2",
@@ -307,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Network vocabulary helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         }
       ]
     },
@@ -329,7 +443,18 @@
               "unitId": "networks-section-2-unit-1-osi-overview",
               "title": "Learn OSI overview",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s2-u1-q1",
+                "networks-s2-u1-q2",
+                "networks-s2-u1-q3",
+                "networks-s2-u1-q4",
+                "networks-s2-u1-q5",
+                "networks-s2-u1-q6",
+                "networks-s2-u1-q7",
+                "networks-s2-u1-q8",
+                "networks-s2-u1-q9",
+                "networks-s2-u1-q10"
+              ]
             },
             {
               "id": "networks-section-2-unit-1-osi-overview-lesson-2",
@@ -345,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "OSI overview helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-2-unit-2-tcp-ip-overview",
@@ -358,7 +484,18 @@
               "unitId": "networks-section-2-unit-2-tcp-ip-overview",
               "title": "Learn TCP/IP overview",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s2-u2-q1",
+                "networks-s2-u2-q2",
+                "networks-s2-u2-q3",
+                "networks-s2-u2-q4",
+                "networks-s2-u2-q5",
+                "networks-s2-u2-q6",
+                "networks-s2-u2-q7",
+                "networks-s2-u2-q8",
+                "networks-s2-u2-q9",
+                "networks-s2-u2-q10"
+              ]
             },
             {
               "id": "networks-section-2-unit-2-tcp-ip-overview-lesson-2",
@@ -374,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "TCP/IP overview helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-2-unit-3-application-layer",
@@ -387,7 +525,18 @@
               "unitId": "networks-section-2-unit-3-application-layer",
               "title": "Learn Application layer",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s2-u3-q1",
+                "networks-s2-u3-q2",
+                "networks-s2-u3-q3",
+                "networks-s2-u3-q4",
+                "networks-s2-u3-q5",
+                "networks-s2-u3-q6",
+                "networks-s2-u3-q7",
+                "networks-s2-u3-q8",
+                "networks-s2-u3-q9",
+                "networks-s2-u3-q10"
+              ]
             },
             {
               "id": "networks-section-2-unit-3-application-layer-lesson-2",
@@ -403,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Application layer helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-2-unit-4-transport-layer",
@@ -416,7 +566,18 @@
               "unitId": "networks-section-2-unit-4-transport-layer",
               "title": "Learn Transport layer",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s2-u4-q1",
+                "networks-s2-u4-q2",
+                "networks-s2-u4-q3",
+                "networks-s2-u4-q4",
+                "networks-s2-u4-q5",
+                "networks-s2-u4-q6",
+                "networks-s2-u4-q7",
+                "networks-s2-u4-q8",
+                "networks-s2-u4-q9",
+                "networks-s2-u4-q10"
+              ]
             },
             {
               "id": "networks-section-2-unit-4-transport-layer-lesson-2",
@@ -432,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Transport layer helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-2-unit-5-network-layer",
@@ -445,7 +607,18 @@
               "unitId": "networks-section-2-unit-5-network-layer",
               "title": "Learn Network layer",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s2-u5-q1",
+                "networks-s2-u5-q2",
+                "networks-s2-u5-q3",
+                "networks-s2-u5-q4",
+                "networks-s2-u5-q5",
+                "networks-s2-u5-q6",
+                "networks-s2-u5-q7",
+                "networks-s2-u5-q8",
+                "networks-s2-u5-q9",
+                "networks-s2-u5-q10"
+              ]
             },
             {
               "id": "networks-section-2-unit-5-network-layer-lesson-2",
@@ -461,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Network layer helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-2-unit-6-link-layer",
@@ -474,7 +648,18 @@
               "unitId": "networks-section-2-unit-6-link-layer",
               "title": "Learn Link layer",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s2-u6-q1",
+                "networks-s2-u6-q2",
+                "networks-s2-u6-q3",
+                "networks-s2-u6-q4",
+                "networks-s2-u6-q5",
+                "networks-s2-u6-q6",
+                "networks-s2-u6-q7",
+                "networks-s2-u6-q8",
+                "networks-s2-u6-q9",
+                "networks-s2-u6-q10"
+              ]
             },
             {
               "id": "networks-section-2-unit-6-link-layer-lesson-2",
@@ -490,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Link layer helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-2-unit-7-physical-layer-concept",
@@ -503,7 +689,18 @@
               "unitId": "networks-section-2-unit-7-physical-layer-concept",
               "title": "Learn Physical layer concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s2-u7-q1",
+                "networks-s2-u7-q2",
+                "networks-s2-u7-q3",
+                "networks-s2-u7-q4",
+                "networks-s2-u7-q5",
+                "networks-s2-u7-q6",
+                "networks-s2-u7-q7",
+                "networks-s2-u7-q8",
+                "networks-s2-u7-q9",
+                "networks-s2-u7-q10"
+              ]
             },
             {
               "id": "networks-section-2-unit-7-physical-layer-concept-lesson-2",
@@ -519,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Physical layer concept helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-2-unit-8-layer-responsibilities",
@@ -532,7 +730,18 @@
               "unitId": "networks-section-2-unit-8-layer-responsibilities",
               "title": "Learn Layer responsibilities",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s2-u8-q1",
+                "networks-s2-u8-q2",
+                "networks-s2-u8-q3",
+                "networks-s2-u8-q4",
+                "networks-s2-u8-q5",
+                "networks-s2-u8-q6",
+                "networks-s2-u8-q7",
+                "networks-s2-u8-q8",
+                "networks-s2-u8-q9",
+                "networks-s2-u8-q10"
+              ]
             },
             {
               "id": "networks-section-2-unit-8-layer-responsibilities-lesson-2",
@@ -548,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Layer responsibilities helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-2-unit-9-encapsulation-drills",
@@ -561,7 +771,18 @@
               "unitId": "networks-section-2-unit-9-encapsulation-drills",
               "title": "Learn Encapsulation drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s2-u9-q1",
+                "networks-s2-u9-q2",
+                "networks-s2-u9-q3",
+                "networks-s2-u9-q4",
+                "networks-s2-u9-q5",
+                "networks-s2-u9-q6",
+                "networks-s2-u9-q7",
+                "networks-s2-u9-q8",
+                "networks-s2-u9-q9",
+                "networks-s2-u9-q10"
+              ]
             },
             {
               "id": "networks-section-2-unit-9-encapsulation-drills-lesson-2",
@@ -577,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Encapsulation drills helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-2-unit-10-model-comparison",
@@ -590,7 +812,18 @@
               "unitId": "networks-section-2-unit-10-model-comparison",
               "title": "Learn Model comparison",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s2-u10-q1",
+                "networks-s2-u10-q2",
+                "networks-s2-u10-q3",
+                "networks-s2-u10-q4",
+                "networks-s2-u10-q5",
+                "networks-s2-u10-q6",
+                "networks-s2-u10-q7",
+                "networks-s2-u10-q8",
+                "networks-s2-u10-q9",
+                "networks-s2-u10-q10"
+              ]
             },
             {
               "id": "networks-section-2-unit-10-model-comparison-lesson-2",
@@ -606,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Model comparison helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         }
       ]
     },
@@ -628,7 +862,18 @@
               "unitId": "networks-section-3-unit-1-http-requests",
               "title": "Learn HTTP requests",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s3-u1-q1",
+                "networks-s3-u1-q2",
+                "networks-s3-u1-q3",
+                "networks-s3-u1-q4",
+                "networks-s3-u1-q5",
+                "networks-s3-u1-q6",
+                "networks-s3-u1-q7",
+                "networks-s3-u1-q8",
+                "networks-s3-u1-q9",
+                "networks-s3-u1-q10"
+              ]
             },
             {
               "id": "networks-section-3-unit-1-http-requests-lesson-2",
@@ -644,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "HTTP requests helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-3-unit-2-http-responses",
@@ -657,7 +903,18 @@
               "unitId": "networks-section-3-unit-2-http-responses",
               "title": "Learn HTTP responses",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s3-u2-q1",
+                "networks-s3-u2-q2",
+                "networks-s3-u2-q3",
+                "networks-s3-u2-q4",
+                "networks-s3-u2-q5",
+                "networks-s3-u2-q6",
+                "networks-s3-u2-q7",
+                "networks-s3-u2-q8",
+                "networks-s3-u2-q9",
+                "networks-s3-u2-q10"
+              ]
             },
             {
               "id": "networks-section-3-unit-2-http-responses-lesson-2",
@@ -673,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "HTTP responses helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-3-unit-3-methods",
@@ -686,7 +944,18 @@
               "unitId": "networks-section-3-unit-3-methods",
               "title": "Learn Methods",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s3-u3-q1",
+                "networks-s3-u3-q2",
+                "networks-s3-u3-q3",
+                "networks-s3-u3-q4",
+                "networks-s3-u3-q5",
+                "networks-s3-u3-q6",
+                "networks-s3-u3-q7",
+                "networks-s3-u3-q8",
+                "networks-s3-u3-q9",
+                "networks-s3-u3-q10"
+              ]
             },
             {
               "id": "networks-section-3-unit-3-methods-lesson-2",
@@ -702,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Methods helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-3-unit-4-status-codes",
@@ -715,7 +985,18 @@
               "unitId": "networks-section-3-unit-4-status-codes",
               "title": "Learn Status codes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s3-u4-q1",
+                "networks-s3-u4-q2",
+                "networks-s3-u4-q3",
+                "networks-s3-u4-q4",
+                "networks-s3-u4-q5",
+                "networks-s3-u4-q6",
+                "networks-s3-u4-q7",
+                "networks-s3-u4-q8",
+                "networks-s3-u4-q9",
+                "networks-s3-u4-q10"
+              ]
             },
             {
               "id": "networks-section-3-unit-4-status-codes-lesson-2",
@@ -731,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Status codes helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-3-unit-5-headers",
@@ -744,7 +1026,18 @@
               "unitId": "networks-section-3-unit-5-headers",
               "title": "Learn Headers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s3-u5-q1",
+                "networks-s3-u5-q2",
+                "networks-s3-u5-q3",
+                "networks-s3-u5-q4",
+                "networks-s3-u5-q5",
+                "networks-s3-u5-q6",
+                "networks-s3-u5-q7",
+                "networks-s3-u5-q8",
+                "networks-s3-u5-q9",
+                "networks-s3-u5-q10"
+              ]
             },
             {
               "id": "networks-section-3-unit-5-headers-lesson-2",
@@ -760,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Headers helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-3-unit-6-cookies",
@@ -773,7 +1067,18 @@
               "unitId": "networks-section-3-unit-6-cookies",
               "title": "Learn Cookies",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s3-u6-q1",
+                "networks-s3-u6-q2",
+                "networks-s3-u6-q3",
+                "networks-s3-u6-q4",
+                "networks-s3-u6-q5",
+                "networks-s3-u6-q6",
+                "networks-s3-u6-q7",
+                "networks-s3-u6-q8",
+                "networks-s3-u6-q9",
+                "networks-s3-u6-q10"
+              ]
             },
             {
               "id": "networks-section-3-unit-6-cookies-lesson-2",
@@ -789,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Cookies helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-3-unit-7-caching",
@@ -802,7 +1108,18 @@
               "unitId": "networks-section-3-unit-7-caching",
               "title": "Learn Caching",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s3-u7-q1",
+                "networks-s3-u7-q2",
+                "networks-s3-u7-q3",
+                "networks-s3-u7-q4",
+                "networks-s3-u7-q5",
+                "networks-s3-u7-q6",
+                "networks-s3-u7-q7",
+                "networks-s3-u7-q8",
+                "networks-s3-u7-q9",
+                "networks-s3-u7-q10"
+              ]
             },
             {
               "id": "networks-section-3-unit-7-caching-lesson-2",
@@ -818,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Caching helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-3-unit-8-tls-basics",
@@ -831,7 +1149,18 @@
               "unitId": "networks-section-3-unit-8-tls-basics",
               "title": "Learn TLS basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s3-u8-q1",
+                "networks-s3-u8-q2",
+                "networks-s3-u8-q3",
+                "networks-s3-u8-q4",
+                "networks-s3-u8-q5",
+                "networks-s3-u8-q6",
+                "networks-s3-u8-q7",
+                "networks-s3-u8-q8",
+                "networks-s3-u8-q9",
+                "networks-s3-u8-q10"
+              ]
             },
             {
               "id": "networks-section-3-unit-8-tls-basics-lesson-2",
@@ -847,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "TLS basics helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-3-unit-9-http-2-concept",
@@ -860,7 +1190,18 @@
               "unitId": "networks-section-3-unit-9-http-2-concept",
               "title": "Learn HTTP/2 concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s3-u9-q1",
+                "networks-s3-u9-q2",
+                "networks-s3-u9-q3",
+                "networks-s3-u9-q4",
+                "networks-s3-u9-q5",
+                "networks-s3-u9-q6",
+                "networks-s3-u9-q7",
+                "networks-s3-u9-q8",
+                "networks-s3-u9-q9",
+                "networks-s3-u9-q10"
+              ]
             },
             {
               "id": "networks-section-3-unit-9-http-2-concept-lesson-2",
@@ -876,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "HTTP/2 concept helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-3-unit-10-http-debugging",
@@ -889,7 +1231,18 @@
               "unitId": "networks-section-3-unit-10-http-debugging",
               "title": "Learn HTTP debugging",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s3-u10-q1",
+                "networks-s3-u10-q2",
+                "networks-s3-u10-q3",
+                "networks-s3-u10-q4",
+                "networks-s3-u10-q5",
+                "networks-s3-u10-q6",
+                "networks-s3-u10-q7",
+                "networks-s3-u10-q8",
+                "networks-s3-u10-q9",
+                "networks-s3-u10-q10"
+              ]
             },
             {
               "id": "networks-section-3-unit-10-http-debugging-lesson-2",
@@ -905,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "HTTP debugging helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         }
       ]
     },
@@ -927,7 +1281,18 @@
               "unitId": "networks-section-4-unit-1-domain-names",
               "title": "Learn Domain names",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s4-u1-q1",
+                "networks-s4-u1-q2",
+                "networks-s4-u1-q3",
+                "networks-s4-u1-q4",
+                "networks-s4-u1-q5",
+                "networks-s4-u1-q6",
+                "networks-s4-u1-q7",
+                "networks-s4-u1-q8",
+                "networks-s4-u1-q9",
+                "networks-s4-u1-q10"
+              ]
             },
             {
               "id": "networks-section-4-unit-1-domain-names-lesson-2",
@@ -943,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Domain names helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-4-unit-2-resolvers",
@@ -956,7 +1322,18 @@
               "unitId": "networks-section-4-unit-2-resolvers",
               "title": "Learn Resolvers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s4-u2-q1",
+                "networks-s4-u2-q2",
+                "networks-s4-u2-q3",
+                "networks-s4-u2-q4",
+                "networks-s4-u2-q5",
+                "networks-s4-u2-q6",
+                "networks-s4-u2-q7",
+                "networks-s4-u2-q8",
+                "networks-s4-u2-q9",
+                "networks-s4-u2-q10"
+              ]
             },
             {
               "id": "networks-section-4-unit-2-resolvers-lesson-2",
@@ -972,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Resolvers helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-4-unit-3-root-servers",
@@ -985,7 +1363,18 @@
               "unitId": "networks-section-4-unit-3-root-servers",
               "title": "Learn Root servers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s4-u3-q1",
+                "networks-s4-u3-q2",
+                "networks-s4-u3-q3",
+                "networks-s4-u3-q4",
+                "networks-s4-u3-q5",
+                "networks-s4-u3-q6",
+                "networks-s4-u3-q7",
+                "networks-s4-u3-q8",
+                "networks-s4-u3-q9",
+                "networks-s4-u3-q10"
+              ]
             },
             {
               "id": "networks-section-4-unit-3-root-servers-lesson-2",
@@ -1001,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Root servers helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-4-unit-4-tld-servers",
@@ -1014,7 +1404,18 @@
               "unitId": "networks-section-4-unit-4-tld-servers",
               "title": "Learn TLD servers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s4-u4-q1",
+                "networks-s4-u4-q2",
+                "networks-s4-u4-q3",
+                "networks-s4-u4-q4",
+                "networks-s4-u4-q5",
+                "networks-s4-u4-q6",
+                "networks-s4-u4-q7",
+                "networks-s4-u4-q8",
+                "networks-s4-u4-q9",
+                "networks-s4-u4-q10"
+              ]
             },
             {
               "id": "networks-section-4-unit-4-tld-servers-lesson-2",
@@ -1030,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "TLD servers helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-4-unit-5-authoritative-servers",
@@ -1043,7 +1445,18 @@
               "unitId": "networks-section-4-unit-5-authoritative-servers",
               "title": "Learn Authoritative servers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s4-u5-q1",
+                "networks-s4-u5-q2",
+                "networks-s4-u5-q3",
+                "networks-s4-u5-q4",
+                "networks-s4-u5-q5",
+                "networks-s4-u5-q6",
+                "networks-s4-u5-q7",
+                "networks-s4-u5-q8",
+                "networks-s4-u5-q9",
+                "networks-s4-u5-q10"
+              ]
             },
             {
               "id": "networks-section-4-unit-5-authoritative-servers-lesson-2",
@@ -1059,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Authoritative servers helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-4-unit-6-record-types",
@@ -1072,7 +1486,18 @@
               "unitId": "networks-section-4-unit-6-record-types",
               "title": "Learn Record types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s4-u6-q1",
+                "networks-s4-u6-q2",
+                "networks-s4-u6-q3",
+                "networks-s4-u6-q4",
+                "networks-s4-u6-q5",
+                "networks-s4-u6-q6",
+                "networks-s4-u6-q7",
+                "networks-s4-u6-q8",
+                "networks-s4-u6-q9",
+                "networks-s4-u6-q10"
+              ]
             },
             {
               "id": "networks-section-4-unit-6-record-types-lesson-2",
@@ -1088,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Record types helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-4-unit-7-ttl",
@@ -1101,7 +1527,18 @@
               "unitId": "networks-section-4-unit-7-ttl",
               "title": "Learn TTL",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s4-u7-q1",
+                "networks-s4-u7-q2",
+                "networks-s4-u7-q3",
+                "networks-s4-u7-q4",
+                "networks-s4-u7-q5",
+                "networks-s4-u7-q6",
+                "networks-s4-u7-q7",
+                "networks-s4-u7-q8",
+                "networks-s4-u7-q9",
+                "networks-s4-u7-q10"
+              ]
             },
             {
               "id": "networks-section-4-unit-7-ttl-lesson-2",
@@ -1117,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "TTL helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-4-unit-8-caching",
@@ -1130,7 +1568,18 @@
               "unitId": "networks-section-4-unit-8-caching",
               "title": "Learn Caching",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s4-u8-q1",
+                "networks-s4-u8-q2",
+                "networks-s4-u8-q3",
+                "networks-s4-u8-q4",
+                "networks-s4-u8-q5",
+                "networks-s4-u8-q6",
+                "networks-s4-u8-q7",
+                "networks-s4-u8-q8",
+                "networks-s4-u8-q9",
+                "networks-s4-u8-q10"
+              ]
             },
             {
               "id": "networks-section-4-unit-8-caching-lesson-2",
@@ -1146,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Caching helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-4-unit-9-dns-lookup-flow",
@@ -1159,7 +1609,18 @@
               "unitId": "networks-section-4-unit-9-dns-lookup-flow",
               "title": "Learn DNS lookup flow",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s4-u9-q1",
+                "networks-s4-u9-q2",
+                "networks-s4-u9-q3",
+                "networks-s4-u9-q4",
+                "networks-s4-u9-q5",
+                "networks-s4-u9-q6",
+                "networks-s4-u9-q7",
+                "networks-s4-u9-q8",
+                "networks-s4-u9-q9",
+                "networks-s4-u9-q10"
+              ]
             },
             {
               "id": "networks-section-4-unit-9-dns-lookup-flow-lesson-2",
@@ -1175,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DNS lookup flow helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-4-unit-10-dns-troubleshooting",
@@ -1188,7 +1650,18 @@
               "unitId": "networks-section-4-unit-10-dns-troubleshooting",
               "title": "Learn DNS troubleshooting",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s4-u10-q1",
+                "networks-s4-u10-q2",
+                "networks-s4-u10-q3",
+                "networks-s4-u10-q4",
+                "networks-s4-u10-q5",
+                "networks-s4-u10-q6",
+                "networks-s4-u10-q7",
+                "networks-s4-u10-q8",
+                "networks-s4-u10-q9",
+                "networks-s4-u10-q10"
+              ]
             },
             {
               "id": "networks-section-4-unit-10-dns-troubleshooting-lesson-2",
@@ -1204,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DNS troubleshooting helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         }
       ]
     },
@@ -1226,7 +1700,18 @@
               "unitId": "networks-section-5-unit-1-tcp-goals",
               "title": "Learn TCP goals",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s5-u1-q1",
+                "networks-s5-u1-q2",
+                "networks-s5-u1-q3",
+                "networks-s5-u1-q4",
+                "networks-s5-u1-q5",
+                "networks-s5-u1-q6",
+                "networks-s5-u1-q7",
+                "networks-s5-u1-q8",
+                "networks-s5-u1-q9",
+                "networks-s5-u1-q10"
+              ]
             },
             {
               "id": "networks-section-5-unit-1-tcp-goals-lesson-2",
@@ -1242,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "TCP goals helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-5-unit-2-three-way-handshake",
@@ -1255,7 +1741,18 @@
               "unitId": "networks-section-5-unit-2-three-way-handshake",
               "title": "Learn Three-way handshake",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s5-u2-q1",
+                "networks-s5-u2-q2",
+                "networks-s5-u2-q3",
+                "networks-s5-u2-q4",
+                "networks-s5-u2-q5",
+                "networks-s5-u2-q6",
+                "networks-s5-u2-q7",
+                "networks-s5-u2-q8",
+                "networks-s5-u2-q9",
+                "networks-s5-u2-q10"
+              ]
             },
             {
               "id": "networks-section-5-unit-2-three-way-handshake-lesson-2",
@@ -1271,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Three-way handshake helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-5-unit-3-sequence-numbers",
@@ -1284,7 +1782,18 @@
               "unitId": "networks-section-5-unit-3-sequence-numbers",
               "title": "Learn Sequence numbers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s5-u3-q1",
+                "networks-s5-u3-q2",
+                "networks-s5-u3-q3",
+                "networks-s5-u3-q4",
+                "networks-s5-u3-q5",
+                "networks-s5-u3-q6",
+                "networks-s5-u3-q7",
+                "networks-s5-u3-q8",
+                "networks-s5-u3-q9",
+                "networks-s5-u3-q10"
+              ]
             },
             {
               "id": "networks-section-5-unit-3-sequence-numbers-lesson-2",
@@ -1300,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sequence numbers helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-5-unit-4-acknowledgements",
@@ -1313,7 +1823,18 @@
               "unitId": "networks-section-5-unit-4-acknowledgements",
               "title": "Learn Acknowledgements",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s5-u4-q1",
+                "networks-s5-u4-q2",
+                "networks-s5-u4-q3",
+                "networks-s5-u4-q4",
+                "networks-s5-u4-q5",
+                "networks-s5-u4-q6",
+                "networks-s5-u4-q7",
+                "networks-s5-u4-q8",
+                "networks-s5-u4-q9",
+                "networks-s5-u4-q10"
+              ]
             },
             {
               "id": "networks-section-5-unit-4-acknowledgements-lesson-2",
@@ -1329,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Acknowledgements helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-5-unit-5-flow-control",
@@ -1342,7 +1864,18 @@
               "unitId": "networks-section-5-unit-5-flow-control",
               "title": "Learn Flow control",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s5-u5-q1",
+                "networks-s5-u5-q2",
+                "networks-s5-u5-q3",
+                "networks-s5-u5-q4",
+                "networks-s5-u5-q5",
+                "networks-s5-u5-q6",
+                "networks-s5-u5-q7",
+                "networks-s5-u5-q8",
+                "networks-s5-u5-q9",
+                "networks-s5-u5-q10"
+              ]
             },
             {
               "id": "networks-section-5-unit-5-flow-control-lesson-2",
@@ -1358,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Flow control helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-5-unit-6-congestion-control",
@@ -1371,7 +1905,18 @@
               "unitId": "networks-section-5-unit-6-congestion-control",
               "title": "Learn Congestion control",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s5-u6-q1",
+                "networks-s5-u6-q2",
+                "networks-s5-u6-q3",
+                "networks-s5-u6-q4",
+                "networks-s5-u6-q5",
+                "networks-s5-u6-q6",
+                "networks-s5-u6-q7",
+                "networks-s5-u6-q8",
+                "networks-s5-u6-q9",
+                "networks-s5-u6-q10"
+              ]
             },
             {
               "id": "networks-section-5-unit-6-congestion-control-lesson-2",
@@ -1387,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Congestion control helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-5-unit-7-retransmission",
@@ -1400,7 +1946,18 @@
               "unitId": "networks-section-5-unit-7-retransmission",
               "title": "Learn Retransmission",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s5-u7-q1",
+                "networks-s5-u7-q2",
+                "networks-s5-u7-q3",
+                "networks-s5-u7-q4",
+                "networks-s5-u7-q5",
+                "networks-s5-u7-q6",
+                "networks-s5-u7-q7",
+                "networks-s5-u7-q8",
+                "networks-s5-u7-q9",
+                "networks-s5-u7-q10"
+              ]
             },
             {
               "id": "networks-section-5-unit-7-retransmission-lesson-2",
@@ -1416,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Retransmission helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-5-unit-8-connection-teardown",
@@ -1429,7 +1987,18 @@
               "unitId": "networks-section-5-unit-8-connection-teardown",
               "title": "Learn Connection teardown",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s5-u8-q1",
+                "networks-s5-u8-q2",
+                "networks-s5-u8-q3",
+                "networks-s5-u8-q4",
+                "networks-s5-u8-q5",
+                "networks-s5-u8-q6",
+                "networks-s5-u8-q7",
+                "networks-s5-u8-q8",
+                "networks-s5-u8-q9",
+                "networks-s5-u8-q10"
+              ]
             },
             {
               "id": "networks-section-5-unit-8-connection-teardown-lesson-2",
@@ -1445,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Connection teardown helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-5-unit-9-tcp-costs",
@@ -1458,7 +2028,18 @@
               "unitId": "networks-section-5-unit-9-tcp-costs",
               "title": "Learn TCP costs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s5-u9-q1",
+                "networks-s5-u9-q2",
+                "networks-s5-u9-q3",
+                "networks-s5-u9-q4",
+                "networks-s5-u9-q5",
+                "networks-s5-u9-q6",
+                "networks-s5-u9-q7",
+                "networks-s5-u9-q8",
+                "networks-s5-u9-q9",
+                "networks-s5-u9-q10"
+              ]
             },
             {
               "id": "networks-section-5-unit-9-tcp-costs-lesson-2",
@@ -1474,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "TCP costs helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-5-unit-10-tcp-drills",
@@ -1487,7 +2069,18 @@
               "unitId": "networks-section-5-unit-10-tcp-drills",
               "title": "Learn TCP drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s5-u10-q1",
+                "networks-s5-u10-q2",
+                "networks-s5-u10-q3",
+                "networks-s5-u10-q4",
+                "networks-s5-u10-q5",
+                "networks-s5-u10-q6",
+                "networks-s5-u10-q7",
+                "networks-s5-u10-q8",
+                "networks-s5-u10-q9",
+                "networks-s5-u10-q10"
+              ]
             },
             {
               "id": "networks-section-5-unit-10-tcp-drills-lesson-2",
@@ -1503,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "TCP drills helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         }
       ]
     },
@@ -1525,7 +2119,18 @@
               "unitId": "networks-section-6-unit-1-udp-goals",
               "title": "Learn UDP goals",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s6-u1-q1",
+                "networks-s6-u1-q2",
+                "networks-s6-u1-q3",
+                "networks-s6-u1-q4",
+                "networks-s6-u1-q5",
+                "networks-s6-u1-q6",
+                "networks-s6-u1-q7",
+                "networks-s6-u1-q8",
+                "networks-s6-u1-q9",
+                "networks-s6-u1-q10"
+              ]
             },
             {
               "id": "networks-section-6-unit-1-udp-goals-lesson-2",
@@ -1541,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "UDP goals helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-6-unit-2-datagrams",
@@ -1554,7 +2160,18 @@
               "unitId": "networks-section-6-unit-2-datagrams",
               "title": "Learn Datagrams",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s6-u2-q1",
+                "networks-s6-u2-q2",
+                "networks-s6-u2-q3",
+                "networks-s6-u2-q4",
+                "networks-s6-u2-q5",
+                "networks-s6-u2-q6",
+                "networks-s6-u2-q7",
+                "networks-s6-u2-q8",
+                "networks-s6-u2-q9",
+                "networks-s6-u2-q10"
+              ]
             },
             {
               "id": "networks-section-6-unit-2-datagrams-lesson-2",
@@ -1570,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Datagrams helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-6-unit-3-udp-vs-tcp",
@@ -1583,7 +2201,18 @@
               "unitId": "networks-section-6-unit-3-udp-vs-tcp",
               "title": "Learn UDP vs TCP",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s6-u3-q1",
+                "networks-s6-u3-q2",
+                "networks-s6-u3-q3",
+                "networks-s6-u3-q4",
+                "networks-s6-u3-q5",
+                "networks-s6-u3-q6",
+                "networks-s6-u3-q7",
+                "networks-s6-u3-q8",
+                "networks-s6-u3-q9",
+                "networks-s6-u3-q10"
+              ]
             },
             {
               "id": "networks-section-6-unit-3-udp-vs-tcp-lesson-2",
@@ -1599,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "UDP vs TCP helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-6-unit-4-loss-tolerance",
@@ -1612,7 +2242,18 @@
               "unitId": "networks-section-6-unit-4-loss-tolerance",
               "title": "Learn Loss tolerance",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s6-u4-q1",
+                "networks-s6-u4-q2",
+                "networks-s6-u4-q3",
+                "networks-s6-u4-q4",
+                "networks-s6-u4-q5",
+                "networks-s6-u4-q6",
+                "networks-s6-u4-q7",
+                "networks-s6-u4-q8",
+                "networks-s6-u4-q9",
+                "networks-s6-u4-q10"
+              ]
             },
             {
               "id": "networks-section-6-unit-4-loss-tolerance-lesson-2",
@@ -1628,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Loss tolerance helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-6-unit-5-realtime-apps",
@@ -1641,7 +2283,18 @@
               "unitId": "networks-section-6-unit-5-realtime-apps",
               "title": "Learn Realtime apps",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s6-u5-q1",
+                "networks-s6-u5-q2",
+                "networks-s6-u5-q3",
+                "networks-s6-u5-q4",
+                "networks-s6-u5-q5",
+                "networks-s6-u5-q6",
+                "networks-s6-u5-q7",
+                "networks-s6-u5-q8",
+                "networks-s6-u5-q9",
+                "networks-s6-u5-q10"
+              ]
             },
             {
               "id": "networks-section-6-unit-5-realtime-apps-lesson-2",
@@ -1657,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Realtime apps helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-6-unit-6-dns-over-udp",
@@ -1670,7 +2324,18 @@
               "unitId": "networks-section-6-unit-6-dns-over-udp",
               "title": "Learn DNS over UDP",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s6-u6-q1",
+                "networks-s6-u6-q2",
+                "networks-s6-u6-q3",
+                "networks-s6-u6-q4",
+                "networks-s6-u6-q5",
+                "networks-s6-u6-q6",
+                "networks-s6-u6-q7",
+                "networks-s6-u6-q8",
+                "networks-s6-u6-q9",
+                "networks-s6-u6-q10"
+              ]
             },
             {
               "id": "networks-section-6-unit-6-dns-over-udp-lesson-2",
@@ -1686,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DNS over UDP helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-6-unit-7-quic-concept",
@@ -1699,7 +2365,18 @@
               "unitId": "networks-section-6-unit-7-quic-concept",
               "title": "Learn QUIC concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s6-u7-q1",
+                "networks-s6-u7-q2",
+                "networks-s6-u7-q3",
+                "networks-s6-u7-q4",
+                "networks-s6-u7-q5",
+                "networks-s6-u7-q6",
+                "networks-s6-u7-q7",
+                "networks-s6-u7-q8",
+                "networks-s6-u7-q9",
+                "networks-s6-u7-q10"
+              ]
             },
             {
               "id": "networks-section-6-unit-7-quic-concept-lesson-2",
@@ -1715,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "QUIC concept helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-6-unit-8-reliability-on-udp",
@@ -1728,7 +2406,18 @@
               "unitId": "networks-section-6-unit-8-reliability-on-udp",
               "title": "Learn Reliability on UDP",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s6-u8-q1",
+                "networks-s6-u8-q2",
+                "networks-s6-u8-q3",
+                "networks-s6-u8-q4",
+                "networks-s6-u8-q5",
+                "networks-s6-u8-q6",
+                "networks-s6-u8-q7",
+                "networks-s6-u8-q8",
+                "networks-s6-u8-q9",
+                "networks-s6-u8-q10"
+              ]
             },
             {
               "id": "networks-section-6-unit-8-reliability-on-udp-lesson-2",
@@ -1744,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reliability on UDP helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-6-unit-9-udp-tradeoffs",
@@ -1757,7 +2447,18 @@
               "unitId": "networks-section-6-unit-9-udp-tradeoffs",
               "title": "Learn UDP tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s6-u9-q1",
+                "networks-s6-u9-q2",
+                "networks-s6-u9-q3",
+                "networks-s6-u9-q4",
+                "networks-s6-u9-q5",
+                "networks-s6-u9-q6",
+                "networks-s6-u9-q7",
+                "networks-s6-u9-q8",
+                "networks-s6-u9-q9",
+                "networks-s6-u9-q10"
+              ]
             },
             {
               "id": "networks-section-6-unit-9-udp-tradeoffs-lesson-2",
@@ -1773,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "UDP tradeoffs helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-6-unit-10-udp-drills",
@@ -1786,7 +2488,18 @@
               "unitId": "networks-section-6-unit-10-udp-drills",
               "title": "Learn UDP drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s6-u10-q1",
+                "networks-s6-u10-q2",
+                "networks-s6-u10-q3",
+                "networks-s6-u10-q4",
+                "networks-s6-u10-q5",
+                "networks-s6-u10-q6",
+                "networks-s6-u10-q7",
+                "networks-s6-u10-q8",
+                "networks-s6-u10-q9",
+                "networks-s6-u10-q10"
+              ]
             },
             {
               "id": "networks-section-6-unit-10-udp-drills-lesson-2",
@@ -1802,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "UDP drills helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         }
       ]
     },
@@ -1824,7 +2538,18 @@
               "unitId": "networks-section-7-unit-1-ip-addresses",
               "title": "Learn IP addresses",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s7-u1-q1",
+                "networks-s7-u1-q2",
+                "networks-s7-u1-q3",
+                "networks-s7-u1-q4",
+                "networks-s7-u1-q5",
+                "networks-s7-u1-q6",
+                "networks-s7-u1-q7",
+                "networks-s7-u1-q8",
+                "networks-s7-u1-q9",
+                "networks-s7-u1-q10"
+              ]
             },
             {
               "id": "networks-section-7-unit-1-ip-addresses-lesson-2",
@@ -1840,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "IP addresses helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-7-unit-2-subnets",
@@ -1853,7 +2579,18 @@
               "unitId": "networks-section-7-unit-2-subnets",
               "title": "Learn Subnets",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s7-u2-q1",
+                "networks-s7-u2-q2",
+                "networks-s7-u2-q3",
+                "networks-s7-u2-q4",
+                "networks-s7-u2-q5",
+                "networks-s7-u2-q6",
+                "networks-s7-u2-q7",
+                "networks-s7-u2-q8",
+                "networks-s7-u2-q9",
+                "networks-s7-u2-q10"
+              ]
             },
             {
               "id": "networks-section-7-unit-2-subnets-lesson-2",
@@ -1869,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Subnets helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-7-unit-3-cidr",
@@ -1882,7 +2620,18 @@
               "unitId": "networks-section-7-unit-3-cidr",
               "title": "Learn CIDR",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s7-u3-q1",
+                "networks-s7-u3-q2",
+                "networks-s7-u3-q3",
+                "networks-s7-u3-q4",
+                "networks-s7-u3-q5",
+                "networks-s7-u3-q6",
+                "networks-s7-u3-q7",
+                "networks-s7-u3-q8",
+                "networks-s7-u3-q9",
+                "networks-s7-u3-q10"
+              ]
             },
             {
               "id": "networks-section-7-unit-3-cidr-lesson-2",
@@ -1898,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CIDR helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-7-unit-4-gateways",
@@ -1911,7 +2661,18 @@
               "unitId": "networks-section-7-unit-4-gateways",
               "title": "Learn Gateways",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s7-u4-q1",
+                "networks-s7-u4-q2",
+                "networks-s7-u4-q3",
+                "networks-s7-u4-q4",
+                "networks-s7-u4-q5",
+                "networks-s7-u4-q6",
+                "networks-s7-u4-q7",
+                "networks-s7-u4-q8",
+                "networks-s7-u4-q9",
+                "networks-s7-u4-q10"
+              ]
             },
             {
               "id": "networks-section-7-unit-4-gateways-lesson-2",
@@ -1927,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Gateways helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-7-unit-5-routing-tables",
@@ -1940,7 +2702,18 @@
               "unitId": "networks-section-7-unit-5-routing-tables",
               "title": "Learn Routing tables",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s7-u5-q1",
+                "networks-s7-u5-q2",
+                "networks-s7-u5-q3",
+                "networks-s7-u5-q4",
+                "networks-s7-u5-q5",
+                "networks-s7-u5-q6",
+                "networks-s7-u5-q7",
+                "networks-s7-u5-q8",
+                "networks-s7-u5-q9",
+                "networks-s7-u5-q10"
+              ]
             },
             {
               "id": "networks-section-7-unit-5-routing-tables-lesson-2",
@@ -1956,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Routing tables helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-7-unit-6-nat",
@@ -1969,7 +2743,18 @@
               "unitId": "networks-section-7-unit-6-nat",
               "title": "Learn NAT",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s7-u6-q1",
+                "networks-s7-u6-q2",
+                "networks-s7-u6-q3",
+                "networks-s7-u6-q4",
+                "networks-s7-u6-q5",
+                "networks-s7-u6-q6",
+                "networks-s7-u6-q7",
+                "networks-s7-u6-q8",
+                "networks-s7-u6-q9",
+                "networks-s7-u6-q10"
+              ]
             },
             {
               "id": "networks-section-7-unit-6-nat-lesson-2",
@@ -1985,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "NAT helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-7-unit-7-ipv4-vs-ipv6",
@@ -1998,7 +2784,18 @@
               "unitId": "networks-section-7-unit-7-ipv4-vs-ipv6",
               "title": "Learn IPv4 vs IPv6",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s7-u7-q1",
+                "networks-s7-u7-q2",
+                "networks-s7-u7-q3",
+                "networks-s7-u7-q4",
+                "networks-s7-u7-q5",
+                "networks-s7-u7-q6",
+                "networks-s7-u7-q7",
+                "networks-s7-u7-q8",
+                "networks-s7-u7-q9",
+                "networks-s7-u7-q10"
+              ]
             },
             {
               "id": "networks-section-7-unit-7-ipv4-vs-ipv6-lesson-2",
@@ -2014,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "IPv4 vs IPv6 helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-7-unit-8-icmp",
@@ -2027,7 +2825,18 @@
               "unitId": "networks-section-7-unit-8-icmp",
               "title": "Learn ICMP",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s7-u8-q1",
+                "networks-s7-u8-q2",
+                "networks-s7-u8-q3",
+                "networks-s7-u8-q4",
+                "networks-s7-u8-q5",
+                "networks-s7-u8-q6",
+                "networks-s7-u8-q7",
+                "networks-s7-u8-q8",
+                "networks-s7-u8-q9",
+                "networks-s7-u8-q10"
+              ]
             },
             {
               "id": "networks-section-7-unit-8-icmp-lesson-2",
@@ -2043,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "ICMP helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-7-unit-9-traceroute-concept",
@@ -2056,7 +2866,18 @@
               "unitId": "networks-section-7-unit-9-traceroute-concept",
               "title": "Learn Traceroute concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s7-u9-q1",
+                "networks-s7-u9-q2",
+                "networks-s7-u9-q3",
+                "networks-s7-u9-q4",
+                "networks-s7-u9-q5",
+                "networks-s7-u9-q6",
+                "networks-s7-u9-q7",
+                "networks-s7-u9-q8",
+                "networks-s7-u9-q9",
+                "networks-s7-u9-q10"
+              ]
             },
             {
               "id": "networks-section-7-unit-9-traceroute-concept-lesson-2",
@@ -2072,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Traceroute concept helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-7-unit-10-routing-drills",
@@ -2085,7 +2907,18 @@
               "unitId": "networks-section-7-unit-10-routing-drills",
               "title": "Learn Routing drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s7-u10-q1",
+                "networks-s7-u10-q2",
+                "networks-s7-u10-q3",
+                "networks-s7-u10-q4",
+                "networks-s7-u10-q5",
+                "networks-s7-u10-q6",
+                "networks-s7-u10-q7",
+                "networks-s7-u10-q8",
+                "networks-s7-u10-q9",
+                "networks-s7-u10-q10"
+              ]
             },
             {
               "id": "networks-section-7-unit-10-routing-drills-lesson-2",
@@ -2101,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Routing drills helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         }
       ]
     },
@@ -2123,7 +2957,18 @@
               "unitId": "networks-section-8-unit-1-socket-concept",
               "title": "Learn Socket concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s8-u1-q1",
+                "networks-s8-u1-q2",
+                "networks-s8-u1-q3",
+                "networks-s8-u1-q4",
+                "networks-s8-u1-q5",
+                "networks-s8-u1-q6",
+                "networks-s8-u1-q7",
+                "networks-s8-u1-q8",
+                "networks-s8-u1-q9",
+                "networks-s8-u1-q10"
+              ]
             },
             {
               "id": "networks-section-8-unit-1-socket-concept-lesson-2",
@@ -2139,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Socket concept helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-8-unit-2-client-sockets",
@@ -2152,7 +2998,18 @@
               "unitId": "networks-section-8-unit-2-client-sockets",
               "title": "Learn Client sockets",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s8-u2-q1",
+                "networks-s8-u2-q2",
+                "networks-s8-u2-q3",
+                "networks-s8-u2-q4",
+                "networks-s8-u2-q5",
+                "networks-s8-u2-q6",
+                "networks-s8-u2-q7",
+                "networks-s8-u2-q8",
+                "networks-s8-u2-q9",
+                "networks-s8-u2-q10"
+              ]
             },
             {
               "id": "networks-section-8-unit-2-client-sockets-lesson-2",
@@ -2168,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Client sockets helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-8-unit-3-server-sockets",
@@ -2181,7 +3039,18 @@
               "unitId": "networks-section-8-unit-3-server-sockets",
               "title": "Learn Server sockets",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s8-u3-q1",
+                "networks-s8-u3-q2",
+                "networks-s8-u3-q3",
+                "networks-s8-u3-q4",
+                "networks-s8-u3-q5",
+                "networks-s8-u3-q6",
+                "networks-s8-u3-q7",
+                "networks-s8-u3-q8",
+                "networks-s8-u3-q9",
+                "networks-s8-u3-q10"
+              ]
             },
             {
               "id": "networks-section-8-unit-3-server-sockets-lesson-2",
@@ -2197,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Server sockets helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-8-unit-4-ports",
@@ -2210,7 +3080,18 @@
               "unitId": "networks-section-8-unit-4-ports",
               "title": "Learn Ports",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s8-u4-q1",
+                "networks-s8-u4-q2",
+                "networks-s8-u4-q3",
+                "networks-s8-u4-q4",
+                "networks-s8-u4-q5",
+                "networks-s8-u4-q6",
+                "networks-s8-u4-q7",
+                "networks-s8-u4-q8",
+                "networks-s8-u4-q9",
+                "networks-s8-u4-q10"
+              ]
             },
             {
               "id": "networks-section-8-unit-4-ports-lesson-2",
@@ -2226,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Ports helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-8-unit-5-binding",
@@ -2239,7 +3121,18 @@
               "unitId": "networks-section-8-unit-5-binding",
               "title": "Learn Binding",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s8-u5-q1",
+                "networks-s8-u5-q2",
+                "networks-s8-u5-q3",
+                "networks-s8-u5-q4",
+                "networks-s8-u5-q5",
+                "networks-s8-u5-q6",
+                "networks-s8-u5-q7",
+                "networks-s8-u5-q8",
+                "networks-s8-u5-q9",
+                "networks-s8-u5-q10"
+              ]
             },
             {
               "id": "networks-section-8-unit-5-binding-lesson-2",
@@ -2255,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Binding helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-8-unit-6-listening",
@@ -2268,7 +3162,18 @@
               "unitId": "networks-section-8-unit-6-listening",
               "title": "Learn Listening",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s8-u6-q1",
+                "networks-s8-u6-q2",
+                "networks-s8-u6-q3",
+                "networks-s8-u6-q4",
+                "networks-s8-u6-q5",
+                "networks-s8-u6-q6",
+                "networks-s8-u6-q7",
+                "networks-s8-u6-q8",
+                "networks-s8-u6-q9",
+                "networks-s8-u6-q10"
+              ]
             },
             {
               "id": "networks-section-8-unit-6-listening-lesson-2",
@@ -2284,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Listening helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-8-unit-7-accepting",
@@ -2297,7 +3203,18 @@
               "unitId": "networks-section-8-unit-7-accepting",
               "title": "Learn Accepting",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s8-u7-q1",
+                "networks-s8-u7-q2",
+                "networks-s8-u7-q3",
+                "networks-s8-u7-q4",
+                "networks-s8-u7-q5",
+                "networks-s8-u7-q6",
+                "networks-s8-u7-q7",
+                "networks-s8-u7-q8",
+                "networks-s8-u7-q9",
+                "networks-s8-u7-q10"
+              ]
             },
             {
               "id": "networks-section-8-unit-7-accepting-lesson-2",
@@ -2313,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Accepting helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-8-unit-8-blocking-io",
@@ -2326,7 +3244,18 @@
               "unitId": "networks-section-8-unit-8-blocking-io",
               "title": "Learn Blocking IO",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s8-u8-q1",
+                "networks-s8-u8-q2",
+                "networks-s8-u8-q3",
+                "networks-s8-u8-q4",
+                "networks-s8-u8-q5",
+                "networks-s8-u8-q6",
+                "networks-s8-u8-q7",
+                "networks-s8-u8-q8",
+                "networks-s8-u8-q9",
+                "networks-s8-u8-q10"
+              ]
             },
             {
               "id": "networks-section-8-unit-8-blocking-io-lesson-2",
@@ -2342,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Blocking IO helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-8-unit-9-socket-errors",
@@ -2355,7 +3285,18 @@
               "unitId": "networks-section-8-unit-9-socket-errors",
               "title": "Learn Socket errors",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s8-u9-q1",
+                "networks-s8-u9-q2",
+                "networks-s8-u9-q3",
+                "networks-s8-u9-q4",
+                "networks-s8-u9-q5",
+                "networks-s8-u9-q6",
+                "networks-s8-u9-q7",
+                "networks-s8-u9-q8",
+                "networks-s8-u9-q9",
+                "networks-s8-u9-q10"
+              ]
             },
             {
               "id": "networks-section-8-unit-9-socket-errors-lesson-2",
@@ -2371,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Socket errors helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-8-unit-10-socket-project",
@@ -2384,7 +3326,18 @@
               "unitId": "networks-section-8-unit-10-socket-project",
               "title": "Learn Socket project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s8-u10-q1",
+                "networks-s8-u10-q2",
+                "networks-s8-u10-q3",
+                "networks-s8-u10-q4",
+                "networks-s8-u10-q5",
+                "networks-s8-u10-q6",
+                "networks-s8-u10-q7",
+                "networks-s8-u10-q8",
+                "networks-s8-u10-q9",
+                "networks-s8-u10-q10"
+              ]
             },
             {
               "id": "networks-section-8-unit-10-socket-project-lesson-2",
@@ -2400,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Socket project helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         }
       ]
     },
@@ -2422,7 +3376,18 @@
               "unitId": "networks-section-9-unit-1-tls-certificates",
               "title": "Learn TLS certificates",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s9-u1-q1",
+                "networks-s9-u1-q2",
+                "networks-s9-u1-q3",
+                "networks-s9-u1-q4",
+                "networks-s9-u1-q5",
+                "networks-s9-u1-q6",
+                "networks-s9-u1-q7",
+                "networks-s9-u1-q8",
+                "networks-s9-u1-q9",
+                "networks-s9-u1-q10"
+              ]
             },
             {
               "id": "networks-section-9-unit-1-tls-certificates-lesson-2",
@@ -2438,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "TLS certificates helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-9-unit-2-certificate-chains",
@@ -2451,7 +3417,18 @@
               "unitId": "networks-section-9-unit-2-certificate-chains",
               "title": "Learn Certificate chains",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s9-u2-q1",
+                "networks-s9-u2-q2",
+                "networks-s9-u2-q3",
+                "networks-s9-u2-q4",
+                "networks-s9-u2-q5",
+                "networks-s9-u2-q6",
+                "networks-s9-u2-q7",
+                "networks-s9-u2-q8",
+                "networks-s9-u2-q9",
+                "networks-s9-u2-q10"
+              ]
             },
             {
               "id": "networks-section-9-unit-2-certificate-chains-lesson-2",
@@ -2467,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Certificate chains helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-9-unit-3-firewalls",
@@ -2480,7 +3458,18 @@
               "unitId": "networks-section-9-unit-3-firewalls",
               "title": "Learn Firewalls",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s9-u3-q1",
+                "networks-s9-u3-q2",
+                "networks-s9-u3-q3",
+                "networks-s9-u3-q4",
+                "networks-s9-u3-q5",
+                "networks-s9-u3-q6",
+                "networks-s9-u3-q7",
+                "networks-s9-u3-q8",
+                "networks-s9-u3-q9",
+                "networks-s9-u3-q10"
+              ]
             },
             {
               "id": "networks-section-9-unit-3-firewalls-lesson-2",
@@ -2496,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Firewalls helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-9-unit-4-vpn-concept",
@@ -2509,7 +3499,18 @@
               "unitId": "networks-section-9-unit-4-vpn-concept",
               "title": "Learn VPN concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s9-u4-q1",
+                "networks-s9-u4-q2",
+                "networks-s9-u4-q3",
+                "networks-s9-u4-q4",
+                "networks-s9-u4-q5",
+                "networks-s9-u4-q6",
+                "networks-s9-u4-q7",
+                "networks-s9-u4-q8",
+                "networks-s9-u4-q9",
+                "networks-s9-u4-q10"
+              ]
             },
             {
               "id": "networks-section-9-unit-4-vpn-concept-lesson-2",
@@ -2525,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "VPN concept helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-9-unit-5-ddos-basics",
@@ -2538,7 +3540,18 @@
               "unitId": "networks-section-9-unit-5-ddos-basics",
               "title": "Learn DDoS basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s9-u5-q1",
+                "networks-s9-u5-q2",
+                "networks-s9-u5-q3",
+                "networks-s9-u5-q4",
+                "networks-s9-u5-q5",
+                "networks-s9-u5-q6",
+                "networks-s9-u5-q7",
+                "networks-s9-u5-q8",
+                "networks-s9-u5-q9",
+                "networks-s9-u5-q10"
+              ]
             },
             {
               "id": "networks-section-9-unit-5-ddos-basics-lesson-2",
@@ -2554,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DDoS basics helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-9-unit-6-cors",
@@ -2567,7 +3581,18 @@
               "unitId": "networks-section-9-unit-6-cors",
               "title": "Learn CORS",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s9-u6-q1",
+                "networks-s9-u6-q2",
+                "networks-s9-u6-q3",
+                "networks-s9-u6-q4",
+                "networks-s9-u6-q5",
+                "networks-s9-u6-q6",
+                "networks-s9-u6-q7",
+                "networks-s9-u6-q8",
+                "networks-s9-u6-q9",
+                "networks-s9-u6-q10"
+              ]
             },
             {
               "id": "networks-section-9-unit-6-cors-lesson-2",
@@ -2583,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CORS helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-9-unit-7-csrf-concept",
@@ -2596,7 +3622,18 @@
               "unitId": "networks-section-9-unit-7-csrf-concept",
               "title": "Learn CSRF concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s9-u7-q1",
+                "networks-s9-u7-q2",
+                "networks-s9-u7-q3",
+                "networks-s9-u7-q4",
+                "networks-s9-u7-q5",
+                "networks-s9-u7-q6",
+                "networks-s9-u7-q7",
+                "networks-s9-u7-q8",
+                "networks-s9-u7-q9",
+                "networks-s9-u7-q10"
+              ]
             },
             {
               "id": "networks-section-9-unit-7-csrf-concept-lesson-2",
@@ -2612,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CSRF concept helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-9-unit-8-secure-headers",
@@ -2625,7 +3663,18 @@
               "unitId": "networks-section-9-unit-8-secure-headers",
               "title": "Learn Secure headers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s9-u8-q1",
+                "networks-s9-u8-q2",
+                "networks-s9-u8-q3",
+                "networks-s9-u8-q4",
+                "networks-s9-u8-q5",
+                "networks-s9-u8-q6",
+                "networks-s9-u8-q7",
+                "networks-s9-u8-q8",
+                "networks-s9-u8-q9",
+                "networks-s9-u8-q10"
+              ]
             },
             {
               "id": "networks-section-9-unit-8-secure-headers-lesson-2",
@@ -2641,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Secure headers helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-9-unit-9-network-monitoring",
@@ -2654,7 +3704,18 @@
               "unitId": "networks-section-9-unit-9-network-monitoring",
               "title": "Learn Network monitoring",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s9-u9-q1",
+                "networks-s9-u9-q2",
+                "networks-s9-u9-q3",
+                "networks-s9-u9-q4",
+                "networks-s9-u9-q5",
+                "networks-s9-u9-q6",
+                "networks-s9-u9-q7",
+                "networks-s9-u9-q8",
+                "networks-s9-u9-q9",
+                "networks-s9-u9-q10"
+              ]
             },
             {
               "id": "networks-section-9-unit-9-network-monitoring-lesson-2",
@@ -2670,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Network monitoring helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-9-unit-10-security-drills",
@@ -2683,7 +3745,18 @@
               "unitId": "networks-section-9-unit-10-security-drills",
               "title": "Learn Security drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s9-u10-q1",
+                "networks-s9-u10-q2",
+                "networks-s9-u10-q3",
+                "networks-s9-u10-q4",
+                "networks-s9-u10-q5",
+                "networks-s9-u10-q6",
+                "networks-s9-u10-q7",
+                "networks-s9-u10-q8",
+                "networks-s9-u10-q9",
+                "networks-s9-u10-q10"
+              ]
             },
             {
               "id": "networks-section-9-unit-10-security-drills-lesson-2",
@@ -2699,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Security drills helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         }
       ]
     },
@@ -2721,7 +3795,18 @@
               "unitId": "networks-section-10-unit-1-http-inspector",
               "title": "Learn HTTP inspector",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s10-u1-q1",
+                "networks-s10-u1-q2",
+                "networks-s10-u1-q3",
+                "networks-s10-u1-q4",
+                "networks-s10-u1-q5",
+                "networks-s10-u1-q6",
+                "networks-s10-u1-q7",
+                "networks-s10-u1-q8",
+                "networks-s10-u1-q9",
+                "networks-s10-u1-q10"
+              ]
             },
             {
               "id": "networks-section-10-unit-1-http-inspector-lesson-2",
@@ -2737,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "HTTP inspector helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-10-unit-2-dns-trace",
@@ -2750,7 +3836,18 @@
               "unitId": "networks-section-10-unit-2-dns-trace",
               "title": "Learn DNS trace",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s10-u2-q1",
+                "networks-s10-u2-q2",
+                "networks-s10-u2-q3",
+                "networks-s10-u2-q4",
+                "networks-s10-u2-q5",
+                "networks-s10-u2-q6",
+                "networks-s10-u2-q7",
+                "networks-s10-u2-q8",
+                "networks-s10-u2-q9",
+                "networks-s10-u2-q10"
+              ]
             },
             {
               "id": "networks-section-10-unit-2-dns-trace-lesson-2",
@@ -2766,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DNS trace helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-10-unit-3-subnet-planner",
@@ -2779,7 +3877,18 @@
               "unitId": "networks-section-10-unit-3-subnet-planner",
               "title": "Learn Subnet planner",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s10-u3-q1",
+                "networks-s10-u3-q2",
+                "networks-s10-u3-q3",
+                "networks-s10-u3-q4",
+                "networks-s10-u3-q5",
+                "networks-s10-u3-q6",
+                "networks-s10-u3-q7",
+                "networks-s10-u3-q8",
+                "networks-s10-u3-q9",
+                "networks-s10-u3-q10"
+              ]
             },
             {
               "id": "networks-section-10-unit-3-subnet-planner-lesson-2",
@@ -2795,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Subnet planner helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-10-unit-4-socket-chat-intro",
@@ -2808,7 +3918,18 @@
               "unitId": "networks-section-10-unit-4-socket-chat-intro",
               "title": "Learn Socket chat intro",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s10-u4-q1",
+                "networks-s10-u4-q2",
+                "networks-s10-u4-q3",
+                "networks-s10-u4-q4",
+                "networks-s10-u4-q5",
+                "networks-s10-u4-q6",
+                "networks-s10-u4-q7",
+                "networks-s10-u4-q8",
+                "networks-s10-u4-q9",
+                "networks-s10-u4-q10"
+              ]
             },
             {
               "id": "networks-section-10-unit-4-socket-chat-intro-lesson-2",
@@ -2824,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Socket chat intro helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-10-unit-5-packet-flow-diagram",
@@ -2837,7 +3959,18 @@
               "unitId": "networks-section-10-unit-5-packet-flow-diagram",
               "title": "Learn Packet flow diagram",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s10-u5-q1",
+                "networks-s10-u5-q2",
+                "networks-s10-u5-q3",
+                "networks-s10-u5-q4",
+                "networks-s10-u5-q5",
+                "networks-s10-u5-q6",
+                "networks-s10-u5-q7",
+                "networks-s10-u5-q8",
+                "networks-s10-u5-q9",
+                "networks-s10-u5-q10"
+              ]
             },
             {
               "id": "networks-section-10-unit-5-packet-flow-diagram-lesson-2",
@@ -2853,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Packet flow diagram helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-10-unit-6-latency-analysis",
@@ -2866,7 +4000,18 @@
               "unitId": "networks-section-10-unit-6-latency-analysis",
               "title": "Learn Latency analysis",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s10-u6-q1",
+                "networks-s10-u6-q2",
+                "networks-s10-u6-q3",
+                "networks-s10-u6-q4",
+                "networks-s10-u6-q5",
+                "networks-s10-u6-q6",
+                "networks-s10-u6-q7",
+                "networks-s10-u6-q8",
+                "networks-s10-u6-q9",
+                "networks-s10-u6-q10"
+              ]
             },
             {
               "id": "networks-section-10-unit-6-latency-analysis-lesson-2",
@@ -2882,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Latency analysis helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-10-unit-7-cache-behavior",
@@ -2895,7 +4041,18 @@
               "unitId": "networks-section-10-unit-7-cache-behavior",
               "title": "Learn Cache behavior",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s10-u7-q1",
+                "networks-s10-u7-q2",
+                "networks-s10-u7-q3",
+                "networks-s10-u7-q4",
+                "networks-s10-u7-q5",
+                "networks-s10-u7-q6",
+                "networks-s10-u7-q7",
+                "networks-s10-u7-q8",
+                "networks-s10-u7-q9",
+                "networks-s10-u7-q10"
+              ]
             },
             {
               "id": "networks-section-10-unit-7-cache-behavior-lesson-2",
@@ -2911,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Cache behavior helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-10-unit-8-tls-walkthrough",
@@ -2924,7 +4082,18 @@
               "unitId": "networks-section-10-unit-8-tls-walkthrough",
               "title": "Learn TLS walkthrough",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s10-u8-q1",
+                "networks-s10-u8-q2",
+                "networks-s10-u8-q3",
+                "networks-s10-u8-q4",
+                "networks-s10-u8-q5",
+                "networks-s10-u8-q6",
+                "networks-s10-u8-q7",
+                "networks-s10-u8-q8",
+                "networks-s10-u8-q9",
+                "networks-s10-u8-q10"
+              ]
             },
             {
               "id": "networks-section-10-unit-8-tls-walkthrough-lesson-2",
@@ -2940,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "TLS walkthrough helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-10-unit-9-troubleshooting-lab",
@@ -2953,7 +4123,18 @@
               "unitId": "networks-section-10-unit-9-troubleshooting-lab",
               "title": "Learn Troubleshooting lab",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s10-u9-q1",
+                "networks-s10-u9-q2",
+                "networks-s10-u9-q3",
+                "networks-s10-u9-q4",
+                "networks-s10-u9-q5",
+                "networks-s10-u9-q6",
+                "networks-s10-u9-q7",
+                "networks-s10-u9-q8",
+                "networks-s10-u9-q9",
+                "networks-s10-u9-q10"
+              ]
             },
             {
               "id": "networks-section-10-unit-9-troubleshooting-lab-lesson-2",
@@ -2969,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Troubleshooting lab helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         },
         {
           "id": "networks-section-10-unit-10-final-networks-project",
@@ -2982,7 +4164,18 @@
               "unitId": "networks-section-10-unit-10-final-networks-project",
               "title": "Learn Final networks project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "networks-s10-u10-q1",
+                "networks-s10-u10-q2",
+                "networks-s10-u10-q3",
+                "networks-s10-u10-q4",
+                "networks-s10-u10-q5",
+                "networks-s10-u10-q6",
+                "networks-s10-u10-q7",
+                "networks-s10-u10-q8",
+                "networks-s10-u10-q9",
+                "networks-s10-u10-q10"
+              ]
             },
             {
               "id": "networks-section-10-unit-10-final-networks-project-lesson-2",
@@ -2998,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final networks project helps you move data between machines using protocols. Example: `GET / HTTP/1.1`. Avoid: debugging the app while ignoring network layers."
         }
       ]
     }

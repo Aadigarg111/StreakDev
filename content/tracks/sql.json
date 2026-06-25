@@ -25,14 +25,16 @@
               "title": "Learn Tables and rows",
               "order": 1,
               "exerciseIds": [
-                "sql-s1-u1-e1",
-                "sql-s1-u1-e2",
-                "sql-s1-u1-e3",
-                "sql-s1-u1-e4",
-                "sql-s1-u1-e5",
-                "sql-s1-u1-e6",
-                "sql-s1-u1-e7",
-                "sql-s1-u1-e8"
+                "sql-s1-u1-q1",
+                "sql-s1-u1-q2",
+                "sql-s1-u1-q3",
+                "sql-s1-u1-q4",
+                "sql-s1-u1-q5",
+                "sql-s1-u1-q6",
+                "sql-s1-u1-q7",
+                "sql-s1-u1-q8",
+                "sql-s1-u1-q9",
+                "sql-s1-u1-q10"
               ]
             },
             {
@@ -49,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tables and rows helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-1-unit-2-select-columns",
@@ -63,14 +66,16 @@
               "title": "Learn SELECT columns",
               "order": 1,
               "exerciseIds": [
-                "sql-s1-u2-e1",
-                "sql-s1-u2-e2",
-                "sql-s1-u2-e3",
-                "sql-s1-u2-e4",
-                "sql-s1-u2-e5",
-                "sql-s1-u2-e6",
-                "sql-s1-u2-e7",
-                "sql-s1-u2-e8"
+                "sql-s1-u2-q1",
+                "sql-s1-u2-q2",
+                "sql-s1-u2-q3",
+                "sql-s1-u2-q4",
+                "sql-s1-u2-q5",
+                "sql-s1-u2-q6",
+                "sql-s1-u2-q7",
+                "sql-s1-u2-q8",
+                "sql-s1-u2-q9",
+                "sql-s1-u2-q10"
               ]
             },
             {
@@ -87,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "SELECT columns helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-1-unit-3-where-filters",
@@ -101,14 +107,16 @@
               "title": "Learn WHERE filters",
               "order": 1,
               "exerciseIds": [
-                "sql-s1-u3-e1",
-                "sql-s1-u3-e2",
-                "sql-s1-u3-e3",
-                "sql-s1-u3-e4",
-                "sql-s1-u3-e5",
-                "sql-s1-u3-e6",
-                "sql-s1-u3-e7",
-                "sql-s1-u3-e8"
+                "sql-s1-u3-q1",
+                "sql-s1-u3-q2",
+                "sql-s1-u3-q3",
+                "sql-s1-u3-q4",
+                "sql-s1-u3-q5",
+                "sql-s1-u3-q6",
+                "sql-s1-u3-q7",
+                "sql-s1-u3-q8",
+                "sql-s1-u3-q9",
+                "sql-s1-u3-q10"
               ]
             },
             {
@@ -125,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "WHERE filters helps you query and shape relational data. Example: `WHERE status = 'paid'`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-1-unit-4-comparison-operators",
@@ -139,14 +148,16 @@
               "title": "Learn Comparison operators",
               "order": 1,
               "exerciseIds": [
-                "sql-s1-u4-e1",
-                "sql-s1-u4-e2",
-                "sql-s1-u4-e3",
-                "sql-s1-u4-e4",
-                "sql-s1-u4-e5",
-                "sql-s1-u4-e6",
-                "sql-s1-u4-e7",
-                "sql-s1-u4-e8"
+                "sql-s1-u4-q1",
+                "sql-s1-u4-q2",
+                "sql-s1-u4-q3",
+                "sql-s1-u4-q4",
+                "sql-s1-u4-q5",
+                "sql-s1-u4-q6",
+                "sql-s1-u4-q7",
+                "sql-s1-u4-q8",
+                "sql-s1-u4-q9",
+                "sql-s1-u4-q10"
               ]
             },
             {
@@ -163,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Comparison operators helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-1-unit-5-logical-filters",
@@ -177,14 +189,16 @@
               "title": "Learn Logical filters",
               "order": 1,
               "exerciseIds": [
-                "sql-s1-u5-e1",
-                "sql-s1-u5-e2",
-                "sql-s1-u5-e3",
-                "sql-s1-u5-e4",
-                "sql-s1-u5-e5",
-                "sql-s1-u5-e6",
-                "sql-s1-u5-e7",
-                "sql-s1-u5-e8"
+                "sql-s1-u5-q1",
+                "sql-s1-u5-q2",
+                "sql-s1-u5-q3",
+                "sql-s1-u5-q4",
+                "sql-s1-u5-q5",
+                "sql-s1-u5-q6",
+                "sql-s1-u5-q7",
+                "sql-s1-u5-q8",
+                "sql-s1-u5-q9",
+                "sql-s1-u5-q10"
               ]
             },
             {
@@ -201,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Logical filters helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-1-unit-6-order-by",
@@ -215,14 +230,16 @@
               "title": "Learn ORDER BY",
               "order": 1,
               "exerciseIds": [
-                "sql-s1-u6-e1",
-                "sql-s1-u6-e2",
-                "sql-s1-u6-e3",
-                "sql-s1-u6-e4",
-                "sql-s1-u6-e5",
-                "sql-s1-u6-e6",
-                "sql-s1-u6-e7",
-                "sql-s1-u6-e8"
+                "sql-s1-u6-q1",
+                "sql-s1-u6-q2",
+                "sql-s1-u6-q3",
+                "sql-s1-u6-q4",
+                "sql-s1-u6-q5",
+                "sql-s1-u6-q6",
+                "sql-s1-u6-q7",
+                "sql-s1-u6-q8",
+                "sql-s1-u6-q9",
+                "sql-s1-u6-q10"
               ]
             },
             {
@@ -239,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "ORDER BY helps you query and shape relational data. Example: `ORDER BY created_at DESC`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-1-unit-7-limit",
@@ -253,14 +271,16 @@
               "title": "Learn LIMIT",
               "order": 1,
               "exerciseIds": [
-                "sql-s1-u7-e1",
-                "sql-s1-u7-e2",
-                "sql-s1-u7-e3",
-                "sql-s1-u7-e4",
-                "sql-s1-u7-e5",
-                "sql-s1-u7-e6",
-                "sql-s1-u7-e7",
-                "sql-s1-u7-e8"
+                "sql-s1-u7-q1",
+                "sql-s1-u7-q2",
+                "sql-s1-u7-q3",
+                "sql-s1-u7-q4",
+                "sql-s1-u7-q5",
+                "sql-s1-u7-q6",
+                "sql-s1-u7-q7",
+                "sql-s1-u7-q8",
+                "sql-s1-u7-q9",
+                "sql-s1-u7-q10"
               ]
             },
             {
@@ -277,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "LIMIT helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-1-unit-8-distinct",
@@ -291,14 +312,16 @@
               "title": "Learn DISTINCT",
               "order": 1,
               "exerciseIds": [
-                "sql-s1-u8-e1",
-                "sql-s1-u8-e2",
-                "sql-s1-u8-e3",
-                "sql-s1-u8-e4",
-                "sql-s1-u8-e5",
-                "sql-s1-u8-e6",
-                "sql-s1-u8-e7",
-                "sql-s1-u8-e8"
+                "sql-s1-u8-q1",
+                "sql-s1-u8-q2",
+                "sql-s1-u8-q3",
+                "sql-s1-u8-q4",
+                "sql-s1-u8-q5",
+                "sql-s1-u8-q6",
+                "sql-s1-u8-q7",
+                "sql-s1-u8-q8",
+                "sql-s1-u8-q9",
+                "sql-s1-u8-q10"
               ]
             },
             {
@@ -315,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DISTINCT helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-1-unit-9-aliases",
@@ -329,14 +353,16 @@
               "title": "Learn Aliases",
               "order": 1,
               "exerciseIds": [
-                "sql-s1-u9-e1",
-                "sql-s1-u9-e2",
-                "sql-s1-u9-e3",
-                "sql-s1-u9-e4",
-                "sql-s1-u9-e5",
-                "sql-s1-u9-e6",
-                "sql-s1-u9-e7",
-                "sql-s1-u9-e8"
+                "sql-s1-u9-q1",
+                "sql-s1-u9-q2",
+                "sql-s1-u9-q3",
+                "sql-s1-u9-q4",
+                "sql-s1-u9-q5",
+                "sql-s1-u9-q6",
+                "sql-s1-u9-q7",
+                "sql-s1-u9-q8",
+                "sql-s1-u9-q9",
+                "sql-s1-u9-q10"
               ]
             },
             {
@@ -353,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Aliases helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-1-unit-10-basic-query-drills",
@@ -367,14 +394,16 @@
               "title": "Learn Basic query drills",
               "order": 1,
               "exerciseIds": [
-                "sql-s1-u10-e1",
-                "sql-s1-u10-e2",
-                "sql-s1-u10-e3",
-                "sql-s1-u10-e4",
-                "sql-s1-u10-e5",
-                "sql-s1-u10-e6",
-                "sql-s1-u10-e7",
-                "sql-s1-u10-e8"
+                "sql-s1-u10-q1",
+                "sql-s1-u10-q2",
+                "sql-s1-u10-q3",
+                "sql-s1-u10-q4",
+                "sql-s1-u10-q5",
+                "sql-s1-u10-q6",
+                "sql-s1-u10-q7",
+                "sql-s1-u10-q8",
+                "sql-s1-u10-q9",
+                "sql-s1-u10-q10"
               ]
             },
             {
@@ -391,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Basic query drills helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         }
       ]
     },
@@ -414,14 +444,16 @@
               "title": "Learn Primary keys",
               "order": 1,
               "exerciseIds": [
-                "sql-s2-u1-e1",
-                "sql-s2-u1-e2",
-                "sql-s2-u1-e3",
-                "sql-s2-u1-e4",
-                "sql-s2-u1-e5",
-                "sql-s2-u1-e6",
-                "sql-s2-u1-e7",
-                "sql-s2-u1-e8"
+                "sql-s2-u1-q1",
+                "sql-s2-u1-q2",
+                "sql-s2-u1-q3",
+                "sql-s2-u1-q4",
+                "sql-s2-u1-q5",
+                "sql-s2-u1-q6",
+                "sql-s2-u1-q7",
+                "sql-s2-u1-q8",
+                "sql-s2-u1-q9",
+                "sql-s2-u1-q10"
               ]
             },
             {
@@ -438,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Primary keys helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-2-unit-2-foreign-keys",
@@ -452,14 +485,16 @@
               "title": "Learn Foreign keys",
               "order": 1,
               "exerciseIds": [
-                "sql-s2-u2-e1",
-                "sql-s2-u2-e2",
-                "sql-s2-u2-e3",
-                "sql-s2-u2-e4",
-                "sql-s2-u2-e5",
-                "sql-s2-u2-e6",
-                "sql-s2-u2-e7",
-                "sql-s2-u2-e8"
+                "sql-s2-u2-q1",
+                "sql-s2-u2-q2",
+                "sql-s2-u2-q3",
+                "sql-s2-u2-q4",
+                "sql-s2-u2-q5",
+                "sql-s2-u2-q6",
+                "sql-s2-u2-q7",
+                "sql-s2-u2-q8",
+                "sql-s2-u2-q9",
+                "sql-s2-u2-q10"
               ]
             },
             {
@@ -476,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Foreign keys helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-2-unit-3-inner-join",
@@ -490,14 +526,16 @@
               "title": "Learn INNER JOIN",
               "order": 1,
               "exerciseIds": [
-                "sql-s2-u3-e1",
-                "sql-s2-u3-e2",
-                "sql-s2-u3-e3",
-                "sql-s2-u3-e4",
-                "sql-s2-u3-e5",
-                "sql-s2-u3-e6",
-                "sql-s2-u3-e7",
-                "sql-s2-u3-e8"
+                "sql-s2-u3-q1",
+                "sql-s2-u3-q2",
+                "sql-s2-u3-q3",
+                "sql-s2-u3-q4",
+                "sql-s2-u3-q5",
+                "sql-s2-u3-q6",
+                "sql-s2-u3-q7",
+                "sql-s2-u3-q8",
+                "sql-s2-u3-q9",
+                "sql-s2-u3-q10"
               ]
             },
             {
@@ -514,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "INNER JOIN helps you query and shape relational data. Example: `JOIN users ON users.id = orders.user_id`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-2-unit-4-left-join",
@@ -528,14 +567,16 @@
               "title": "Learn LEFT JOIN",
               "order": 1,
               "exerciseIds": [
-                "sql-s2-u4-e1",
-                "sql-s2-u4-e2",
-                "sql-s2-u4-e3",
-                "sql-s2-u4-e4",
-                "sql-s2-u4-e5",
-                "sql-s2-u4-e6",
-                "sql-s2-u4-e7",
-                "sql-s2-u4-e8"
+                "sql-s2-u4-q1",
+                "sql-s2-u4-q2",
+                "sql-s2-u4-q3",
+                "sql-s2-u4-q4",
+                "sql-s2-u4-q5",
+                "sql-s2-u4-q6",
+                "sql-s2-u4-q7",
+                "sql-s2-u4-q8",
+                "sql-s2-u4-q9",
+                "sql-s2-u4-q10"
               ]
             },
             {
@@ -552,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "LEFT JOIN helps you query and shape relational data. Example: `JOIN users ON users.id = orders.user_id`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-2-unit-5-right-join-concept",
@@ -566,14 +608,16 @@
               "title": "Learn RIGHT JOIN concept",
               "order": 1,
               "exerciseIds": [
-                "sql-s2-u5-e1",
-                "sql-s2-u5-e2",
-                "sql-s2-u5-e3",
-                "sql-s2-u5-e4",
-                "sql-s2-u5-e5",
-                "sql-s2-u5-e6",
-                "sql-s2-u5-e7",
-                "sql-s2-u5-e8"
+                "sql-s2-u5-q1",
+                "sql-s2-u5-q2",
+                "sql-s2-u5-q3",
+                "sql-s2-u5-q4",
+                "sql-s2-u5-q5",
+                "sql-s2-u5-q6",
+                "sql-s2-u5-q7",
+                "sql-s2-u5-q8",
+                "sql-s2-u5-q9",
+                "sql-s2-u5-q10"
               ]
             },
             {
@@ -590,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "RIGHT JOIN concept helps you query and shape relational data. Example: `JOIN users ON users.id = orders.user_id`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-2-unit-6-full-join-concept",
@@ -604,14 +649,16 @@
               "title": "Learn FULL JOIN concept",
               "order": 1,
               "exerciseIds": [
-                "sql-s2-u6-e1",
-                "sql-s2-u6-e2",
-                "sql-s2-u6-e3",
-                "sql-s2-u6-e4",
-                "sql-s2-u6-e5",
-                "sql-s2-u6-e6",
-                "sql-s2-u6-e7",
-                "sql-s2-u6-e8"
+                "sql-s2-u6-q1",
+                "sql-s2-u6-q2",
+                "sql-s2-u6-q3",
+                "sql-s2-u6-q4",
+                "sql-s2-u6-q5",
+                "sql-s2-u6-q6",
+                "sql-s2-u6-q7",
+                "sql-s2-u6-q8",
+                "sql-s2-u6-q9",
+                "sql-s2-u6-q10"
               ]
             },
             {
@@ -628,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "FULL JOIN concept helps you query and shape relational data. Example: `JOIN users ON users.id = orders.user_id`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-2-unit-7-self-joins",
@@ -642,14 +690,16 @@
               "title": "Learn Self joins",
               "order": 1,
               "exerciseIds": [
-                "sql-s2-u7-e1",
-                "sql-s2-u7-e2",
-                "sql-s2-u7-e3",
-                "sql-s2-u7-e4",
-                "sql-s2-u7-e5",
-                "sql-s2-u7-e6",
-                "sql-s2-u7-e7",
-                "sql-s2-u7-e8"
+                "sql-s2-u7-q1",
+                "sql-s2-u7-q2",
+                "sql-s2-u7-q3",
+                "sql-s2-u7-q4",
+                "sql-s2-u7-q5",
+                "sql-s2-u7-q6",
+                "sql-s2-u7-q7",
+                "sql-s2-u7-q8",
+                "sql-s2-u7-q9",
+                "sql-s2-u7-q10"
               ]
             },
             {
@@ -666,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Self joins helps you query and shape relational data. Example: `JOIN users ON users.id = orders.user_id`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-2-unit-8-multiple-joins",
@@ -680,14 +731,16 @@
               "title": "Learn Multiple joins",
               "order": 1,
               "exerciseIds": [
-                "sql-s2-u8-e1",
-                "sql-s2-u8-e2",
-                "sql-s2-u8-e3",
-                "sql-s2-u8-e4",
-                "sql-s2-u8-e5",
-                "sql-s2-u8-e6",
-                "sql-s2-u8-e7",
-                "sql-s2-u8-e8"
+                "sql-s2-u8-q1",
+                "sql-s2-u8-q2",
+                "sql-s2-u8-q3",
+                "sql-s2-u8-q4",
+                "sql-s2-u8-q5",
+                "sql-s2-u8-q6",
+                "sql-s2-u8-q7",
+                "sql-s2-u8-q8",
+                "sql-s2-u8-q9",
+                "sql-s2-u8-q10"
               ]
             },
             {
@@ -704,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Multiple joins helps you query and shape relational data. Example: `JOIN users ON users.id = orders.user_id`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-2-unit-9-join-filters",
@@ -718,14 +772,16 @@
               "title": "Learn Join filters",
               "order": 1,
               "exerciseIds": [
-                "sql-s2-u9-e1",
-                "sql-s2-u9-e2",
-                "sql-s2-u9-e3",
-                "sql-s2-u9-e4",
-                "sql-s2-u9-e5",
-                "sql-s2-u9-e6",
-                "sql-s2-u9-e7",
-                "sql-s2-u9-e8"
+                "sql-s2-u9-q1",
+                "sql-s2-u9-q2",
+                "sql-s2-u9-q3",
+                "sql-s2-u9-q4",
+                "sql-s2-u9-q5",
+                "sql-s2-u9-q6",
+                "sql-s2-u9-q7",
+                "sql-s2-u9-q8",
+                "sql-s2-u9-q9",
+                "sql-s2-u9-q10"
               ]
             },
             {
@@ -742,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Join filters helps you query and shape relational data. Example: `JOIN users ON users.id = orders.user_id`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-2-unit-10-join-project",
@@ -756,14 +813,16 @@
               "title": "Learn Join project",
               "order": 1,
               "exerciseIds": [
-                "sql-s2-u10-e1",
-                "sql-s2-u10-e2",
-                "sql-s2-u10-e3",
-                "sql-s2-u10-e4",
-                "sql-s2-u10-e5",
-                "sql-s2-u10-e6",
-                "sql-s2-u10-e7",
-                "sql-s2-u10-e8"
+                "sql-s2-u10-q1",
+                "sql-s2-u10-q2",
+                "sql-s2-u10-q3",
+                "sql-s2-u10-q4",
+                "sql-s2-u10-q5",
+                "sql-s2-u10-q6",
+                "sql-s2-u10-q7",
+                "sql-s2-u10-q8",
+                "sql-s2-u10-q9",
+                "sql-s2-u10-q10"
               ]
             },
             {
@@ -780,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Join project helps you query and shape relational data. Example: `JOIN users ON users.id = orders.user_id`. Avoid: writing clauses in the wrong order."
         }
       ]
     },
@@ -803,14 +863,16 @@
               "title": "Learn COUNT",
               "order": 1,
               "exerciseIds": [
-                "sql-s3-u1-e1",
-                "sql-s3-u1-e2",
-                "sql-s3-u1-e3",
-                "sql-s3-u1-e4",
-                "sql-s3-u1-e5",
-                "sql-s3-u1-e6",
-                "sql-s3-u1-e7",
-                "sql-s3-u1-e8"
+                "sql-s3-u1-q1",
+                "sql-s3-u1-q2",
+                "sql-s3-u1-q3",
+                "sql-s3-u1-q4",
+                "sql-s3-u1-q5",
+                "sql-s3-u1-q6",
+                "sql-s3-u1-q7",
+                "sql-s3-u1-q8",
+                "sql-s3-u1-q9",
+                "sql-s3-u1-q10"
               ]
             },
             {
@@ -827,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "COUNT helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-3-unit-2-sum",
@@ -841,14 +904,16 @@
               "title": "Learn SUM",
               "order": 1,
               "exerciseIds": [
-                "sql-s3-u2-e1",
-                "sql-s3-u2-e2",
-                "sql-s3-u2-e3",
-                "sql-s3-u2-e4",
-                "sql-s3-u2-e5",
-                "sql-s3-u2-e6",
-                "sql-s3-u2-e7",
-                "sql-s3-u2-e8"
+                "sql-s3-u2-q1",
+                "sql-s3-u2-q2",
+                "sql-s3-u2-q3",
+                "sql-s3-u2-q4",
+                "sql-s3-u2-q5",
+                "sql-s3-u2-q6",
+                "sql-s3-u2-q7",
+                "sql-s3-u2-q8",
+                "sql-s3-u2-q9",
+                "sql-s3-u2-q10"
               ]
             },
             {
@@ -865,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "SUM helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-3-unit-3-avg",
@@ -879,14 +945,16 @@
               "title": "Learn AVG",
               "order": 1,
               "exerciseIds": [
-                "sql-s3-u3-e1",
-                "sql-s3-u3-e2",
-                "sql-s3-u3-e3",
-                "sql-s3-u3-e4",
-                "sql-s3-u3-e5",
-                "sql-s3-u3-e6",
-                "sql-s3-u3-e7",
-                "sql-s3-u3-e8"
+                "sql-s3-u3-q1",
+                "sql-s3-u3-q2",
+                "sql-s3-u3-q3",
+                "sql-s3-u3-q4",
+                "sql-s3-u3-q5",
+                "sql-s3-u3-q6",
+                "sql-s3-u3-q7",
+                "sql-s3-u3-q8",
+                "sql-s3-u3-q9",
+                "sql-s3-u3-q10"
               ]
             },
             {
@@ -903,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "AVG helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-3-unit-4-min-and-max",
@@ -917,14 +986,16 @@
               "title": "Learn MIN and MAX",
               "order": 1,
               "exerciseIds": [
-                "sql-s3-u4-e1",
-                "sql-s3-u4-e2",
-                "sql-s3-u4-e3",
-                "sql-s3-u4-e4",
-                "sql-s3-u4-e5",
-                "sql-s3-u4-e6",
-                "sql-s3-u4-e7",
-                "sql-s3-u4-e8"
+                "sql-s3-u4-q1",
+                "sql-s3-u4-q2",
+                "sql-s3-u4-q3",
+                "sql-s3-u4-q4",
+                "sql-s3-u4-q5",
+                "sql-s3-u4-q6",
+                "sql-s3-u4-q7",
+                "sql-s3-u4-q8",
+                "sql-s3-u4-q9",
+                "sql-s3-u4-q10"
               ]
             },
             {
@@ -941,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "MIN and MAX helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-3-unit-5-group-by",
@@ -955,14 +1027,16 @@
               "title": "Learn GROUP BY",
               "order": 1,
               "exerciseIds": [
-                "sql-s3-u5-e1",
-                "sql-s3-u5-e2",
-                "sql-s3-u5-e3",
-                "sql-s3-u5-e4",
-                "sql-s3-u5-e5",
-                "sql-s3-u5-e6",
-                "sql-s3-u5-e7",
-                "sql-s3-u5-e8"
+                "sql-s3-u5-q1",
+                "sql-s3-u5-q2",
+                "sql-s3-u5-q3",
+                "sql-s3-u5-q4",
+                "sql-s3-u5-q5",
+                "sql-s3-u5-q6",
+                "sql-s3-u5-q7",
+                "sql-s3-u5-q8",
+                "sql-s3-u5-q9",
+                "sql-s3-u5-q10"
               ]
             },
             {
@@ -979,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "GROUP BY helps you query and shape relational data. Example: `GROUP BY customer_id`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-3-unit-6-having",
@@ -993,14 +1068,16 @@
               "title": "Learn HAVING",
               "order": 1,
               "exerciseIds": [
-                "sql-s3-u6-e1",
-                "sql-s3-u6-e2",
-                "sql-s3-u6-e3",
-                "sql-s3-u6-e4",
-                "sql-s3-u6-e5",
-                "sql-s3-u6-e6",
-                "sql-s3-u6-e7",
-                "sql-s3-u6-e8"
+                "sql-s3-u6-q1",
+                "sql-s3-u6-q2",
+                "sql-s3-u6-q3",
+                "sql-s3-u6-q4",
+                "sql-s3-u6-q5",
+                "sql-s3-u6-q6",
+                "sql-s3-u6-q7",
+                "sql-s3-u6-q8",
+                "sql-s3-u6-q9",
+                "sql-s3-u6-q10"
               ]
             },
             {
@@ -1017,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "HAVING helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-3-unit-7-aggregate-filters",
@@ -1031,14 +1109,16 @@
               "title": "Learn Aggregate filters",
               "order": 1,
               "exerciseIds": [
-                "sql-s3-u7-e1",
-                "sql-s3-u7-e2",
-                "sql-s3-u7-e3",
-                "sql-s3-u7-e4",
-                "sql-s3-u7-e5",
-                "sql-s3-u7-e6",
-                "sql-s3-u7-e7",
-                "sql-s3-u7-e8"
+                "sql-s3-u7-q1",
+                "sql-s3-u7-q2",
+                "sql-s3-u7-q3",
+                "sql-s3-u7-q4",
+                "sql-s3-u7-q5",
+                "sql-s3-u7-q6",
+                "sql-s3-u7-q7",
+                "sql-s3-u7-q8",
+                "sql-s3-u7-q9",
+                "sql-s3-u7-q10"
               ]
             },
             {
@@ -1055,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Aggregate filters helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-3-unit-8-grouped-joins",
@@ -1069,14 +1150,16 @@
               "title": "Learn Grouped joins",
               "order": 1,
               "exerciseIds": [
-                "sql-s3-u8-e1",
-                "sql-s3-u8-e2",
-                "sql-s3-u8-e3",
-                "sql-s3-u8-e4",
-                "sql-s3-u8-e5",
-                "sql-s3-u8-e6",
-                "sql-s3-u8-e7",
-                "sql-s3-u8-e8"
+                "sql-s3-u8-q1",
+                "sql-s3-u8-q2",
+                "sql-s3-u8-q3",
+                "sql-s3-u8-q4",
+                "sql-s3-u8-q5",
+                "sql-s3-u8-q6",
+                "sql-s3-u8-q7",
+                "sql-s3-u8-q8",
+                "sql-s3-u8-q9",
+                "sql-s3-u8-q10"
               ]
             },
             {
@@ -1093,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Grouped joins helps you query and shape relational data. Example: `JOIN users ON users.id = orders.user_id`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-3-unit-9-rollup-concept",
@@ -1107,14 +1191,16 @@
               "title": "Learn Rollup concept",
               "order": 1,
               "exerciseIds": [
-                "sql-s3-u9-e1",
-                "sql-s3-u9-e2",
-                "sql-s3-u9-e3",
-                "sql-s3-u9-e4",
-                "sql-s3-u9-e5",
-                "sql-s3-u9-e6",
-                "sql-s3-u9-e7",
-                "sql-s3-u9-e8"
+                "sql-s3-u9-q1",
+                "sql-s3-u9-q2",
+                "sql-s3-u9-q3",
+                "sql-s3-u9-q4",
+                "sql-s3-u9-q5",
+                "sql-s3-u9-q6",
+                "sql-s3-u9-q7",
+                "sql-s3-u9-q8",
+                "sql-s3-u9-q9",
+                "sql-s3-u9-q10"
               ]
             },
             {
@@ -1131,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Rollup concept helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-3-unit-10-report-query-project",
@@ -1145,14 +1232,16 @@
               "title": "Learn Report query project",
               "order": 1,
               "exerciseIds": [
-                "sql-s3-u10-e1",
-                "sql-s3-u10-e2",
-                "sql-s3-u10-e3",
-                "sql-s3-u10-e4",
-                "sql-s3-u10-e5",
-                "sql-s3-u10-e6",
-                "sql-s3-u10-e7",
-                "sql-s3-u10-e8"
+                "sql-s3-u10-q1",
+                "sql-s3-u10-q2",
+                "sql-s3-u10-q3",
+                "sql-s3-u10-q4",
+                "sql-s3-u10-q5",
+                "sql-s3-u10-q6",
+                "sql-s3-u10-q7",
+                "sql-s3-u10-q8",
+                "sql-s3-u10-q9",
+                "sql-s3-u10-q10"
               ]
             },
             {
@@ -1169,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Report query project helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         }
       ]
     },
@@ -1192,14 +1282,16 @@
               "title": "Learn Scalar subqueries",
               "order": 1,
               "exerciseIds": [
-                "sql-s4-u1-e1",
-                "sql-s4-u1-e2",
-                "sql-s4-u1-e3",
-                "sql-s4-u1-e4",
-                "sql-s4-u1-e5",
-                "sql-s4-u1-e6",
-                "sql-s4-u1-e7",
-                "sql-s4-u1-e8"
+                "sql-s4-u1-q1",
+                "sql-s4-u1-q2",
+                "sql-s4-u1-q3",
+                "sql-s4-u1-q4",
+                "sql-s4-u1-q5",
+                "sql-s4-u1-q6",
+                "sql-s4-u1-q7",
+                "sql-s4-u1-q8",
+                "sql-s4-u1-q9",
+                "sql-s4-u1-q10"
               ]
             },
             {
@@ -1216,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Scalar subqueries helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-4-unit-2-in-subqueries",
@@ -1230,14 +1323,16 @@
               "title": "Learn IN subqueries",
               "order": 1,
               "exerciseIds": [
-                "sql-s4-u2-e1",
-                "sql-s4-u2-e2",
-                "sql-s4-u2-e3",
-                "sql-s4-u2-e4",
-                "sql-s4-u2-e5",
-                "sql-s4-u2-e6",
-                "sql-s4-u2-e7",
-                "sql-s4-u2-e8"
+                "sql-s4-u2-q1",
+                "sql-s4-u2-q2",
+                "sql-s4-u2-q3",
+                "sql-s4-u2-q4",
+                "sql-s4-u2-q5",
+                "sql-s4-u2-q6",
+                "sql-s4-u2-q7",
+                "sql-s4-u2-q8",
+                "sql-s4-u2-q9",
+                "sql-s4-u2-q10"
               ]
             },
             {
@@ -1254,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "IN subqueries helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-4-unit-3-exists",
@@ -1268,14 +1364,16 @@
               "title": "Learn EXISTS",
               "order": 1,
               "exerciseIds": [
-                "sql-s4-u3-e1",
-                "sql-s4-u3-e2",
-                "sql-s4-u3-e3",
-                "sql-s4-u3-e4",
-                "sql-s4-u3-e5",
-                "sql-s4-u3-e6",
-                "sql-s4-u3-e7",
-                "sql-s4-u3-e8"
+                "sql-s4-u3-q1",
+                "sql-s4-u3-q2",
+                "sql-s4-u3-q3",
+                "sql-s4-u3-q4",
+                "sql-s4-u3-q5",
+                "sql-s4-u3-q6",
+                "sql-s4-u3-q7",
+                "sql-s4-u3-q8",
+                "sql-s4-u3-q9",
+                "sql-s4-u3-q10"
               ]
             },
             {
@@ -1292,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "EXISTS helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-4-unit-4-correlated-subqueries",
@@ -1306,14 +1405,16 @@
               "title": "Learn Correlated subqueries",
               "order": 1,
               "exerciseIds": [
-                "sql-s4-u4-e1",
-                "sql-s4-u4-e2",
-                "sql-s4-u4-e3",
-                "sql-s4-u4-e4",
-                "sql-s4-u4-e5",
-                "sql-s4-u4-e6",
-                "sql-s4-u4-e7",
-                "sql-s4-u4-e8"
+                "sql-s4-u4-q1",
+                "sql-s4-u4-q2",
+                "sql-s4-u4-q3",
+                "sql-s4-u4-q4",
+                "sql-s4-u4-q5",
+                "sql-s4-u4-q6",
+                "sql-s4-u4-q7",
+                "sql-s4-u4-q8",
+                "sql-s4-u4-q9",
+                "sql-s4-u4-q10"
               ]
             },
             {
@@ -1330,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Correlated subqueries helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-4-unit-5-subquery-joins",
@@ -1344,14 +1446,16 @@
               "title": "Learn Subquery joins",
               "order": 1,
               "exerciseIds": [
-                "sql-s4-u5-e1",
-                "sql-s4-u5-e2",
-                "sql-s4-u5-e3",
-                "sql-s4-u5-e4",
-                "sql-s4-u5-e5",
-                "sql-s4-u5-e6",
-                "sql-s4-u5-e7",
-                "sql-s4-u5-e8"
+                "sql-s4-u5-q1",
+                "sql-s4-u5-q2",
+                "sql-s4-u5-q3",
+                "sql-s4-u5-q4",
+                "sql-s4-u5-q5",
+                "sql-s4-u5-q6",
+                "sql-s4-u5-q7",
+                "sql-s4-u5-q8",
+                "sql-s4-u5-q9",
+                "sql-s4-u5-q10"
               ]
             },
             {
@@ -1368,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Subquery joins helps you query and shape relational data. Example: `JOIN users ON users.id = orders.user_id`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-4-unit-6-ctes",
@@ -1382,14 +1487,16 @@
               "title": "Learn CTEs",
               "order": 1,
               "exerciseIds": [
-                "sql-s4-u6-e1",
-                "sql-s4-u6-e2",
-                "sql-s4-u6-e3",
-                "sql-s4-u6-e4",
-                "sql-s4-u6-e5",
-                "sql-s4-u6-e6",
-                "sql-s4-u6-e7",
-                "sql-s4-u6-e8"
+                "sql-s4-u6-q1",
+                "sql-s4-u6-q2",
+                "sql-s4-u6-q3",
+                "sql-s4-u6-q4",
+                "sql-s4-u6-q5",
+                "sql-s4-u6-q6",
+                "sql-s4-u6-q7",
+                "sql-s4-u6-q8",
+                "sql-s4-u6-q9",
+                "sql-s4-u6-q10"
               ]
             },
             {
@@ -1406,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CTEs helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-4-unit-7-recursive-cte-intro",
@@ -1420,14 +1528,16 @@
               "title": "Learn Recursive CTE intro",
               "order": 1,
               "exerciseIds": [
-                "sql-s4-u7-e1",
-                "sql-s4-u7-e2",
-                "sql-s4-u7-e3",
-                "sql-s4-u7-e4",
-                "sql-s4-u7-e5",
-                "sql-s4-u7-e6",
-                "sql-s4-u7-e7",
-                "sql-s4-u7-e8"
+                "sql-s4-u7-q1",
+                "sql-s4-u7-q2",
+                "sql-s4-u7-q3",
+                "sql-s4-u7-q4",
+                "sql-s4-u7-q5",
+                "sql-s4-u7-q6",
+                "sql-s4-u7-q7",
+                "sql-s4-u7-q8",
+                "sql-s4-u7-q9",
+                "sql-s4-u7-q10"
               ]
             },
             {
@@ -1444,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Recursive CTE intro helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-4-unit-8-derived-tables",
@@ -1458,14 +1569,16 @@
               "title": "Learn Derived tables",
               "order": 1,
               "exerciseIds": [
-                "sql-s4-u8-e1",
-                "sql-s4-u8-e2",
-                "sql-s4-u8-e3",
-                "sql-s4-u8-e4",
-                "sql-s4-u8-e5",
-                "sql-s4-u8-e6",
-                "sql-s4-u8-e7",
-                "sql-s4-u8-e8"
+                "sql-s4-u8-q1",
+                "sql-s4-u8-q2",
+                "sql-s4-u8-q3",
+                "sql-s4-u8-q4",
+                "sql-s4-u8-q5",
+                "sql-s4-u8-q6",
+                "sql-s4-u8-q7",
+                "sql-s4-u8-q8",
+                "sql-s4-u8-q9",
+                "sql-s4-u8-q10"
               ]
             },
             {
@@ -1482,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Derived tables helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-4-unit-9-subquery-performance",
@@ -1496,14 +1610,16 @@
               "title": "Learn Subquery performance",
               "order": 1,
               "exerciseIds": [
-                "sql-s4-u9-e1",
-                "sql-s4-u9-e2",
-                "sql-s4-u9-e3",
-                "sql-s4-u9-e4",
-                "sql-s4-u9-e5",
-                "sql-s4-u9-e6",
-                "sql-s4-u9-e7",
-                "sql-s4-u9-e8"
+                "sql-s4-u9-q1",
+                "sql-s4-u9-q2",
+                "sql-s4-u9-q3",
+                "sql-s4-u9-q4",
+                "sql-s4-u9-q5",
+                "sql-s4-u9-q6",
+                "sql-s4-u9-q7",
+                "sql-s4-u9-q8",
+                "sql-s4-u9-q9",
+                "sql-s4-u9-q10"
               ]
             },
             {
@@ -1520,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Subquery performance helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-4-unit-10-subquery-project",
@@ -1534,14 +1651,16 @@
               "title": "Learn Subquery project",
               "order": 1,
               "exerciseIds": [
-                "sql-s4-u10-e1",
-                "sql-s4-u10-e2",
-                "sql-s4-u10-e3",
-                "sql-s4-u10-e4",
-                "sql-s4-u10-e5",
-                "sql-s4-u10-e6",
-                "sql-s4-u10-e7",
-                "sql-s4-u10-e8"
+                "sql-s4-u10-q1",
+                "sql-s4-u10-q2",
+                "sql-s4-u10-q3",
+                "sql-s4-u10-q4",
+                "sql-s4-u10-q5",
+                "sql-s4-u10-q6",
+                "sql-s4-u10-q7",
+                "sql-s4-u10-q8",
+                "sql-s4-u10-q9",
+                "sql-s4-u10-q10"
               ]
             },
             {
@@ -1558,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Subquery project helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         }
       ]
     },
@@ -1581,14 +1701,16 @@
               "title": "Learn Entities",
               "order": 1,
               "exerciseIds": [
-                "sql-s5-u1-e1",
-                "sql-s5-u1-e2",
-                "sql-s5-u1-e3",
-                "sql-s5-u1-e4",
-                "sql-s5-u1-e5",
-                "sql-s5-u1-e6",
-                "sql-s5-u1-e7",
-                "sql-s5-u1-e8"
+                "sql-s5-u1-q1",
+                "sql-s5-u1-q2",
+                "sql-s5-u1-q3",
+                "sql-s5-u1-q4",
+                "sql-s5-u1-q5",
+                "sql-s5-u1-q6",
+                "sql-s5-u1-q7",
+                "sql-s5-u1-q8",
+                "sql-s5-u1-q9",
+                "sql-s5-u1-q10"
               ]
             },
             {
@@ -1605,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Entities helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-5-unit-2-relationships",
@@ -1619,14 +1742,16 @@
               "title": "Learn Relationships",
               "order": 1,
               "exerciseIds": [
-                "sql-s5-u2-e1",
-                "sql-s5-u2-e2",
-                "sql-s5-u2-e3",
-                "sql-s5-u2-e4",
-                "sql-s5-u2-e5",
-                "sql-s5-u2-e6",
-                "sql-s5-u2-e7",
-                "sql-s5-u2-e8"
+                "sql-s5-u2-q1",
+                "sql-s5-u2-q2",
+                "sql-s5-u2-q3",
+                "sql-s5-u2-q4",
+                "sql-s5-u2-q5",
+                "sql-s5-u2-q6",
+                "sql-s5-u2-q7",
+                "sql-s5-u2-q8",
+                "sql-s5-u2-q9",
+                "sql-s5-u2-q10"
               ]
             },
             {
@@ -1643,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Relationships helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-5-unit-3-keys",
@@ -1657,14 +1783,16 @@
               "title": "Learn Keys",
               "order": 1,
               "exerciseIds": [
-                "sql-s5-u3-e1",
-                "sql-s5-u3-e2",
-                "sql-s5-u3-e3",
-                "sql-s5-u3-e4",
-                "sql-s5-u3-e5",
-                "sql-s5-u3-e6",
-                "sql-s5-u3-e7",
-                "sql-s5-u3-e8"
+                "sql-s5-u3-q1",
+                "sql-s5-u3-q2",
+                "sql-s5-u3-q3",
+                "sql-s5-u3-q4",
+                "sql-s5-u3-q5",
+                "sql-s5-u3-q6",
+                "sql-s5-u3-q7",
+                "sql-s5-u3-q8",
+                "sql-s5-u3-q9",
+                "sql-s5-u3-q10"
               ]
             },
             {
@@ -1681,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Keys helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-5-unit-4-constraints",
@@ -1695,14 +1824,16 @@
               "title": "Learn Constraints",
               "order": 1,
               "exerciseIds": [
-                "sql-s5-u4-e1",
-                "sql-s5-u4-e2",
-                "sql-s5-u4-e3",
-                "sql-s5-u4-e4",
-                "sql-s5-u4-e5",
-                "sql-s5-u4-e6",
-                "sql-s5-u4-e7",
-                "sql-s5-u4-e8"
+                "sql-s5-u4-q1",
+                "sql-s5-u4-q2",
+                "sql-s5-u4-q3",
+                "sql-s5-u4-q4",
+                "sql-s5-u4-q5",
+                "sql-s5-u4-q6",
+                "sql-s5-u4-q7",
+                "sql-s5-u4-q8",
+                "sql-s5-u4-q9",
+                "sql-s5-u4-q10"
               ]
             },
             {
@@ -1719,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Constraints helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-5-unit-5-one-to-many",
@@ -1733,14 +1865,16 @@
               "title": "Learn One-to-many",
               "order": 1,
               "exerciseIds": [
-                "sql-s5-u5-e1",
-                "sql-s5-u5-e2",
-                "sql-s5-u5-e3",
-                "sql-s5-u5-e4",
-                "sql-s5-u5-e5",
-                "sql-s5-u5-e6",
-                "sql-s5-u5-e7",
-                "sql-s5-u5-e8"
+                "sql-s5-u5-q1",
+                "sql-s5-u5-q2",
+                "sql-s5-u5-q3",
+                "sql-s5-u5-q4",
+                "sql-s5-u5-q5",
+                "sql-s5-u5-q6",
+                "sql-s5-u5-q7",
+                "sql-s5-u5-q8",
+                "sql-s5-u5-q9",
+                "sql-s5-u5-q10"
               ]
             },
             {
@@ -1757,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "One-to-many helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-5-unit-6-many-to-many",
@@ -1771,14 +1906,16 @@
               "title": "Learn Many-to-many",
               "order": 1,
               "exerciseIds": [
-                "sql-s5-u6-e1",
-                "sql-s5-u6-e2",
-                "sql-s5-u6-e3",
-                "sql-s5-u6-e4",
-                "sql-s5-u6-e5",
-                "sql-s5-u6-e6",
-                "sql-s5-u6-e7",
-                "sql-s5-u6-e8"
+                "sql-s5-u6-q1",
+                "sql-s5-u6-q2",
+                "sql-s5-u6-q3",
+                "sql-s5-u6-q4",
+                "sql-s5-u6-q5",
+                "sql-s5-u6-q6",
+                "sql-s5-u6-q7",
+                "sql-s5-u6-q8",
+                "sql-s5-u6-q9",
+                "sql-s5-u6-q10"
               ]
             },
             {
@@ -1795,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Many-to-many helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-5-unit-7-junction-tables",
@@ -1809,14 +1947,16 @@
               "title": "Learn Junction tables",
               "order": 1,
               "exerciseIds": [
-                "sql-s5-u7-e1",
-                "sql-s5-u7-e2",
-                "sql-s5-u7-e3",
-                "sql-s5-u7-e4",
-                "sql-s5-u7-e5",
-                "sql-s5-u7-e6",
-                "sql-s5-u7-e7",
-                "sql-s5-u7-e8"
+                "sql-s5-u7-q1",
+                "sql-s5-u7-q2",
+                "sql-s5-u7-q3",
+                "sql-s5-u7-q4",
+                "sql-s5-u7-q5",
+                "sql-s5-u7-q6",
+                "sql-s5-u7-q7",
+                "sql-s5-u7-q8",
+                "sql-s5-u7-q9",
+                "sql-s5-u7-q10"
               ]
             },
             {
@@ -1833,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Junction tables helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-5-unit-8-schema-diagrams",
@@ -1847,14 +1988,16 @@
               "title": "Learn Schema diagrams",
               "order": 1,
               "exerciseIds": [
-                "sql-s5-u8-e1",
-                "sql-s5-u8-e2",
-                "sql-s5-u8-e3",
-                "sql-s5-u8-e4",
-                "sql-s5-u8-e5",
-                "sql-s5-u8-e6",
-                "sql-s5-u8-e7",
-                "sql-s5-u8-e8"
+                "sql-s5-u8-q1",
+                "sql-s5-u8-q2",
+                "sql-s5-u8-q3",
+                "sql-s5-u8-q4",
+                "sql-s5-u8-q5",
+                "sql-s5-u8-q6",
+                "sql-s5-u8-q7",
+                "sql-s5-u8-q8",
+                "sql-s5-u8-q9",
+                "sql-s5-u8-q10"
               ]
             },
             {
@@ -1871,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Schema diagrams helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-5-unit-9-naming-conventions",
@@ -1885,14 +2029,16 @@
               "title": "Learn Naming conventions",
               "order": 1,
               "exerciseIds": [
-                "sql-s5-u9-e1",
-                "sql-s5-u9-e2",
-                "sql-s5-u9-e3",
-                "sql-s5-u9-e4",
-                "sql-s5-u9-e5",
-                "sql-s5-u9-e6",
-                "sql-s5-u9-e7",
-                "sql-s5-u9-e8"
+                "sql-s5-u9-q1",
+                "sql-s5-u9-q2",
+                "sql-s5-u9-q3",
+                "sql-s5-u9-q4",
+                "sql-s5-u9-q5",
+                "sql-s5-u9-q6",
+                "sql-s5-u9-q7",
+                "sql-s5-u9-q8",
+                "sql-s5-u9-q9",
+                "sql-s5-u9-q10"
               ]
             },
             {
@@ -1909,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Naming conventions helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-5-unit-10-modeling-project",
@@ -1923,14 +2070,16 @@
               "title": "Learn Modeling project",
               "order": 1,
               "exerciseIds": [
-                "sql-s5-u10-e1",
-                "sql-s5-u10-e2",
-                "sql-s5-u10-e3",
-                "sql-s5-u10-e4",
-                "sql-s5-u10-e5",
-                "sql-s5-u10-e6",
-                "sql-s5-u10-e7",
-                "sql-s5-u10-e8"
+                "sql-s5-u10-q1",
+                "sql-s5-u10-q2",
+                "sql-s5-u10-q3",
+                "sql-s5-u10-q4",
+                "sql-s5-u10-q5",
+                "sql-s5-u10-q6",
+                "sql-s5-u10-q7",
+                "sql-s5-u10-q8",
+                "sql-s5-u10-q9",
+                "sql-s5-u10-q10"
               ]
             },
             {
@@ -1947,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Modeling project helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         }
       ]
     },
@@ -1970,14 +2120,16 @@
               "title": "Learn Redundancy",
               "order": 1,
               "exerciseIds": [
-                "sql-s6-u1-e1",
-                "sql-s6-u1-e2",
-                "sql-s6-u1-e3",
-                "sql-s6-u1-e4",
-                "sql-s6-u1-e5",
-                "sql-s6-u1-e6",
-                "sql-s6-u1-e7",
-                "sql-s6-u1-e8"
+                "sql-s6-u1-q1",
+                "sql-s6-u1-q2",
+                "sql-s6-u1-q3",
+                "sql-s6-u1-q4",
+                "sql-s6-u1-q5",
+                "sql-s6-u1-q6",
+                "sql-s6-u1-q7",
+                "sql-s6-u1-q8",
+                "sql-s6-u1-q9",
+                "sql-s6-u1-q10"
               ]
             },
             {
@@ -1994,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Redundancy helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-6-unit-2-1nf",
@@ -2008,14 +2161,16 @@
               "title": "Learn 1NF",
               "order": 1,
               "exerciseIds": [
-                "sql-s6-u2-e1",
-                "sql-s6-u2-e2",
-                "sql-s6-u2-e3",
-                "sql-s6-u2-e4",
-                "sql-s6-u2-e5",
-                "sql-s6-u2-e6",
-                "sql-s6-u2-e7",
-                "sql-s6-u2-e8"
+                "sql-s6-u2-q1",
+                "sql-s6-u2-q2",
+                "sql-s6-u2-q3",
+                "sql-s6-u2-q4",
+                "sql-s6-u2-q5",
+                "sql-s6-u2-q6",
+                "sql-s6-u2-q7",
+                "sql-s6-u2-q8",
+                "sql-s6-u2-q9",
+                "sql-s6-u2-q10"
               ]
             },
             {
@@ -2032,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "1NF helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-6-unit-3-2nf",
@@ -2046,14 +2202,16 @@
               "title": "Learn 2NF",
               "order": 1,
               "exerciseIds": [
-                "sql-s6-u3-e1",
-                "sql-s6-u3-e2",
-                "sql-s6-u3-e3",
-                "sql-s6-u3-e4",
-                "sql-s6-u3-e5",
-                "sql-s6-u3-e6",
-                "sql-s6-u3-e7",
-                "sql-s6-u3-e8"
+                "sql-s6-u3-q1",
+                "sql-s6-u3-q2",
+                "sql-s6-u3-q3",
+                "sql-s6-u3-q4",
+                "sql-s6-u3-q5",
+                "sql-s6-u3-q6",
+                "sql-s6-u3-q7",
+                "sql-s6-u3-q8",
+                "sql-s6-u3-q9",
+                "sql-s6-u3-q10"
               ]
             },
             {
@@ -2070,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "2NF helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-6-unit-4-3nf",
@@ -2084,14 +2243,16 @@
               "title": "Learn 3NF",
               "order": 1,
               "exerciseIds": [
-                "sql-s6-u4-e1",
-                "sql-s6-u4-e2",
-                "sql-s6-u4-e3",
-                "sql-s6-u4-e4",
-                "sql-s6-u4-e5",
-                "sql-s6-u4-e6",
-                "sql-s6-u4-e7",
-                "sql-s6-u4-e8"
+                "sql-s6-u4-q1",
+                "sql-s6-u4-q2",
+                "sql-s6-u4-q3",
+                "sql-s6-u4-q4",
+                "sql-s6-u4-q5",
+                "sql-s6-u4-q6",
+                "sql-s6-u4-q7",
+                "sql-s6-u4-q8",
+                "sql-s6-u4-q9",
+                "sql-s6-u4-q10"
               ]
             },
             {
@@ -2108,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "3NF helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-6-unit-5-bcnf-concept",
@@ -2122,14 +2284,16 @@
               "title": "Learn BCNF concept",
               "order": 1,
               "exerciseIds": [
-                "sql-s6-u5-e1",
-                "sql-s6-u5-e2",
-                "sql-s6-u5-e3",
-                "sql-s6-u5-e4",
-                "sql-s6-u5-e5",
-                "sql-s6-u5-e6",
-                "sql-s6-u5-e7",
-                "sql-s6-u5-e8"
+                "sql-s6-u5-q1",
+                "sql-s6-u5-q2",
+                "sql-s6-u5-q3",
+                "sql-s6-u5-q4",
+                "sql-s6-u5-q5",
+                "sql-s6-u5-q6",
+                "sql-s6-u5-q7",
+                "sql-s6-u5-q8",
+                "sql-s6-u5-q9",
+                "sql-s6-u5-q10"
               ]
             },
             {
@@ -2146,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "BCNF concept helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-6-unit-6-denormalization",
@@ -2160,14 +2325,16 @@
               "title": "Learn Denormalization",
               "order": 1,
               "exerciseIds": [
-                "sql-s6-u6-e1",
-                "sql-s6-u6-e2",
-                "sql-s6-u6-e3",
-                "sql-s6-u6-e4",
-                "sql-s6-u6-e5",
-                "sql-s6-u6-e6",
-                "sql-s6-u6-e7",
-                "sql-s6-u6-e8"
+                "sql-s6-u6-q1",
+                "sql-s6-u6-q2",
+                "sql-s6-u6-q3",
+                "sql-s6-u6-q4",
+                "sql-s6-u6-q5",
+                "sql-s6-u6-q6",
+                "sql-s6-u6-q7",
+                "sql-s6-u6-q8",
+                "sql-s6-u6-q9",
+                "sql-s6-u6-q10"
               ]
             },
             {
@@ -2184,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Denormalization helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-6-unit-7-integrity-rules",
@@ -2198,14 +2366,16 @@
               "title": "Learn Integrity rules",
               "order": 1,
               "exerciseIds": [
-                "sql-s6-u7-e1",
-                "sql-s6-u7-e2",
-                "sql-s6-u7-e3",
-                "sql-s6-u7-e4",
-                "sql-s6-u7-e5",
-                "sql-s6-u7-e6",
-                "sql-s6-u7-e7",
-                "sql-s6-u7-e8"
+                "sql-s6-u7-q1",
+                "sql-s6-u7-q2",
+                "sql-s6-u7-q3",
+                "sql-s6-u7-q4",
+                "sql-s6-u7-q5",
+                "sql-s6-u7-q6",
+                "sql-s6-u7-q7",
+                "sql-s6-u7-q8",
+                "sql-s6-u7-q9",
+                "sql-s6-u7-q10"
               ]
             },
             {
@@ -2222,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Integrity rules helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-6-unit-8-anomaly-detection",
@@ -2236,14 +2407,16 @@
               "title": "Learn Anomaly detection",
               "order": 1,
               "exerciseIds": [
-                "sql-s6-u8-e1",
-                "sql-s6-u8-e2",
-                "sql-s6-u8-e3",
-                "sql-s6-u8-e4",
-                "sql-s6-u8-e5",
-                "sql-s6-u8-e6",
-                "sql-s6-u8-e7",
-                "sql-s6-u8-e8"
+                "sql-s6-u8-q1",
+                "sql-s6-u8-q2",
+                "sql-s6-u8-q3",
+                "sql-s6-u8-q4",
+                "sql-s6-u8-q5",
+                "sql-s6-u8-q6",
+                "sql-s6-u8-q7",
+                "sql-s6-u8-q8",
+                "sql-s6-u8-q9",
+                "sql-s6-u8-q10"
               ]
             },
             {
@@ -2260,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Anomaly detection helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-6-unit-9-schema-refactors",
@@ -2274,14 +2448,16 @@
               "title": "Learn Schema refactors",
               "order": 1,
               "exerciseIds": [
-                "sql-s6-u9-e1",
-                "sql-s6-u9-e2",
-                "sql-s6-u9-e3",
-                "sql-s6-u9-e4",
-                "sql-s6-u9-e5",
-                "sql-s6-u9-e6",
-                "sql-s6-u9-e7",
-                "sql-s6-u9-e8"
+                "sql-s6-u9-q1",
+                "sql-s6-u9-q2",
+                "sql-s6-u9-q3",
+                "sql-s6-u9-q4",
+                "sql-s6-u9-q5",
+                "sql-s6-u9-q6",
+                "sql-s6-u9-q7",
+                "sql-s6-u9-q8",
+                "sql-s6-u9-q9",
+                "sql-s6-u9-q10"
               ]
             },
             {
@@ -2298,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Schema refactors helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-6-unit-10-normalization-project",
@@ -2312,14 +2489,16 @@
               "title": "Learn Normalization project",
               "order": 1,
               "exerciseIds": [
-                "sql-s6-u10-e1",
-                "sql-s6-u10-e2",
-                "sql-s6-u10-e3",
-                "sql-s6-u10-e4",
-                "sql-s6-u10-e5",
-                "sql-s6-u10-e6",
-                "sql-s6-u10-e7",
-                "sql-s6-u10-e8"
+                "sql-s6-u10-q1",
+                "sql-s6-u10-q2",
+                "sql-s6-u10-q3",
+                "sql-s6-u10-q4",
+                "sql-s6-u10-q5",
+                "sql-s6-u10-q6",
+                "sql-s6-u10-q7",
+                "sql-s6-u10-q8",
+                "sql-s6-u10-q9",
+                "sql-s6-u10-q10"
               ]
             },
             {
@@ -2336,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Normalization project helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         }
       ]
     },
@@ -2359,14 +2539,16 @@
               "title": "Learn Index basics",
               "order": 1,
               "exerciseIds": [
-                "sql-s7-u1-e1",
-                "sql-s7-u1-e2",
-                "sql-s7-u1-e3",
-                "sql-s7-u1-e4",
-                "sql-s7-u1-e5",
-                "sql-s7-u1-e6",
-                "sql-s7-u1-e7",
-                "sql-s7-u1-e8"
+                "sql-s7-u1-q1",
+                "sql-s7-u1-q2",
+                "sql-s7-u1-q3",
+                "sql-s7-u1-q4",
+                "sql-s7-u1-q5",
+                "sql-s7-u1-q6",
+                "sql-s7-u1-q7",
+                "sql-s7-u1-q8",
+                "sql-s7-u1-q9",
+                "sql-s7-u1-q10"
               ]
             },
             {
@@ -2383,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Index basics helps you query and shape relational data. Example: `CREATE INDEX idx_users_email ON users(email)`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-7-unit-2-b-tree-concept",
@@ -2397,14 +2580,16 @@
               "title": "Learn B-tree concept",
               "order": 1,
               "exerciseIds": [
-                "sql-s7-u2-e1",
-                "sql-s7-u2-e2",
-                "sql-s7-u2-e3",
-                "sql-s7-u2-e4",
-                "sql-s7-u2-e5",
-                "sql-s7-u2-e6",
-                "sql-s7-u2-e7",
-                "sql-s7-u2-e8"
+                "sql-s7-u2-q1",
+                "sql-s7-u2-q2",
+                "sql-s7-u2-q3",
+                "sql-s7-u2-q4",
+                "sql-s7-u2-q5",
+                "sql-s7-u2-q6",
+                "sql-s7-u2-q7",
+                "sql-s7-u2-q8",
+                "sql-s7-u2-q9",
+                "sql-s7-u2-q10"
               ]
             },
             {
@@ -2421,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "B-tree concept helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-7-unit-3-composite-indexes",
@@ -2435,14 +2621,16 @@
               "title": "Learn Composite indexes",
               "order": 1,
               "exerciseIds": [
-                "sql-s7-u3-e1",
-                "sql-s7-u3-e2",
-                "sql-s7-u3-e3",
-                "sql-s7-u3-e4",
-                "sql-s7-u3-e5",
-                "sql-s7-u3-e6",
-                "sql-s7-u3-e7",
-                "sql-s7-u3-e8"
+                "sql-s7-u3-q1",
+                "sql-s7-u3-q2",
+                "sql-s7-u3-q3",
+                "sql-s7-u3-q4",
+                "sql-s7-u3-q5",
+                "sql-s7-u3-q6",
+                "sql-s7-u3-q7",
+                "sql-s7-u3-q8",
+                "sql-s7-u3-q9",
+                "sql-s7-u3-q10"
               ]
             },
             {
@@ -2459,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Composite indexes helps you query and shape relational data. Example: `CREATE INDEX idx_users_email ON users(email)`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-7-unit-4-index-selectivity",
@@ -2473,14 +2662,16 @@
               "title": "Learn Index selectivity",
               "order": 1,
               "exerciseIds": [
-                "sql-s7-u4-e1",
-                "sql-s7-u4-e2",
-                "sql-s7-u4-e3",
-                "sql-s7-u4-e4",
-                "sql-s7-u4-e5",
-                "sql-s7-u4-e6",
-                "sql-s7-u4-e7",
-                "sql-s7-u4-e8"
+                "sql-s7-u4-q1",
+                "sql-s7-u4-q2",
+                "sql-s7-u4-q3",
+                "sql-s7-u4-q4",
+                "sql-s7-u4-q5",
+                "sql-s7-u4-q6",
+                "sql-s7-u4-q7",
+                "sql-s7-u4-q8",
+                "sql-s7-u4-q9",
+                "sql-s7-u4-q10"
               ]
             },
             {
@@ -2497,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Index selectivity helps you query and shape relational data. Example: `CREATE INDEX idx_users_email ON users(email)`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-7-unit-5-explain-basics",
@@ -2511,14 +2703,16 @@
               "title": "Learn EXPLAIN basics",
               "order": 1,
               "exerciseIds": [
-                "sql-s7-u5-e1",
-                "sql-s7-u5-e2",
-                "sql-s7-u5-e3",
-                "sql-s7-u5-e4",
-                "sql-s7-u5-e5",
-                "sql-s7-u5-e6",
-                "sql-s7-u5-e7",
-                "sql-s7-u5-e8"
+                "sql-s7-u5-q1",
+                "sql-s7-u5-q2",
+                "sql-s7-u5-q3",
+                "sql-s7-u5-q4",
+                "sql-s7-u5-q5",
+                "sql-s7-u5-q6",
+                "sql-s7-u5-q7",
+                "sql-s7-u5-q8",
+                "sql-s7-u5-q9",
+                "sql-s7-u5-q10"
               ]
             },
             {
@@ -2535,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "EXPLAIN basics helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-7-unit-6-covering-indexes",
@@ -2549,14 +2744,16 @@
               "title": "Learn Covering indexes",
               "order": 1,
               "exerciseIds": [
-                "sql-s7-u6-e1",
-                "sql-s7-u6-e2",
-                "sql-s7-u6-e3",
-                "sql-s7-u6-e4",
-                "sql-s7-u6-e5",
-                "sql-s7-u6-e6",
-                "sql-s7-u6-e7",
-                "sql-s7-u6-e8"
+                "sql-s7-u6-q1",
+                "sql-s7-u6-q2",
+                "sql-s7-u6-q3",
+                "sql-s7-u6-q4",
+                "sql-s7-u6-q5",
+                "sql-s7-u6-q6",
+                "sql-s7-u6-q7",
+                "sql-s7-u6-q8",
+                "sql-s7-u6-q9",
+                "sql-s7-u6-q10"
               ]
             },
             {
@@ -2573,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Covering indexes helps you query and shape relational data. Example: `CREATE INDEX idx_users_email ON users(email)`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-7-unit-7-index-tradeoffs",
@@ -2587,14 +2785,16 @@
               "title": "Learn Index tradeoffs",
               "order": 1,
               "exerciseIds": [
-                "sql-s7-u7-e1",
-                "sql-s7-u7-e2",
-                "sql-s7-u7-e3",
-                "sql-s7-u7-e4",
-                "sql-s7-u7-e5",
-                "sql-s7-u7-e6",
-                "sql-s7-u7-e7",
-                "sql-s7-u7-e8"
+                "sql-s7-u7-q1",
+                "sql-s7-u7-q2",
+                "sql-s7-u7-q3",
+                "sql-s7-u7-q4",
+                "sql-s7-u7-q5",
+                "sql-s7-u7-q6",
+                "sql-s7-u7-q7",
+                "sql-s7-u7-q8",
+                "sql-s7-u7-q9",
+                "sql-s7-u7-q10"
               ]
             },
             {
@@ -2611,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Index tradeoffs helps you query and shape relational data. Example: `CREATE INDEX idx_users_email ON users(email)`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-7-unit-8-slow-query-analysis",
@@ -2625,14 +2826,16 @@
               "title": "Learn Slow query analysis",
               "order": 1,
               "exerciseIds": [
-                "sql-s7-u8-e1",
-                "sql-s7-u8-e2",
-                "sql-s7-u8-e3",
-                "sql-s7-u8-e4",
-                "sql-s7-u8-e5",
-                "sql-s7-u8-e6",
-                "sql-s7-u8-e7",
-                "sql-s7-u8-e8"
+                "sql-s7-u8-q1",
+                "sql-s7-u8-q2",
+                "sql-s7-u8-q3",
+                "sql-s7-u8-q4",
+                "sql-s7-u8-q5",
+                "sql-s7-u8-q6",
+                "sql-s7-u8-q7",
+                "sql-s7-u8-q8",
+                "sql-s7-u8-q9",
+                "sql-s7-u8-q10"
               ]
             },
             {
@@ -2649,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Slow query analysis helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-7-unit-9-index-maintenance",
@@ -2663,14 +2867,16 @@
               "title": "Learn Index maintenance",
               "order": 1,
               "exerciseIds": [
-                "sql-s7-u9-e1",
-                "sql-s7-u9-e2",
-                "sql-s7-u9-e3",
-                "sql-s7-u9-e4",
-                "sql-s7-u9-e5",
-                "sql-s7-u9-e6",
-                "sql-s7-u9-e7",
-                "sql-s7-u9-e8"
+                "sql-s7-u9-q1",
+                "sql-s7-u9-q2",
+                "sql-s7-u9-q3",
+                "sql-s7-u9-q4",
+                "sql-s7-u9-q5",
+                "sql-s7-u9-q6",
+                "sql-s7-u9-q7",
+                "sql-s7-u9-q8",
+                "sql-s7-u9-q9",
+                "sql-s7-u9-q10"
               ]
             },
             {
@@ -2687,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Index maintenance helps you query and shape relational data. Example: `CREATE INDEX idx_users_email ON users(email)`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-7-unit-10-index-project",
@@ -2701,14 +2908,16 @@
               "title": "Learn Index project",
               "order": 1,
               "exerciseIds": [
-                "sql-s7-u10-e1",
-                "sql-s7-u10-e2",
-                "sql-s7-u10-e3",
-                "sql-s7-u10-e4",
-                "sql-s7-u10-e5",
-                "sql-s7-u10-e6",
-                "sql-s7-u10-e7",
-                "sql-s7-u10-e8"
+                "sql-s7-u10-q1",
+                "sql-s7-u10-q2",
+                "sql-s7-u10-q3",
+                "sql-s7-u10-q4",
+                "sql-s7-u10-q5",
+                "sql-s7-u10-q6",
+                "sql-s7-u10-q7",
+                "sql-s7-u10-q8",
+                "sql-s7-u10-q9",
+                "sql-s7-u10-q10"
               ]
             },
             {
@@ -2725,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Index project helps you query and shape relational data. Example: `CREATE INDEX idx_users_email ON users(email)`. Avoid: writing clauses in the wrong order."
         }
       ]
     },
@@ -2748,14 +2958,16 @@
               "title": "Learn ACID",
               "order": 1,
               "exerciseIds": [
-                "sql-s8-u1-e1",
-                "sql-s8-u1-e2",
-                "sql-s8-u1-e3",
-                "sql-s8-u1-e4",
-                "sql-s8-u1-e5",
-                "sql-s8-u1-e6",
-                "sql-s8-u1-e7",
-                "sql-s8-u1-e8"
+                "sql-s8-u1-q1",
+                "sql-s8-u1-q2",
+                "sql-s8-u1-q3",
+                "sql-s8-u1-q4",
+                "sql-s8-u1-q5",
+                "sql-s8-u1-q6",
+                "sql-s8-u1-q7",
+                "sql-s8-u1-q8",
+                "sql-s8-u1-q9",
+                "sql-s8-u1-q10"
               ]
             },
             {
@@ -2772,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "ACID helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-8-unit-2-begin-and-commit",
@@ -2786,14 +2999,16 @@
               "title": "Learn BEGIN and COMMIT",
               "order": 1,
               "exerciseIds": [
-                "sql-s8-u2-e1",
-                "sql-s8-u2-e2",
-                "sql-s8-u2-e3",
-                "sql-s8-u2-e4",
-                "sql-s8-u2-e5",
-                "sql-s8-u2-e6",
-                "sql-s8-u2-e7",
-                "sql-s8-u2-e8"
+                "sql-s8-u2-q1",
+                "sql-s8-u2-q2",
+                "sql-s8-u2-q3",
+                "sql-s8-u2-q4",
+                "sql-s8-u2-q5",
+                "sql-s8-u2-q6",
+                "sql-s8-u2-q7",
+                "sql-s8-u2-q8",
+                "sql-s8-u2-q9",
+                "sql-s8-u2-q10"
               ]
             },
             {
@@ -2810,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "BEGIN and COMMIT helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-8-unit-3-rollback",
@@ -2824,14 +3040,16 @@
               "title": "Learn ROLLBACK",
               "order": 1,
               "exerciseIds": [
-                "sql-s8-u3-e1",
-                "sql-s8-u3-e2",
-                "sql-s8-u3-e3",
-                "sql-s8-u3-e4",
-                "sql-s8-u3-e5",
-                "sql-s8-u3-e6",
-                "sql-s8-u3-e7",
-                "sql-s8-u3-e8"
+                "sql-s8-u3-q1",
+                "sql-s8-u3-q2",
+                "sql-s8-u3-q3",
+                "sql-s8-u3-q4",
+                "sql-s8-u3-q5",
+                "sql-s8-u3-q6",
+                "sql-s8-u3-q7",
+                "sql-s8-u3-q8",
+                "sql-s8-u3-q9",
+                "sql-s8-u3-q10"
               ]
             },
             {
@@ -2848,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "ROLLBACK helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-8-unit-4-isolation-levels",
@@ -2862,14 +3081,16 @@
               "title": "Learn Isolation levels",
               "order": 1,
               "exerciseIds": [
-                "sql-s8-u4-e1",
-                "sql-s8-u4-e2",
-                "sql-s8-u4-e3",
-                "sql-s8-u4-e4",
-                "sql-s8-u4-e5",
-                "sql-s8-u4-e6",
-                "sql-s8-u4-e7",
-                "sql-s8-u4-e8"
+                "sql-s8-u4-q1",
+                "sql-s8-u4-q2",
+                "sql-s8-u4-q3",
+                "sql-s8-u4-q4",
+                "sql-s8-u4-q5",
+                "sql-s8-u4-q6",
+                "sql-s8-u4-q7",
+                "sql-s8-u4-q8",
+                "sql-s8-u4-q9",
+                "sql-s8-u4-q10"
               ]
             },
             {
@@ -2886,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Isolation levels helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-8-unit-5-locks",
@@ -2900,14 +3122,16 @@
               "title": "Learn Locks",
               "order": 1,
               "exerciseIds": [
-                "sql-s8-u5-e1",
-                "sql-s8-u5-e2",
-                "sql-s8-u5-e3",
-                "sql-s8-u5-e4",
-                "sql-s8-u5-e5",
-                "sql-s8-u5-e6",
-                "sql-s8-u5-e7",
-                "sql-s8-u5-e8"
+                "sql-s8-u5-q1",
+                "sql-s8-u5-q2",
+                "sql-s8-u5-q3",
+                "sql-s8-u5-q4",
+                "sql-s8-u5-q5",
+                "sql-s8-u5-q6",
+                "sql-s8-u5-q7",
+                "sql-s8-u5-q8",
+                "sql-s8-u5-q9",
+                "sql-s8-u5-q10"
               ]
             },
             {
@@ -2924,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Locks helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-8-unit-6-deadlocks",
@@ -2938,14 +3163,16 @@
               "title": "Learn Deadlocks",
               "order": 1,
               "exerciseIds": [
-                "sql-s8-u6-e1",
-                "sql-s8-u6-e2",
-                "sql-s8-u6-e3",
-                "sql-s8-u6-e4",
-                "sql-s8-u6-e5",
-                "sql-s8-u6-e6",
-                "sql-s8-u6-e7",
-                "sql-s8-u6-e8"
+                "sql-s8-u6-q1",
+                "sql-s8-u6-q2",
+                "sql-s8-u6-q3",
+                "sql-s8-u6-q4",
+                "sql-s8-u6-q5",
+                "sql-s8-u6-q6",
+                "sql-s8-u6-q7",
+                "sql-s8-u6-q8",
+                "sql-s8-u6-q9",
+                "sql-s8-u6-q10"
               ]
             },
             {
@@ -2962,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Deadlocks helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-8-unit-7-consistency-checks",
@@ -2976,14 +3204,16 @@
               "title": "Learn Consistency checks",
               "order": 1,
               "exerciseIds": [
-                "sql-s8-u7-e1",
-                "sql-s8-u7-e2",
-                "sql-s8-u7-e3",
-                "sql-s8-u7-e4",
-                "sql-s8-u7-e5",
-                "sql-s8-u7-e6",
-                "sql-s8-u7-e7",
-                "sql-s8-u7-e8"
+                "sql-s8-u7-q1",
+                "sql-s8-u7-q2",
+                "sql-s8-u7-q3",
+                "sql-s8-u7-q4",
+                "sql-s8-u7-q5",
+                "sql-s8-u7-q6",
+                "sql-s8-u7-q7",
+                "sql-s8-u7-q8",
+                "sql-s8-u7-q9",
+                "sql-s8-u7-q10"
               ]
             },
             {
@@ -3000,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Consistency checks helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-8-unit-8-concurrent-updates",
@@ -3014,14 +3245,16 @@
               "title": "Learn Concurrent updates",
               "order": 1,
               "exerciseIds": [
-                "sql-s8-u8-e1",
-                "sql-s8-u8-e2",
-                "sql-s8-u8-e3",
-                "sql-s8-u8-e4",
-                "sql-s8-u8-e5",
-                "sql-s8-u8-e6",
-                "sql-s8-u8-e7",
-                "sql-s8-u8-e8"
+                "sql-s8-u8-q1",
+                "sql-s8-u8-q2",
+                "sql-s8-u8-q3",
+                "sql-s8-u8-q4",
+                "sql-s8-u8-q5",
+                "sql-s8-u8-q6",
+                "sql-s8-u8-q7",
+                "sql-s8-u8-q8",
+                "sql-s8-u8-q9",
+                "sql-s8-u8-q10"
               ]
             },
             {
@@ -3038,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Concurrent updates helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-8-unit-9-transaction-design",
@@ -3052,14 +3286,16 @@
               "title": "Learn Transaction design",
               "order": 1,
               "exerciseIds": [
-                "sql-s8-u9-e1",
-                "sql-s8-u9-e2",
-                "sql-s8-u9-e3",
-                "sql-s8-u9-e4",
-                "sql-s8-u9-e5",
-                "sql-s8-u9-e6",
-                "sql-s8-u9-e7",
-                "sql-s8-u9-e8"
+                "sql-s8-u9-q1",
+                "sql-s8-u9-q2",
+                "sql-s8-u9-q3",
+                "sql-s8-u9-q4",
+                "sql-s8-u9-q5",
+                "sql-s8-u9-q6",
+                "sql-s8-u9-q7",
+                "sql-s8-u9-q8",
+                "sql-s8-u9-q9",
+                "sql-s8-u9-q10"
               ]
             },
             {
@@ -3076,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Transaction design helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-8-unit-10-transaction-project",
@@ -3090,14 +3327,16 @@
               "title": "Learn Transaction project",
               "order": 1,
               "exerciseIds": [
-                "sql-s8-u10-e1",
-                "sql-s8-u10-e2",
-                "sql-s8-u10-e3",
-                "sql-s8-u10-e4",
-                "sql-s8-u10-e5",
-                "sql-s8-u10-e6",
-                "sql-s8-u10-e7",
-                "sql-s8-u10-e8"
+                "sql-s8-u10-q1",
+                "sql-s8-u10-q2",
+                "sql-s8-u10-q3",
+                "sql-s8-u10-q4",
+                "sql-s8-u10-q5",
+                "sql-s8-u10-q6",
+                "sql-s8-u10-q7",
+                "sql-s8-u10-q8",
+                "sql-s8-u10-q9",
+                "sql-s8-u10-q10"
               ]
             },
             {
@@ -3114,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Transaction project helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         }
       ]
     },
@@ -3137,14 +3377,16 @@
               "title": "Learn INSERT",
               "order": 1,
               "exerciseIds": [
-                "sql-s9-u1-e1",
-                "sql-s9-u1-e2",
-                "sql-s9-u1-e3",
-                "sql-s9-u1-e4",
-                "sql-s9-u1-e5",
-                "sql-s9-u1-e6",
-                "sql-s9-u1-e7",
-                "sql-s9-u1-e8"
+                "sql-s9-u1-q1",
+                "sql-s9-u1-q2",
+                "sql-s9-u1-q3",
+                "sql-s9-u1-q4",
+                "sql-s9-u1-q5",
+                "sql-s9-u1-q6",
+                "sql-s9-u1-q7",
+                "sql-s9-u1-q8",
+                "sql-s9-u1-q9",
+                "sql-s9-u1-q10"
               ]
             },
             {
@@ -3161,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "INSERT helps you query and shape relational data. Example: `INSERT INTO users (name) VALUES ('Ada')`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-9-unit-2-update",
@@ -3175,14 +3418,16 @@
               "title": "Learn UPDATE",
               "order": 1,
               "exerciseIds": [
-                "sql-s9-u2-e1",
-                "sql-s9-u2-e2",
-                "sql-s9-u2-e3",
-                "sql-s9-u2-e4",
-                "sql-s9-u2-e5",
-                "sql-s9-u2-e6",
-                "sql-s9-u2-e7",
-                "sql-s9-u2-e8"
+                "sql-s9-u2-q1",
+                "sql-s9-u2-q2",
+                "sql-s9-u2-q3",
+                "sql-s9-u2-q4",
+                "sql-s9-u2-q5",
+                "sql-s9-u2-q6",
+                "sql-s9-u2-q7",
+                "sql-s9-u2-q8",
+                "sql-s9-u2-q9",
+                "sql-s9-u2-q10"
               ]
             },
             {
@@ -3199,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "UPDATE helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-9-unit-3-delete",
@@ -3213,14 +3459,16 @@
               "title": "Learn DELETE",
               "order": 1,
               "exerciseIds": [
-                "sql-s9-u3-e1",
-                "sql-s9-u3-e2",
-                "sql-s9-u3-e3",
-                "sql-s9-u3-e4",
-                "sql-s9-u3-e5",
-                "sql-s9-u3-e6",
-                "sql-s9-u3-e7",
-                "sql-s9-u3-e8"
+                "sql-s9-u3-q1",
+                "sql-s9-u3-q2",
+                "sql-s9-u3-q3",
+                "sql-s9-u3-q4",
+                "sql-s9-u3-q5",
+                "sql-s9-u3-q6",
+                "sql-s9-u3-q7",
+                "sql-s9-u3-q8",
+                "sql-s9-u3-q9",
+                "sql-s9-u3-q10"
               ]
             },
             {
@@ -3237,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DELETE helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-9-unit-4-upsert-concept",
@@ -3251,14 +3500,16 @@
               "title": "Learn UPSERT concept",
               "order": 1,
               "exerciseIds": [
-                "sql-s9-u4-e1",
-                "sql-s9-u4-e2",
-                "sql-s9-u4-e3",
-                "sql-s9-u4-e4",
-                "sql-s9-u4-e5",
-                "sql-s9-u4-e6",
-                "sql-s9-u4-e7",
-                "sql-s9-u4-e8"
+                "sql-s9-u4-q1",
+                "sql-s9-u4-q2",
+                "sql-s9-u4-q3",
+                "sql-s9-u4-q4",
+                "sql-s9-u4-q5",
+                "sql-s9-u4-q6",
+                "sql-s9-u4-q7",
+                "sql-s9-u4-q8",
+                "sql-s9-u4-q9",
+                "sql-s9-u4-q10"
               ]
             },
             {
@@ -3275,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "UPSERT concept helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-9-unit-5-returning",
@@ -3289,14 +3541,16 @@
               "title": "Learn RETURNING",
               "order": 1,
               "exerciseIds": [
-                "sql-s9-u5-e1",
-                "sql-s9-u5-e2",
-                "sql-s9-u5-e3",
-                "sql-s9-u5-e4",
-                "sql-s9-u5-e5",
-                "sql-s9-u5-e6",
-                "sql-s9-u5-e7",
-                "sql-s9-u5-e8"
+                "sql-s9-u5-q1",
+                "sql-s9-u5-q2",
+                "sql-s9-u5-q3",
+                "sql-s9-u5-q4",
+                "sql-s9-u5-q5",
+                "sql-s9-u5-q6",
+                "sql-s9-u5-q7",
+                "sql-s9-u5-q8",
+                "sql-s9-u5-q9",
+                "sql-s9-u5-q10"
               ]
             },
             {
@@ -3313,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "RETURNING helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-9-unit-6-bulk-inserts",
@@ -3327,14 +3582,16 @@
               "title": "Learn Bulk inserts",
               "order": 1,
               "exerciseIds": [
-                "sql-s9-u6-e1",
-                "sql-s9-u6-e2",
-                "sql-s9-u6-e3",
-                "sql-s9-u6-e4",
-                "sql-s9-u6-e5",
-                "sql-s9-u6-e6",
-                "sql-s9-u6-e7",
-                "sql-s9-u6-e8"
+                "sql-s9-u6-q1",
+                "sql-s9-u6-q2",
+                "sql-s9-u6-q3",
+                "sql-s9-u6-q4",
+                "sql-s9-u6-q5",
+                "sql-s9-u6-q6",
+                "sql-s9-u6-q7",
+                "sql-s9-u6-q8",
+                "sql-s9-u6-q9",
+                "sql-s9-u6-q10"
               ]
             },
             {
@@ -3351,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Bulk inserts helps you query and shape relational data. Example: `INSERT INTO users (name) VALUES ('Ada')`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-9-unit-7-migrations-basics",
@@ -3365,14 +3623,16 @@
               "title": "Learn Migrations basics",
               "order": 1,
               "exerciseIds": [
-                "sql-s9-u7-e1",
-                "sql-s9-u7-e2",
-                "sql-s9-u7-e3",
-                "sql-s9-u7-e4",
-                "sql-s9-u7-e5",
-                "sql-s9-u7-e6",
-                "sql-s9-u7-e7",
-                "sql-s9-u7-e8"
+                "sql-s9-u7-q1",
+                "sql-s9-u7-q2",
+                "sql-s9-u7-q3",
+                "sql-s9-u7-q4",
+                "sql-s9-u7-q5",
+                "sql-s9-u7-q6",
+                "sql-s9-u7-q7",
+                "sql-s9-u7-q8",
+                "sql-s9-u7-q9",
+                "sql-s9-u7-q10"
               ]
             },
             {
@@ -3389,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Migrations basics helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-9-unit-8-seed-data",
@@ -3403,14 +3664,16 @@
               "title": "Learn Seed data",
               "order": 1,
               "exerciseIds": [
-                "sql-s9-u8-e1",
-                "sql-s9-u8-e2",
-                "sql-s9-u8-e3",
-                "sql-s9-u8-e4",
-                "sql-s9-u8-e5",
-                "sql-s9-u8-e6",
-                "sql-s9-u8-e7",
-                "sql-s9-u8-e8"
+                "sql-s9-u8-q1",
+                "sql-s9-u8-q2",
+                "sql-s9-u8-q3",
+                "sql-s9-u8-q4",
+                "sql-s9-u8-q5",
+                "sql-s9-u8-q6",
+                "sql-s9-u8-q7",
+                "sql-s9-u8-q8",
+                "sql-s9-u8-q9",
+                "sql-s9-u8-q10"
               ]
             },
             {
@@ -3427,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Seed data helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-9-unit-9-data-cleanup",
@@ -3441,14 +3705,16 @@
               "title": "Learn Data cleanup",
               "order": 1,
               "exerciseIds": [
-                "sql-s9-u9-e1",
-                "sql-s9-u9-e2",
-                "sql-s9-u9-e3",
-                "sql-s9-u9-e4",
-                "sql-s9-u9-e5",
-                "sql-s9-u9-e6",
-                "sql-s9-u9-e7",
-                "sql-s9-u9-e8"
+                "sql-s9-u9-q1",
+                "sql-s9-u9-q2",
+                "sql-s9-u9-q3",
+                "sql-s9-u9-q4",
+                "sql-s9-u9-q5",
+                "sql-s9-u9-q6",
+                "sql-s9-u9-q7",
+                "sql-s9-u9-q8",
+                "sql-s9-u9-q9",
+                "sql-s9-u9-q10"
               ]
             },
             {
@@ -3465,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data cleanup helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-9-unit-10-write-query-project",
@@ -3479,14 +3746,16 @@
               "title": "Learn Write query project",
               "order": 1,
               "exerciseIds": [
-                "sql-s9-u10-e1",
-                "sql-s9-u10-e2",
-                "sql-s9-u10-e3",
-                "sql-s9-u10-e4",
-                "sql-s9-u10-e5",
-                "sql-s9-u10-e6",
-                "sql-s9-u10-e7",
-                "sql-s9-u10-e8"
+                "sql-s9-u10-q1",
+                "sql-s9-u10-q2",
+                "sql-s9-u10-q3",
+                "sql-s9-u10-q4",
+                "sql-s9-u10-q5",
+                "sql-s9-u10-q6",
+                "sql-s9-u10-q7",
+                "sql-s9-u10-q8",
+                "sql-s9-u10-q9",
+                "sql-s9-u10-q10"
               ]
             },
             {
@@ -3503,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Write query project helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         }
       ]
     },
@@ -3526,14 +3796,16 @@
               "title": "Learn Analytics dashboard",
               "order": 1,
               "exerciseIds": [
-                "sql-s10-u1-e1",
-                "sql-s10-u1-e2",
-                "sql-s10-u1-e3",
-                "sql-s10-u1-e4",
-                "sql-s10-u1-e5",
-                "sql-s10-u1-e6",
-                "sql-s10-u1-e7",
-                "sql-s10-u1-e8"
+                "sql-s10-u1-q1",
+                "sql-s10-u1-q2",
+                "sql-s10-u1-q3",
+                "sql-s10-u1-q4",
+                "sql-s10-u1-q5",
+                "sql-s10-u1-q6",
+                "sql-s10-u1-q7",
+                "sql-s10-u1-q8",
+                "sql-s10-u1-q9",
+                "sql-s10-u1-q10"
               ]
             },
             {
@@ -3550,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Analytics dashboard helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-10-unit-2-inventory-schema",
@@ -3564,14 +3837,16 @@
               "title": "Learn Inventory schema",
               "order": 1,
               "exerciseIds": [
-                "sql-s10-u2-e1",
-                "sql-s10-u2-e2",
-                "sql-s10-u2-e3",
-                "sql-s10-u2-e4",
-                "sql-s10-u2-e5",
-                "sql-s10-u2-e6",
-                "sql-s10-u2-e7",
-                "sql-s10-u2-e8"
+                "sql-s10-u2-q1",
+                "sql-s10-u2-q2",
+                "sql-s10-u2-q3",
+                "sql-s10-u2-q4",
+                "sql-s10-u2-q5",
+                "sql-s10-u2-q6",
+                "sql-s10-u2-q7",
+                "sql-s10-u2-q8",
+                "sql-s10-u2-q9",
+                "sql-s10-u2-q10"
               ]
             },
             {
@@ -3588,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Inventory schema helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-10-unit-3-leaderboard-queries",
@@ -3602,14 +3878,16 @@
               "title": "Learn Leaderboard queries",
               "order": 1,
               "exerciseIds": [
-                "sql-s10-u3-e1",
-                "sql-s10-u3-e2",
-                "sql-s10-u3-e3",
-                "sql-s10-u3-e4",
-                "sql-s10-u3-e5",
-                "sql-s10-u3-e6",
-                "sql-s10-u3-e7",
-                "sql-s10-u3-e8"
+                "sql-s10-u3-q1",
+                "sql-s10-u3-q2",
+                "sql-s10-u3-q3",
+                "sql-s10-u3-q4",
+                "sql-s10-u3-q5",
+                "sql-s10-u3-q6",
+                "sql-s10-u3-q7",
+                "sql-s10-u3-q8",
+                "sql-s10-u3-q9",
+                "sql-s10-u3-q10"
               ]
             },
             {
@@ -3626,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Leaderboard queries helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-10-unit-4-reporting-ctes",
@@ -3640,14 +3919,16 @@
               "title": "Learn Reporting CTEs",
               "order": 1,
               "exerciseIds": [
-                "sql-s10-u4-e1",
-                "sql-s10-u4-e2",
-                "sql-s10-u4-e3",
-                "sql-s10-u4-e4",
-                "sql-s10-u4-e5",
-                "sql-s10-u4-e6",
-                "sql-s10-u4-e7",
-                "sql-s10-u4-e8"
+                "sql-s10-u4-q1",
+                "sql-s10-u4-q2",
+                "sql-s10-u4-q3",
+                "sql-s10-u4-q4",
+                "sql-s10-u4-q5",
+                "sql-s10-u4-q6",
+                "sql-s10-u4-q7",
+                "sql-s10-u4-q8",
+                "sql-s10-u4-q9",
+                "sql-s10-u4-q10"
               ]
             },
             {
@@ -3664,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reporting CTEs helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-10-unit-5-search-filters",
@@ -3678,14 +3960,16 @@
               "title": "Learn Search filters",
               "order": 1,
               "exerciseIds": [
-                "sql-s10-u5-e1",
-                "sql-s10-u5-e2",
-                "sql-s10-u5-e3",
-                "sql-s10-u5-e4",
-                "sql-s10-u5-e5",
-                "sql-s10-u5-e6",
-                "sql-s10-u5-e7",
-                "sql-s10-u5-e8"
+                "sql-s10-u5-q1",
+                "sql-s10-u5-q2",
+                "sql-s10-u5-q3",
+                "sql-s10-u5-q4",
+                "sql-s10-u5-q5",
+                "sql-s10-u5-q6",
+                "sql-s10-u5-q7",
+                "sql-s10-u5-q8",
+                "sql-s10-u5-q9",
+                "sql-s10-u5-q10"
               ]
             },
             {
@@ -3702,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Search filters helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-10-unit-6-optimization-pass",
@@ -3716,14 +4001,16 @@
               "title": "Learn Optimization pass",
               "order": 1,
               "exerciseIds": [
-                "sql-s10-u6-e1",
-                "sql-s10-u6-e2",
-                "sql-s10-u6-e3",
-                "sql-s10-u6-e4",
-                "sql-s10-u6-e5",
-                "sql-s10-u6-e6",
-                "sql-s10-u6-e7",
-                "sql-s10-u6-e8"
+                "sql-s10-u6-q1",
+                "sql-s10-u6-q2",
+                "sql-s10-u6-q3",
+                "sql-s10-u6-q4",
+                "sql-s10-u6-q5",
+                "sql-s10-u6-q6",
+                "sql-s10-u6-q7",
+                "sql-s10-u6-q8",
+                "sql-s10-u6-q9",
+                "sql-s10-u6-q10"
               ]
             },
             {
@@ -3740,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Optimization pass helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-10-unit-7-transaction-flow",
@@ -3754,14 +4042,16 @@
               "title": "Learn Transaction flow",
               "order": 1,
               "exerciseIds": [
-                "sql-s10-u7-e1",
-                "sql-s10-u7-e2",
-                "sql-s10-u7-e3",
-                "sql-s10-u7-e4",
-                "sql-s10-u7-e5",
-                "sql-s10-u7-e6",
-                "sql-s10-u7-e7",
-                "sql-s10-u7-e8"
+                "sql-s10-u7-q1",
+                "sql-s10-u7-q2",
+                "sql-s10-u7-q3",
+                "sql-s10-u7-q4",
+                "sql-s10-u7-q5",
+                "sql-s10-u7-q6",
+                "sql-s10-u7-q7",
+                "sql-s10-u7-q8",
+                "sql-s10-u7-q9",
+                "sql-s10-u7-q10"
               ]
             },
             {
@@ -3778,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Transaction flow helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-10-unit-8-data-quality-audit",
@@ -3792,14 +4083,16 @@
               "title": "Learn Data quality audit",
               "order": 1,
               "exerciseIds": [
-                "sql-s10-u8-e1",
-                "sql-s10-u8-e2",
-                "sql-s10-u8-e3",
-                "sql-s10-u8-e4",
-                "sql-s10-u8-e5",
-                "sql-s10-u8-e6",
-                "sql-s10-u8-e7",
-                "sql-s10-u8-e8"
+                "sql-s10-u8-q1",
+                "sql-s10-u8-q2",
+                "sql-s10-u8-q3",
+                "sql-s10-u8-q4",
+                "sql-s10-u8-q5",
+                "sql-s10-u8-q6",
+                "sql-s10-u8-q7",
+                "sql-s10-u8-q8",
+                "sql-s10-u8-q9",
+                "sql-s10-u8-q10"
               ]
             },
             {
@@ -3816,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data quality audit helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-10-unit-9-schema-migration",
@@ -3830,14 +4124,16 @@
               "title": "Learn Schema migration",
               "order": 1,
               "exerciseIds": [
-                "sql-s10-u9-e1",
-                "sql-s10-u9-e2",
-                "sql-s10-u9-e3",
-                "sql-s10-u9-e4",
-                "sql-s10-u9-e5",
-                "sql-s10-u9-e6",
-                "sql-s10-u9-e7",
-                "sql-s10-u9-e8"
+                "sql-s10-u9-q1",
+                "sql-s10-u9-q2",
+                "sql-s10-u9-q3",
+                "sql-s10-u9-q4",
+                "sql-s10-u9-q5",
+                "sql-s10-u9-q6",
+                "sql-s10-u9-q7",
+                "sql-s10-u9-q8",
+                "sql-s10-u9-q9",
+                "sql-s10-u9-q10"
               ]
             },
             {
@@ -3854,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Schema migration helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         },
         {
           "id": "sql-section-10-unit-10-final-sql-project",
@@ -3868,14 +4165,16 @@
               "title": "Learn Final SQL project",
               "order": 1,
               "exerciseIds": [
-                "sql-s10-u10-e1",
-                "sql-s10-u10-e2",
-                "sql-s10-u10-e3",
-                "sql-s10-u10-e4",
-                "sql-s10-u10-e5",
-                "sql-s10-u10-e6",
-                "sql-s10-u10-e7",
-                "sql-s10-u10-e8"
+                "sql-s10-u10-q1",
+                "sql-s10-u10-q2",
+                "sql-s10-u10-q3",
+                "sql-s10-u10-q4",
+                "sql-s10-u10-q5",
+                "sql-s10-u10-q6",
+                "sql-s10-u10-q7",
+                "sql-s10-u10-q8",
+                "sql-s10-u10-q9",
+                "sql-s10-u10-q10"
               ]
             },
             {
@@ -3892,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final SQL project helps you query and shape relational data. Example: `SELECT name FROM users;`. Avoid: writing clauses in the wrong order."
         }
       ]
     }

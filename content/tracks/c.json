@@ -25,7 +25,16 @@
               "title": "Learn Hello C",
               "order": 1,
               "exerciseIds": [
-                "c-s1-u1-sample"
+                "c-s1-u1-q1",
+                "c-s1-u1-q2",
+                "c-s1-u1-q3",
+                "c-s1-u1-q4",
+                "c-s1-u1-q5",
+                "c-s1-u1-q6",
+                "c-s1-u1-q7",
+                "c-s1-u1-q8",
+                "c-s1-u1-q9",
+                "c-s1-u1-q10"
               ]
             },
             {
@@ -42,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Hello C helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-1-unit-2-compilation",
@@ -56,7 +66,16 @@
               "title": "Learn Compilation",
               "order": 1,
               "exerciseIds": [
-                "c-s1-u2-sample"
+                "c-s1-u2-q1",
+                "c-s1-u2-q2",
+                "c-s1-u2-q3",
+                "c-s1-u2-q4",
+                "c-s1-u2-q5",
+                "c-s1-u2-q6",
+                "c-s1-u2-q7",
+                "c-s1-u2-q8",
+                "c-s1-u2-q9",
+                "c-s1-u2-q10"
               ]
             },
             {
@@ -73,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Compilation helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-1-unit-3-variables",
@@ -87,7 +107,16 @@
               "title": "Learn Variables",
               "order": 1,
               "exerciseIds": [
-                "c-s1-u3-sample"
+                "c-s1-u3-q1",
+                "c-s1-u3-q2",
+                "c-s1-u3-q3",
+                "c-s1-u3-q4",
+                "c-s1-u3-q5",
+                "c-s1-u3-q6",
+                "c-s1-u3-q7",
+                "c-s1-u3-q8",
+                "c-s1-u3-q9",
+                "c-s1-u3-q10"
               ]
             },
             {
@@ -104,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Variables helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-1-unit-4-primitive-types",
@@ -117,7 +147,18 @@
               "unitId": "c-section-1-unit-4-primitive-types",
               "title": "Learn Primitive types",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s1-u4-q1",
+                "c-s1-u4-q2",
+                "c-s1-u4-q3",
+                "c-s1-u4-q4",
+                "c-s1-u4-q5",
+                "c-s1-u4-q6",
+                "c-s1-u4-q7",
+                "c-s1-u4-q8",
+                "c-s1-u4-q9",
+                "c-s1-u4-q10"
+              ]
             },
             {
               "id": "c-section-1-unit-4-primitive-types-lesson-2",
@@ -133,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Primitive types helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-1-unit-5-printf",
@@ -146,7 +188,18 @@
               "unitId": "c-section-1-unit-5-printf",
               "title": "Learn printf",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s1-u5-q1",
+                "c-s1-u5-q2",
+                "c-s1-u5-q3",
+                "c-s1-u5-q4",
+                "c-s1-u5-q5",
+                "c-s1-u5-q6",
+                "c-s1-u5-q7",
+                "c-s1-u5-q8",
+                "c-s1-u5-q9",
+                "c-s1-u5-q10"
+              ]
             },
             {
               "id": "c-section-1-unit-5-printf-lesson-2",
@@ -162,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "printf helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-1-unit-6-scanf",
@@ -175,7 +229,18 @@
               "unitId": "c-section-1-unit-6-scanf",
               "title": "Learn scanf",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s1-u6-q1",
+                "c-s1-u6-q2",
+                "c-s1-u6-q3",
+                "c-s1-u6-q4",
+                "c-s1-u6-q5",
+                "c-s1-u6-q6",
+                "c-s1-u6-q7",
+                "c-s1-u6-q8",
+                "c-s1-u6-q9",
+                "c-s1-u6-q10"
+              ]
             },
             {
               "id": "c-section-1-unit-6-scanf-lesson-2",
@@ -191,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "scanf helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-1-unit-7-operators",
@@ -204,7 +270,18 @@
               "unitId": "c-section-1-unit-7-operators",
               "title": "Learn Operators",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s1-u7-q1",
+                "c-s1-u7-q2",
+                "c-s1-u7-q3",
+                "c-s1-u7-q4",
+                "c-s1-u7-q5",
+                "c-s1-u7-q6",
+                "c-s1-u7-q7",
+                "c-s1-u7-q8",
+                "c-s1-u7-q9",
+                "c-s1-u7-q10"
+              ]
             },
             {
               "id": "c-section-1-unit-7-operators-lesson-2",
@@ -220,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Operators helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-1-unit-8-conditionals",
@@ -233,7 +311,18 @@
               "unitId": "c-section-1-unit-8-conditionals",
               "title": "Learn Conditionals",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s1-u8-q1",
+                "c-s1-u8-q2",
+                "c-s1-u8-q3",
+                "c-s1-u8-q4",
+                "c-s1-u8-q5",
+                "c-s1-u8-q6",
+                "c-s1-u8-q7",
+                "c-s1-u8-q8",
+                "c-s1-u8-q9",
+                "c-s1-u8-q10"
+              ]
             },
             {
               "id": "c-section-1-unit-8-conditionals-lesson-2",
@@ -249,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Conditionals helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-1-unit-9-loops",
@@ -262,7 +352,18 @@
               "unitId": "c-section-1-unit-9-loops",
               "title": "Learn Loops",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s1-u9-q1",
+                "c-s1-u9-q2",
+                "c-s1-u9-q3",
+                "c-s1-u9-q4",
+                "c-s1-u9-q5",
+                "c-s1-u9-q6",
+                "c-s1-u9-q7",
+                "c-s1-u9-q8",
+                "c-s1-u9-q9",
+                "c-s1-u9-q10"
+              ]
             },
             {
               "id": "c-section-1-unit-9-loops-lesson-2",
@@ -278,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Loops helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-1-unit-10-style-basics",
@@ -291,7 +393,18 @@
               "unitId": "c-section-1-unit-10-style-basics",
               "title": "Learn Style basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s1-u10-q1",
+                "c-s1-u10-q2",
+                "c-s1-u10-q3",
+                "c-s1-u10-q4",
+                "c-s1-u10-q5",
+                "c-s1-u10-q6",
+                "c-s1-u10-q7",
+                "c-s1-u10-q8",
+                "c-s1-u10-q9",
+                "c-s1-u10-q10"
+              ]
             },
             {
               "id": "c-section-1-unit-10-style-basics-lesson-2",
@@ -307,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Style basics helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         }
       ]
     },
@@ -329,7 +443,18 @@
               "unitId": "c-section-2-unit-1-function-declarations",
               "title": "Learn Function declarations",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s2-u1-q1",
+                "c-s2-u1-q2",
+                "c-s2-u1-q3",
+                "c-s2-u1-q4",
+                "c-s2-u1-q5",
+                "c-s2-u1-q6",
+                "c-s2-u1-q7",
+                "c-s2-u1-q8",
+                "c-s2-u1-q9",
+                "c-s2-u1-q10"
+              ]
             },
             {
               "id": "c-section-2-unit-1-function-declarations-lesson-2",
@@ -345,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Function declarations helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-2-unit-2-function-definitions",
@@ -358,7 +484,18 @@
               "unitId": "c-section-2-unit-2-function-definitions",
               "title": "Learn Function definitions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s2-u2-q1",
+                "c-s2-u2-q2",
+                "c-s2-u2-q3",
+                "c-s2-u2-q4",
+                "c-s2-u2-q5",
+                "c-s2-u2-q6",
+                "c-s2-u2-q7",
+                "c-s2-u2-q8",
+                "c-s2-u2-q9",
+                "c-s2-u2-q10"
+              ]
             },
             {
               "id": "c-section-2-unit-2-function-definitions-lesson-2",
@@ -374,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Function definitions helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-2-unit-3-parameters",
@@ -387,7 +525,18 @@
               "unitId": "c-section-2-unit-3-parameters",
               "title": "Learn Parameters",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s2-u3-q1",
+                "c-s2-u3-q2",
+                "c-s2-u3-q3",
+                "c-s2-u3-q4",
+                "c-s2-u3-q5",
+                "c-s2-u3-q6",
+                "c-s2-u3-q7",
+                "c-s2-u3-q8",
+                "c-s2-u3-q9",
+                "c-s2-u3-q10"
+              ]
             },
             {
               "id": "c-section-2-unit-3-parameters-lesson-2",
@@ -403,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Parameters helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-2-unit-4-return-values",
@@ -416,7 +566,18 @@
               "unitId": "c-section-2-unit-4-return-values",
               "title": "Learn Return values",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s2-u4-q1",
+                "c-s2-u4-q2",
+                "c-s2-u4-q3",
+                "c-s2-u4-q4",
+                "c-s2-u4-q5",
+                "c-s2-u4-q6",
+                "c-s2-u4-q7",
+                "c-s2-u4-q8",
+                "c-s2-u4-q9",
+                "c-s2-u4-q10"
+              ]
             },
             {
               "id": "c-section-2-unit-4-return-values-lesson-2",
@@ -432,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Return values helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-2-unit-5-header-files",
@@ -445,7 +607,18 @@
               "unitId": "c-section-2-unit-5-header-files",
               "title": "Learn Header files",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s2-u5-q1",
+                "c-s2-u5-q2",
+                "c-s2-u5-q3",
+                "c-s2-u5-q4",
+                "c-s2-u5-q5",
+                "c-s2-u5-q6",
+                "c-s2-u5-q7",
+                "c-s2-u5-q8",
+                "c-s2-u5-q9",
+                "c-s2-u5-q10"
+              ]
             },
             {
               "id": "c-section-2-unit-5-header-files-lesson-2",
@@ -461,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Header files helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-2-unit-6-scope",
@@ -474,7 +648,18 @@
               "unitId": "c-section-2-unit-6-scope",
               "title": "Learn Scope",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s2-u6-q1",
+                "c-s2-u6-q2",
+                "c-s2-u6-q3",
+                "c-s2-u6-q4",
+                "c-s2-u6-q5",
+                "c-s2-u6-q6",
+                "c-s2-u6-q7",
+                "c-s2-u6-q8",
+                "c-s2-u6-q9",
+                "c-s2-u6-q10"
+              ]
             },
             {
               "id": "c-section-2-unit-6-scope-lesson-2",
@@ -490,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Scope helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-2-unit-7-storage-classes",
@@ -503,7 +689,18 @@
               "unitId": "c-section-2-unit-7-storage-classes",
               "title": "Learn Storage classes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s2-u7-q1",
+                "c-s2-u7-q2",
+                "c-s2-u7-q3",
+                "c-s2-u7-q4",
+                "c-s2-u7-q5",
+                "c-s2-u7-q6",
+                "c-s2-u7-q7",
+                "c-s2-u7-q8",
+                "c-s2-u7-q9",
+                "c-s2-u7-q10"
+              ]
             },
             {
               "id": "c-section-2-unit-7-storage-classes-lesson-2",
@@ -519,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Storage classes helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-2-unit-8-recursion",
@@ -532,7 +730,18 @@
               "unitId": "c-section-2-unit-8-recursion",
               "title": "Learn Recursion",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s2-u8-q1",
+                "c-s2-u8-q2",
+                "c-s2-u8-q3",
+                "c-s2-u8-q4",
+                "c-s2-u8-q5",
+                "c-s2-u8-q6",
+                "c-s2-u8-q7",
+                "c-s2-u8-q8",
+                "c-s2-u8-q9",
+                "c-s2-u8-q10"
+              ]
             },
             {
               "id": "c-section-2-unit-8-recursion-lesson-2",
@@ -548,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Recursion helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-2-unit-9-function-pointers-intro",
@@ -561,7 +771,18 @@
               "unitId": "c-section-2-unit-9-function-pointers-intro",
               "title": "Learn Function pointers intro",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s2-u9-q1",
+                "c-s2-u9-q2",
+                "c-s2-u9-q3",
+                "c-s2-u9-q4",
+                "c-s2-u9-q5",
+                "c-s2-u9-q6",
+                "c-s2-u9-q7",
+                "c-s2-u9-q8",
+                "c-s2-u9-q9",
+                "c-s2-u9-q10"
+              ]
             },
             {
               "id": "c-section-2-unit-9-function-pointers-intro-lesson-2",
@@ -577,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Function pointers intro helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-2-unit-10-function-project",
@@ -590,7 +812,18 @@
               "unitId": "c-section-2-unit-10-function-project",
               "title": "Learn Function project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s2-u10-q1",
+                "c-s2-u10-q2",
+                "c-s2-u10-q3",
+                "c-s2-u10-q4",
+                "c-s2-u10-q5",
+                "c-s2-u10-q6",
+                "c-s2-u10-q7",
+                "c-s2-u10-q8",
+                "c-s2-u10-q9",
+                "c-s2-u10-q10"
+              ]
             },
             {
               "id": "c-section-2-unit-10-function-project-lesson-2",
@@ -606,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Function project helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         }
       ]
     },
@@ -628,7 +862,18 @@
               "unitId": "c-section-3-unit-1-addresses",
               "title": "Learn Addresses",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s3-u1-q1",
+                "c-s3-u1-q2",
+                "c-s3-u1-q3",
+                "c-s3-u1-q4",
+                "c-s3-u1-q5",
+                "c-s3-u1-q6",
+                "c-s3-u1-q7",
+                "c-s3-u1-q8",
+                "c-s3-u1-q9",
+                "c-s3-u1-q10"
+              ]
             },
             {
               "id": "c-section-3-unit-1-addresses-lesson-2",
@@ -644,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Addresses helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-3-unit-2-pointer-variables",
@@ -657,7 +903,18 @@
               "unitId": "c-section-3-unit-2-pointer-variables",
               "title": "Learn Pointer variables",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s3-u2-q1",
+                "c-s3-u2-q2",
+                "c-s3-u2-q3",
+                "c-s3-u2-q4",
+                "c-s3-u2-q5",
+                "c-s3-u2-q6",
+                "c-s3-u2-q7",
+                "c-s3-u2-q8",
+                "c-s3-u2-q9",
+                "c-s3-u2-q10"
+              ]
             },
             {
               "id": "c-section-3-unit-2-pointer-variables-lesson-2",
@@ -673,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pointer variables helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-3-unit-3-dereferencing",
@@ -686,7 +944,18 @@
               "unitId": "c-section-3-unit-3-dereferencing",
               "title": "Learn Dereferencing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s3-u3-q1",
+                "c-s3-u3-q2",
+                "c-s3-u3-q3",
+                "c-s3-u3-q4",
+                "c-s3-u3-q5",
+                "c-s3-u3-q6",
+                "c-s3-u3-q7",
+                "c-s3-u3-q8",
+                "c-s3-u3-q9",
+                "c-s3-u3-q10"
+              ]
             },
             {
               "id": "c-section-3-unit-3-dereferencing-lesson-2",
@@ -702,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dereferencing helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-3-unit-4-null-pointers",
@@ -715,7 +985,18 @@
               "unitId": "c-section-3-unit-4-null-pointers",
               "title": "Learn Null pointers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s3-u4-q1",
+                "c-s3-u4-q2",
+                "c-s3-u4-q3",
+                "c-s3-u4-q4",
+                "c-s3-u4-q5",
+                "c-s3-u4-q6",
+                "c-s3-u4-q7",
+                "c-s3-u4-q8",
+                "c-s3-u4-q9",
+                "c-s3-u4-q10"
+              ]
             },
             {
               "id": "c-section-3-unit-4-null-pointers-lesson-2",
@@ -731,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Null pointers helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-3-unit-5-pointer-arithmetic",
@@ -744,7 +1026,18 @@
               "unitId": "c-section-3-unit-5-pointer-arithmetic",
               "title": "Learn Pointer arithmetic",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s3-u5-q1",
+                "c-s3-u5-q2",
+                "c-s3-u5-q3",
+                "c-s3-u5-q4",
+                "c-s3-u5-q5",
+                "c-s3-u5-q6",
+                "c-s3-u5-q7",
+                "c-s3-u5-q8",
+                "c-s3-u5-q9",
+                "c-s3-u5-q10"
+              ]
             },
             {
               "id": "c-section-3-unit-5-pointer-arithmetic-lesson-2",
@@ -760,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pointer arithmetic helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-3-unit-6-pointers-and-arrays",
@@ -773,7 +1067,18 @@
               "unitId": "c-section-3-unit-6-pointers-and-arrays",
               "title": "Learn Pointers and arrays",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s3-u6-q1",
+                "c-s3-u6-q2",
+                "c-s3-u6-q3",
+                "c-s3-u6-q4",
+                "c-s3-u6-q5",
+                "c-s3-u6-q6",
+                "c-s3-u6-q7",
+                "c-s3-u6-q8",
+                "c-s3-u6-q9",
+                "c-s3-u6-q10"
+              ]
             },
             {
               "id": "c-section-3-unit-6-pointers-and-arrays-lesson-2",
@@ -789,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pointers and arrays helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-3-unit-7-pointers-and-functions",
@@ -802,7 +1108,18 @@
               "unitId": "c-section-3-unit-7-pointers-and-functions",
               "title": "Learn Pointers and functions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s3-u7-q1",
+                "c-s3-u7-q2",
+                "c-s3-u7-q3",
+                "c-s3-u7-q4",
+                "c-s3-u7-q5",
+                "c-s3-u7-q6",
+                "c-s3-u7-q7",
+                "c-s3-u7-q8",
+                "c-s3-u7-q9",
+                "c-s3-u7-q10"
+              ]
             },
             {
               "id": "c-section-3-unit-7-pointers-and-functions-lesson-2",
@@ -818,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pointers and functions helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-3-unit-8-const-pointers",
@@ -831,7 +1149,18 @@
               "unitId": "c-section-3-unit-8-const-pointers",
               "title": "Learn Const pointers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s3-u8-q1",
+                "c-s3-u8-q2",
+                "c-s3-u8-q3",
+                "c-s3-u8-q4",
+                "c-s3-u8-q5",
+                "c-s3-u8-q6",
+                "c-s3-u8-q7",
+                "c-s3-u8-q8",
+                "c-s3-u8-q9",
+                "c-s3-u8-q10"
+              ]
             },
             {
               "id": "c-section-3-unit-8-const-pointers-lesson-2",
@@ -847,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Const pointers helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-3-unit-9-pointer-pitfalls",
@@ -860,7 +1190,18 @@
               "unitId": "c-section-3-unit-9-pointer-pitfalls",
               "title": "Learn Pointer pitfalls",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s3-u9-q1",
+                "c-s3-u9-q2",
+                "c-s3-u9-q3",
+                "c-s3-u9-q4",
+                "c-s3-u9-q5",
+                "c-s3-u9-q6",
+                "c-s3-u9-q7",
+                "c-s3-u9-q8",
+                "c-s3-u9-q9",
+                "c-s3-u9-q10"
+              ]
             },
             {
               "id": "c-section-3-unit-9-pointer-pitfalls-lesson-2",
@@ -876,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pointer pitfalls helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-3-unit-10-pointer-drills",
@@ -889,7 +1231,18 @@
               "unitId": "c-section-3-unit-10-pointer-drills",
               "title": "Learn Pointer drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s3-u10-q1",
+                "c-s3-u10-q2",
+                "c-s3-u10-q3",
+                "c-s3-u10-q4",
+                "c-s3-u10-q5",
+                "c-s3-u10-q6",
+                "c-s3-u10-q7",
+                "c-s3-u10-q8",
+                "c-s3-u10-q9",
+                "c-s3-u10-q10"
+              ]
             },
             {
               "id": "c-section-3-unit-10-pointer-drills-lesson-2",
@@ -905,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pointer drills helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         }
       ]
     },
@@ -927,7 +1281,18 @@
               "unitId": "c-section-4-unit-1-arrays",
               "title": "Learn Arrays",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s4-u1-q1",
+                "c-s4-u1-q2",
+                "c-s4-u1-q3",
+                "c-s4-u1-q4",
+                "c-s4-u1-q5",
+                "c-s4-u1-q6",
+                "c-s4-u1-q7",
+                "c-s4-u1-q8",
+                "c-s4-u1-q9",
+                "c-s4-u1-q10"
+              ]
             },
             {
               "id": "c-section-4-unit-1-arrays-lesson-2",
@@ -943,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Arrays helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-4-unit-2-array-traversal",
@@ -956,7 +1322,18 @@
               "unitId": "c-section-4-unit-2-array-traversal",
               "title": "Learn Array traversal",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s4-u2-q1",
+                "c-s4-u2-q2",
+                "c-s4-u2-q3",
+                "c-s4-u2-q4",
+                "c-s4-u2-q5",
+                "c-s4-u2-q6",
+                "c-s4-u2-q7",
+                "c-s4-u2-q8",
+                "c-s4-u2-q9",
+                "c-s4-u2-q10"
+              ]
             },
             {
               "id": "c-section-4-unit-2-array-traversal-lesson-2",
@@ -972,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Array traversal helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-4-unit-3-multidimensional-arrays",
@@ -985,7 +1363,18 @@
               "unitId": "c-section-4-unit-3-multidimensional-arrays",
               "title": "Learn Multidimensional arrays",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s4-u3-q1",
+                "c-s4-u3-q2",
+                "c-s4-u3-q3",
+                "c-s4-u3-q4",
+                "c-s4-u3-q5",
+                "c-s4-u3-q6",
+                "c-s4-u3-q7",
+                "c-s4-u3-q8",
+                "c-s4-u3-q9",
+                "c-s4-u3-q10"
+              ]
             },
             {
               "id": "c-section-4-unit-3-multidimensional-arrays-lesson-2",
@@ -1001,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Multidimensional arrays helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-4-unit-4-char-arrays",
@@ -1014,7 +1404,18 @@
               "unitId": "c-section-4-unit-4-char-arrays",
               "title": "Learn Char arrays",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s4-u4-q1",
+                "c-s4-u4-q2",
+                "c-s4-u4-q3",
+                "c-s4-u4-q4",
+                "c-s4-u4-q5",
+                "c-s4-u4-q6",
+                "c-s4-u4-q7",
+                "c-s4-u4-q8",
+                "c-s4-u4-q9",
+                "c-s4-u4-q10"
+              ]
             },
             {
               "id": "c-section-4-unit-4-char-arrays-lesson-2",
@@ -1030,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Char arrays helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-4-unit-5-string-literals",
@@ -1043,7 +1445,18 @@
               "unitId": "c-section-4-unit-5-string-literals",
               "title": "Learn String literals",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s4-u5-q1",
+                "c-s4-u5-q2",
+                "c-s4-u5-q3",
+                "c-s4-u5-q4",
+                "c-s4-u5-q5",
+                "c-s4-u5-q6",
+                "c-s4-u5-q7",
+                "c-s4-u5-q8",
+                "c-s4-u5-q9",
+                "c-s4-u5-q10"
+              ]
             },
             {
               "id": "c-section-4-unit-5-string-literals-lesson-2",
@@ -1059,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "String literals helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-4-unit-6-string-functions",
@@ -1072,7 +1486,18 @@
               "unitId": "c-section-4-unit-6-string-functions",
               "title": "Learn String functions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s4-u6-q1",
+                "c-s4-u6-q2",
+                "c-s4-u6-q3",
+                "c-s4-u6-q4",
+                "c-s4-u6-q5",
+                "c-s4-u6-q6",
+                "c-s4-u6-q7",
+                "c-s4-u6-q8",
+                "c-s4-u6-q9",
+                "c-s4-u6-q10"
+              ]
             },
             {
               "id": "c-section-4-unit-6-string-functions-lesson-2",
@@ -1088,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "String functions helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-4-unit-7-buffer-sizes",
@@ -1101,7 +1527,18 @@
               "unitId": "c-section-4-unit-7-buffer-sizes",
               "title": "Learn Buffer sizes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s4-u7-q1",
+                "c-s4-u7-q2",
+                "c-s4-u7-q3",
+                "c-s4-u7-q4",
+                "c-s4-u7-q5",
+                "c-s4-u7-q6",
+                "c-s4-u7-q7",
+                "c-s4-u7-q8",
+                "c-s4-u7-q9",
+                "c-s4-u7-q10"
+              ]
             },
             {
               "id": "c-section-4-unit-7-buffer-sizes-lesson-2",
@@ -1117,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Buffer sizes helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-4-unit-8-input-strings",
@@ -1130,7 +1568,18 @@
               "unitId": "c-section-4-unit-8-input-strings",
               "title": "Learn Input strings",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s4-u8-q1",
+                "c-s4-u8-q2",
+                "c-s4-u8-q3",
+                "c-s4-u8-q4",
+                "c-s4-u8-q5",
+                "c-s4-u8-q6",
+                "c-s4-u8-q7",
+                "c-s4-u8-q8",
+                "c-s4-u8-q9",
+                "c-s4-u8-q10"
+              ]
             },
             {
               "id": "c-section-4-unit-8-input-strings-lesson-2",
@@ -1146,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Input strings helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-4-unit-9-array-decay",
@@ -1159,7 +1609,18 @@
               "unitId": "c-section-4-unit-9-array-decay",
               "title": "Learn Array decay",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s4-u9-q1",
+                "c-s4-u9-q2",
+                "c-s4-u9-q3",
+                "c-s4-u9-q4",
+                "c-s4-u9-q5",
+                "c-s4-u9-q6",
+                "c-s4-u9-q7",
+                "c-s4-u9-q8",
+                "c-s4-u9-q9",
+                "c-s4-u9-q10"
+              ]
             },
             {
               "id": "c-section-4-unit-9-array-decay-lesson-2",
@@ -1175,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Array decay helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-4-unit-10-string-project",
@@ -1188,7 +1650,18 @@
               "unitId": "c-section-4-unit-10-string-project",
               "title": "Learn String project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s4-u10-q1",
+                "c-s4-u10-q2",
+                "c-s4-u10-q3",
+                "c-s4-u10-q4",
+                "c-s4-u10-q5",
+                "c-s4-u10-q6",
+                "c-s4-u10-q7",
+                "c-s4-u10-q8",
+                "c-s4-u10-q9",
+                "c-s4-u10-q10"
+              ]
             },
             {
               "id": "c-section-4-unit-10-string-project-lesson-2",
@@ -1204,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "String project helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         }
       ]
     },
@@ -1226,7 +1700,18 @@
               "unitId": "c-section-5-unit-1-struct-definitions",
               "title": "Learn Struct definitions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s5-u1-q1",
+                "c-s5-u1-q2",
+                "c-s5-u1-q3",
+                "c-s5-u1-q4",
+                "c-s5-u1-q5",
+                "c-s5-u1-q6",
+                "c-s5-u1-q7",
+                "c-s5-u1-q8",
+                "c-s5-u1-q9",
+                "c-s5-u1-q10"
+              ]
             },
             {
               "id": "c-section-5-unit-1-struct-definitions-lesson-2",
@@ -1242,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Struct definitions helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-5-unit-2-struct-instances",
@@ -1255,7 +1741,18 @@
               "unitId": "c-section-5-unit-2-struct-instances",
               "title": "Learn Struct instances",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s5-u2-q1",
+                "c-s5-u2-q2",
+                "c-s5-u2-q3",
+                "c-s5-u2-q4",
+                "c-s5-u2-q5",
+                "c-s5-u2-q6",
+                "c-s5-u2-q7",
+                "c-s5-u2-q8",
+                "c-s5-u2-q9",
+                "c-s5-u2-q10"
+              ]
             },
             {
               "id": "c-section-5-unit-2-struct-instances-lesson-2",
@@ -1271,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Struct instances helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-5-unit-3-nested-structs",
@@ -1284,7 +1782,18 @@
               "unitId": "c-section-5-unit-3-nested-structs",
               "title": "Learn Nested structs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s5-u3-q1",
+                "c-s5-u3-q2",
+                "c-s5-u3-q3",
+                "c-s5-u3-q4",
+                "c-s5-u3-q5",
+                "c-s5-u3-q6",
+                "c-s5-u3-q7",
+                "c-s5-u3-q8",
+                "c-s5-u3-q9",
+                "c-s5-u3-q10"
+              ]
             },
             {
               "id": "c-section-5-unit-3-nested-structs-lesson-2",
@@ -1300,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Nested structs helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-5-unit-4-pointers-to-structs",
@@ -1313,7 +1823,18 @@
               "unitId": "c-section-5-unit-4-pointers-to-structs",
               "title": "Learn Pointers to structs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s5-u4-q1",
+                "c-s5-u4-q2",
+                "c-s5-u4-q3",
+                "c-s5-u4-q4",
+                "c-s5-u4-q5",
+                "c-s5-u4-q6",
+                "c-s5-u4-q7",
+                "c-s5-u4-q8",
+                "c-s5-u4-q9",
+                "c-s5-u4-q10"
+              ]
             },
             {
               "id": "c-section-5-unit-4-pointers-to-structs-lesson-2",
@@ -1329,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Pointers to structs helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-5-unit-5-typedef",
@@ -1342,7 +1864,18 @@
               "unitId": "c-section-5-unit-5-typedef",
               "title": "Learn typedef",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s5-u5-q1",
+                "c-s5-u5-q2",
+                "c-s5-u5-q3",
+                "c-s5-u5-q4",
+                "c-s5-u5-q5",
+                "c-s5-u5-q6",
+                "c-s5-u5-q7",
+                "c-s5-u5-q8",
+                "c-s5-u5-q9",
+                "c-s5-u5-q10"
+              ]
             },
             {
               "id": "c-section-5-unit-5-typedef-lesson-2",
@@ -1358,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "typedef helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-5-unit-6-arrays-of-structs",
@@ -1371,7 +1905,18 @@
               "unitId": "c-section-5-unit-6-arrays-of-structs",
               "title": "Learn Arrays of structs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s5-u6-q1",
+                "c-s5-u6-q2",
+                "c-s5-u6-q3",
+                "c-s5-u6-q4",
+                "c-s5-u6-q5",
+                "c-s5-u6-q6",
+                "c-s5-u6-q7",
+                "c-s5-u6-q8",
+                "c-s5-u6-q9",
+                "c-s5-u6-q10"
+              ]
             },
             {
               "id": "c-section-5-unit-6-arrays-of-structs-lesson-2",
@@ -1387,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Arrays of structs helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-5-unit-7-struct-functions",
@@ -1400,7 +1946,18 @@
               "unitId": "c-section-5-unit-7-struct-functions",
               "title": "Learn Struct functions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s5-u7-q1",
+                "c-s5-u7-q2",
+                "c-s5-u7-q3",
+                "c-s5-u7-q4",
+                "c-s5-u7-q5",
+                "c-s5-u7-q6",
+                "c-s5-u7-q7",
+                "c-s5-u7-q8",
+                "c-s5-u7-q9",
+                "c-s5-u7-q10"
+              ]
             },
             {
               "id": "c-section-5-unit-7-struct-functions-lesson-2",
@@ -1416,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Struct functions helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-5-unit-8-memory-layout",
@@ -1429,7 +1987,18 @@
               "unitId": "c-section-5-unit-8-memory-layout",
               "title": "Learn Memory layout",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s5-u8-q1",
+                "c-s5-u8-q2",
+                "c-s5-u8-q3",
+                "c-s5-u8-q4",
+                "c-s5-u8-q5",
+                "c-s5-u8-q6",
+                "c-s5-u8-q7",
+                "c-s5-u8-q8",
+                "c-s5-u8-q9",
+                "c-s5-u8-q10"
+              ]
             },
             {
               "id": "c-section-5-unit-8-memory-layout-lesson-2",
@@ -1445,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Memory layout helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-5-unit-9-unions-intro",
@@ -1458,7 +2028,18 @@
               "unitId": "c-section-5-unit-9-unions-intro",
               "title": "Learn Unions intro",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s5-u9-q1",
+                "c-s5-u9-q2",
+                "c-s5-u9-q3",
+                "c-s5-u9-q4",
+                "c-s5-u9-q5",
+                "c-s5-u9-q6",
+                "c-s5-u9-q7",
+                "c-s5-u9-q8",
+                "c-s5-u9-q9",
+                "c-s5-u9-q10"
+              ]
             },
             {
               "id": "c-section-5-unit-9-unions-intro-lesson-2",
@@ -1474,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Unions intro helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-5-unit-10-struct-project",
@@ -1487,7 +2069,18 @@
               "unitId": "c-section-5-unit-10-struct-project",
               "title": "Learn Struct project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s5-u10-q1",
+                "c-s5-u10-q2",
+                "c-s5-u10-q3",
+                "c-s5-u10-q4",
+                "c-s5-u10-q5",
+                "c-s5-u10-q6",
+                "c-s5-u10-q7",
+                "c-s5-u10-q8",
+                "c-s5-u10-q9",
+                "c-s5-u10-q10"
+              ]
             },
             {
               "id": "c-section-5-unit-10-struct-project-lesson-2",
@@ -1503,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Struct project helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         }
       ]
     },
@@ -1525,7 +2119,18 @@
               "unitId": "c-section-6-unit-1-malloc",
               "title": "Learn malloc",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s6-u1-q1",
+                "c-s6-u1-q2",
+                "c-s6-u1-q3",
+                "c-s6-u1-q4",
+                "c-s6-u1-q5",
+                "c-s6-u1-q6",
+                "c-s6-u1-q7",
+                "c-s6-u1-q8",
+                "c-s6-u1-q9",
+                "c-s6-u1-q10"
+              ]
             },
             {
               "id": "c-section-6-unit-1-malloc-lesson-2",
@@ -1541,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "malloc helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-6-unit-2-calloc",
@@ -1554,7 +2160,18 @@
               "unitId": "c-section-6-unit-2-calloc",
               "title": "Learn calloc",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s6-u2-q1",
+                "c-s6-u2-q2",
+                "c-s6-u2-q3",
+                "c-s6-u2-q4",
+                "c-s6-u2-q5",
+                "c-s6-u2-q6",
+                "c-s6-u2-q7",
+                "c-s6-u2-q8",
+                "c-s6-u2-q9",
+                "c-s6-u2-q10"
+              ]
             },
             {
               "id": "c-section-6-unit-2-calloc-lesson-2",
@@ -1570,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "calloc helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-6-unit-3-realloc",
@@ -1583,7 +2201,18 @@
               "unitId": "c-section-6-unit-3-realloc",
               "title": "Learn realloc",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s6-u3-q1",
+                "c-s6-u3-q2",
+                "c-s6-u3-q3",
+                "c-s6-u3-q4",
+                "c-s6-u3-q5",
+                "c-s6-u3-q6",
+                "c-s6-u3-q7",
+                "c-s6-u3-q8",
+                "c-s6-u3-q9",
+                "c-s6-u3-q10"
+              ]
             },
             {
               "id": "c-section-6-unit-3-realloc-lesson-2",
@@ -1599,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "realloc helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-6-unit-4-free",
@@ -1612,7 +2242,18 @@
               "unitId": "c-section-6-unit-4-free",
               "title": "Learn free",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s6-u4-q1",
+                "c-s6-u4-q2",
+                "c-s6-u4-q3",
+                "c-s6-u4-q4",
+                "c-s6-u4-q5",
+                "c-s6-u4-q6",
+                "c-s6-u4-q7",
+                "c-s6-u4-q8",
+                "c-s6-u4-q9",
+                "c-s6-u4-q10"
+              ]
             },
             {
               "id": "c-section-6-unit-4-free-lesson-2",
@@ -1628,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "free helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-6-unit-5-memory-leaks",
@@ -1641,7 +2283,18 @@
               "unitId": "c-section-6-unit-5-memory-leaks",
               "title": "Learn Memory leaks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s6-u5-q1",
+                "c-s6-u5-q2",
+                "c-s6-u5-q3",
+                "c-s6-u5-q4",
+                "c-s6-u5-q5",
+                "c-s6-u5-q6",
+                "c-s6-u5-q7",
+                "c-s6-u5-q8",
+                "c-s6-u5-q9",
+                "c-s6-u5-q10"
+              ]
             },
             {
               "id": "c-section-6-unit-5-memory-leaks-lesson-2",
@@ -1657,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Memory leaks helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-6-unit-6-dangling-pointers",
@@ -1670,7 +2324,18 @@
               "unitId": "c-section-6-unit-6-dangling-pointers",
               "title": "Learn Dangling pointers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s6-u6-q1",
+                "c-s6-u6-q2",
+                "c-s6-u6-q3",
+                "c-s6-u6-q4",
+                "c-s6-u6-q5",
+                "c-s6-u6-q6",
+                "c-s6-u6-q7",
+                "c-s6-u6-q8",
+                "c-s6-u6-q9",
+                "c-s6-u6-q10"
+              ]
             },
             {
               "id": "c-section-6-unit-6-dangling-pointers-lesson-2",
@@ -1686,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dangling pointers helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-6-unit-7-ownership-habits",
@@ -1699,7 +2365,18 @@
               "unitId": "c-section-6-unit-7-ownership-habits",
               "title": "Learn Ownership habits",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s6-u7-q1",
+                "c-s6-u7-q2",
+                "c-s6-u7-q3",
+                "c-s6-u7-q4",
+                "c-s6-u7-q5",
+                "c-s6-u7-q6",
+                "c-s6-u7-q7",
+                "c-s6-u7-q8",
+                "c-s6-u7-q9",
+                "c-s6-u7-q10"
+              ]
             },
             {
               "id": "c-section-6-unit-7-ownership-habits-lesson-2",
@@ -1715,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Ownership habits helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-6-unit-8-dynamic-arrays",
@@ -1728,7 +2406,18 @@
               "unitId": "c-section-6-unit-8-dynamic-arrays",
               "title": "Learn Dynamic arrays",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s6-u8-q1",
+                "c-s6-u8-q2",
+                "c-s6-u8-q3",
+                "c-s6-u8-q4",
+                "c-s6-u8-q5",
+                "c-s6-u8-q6",
+                "c-s6-u8-q7",
+                "c-s6-u8-q8",
+                "c-s6-u8-q9",
+                "c-s6-u8-q10"
+              ]
             },
             {
               "id": "c-section-6-unit-8-dynamic-arrays-lesson-2",
@@ -1744,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dynamic arrays helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-6-unit-9-valgrind-basics",
@@ -1757,7 +2447,18 @@
               "unitId": "c-section-6-unit-9-valgrind-basics",
               "title": "Learn Valgrind basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s6-u9-q1",
+                "c-s6-u9-q2",
+                "c-s6-u9-q3",
+                "c-s6-u9-q4",
+                "c-s6-u9-q5",
+                "c-s6-u9-q6",
+                "c-s6-u9-q7",
+                "c-s6-u9-q8",
+                "c-s6-u9-q9",
+                "c-s6-u9-q10"
+              ]
             },
             {
               "id": "c-section-6-unit-9-valgrind-basics-lesson-2",
@@ -1773,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Valgrind basics helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-6-unit-10-memory-project",
@@ -1786,7 +2488,18 @@
               "unitId": "c-section-6-unit-10-memory-project",
               "title": "Learn Memory project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s6-u10-q1",
+                "c-s6-u10-q2",
+                "c-s6-u10-q3",
+                "c-s6-u10-q4",
+                "c-s6-u10-q5",
+                "c-s6-u10-q6",
+                "c-s6-u10-q7",
+                "c-s6-u10-q8",
+                "c-s6-u10-q9",
+                "c-s6-u10-q10"
+              ]
             },
             {
               "id": "c-section-6-unit-10-memory-project-lesson-2",
@@ -1802,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Memory project helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         }
       ]
     },
@@ -1824,7 +2538,18 @@
               "unitId": "c-section-7-unit-1-fopen",
               "title": "Learn fopen",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s7-u1-q1",
+                "c-s7-u1-q2",
+                "c-s7-u1-q3",
+                "c-s7-u1-q4",
+                "c-s7-u1-q5",
+                "c-s7-u1-q6",
+                "c-s7-u1-q7",
+                "c-s7-u1-q8",
+                "c-s7-u1-q9",
+                "c-s7-u1-q10"
+              ]
             },
             {
               "id": "c-section-7-unit-1-fopen-lesson-2",
@@ -1840,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "fopen helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-7-unit-2-fclose",
@@ -1853,7 +2579,18 @@
               "unitId": "c-section-7-unit-2-fclose",
               "title": "Learn fclose",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s7-u2-q1",
+                "c-s7-u2-q2",
+                "c-s7-u2-q3",
+                "c-s7-u2-q4",
+                "c-s7-u2-q5",
+                "c-s7-u2-q6",
+                "c-s7-u2-q7",
+                "c-s7-u2-q8",
+                "c-s7-u2-q9",
+                "c-s7-u2-q10"
+              ]
             },
             {
               "id": "c-section-7-unit-2-fclose-lesson-2",
@@ -1869,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "fclose helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-7-unit-3-reading-chars",
@@ -1882,7 +2620,18 @@
               "unitId": "c-section-7-unit-3-reading-chars",
               "title": "Learn Reading chars",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s7-u3-q1",
+                "c-s7-u3-q2",
+                "c-s7-u3-q3",
+                "c-s7-u3-q4",
+                "c-s7-u3-q5",
+                "c-s7-u3-q6",
+                "c-s7-u3-q7",
+                "c-s7-u3-q8",
+                "c-s7-u3-q9",
+                "c-s7-u3-q10"
+              ]
             },
             {
               "id": "c-section-7-unit-3-reading-chars-lesson-2",
@@ -1898,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reading chars helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-7-unit-4-reading-lines",
@@ -1911,7 +2661,18 @@
               "unitId": "c-section-7-unit-4-reading-lines",
               "title": "Learn Reading lines",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s7-u4-q1",
+                "c-s7-u4-q2",
+                "c-s7-u4-q3",
+                "c-s7-u4-q4",
+                "c-s7-u4-q5",
+                "c-s7-u4-q6",
+                "c-s7-u4-q7",
+                "c-s7-u4-q8",
+                "c-s7-u4-q9",
+                "c-s7-u4-q10"
+              ]
             },
             {
               "id": "c-section-7-unit-4-reading-lines-lesson-2",
@@ -1927,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Reading lines helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-7-unit-5-writing-files",
@@ -1940,7 +2702,18 @@
               "unitId": "c-section-7-unit-5-writing-files",
               "title": "Learn Writing files",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s7-u5-q1",
+                "c-s7-u5-q2",
+                "c-s7-u5-q3",
+                "c-s7-u5-q4",
+                "c-s7-u5-q5",
+                "c-s7-u5-q6",
+                "c-s7-u5-q7",
+                "c-s7-u5-q8",
+                "c-s7-u5-q9",
+                "c-s7-u5-q10"
+              ]
             },
             {
               "id": "c-section-7-unit-5-writing-files-lesson-2",
@@ -1956,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Writing files helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-7-unit-6-binary-files",
@@ -1969,7 +2743,18 @@
               "unitId": "c-section-7-unit-6-binary-files",
               "title": "Learn Binary files",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s7-u6-q1",
+                "c-s7-u6-q2",
+                "c-s7-u6-q3",
+                "c-s7-u6-q4",
+                "c-s7-u6-q5",
+                "c-s7-u6-q6",
+                "c-s7-u6-q7",
+                "c-s7-u6-q8",
+                "c-s7-u6-q9",
+                "c-s7-u6-q10"
+              ]
             },
             {
               "id": "c-section-7-unit-6-binary-files-lesson-2",
@@ -1985,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Binary files helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-7-unit-7-file-errors",
@@ -1998,7 +2784,18 @@
               "unitId": "c-section-7-unit-7-file-errors",
               "title": "Learn File errors",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s7-u7-q1",
+                "c-s7-u7-q2",
+                "c-s7-u7-q3",
+                "c-s7-u7-q4",
+                "c-s7-u7-q5",
+                "c-s7-u7-q6",
+                "c-s7-u7-q7",
+                "c-s7-u7-q8",
+                "c-s7-u7-q9",
+                "c-s7-u7-q10"
+              ]
             },
             {
               "id": "c-section-7-unit-7-file-errors-lesson-2",
@@ -2014,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "File errors helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-7-unit-8-csv-parsing",
@@ -2027,7 +2825,18 @@
               "unitId": "c-section-7-unit-8-csv-parsing",
               "title": "Learn CSV parsing",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s7-u8-q1",
+                "c-s7-u8-q2",
+                "c-s7-u8-q3",
+                "c-s7-u8-q4",
+                "c-s7-u8-q5",
+                "c-s7-u8-q6",
+                "c-s7-u8-q7",
+                "c-s7-u8-q8",
+                "c-s7-u8-q9",
+                "c-s7-u8-q10"
+              ]
             },
             {
               "id": "c-section-7-unit-8-csv-parsing-lesson-2",
@@ -2043,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CSV parsing helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-7-unit-9-file-positions",
@@ -2056,7 +2866,18 @@
               "unitId": "c-section-7-unit-9-file-positions",
               "title": "Learn File positions",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s7-u9-q1",
+                "c-s7-u9-q2",
+                "c-s7-u9-q3",
+                "c-s7-u9-q4",
+                "c-s7-u9-q5",
+                "c-s7-u9-q6",
+                "c-s7-u9-q7",
+                "c-s7-u9-q8",
+                "c-s7-u9-q9",
+                "c-s7-u9-q10"
+              ]
             },
             {
               "id": "c-section-7-unit-9-file-positions-lesson-2",
@@ -2072,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "File positions helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-7-unit-10-file-project",
@@ -2085,7 +2907,18 @@
               "unitId": "c-section-7-unit-10-file-project",
               "title": "Learn File project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s7-u10-q1",
+                "c-s7-u10-q2",
+                "c-s7-u10-q3",
+                "c-s7-u10-q4",
+                "c-s7-u10-q5",
+                "c-s7-u10-q6",
+                "c-s7-u10-q7",
+                "c-s7-u10-q8",
+                "c-s7-u10-q9",
+                "c-s7-u10-q10"
+              ]
             },
             {
               "id": "c-section-7-unit-10-file-project-lesson-2",
@@ -2101,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "File project helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         }
       ]
     },
@@ -2123,7 +2957,18 @@
               "unitId": "c-section-8-unit-1-macros",
               "title": "Learn Macros",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s8-u1-q1",
+                "c-s8-u1-q2",
+                "c-s8-u1-q3",
+                "c-s8-u1-q4",
+                "c-s8-u1-q5",
+                "c-s8-u1-q6",
+                "c-s8-u1-q7",
+                "c-s8-u1-q8",
+                "c-s8-u1-q9",
+                "c-s8-u1-q10"
+              ]
             },
             {
               "id": "c-section-8-unit-1-macros-lesson-2",
@@ -2139,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Macros helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-8-unit-2-include-guards",
@@ -2152,7 +2998,18 @@
               "unitId": "c-section-8-unit-2-include-guards",
               "title": "Learn Include guards",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s8-u2-q1",
+                "c-s8-u2-q2",
+                "c-s8-u2-q3",
+                "c-s8-u2-q4",
+                "c-s8-u2-q5",
+                "c-s8-u2-q6",
+                "c-s8-u2-q7",
+                "c-s8-u2-q8",
+                "c-s8-u2-q9",
+                "c-s8-u2-q10"
+              ]
             },
             {
               "id": "c-section-8-unit-2-include-guards-lesson-2",
@@ -2168,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Include guards helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-8-unit-3-conditional-compilation",
@@ -2181,7 +3039,18 @@
               "unitId": "c-section-8-unit-3-conditional-compilation",
               "title": "Learn Conditional compilation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s8-u3-q1",
+                "c-s8-u3-q2",
+                "c-s8-u3-q3",
+                "c-s8-u3-q4",
+                "c-s8-u3-q5",
+                "c-s8-u3-q6",
+                "c-s8-u3-q7",
+                "c-s8-u3-q8",
+                "c-s8-u3-q9",
+                "c-s8-u3-q10"
+              ]
             },
             {
               "id": "c-section-8-unit-3-conditional-compilation-lesson-2",
@@ -2197,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Conditional compilation helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-8-unit-4-make-basics",
@@ -2210,7 +3080,18 @@
               "unitId": "c-section-8-unit-4-make-basics",
               "title": "Learn Make basics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s8-u4-q1",
+                "c-s8-u4-q2",
+                "c-s8-u4-q3",
+                "c-s8-u4-q4",
+                "c-s8-u4-q5",
+                "c-s8-u4-q6",
+                "c-s8-u4-q7",
+                "c-s8-u4-q8",
+                "c-s8-u4-q9",
+                "c-s8-u4-q10"
+              ]
             },
             {
               "id": "c-section-8-unit-4-make-basics-lesson-2",
@@ -2226,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Make basics helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-8-unit-5-make-targets",
@@ -2239,7 +3121,18 @@
               "unitId": "c-section-8-unit-5-make-targets",
               "title": "Learn Make targets",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s8-u5-q1",
+                "c-s8-u5-q2",
+                "c-s8-u5-q3",
+                "c-s8-u5-q4",
+                "c-s8-u5-q5",
+                "c-s8-u5-q6",
+                "c-s8-u5-q7",
+                "c-s8-u5-q8",
+                "c-s8-u5-q9",
+                "c-s8-u5-q10"
+              ]
             },
             {
               "id": "c-section-8-unit-5-make-targets-lesson-2",
@@ -2255,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Make targets helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-8-unit-6-object-files",
@@ -2268,7 +3162,18 @@
               "unitId": "c-section-8-unit-6-object-files",
               "title": "Learn Object files",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s8-u6-q1",
+                "c-s8-u6-q2",
+                "c-s8-u6-q3",
+                "c-s8-u6-q4",
+                "c-s8-u6-q5",
+                "c-s8-u6-q6",
+                "c-s8-u6-q7",
+                "c-s8-u6-q8",
+                "c-s8-u6-q9",
+                "c-s8-u6-q10"
+              ]
             },
             {
               "id": "c-section-8-unit-6-object-files-lesson-2",
@@ -2284,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Object files helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-8-unit-7-libraries-intro",
@@ -2297,7 +3203,18 @@
               "unitId": "c-section-8-unit-7-libraries-intro",
               "title": "Learn Libraries intro",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s8-u7-q1",
+                "c-s8-u7-q2",
+                "c-s8-u7-q3",
+                "c-s8-u7-q4",
+                "c-s8-u7-q5",
+                "c-s8-u7-q6",
+                "c-s8-u7-q7",
+                "c-s8-u7-q8",
+                "c-s8-u7-q9",
+                "c-s8-u7-q10"
+              ]
             },
             {
               "id": "c-section-8-unit-7-libraries-intro-lesson-2",
@@ -2313,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Libraries intro helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-8-unit-8-compiler-flags",
@@ -2326,7 +3244,18 @@
               "unitId": "c-section-8-unit-8-compiler-flags",
               "title": "Learn Compiler flags",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s8-u8-q1",
+                "c-s8-u8-q2",
+                "c-s8-u8-q3",
+                "c-s8-u8-q4",
+                "c-s8-u8-q5",
+                "c-s8-u8-q6",
+                "c-s8-u8-q7",
+                "c-s8-u8-q8",
+                "c-s8-u8-q9",
+                "c-s8-u8-q10"
+              ]
             },
             {
               "id": "c-section-8-unit-8-compiler-flags-lesson-2",
@@ -2342,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Compiler flags helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-8-unit-9-warnings",
@@ -2355,7 +3285,18 @@
               "unitId": "c-section-8-unit-9-warnings",
               "title": "Learn Warnings",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s8-u9-q1",
+                "c-s8-u9-q2",
+                "c-s8-u9-q3",
+                "c-s8-u9-q4",
+                "c-s8-u9-q5",
+                "c-s8-u9-q6",
+                "c-s8-u9-q7",
+                "c-s8-u9-q8",
+                "c-s8-u9-q9",
+                "c-s8-u9-q10"
+              ]
             },
             {
               "id": "c-section-8-unit-9-warnings-lesson-2",
@@ -2371,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Warnings helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-8-unit-10-build-project",
@@ -2384,7 +3326,18 @@
               "unitId": "c-section-8-unit-10-build-project",
               "title": "Learn Build project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s8-u10-q1",
+                "c-s8-u10-q2",
+                "c-s8-u10-q3",
+                "c-s8-u10-q4",
+                "c-s8-u10-q5",
+                "c-s8-u10-q6",
+                "c-s8-u10-q7",
+                "c-s8-u10-q8",
+                "c-s8-u10-q9",
+                "c-s8-u10-q10"
+              ]
             },
             {
               "id": "c-section-8-unit-10-build-project-lesson-2",
@@ -2400,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Build project helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         }
       ]
     },
@@ -2422,7 +3376,18 @@
               "unitId": "c-section-9-unit-1-linked-lists",
               "title": "Learn Linked lists",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s9-u1-q1",
+                "c-s9-u1-q2",
+                "c-s9-u1-q3",
+                "c-s9-u1-q4",
+                "c-s9-u1-q5",
+                "c-s9-u1-q6",
+                "c-s9-u1-q7",
+                "c-s9-u1-q8",
+                "c-s9-u1-q9",
+                "c-s9-u1-q10"
+              ]
             },
             {
               "id": "c-section-9-unit-1-linked-lists-lesson-2",
@@ -2438,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Linked lists helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-9-unit-2-stacks",
@@ -2451,7 +3417,18 @@
               "unitId": "c-section-9-unit-2-stacks",
               "title": "Learn Stacks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s9-u2-q1",
+                "c-s9-u2-q2",
+                "c-s9-u2-q3",
+                "c-s9-u2-q4",
+                "c-s9-u2-q5",
+                "c-s9-u2-q6",
+                "c-s9-u2-q7",
+                "c-s9-u2-q8",
+                "c-s9-u2-q9",
+                "c-s9-u2-q10"
+              ]
             },
             {
               "id": "c-section-9-unit-2-stacks-lesson-2",
@@ -2467,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Stacks helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-9-unit-3-queues",
@@ -2480,7 +3458,18 @@
               "unitId": "c-section-9-unit-3-queues",
               "title": "Learn Queues",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s9-u3-q1",
+                "c-s9-u3-q2",
+                "c-s9-u3-q3",
+                "c-s9-u3-q4",
+                "c-s9-u3-q5",
+                "c-s9-u3-q6",
+                "c-s9-u3-q7",
+                "c-s9-u3-q8",
+                "c-s9-u3-q9",
+                "c-s9-u3-q10"
+              ]
             },
             {
               "id": "c-section-9-unit-3-queues-lesson-2",
@@ -2496,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Queues helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-9-unit-4-hash-tables-intro",
@@ -2509,7 +3499,18 @@
               "unitId": "c-section-9-unit-4-hash-tables-intro",
               "title": "Learn Hash tables intro",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s9-u4-q1",
+                "c-s9-u4-q2",
+                "c-s9-u4-q3",
+                "c-s9-u4-q4",
+                "c-s9-u4-q5",
+                "c-s9-u4-q6",
+                "c-s9-u4-q7",
+                "c-s9-u4-q8",
+                "c-s9-u4-q9",
+                "c-s9-u4-q10"
+              ]
             },
             {
               "id": "c-section-9-unit-4-hash-tables-intro-lesson-2",
@@ -2525,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Hash tables intro helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-9-unit-5-trees-intro",
@@ -2538,7 +3540,18 @@
               "unitId": "c-section-9-unit-5-trees-intro",
               "title": "Learn Trees intro",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s9-u5-q1",
+                "c-s9-u5-q2",
+                "c-s9-u5-q3",
+                "c-s9-u5-q4",
+                "c-s9-u5-q5",
+                "c-s9-u5-q6",
+                "c-s9-u5-q7",
+                "c-s9-u5-q8",
+                "c-s9-u5-q9",
+                "c-s9-u5-q10"
+              ]
             },
             {
               "id": "c-section-9-unit-5-trees-intro-lesson-2",
@@ -2554,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Trees intro helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-9-unit-6-sorting-arrays",
@@ -2567,7 +3581,18 @@
               "unitId": "c-section-9-unit-6-sorting-arrays",
               "title": "Learn Sorting arrays",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s9-u6-q1",
+                "c-s9-u6-q2",
+                "c-s9-u6-q3",
+                "c-s9-u6-q4",
+                "c-s9-u6-q5",
+                "c-s9-u6-q6",
+                "c-s9-u6-q7",
+                "c-s9-u6-q8",
+                "c-s9-u6-q9",
+                "c-s9-u6-q10"
+              ]
             },
             {
               "id": "c-section-9-unit-6-sorting-arrays-lesson-2",
@@ -2583,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Sorting arrays helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-9-unit-7-searching-arrays",
@@ -2596,7 +3622,18 @@
               "unitId": "c-section-9-unit-7-searching-arrays",
               "title": "Learn Searching arrays",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s9-u7-q1",
+                "c-s9-u7-q2",
+                "c-s9-u7-q3",
+                "c-s9-u7-q4",
+                "c-s9-u7-q5",
+                "c-s9-u7-q6",
+                "c-s9-u7-q7",
+                "c-s9-u7-q8",
+                "c-s9-u7-q9",
+                "c-s9-u7-q10"
+              ]
             },
             {
               "id": "c-section-9-unit-7-searching-arrays-lesson-2",
@@ -2612,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Searching arrays helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-9-unit-8-generic-void-pointers",
@@ -2625,7 +3663,18 @@
               "unitId": "c-section-9-unit-8-generic-void-pointers",
               "title": "Learn Generic void pointers",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s9-u8-q1",
+                "c-s9-u8-q2",
+                "c-s9-u8-q3",
+                "c-s9-u8-q4",
+                "c-s9-u8-q5",
+                "c-s9-u8-q6",
+                "c-s9-u8-q7",
+                "c-s9-u8-q8",
+                "c-s9-u8-q9",
+                "c-s9-u8-q10"
+              ]
             },
             {
               "id": "c-section-9-unit-8-generic-void-pointers-lesson-2",
@@ -2641,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Generic void pointers helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-9-unit-9-data-ownership",
@@ -2654,7 +3704,18 @@
               "unitId": "c-section-9-unit-9-data-ownership",
               "title": "Learn Data ownership",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s9-u9-q1",
+                "c-s9-u9-q2",
+                "c-s9-u9-q3",
+                "c-s9-u9-q4",
+                "c-s9-u9-q5",
+                "c-s9-u9-q6",
+                "c-s9-u9-q7",
+                "c-s9-u9-q8",
+                "c-s9-u9-q9",
+                "c-s9-u9-q10"
+              ]
             },
             {
               "id": "c-section-9-unit-9-data-ownership-lesson-2",
@@ -2670,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data ownership helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-9-unit-10-c-data-project",
@@ -2683,7 +3745,18 @@
               "unitId": "c-section-9-unit-10-c-data-project",
               "title": "Learn C data project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s9-u10-q1",
+                "c-s9-u10-q2",
+                "c-s9-u10-q3",
+                "c-s9-u10-q4",
+                "c-s9-u10-q5",
+                "c-s9-u10-q6",
+                "c-s9-u10-q7",
+                "c-s9-u10-q8",
+                "c-s9-u10-q9",
+                "c-s9-u10-q10"
+              ]
             },
             {
               "id": "c-section-9-unit-10-c-data-project-lesson-2",
@@ -2699,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "C data project helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         }
       ]
     },
@@ -2721,7 +3795,18 @@
               "unitId": "c-section-10-unit-1-text-utilities",
               "title": "Learn Text utilities",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s10-u1-q1",
+                "c-s10-u1-q2",
+                "c-s10-u1-q3",
+                "c-s10-u1-q4",
+                "c-s10-u1-q5",
+                "c-s10-u1-q6",
+                "c-s10-u1-q7",
+                "c-s10-u1-q8",
+                "c-s10-u1-q9",
+                "c-s10-u1-q10"
+              ]
             },
             {
               "id": "c-section-10-unit-1-text-utilities-lesson-2",
@@ -2737,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Text utilities helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-10-unit-2-contact-manager",
@@ -2750,7 +3836,18 @@
               "unitId": "c-section-10-unit-2-contact-manager",
               "title": "Learn Contact manager",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s10-u2-q1",
+                "c-s10-u2-q2",
+                "c-s10-u2-q3",
+                "c-s10-u2-q4",
+                "c-s10-u2-q5",
+                "c-s10-u2-q6",
+                "c-s10-u2-q7",
+                "c-s10-u2-q8",
+                "c-s10-u2-q9",
+                "c-s10-u2-q10"
+              ]
             },
             {
               "id": "c-section-10-unit-2-contact-manager-lesson-2",
@@ -2766,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Contact manager helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-10-unit-3-mini-shell-intro",
@@ -2779,7 +3877,18 @@
               "unitId": "c-section-10-unit-3-mini-shell-intro",
               "title": "Learn Mini shell intro",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s10-u3-q1",
+                "c-s10-u3-q2",
+                "c-s10-u3-q3",
+                "c-s10-u3-q4",
+                "c-s10-u3-q5",
+                "c-s10-u3-q6",
+                "c-s10-u3-q7",
+                "c-s10-u3-q8",
+                "c-s10-u3-q9",
+                "c-s10-u3-q10"
+              ]
             },
             {
               "id": "c-section-10-unit-3-mini-shell-intro-lesson-2",
@@ -2795,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Mini shell intro helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-10-unit-4-memory-safe-parser",
@@ -2808,7 +3918,18 @@
               "unitId": "c-section-10-unit-4-memory-safe-parser",
               "title": "Learn Memory-safe parser",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s10-u4-q1",
+                "c-s10-u4-q2",
+                "c-s10-u4-q3",
+                "c-s10-u4-q4",
+                "c-s10-u4-q5",
+                "c-s10-u4-q6",
+                "c-s10-u4-q7",
+                "c-s10-u4-q8",
+                "c-s10-u4-q9",
+                "c-s10-u4-q10"
+              ]
             },
             {
               "id": "c-section-10-unit-4-memory-safe-parser-lesson-2",
@@ -2824,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Memory-safe parser helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-10-unit-5-binary-file-tool",
@@ -2837,7 +3959,18 @@
               "unitId": "c-section-10-unit-5-binary-file-tool",
               "title": "Learn Binary file tool",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s10-u5-q1",
+                "c-s10-u5-q2",
+                "c-s10-u5-q3",
+                "c-s10-u5-q4",
+                "c-s10-u5-q5",
+                "c-s10-u5-q6",
+                "c-s10-u5-q7",
+                "c-s10-u5-q8",
+                "c-s10-u5-q9",
+                "c-s10-u5-q10"
+              ]
             },
             {
               "id": "c-section-10-unit-5-binary-file-tool-lesson-2",
@@ -2853,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Binary file tool helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-10-unit-6-linked-list-library",
@@ -2866,7 +4000,18 @@
               "unitId": "c-section-10-unit-6-linked-list-library",
               "title": "Learn Linked list library",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s10-u6-q1",
+                "c-s10-u6-q2",
+                "c-s10-u6-q3",
+                "c-s10-u6-q4",
+                "c-s10-u6-q5",
+                "c-s10-u6-q6",
+                "c-s10-u6-q7",
+                "c-s10-u6-q8",
+                "c-s10-u6-q9",
+                "c-s10-u6-q10"
+              ]
             },
             {
               "id": "c-section-10-unit-6-linked-list-library-lesson-2",
@@ -2882,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Linked list library helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-10-unit-7-csv-report",
@@ -2895,7 +4041,18 @@
               "unitId": "c-section-10-unit-7-csv-report",
               "title": "Learn CSV report",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s10-u7-q1",
+                "c-s10-u7-q2",
+                "c-s10-u7-q3",
+                "c-s10-u7-q4",
+                "c-s10-u7-q5",
+                "c-s10-u7-q6",
+                "c-s10-u7-q7",
+                "c-s10-u7-q8",
+                "c-s10-u7-q9",
+                "c-s10-u7-q10"
+              ]
             },
             {
               "id": "c-section-10-unit-7-csv-report-lesson-2",
@@ -2911,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "CSV report helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-10-unit-8-makefile-project",
@@ -2924,7 +4082,18 @@
               "unitId": "c-section-10-unit-8-makefile-project",
               "title": "Learn Makefile project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s10-u8-q1",
+                "c-s10-u8-q2",
+                "c-s10-u8-q3",
+                "c-s10-u8-q4",
+                "c-s10-u8-q5",
+                "c-s10-u8-q6",
+                "c-s10-u8-q7",
+                "c-s10-u8-q8",
+                "c-s10-u8-q9",
+                "c-s10-u8-q10"
+              ]
             },
             {
               "id": "c-section-10-unit-8-makefile-project-lesson-2",
@@ -2940,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Makefile project helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-10-unit-9-debugging-pass",
@@ -2953,7 +4123,18 @@
               "unitId": "c-section-10-unit-9-debugging-pass",
               "title": "Learn Debugging pass",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s10-u9-q1",
+                "c-s10-u9-q2",
+                "c-s10-u9-q3",
+                "c-s10-u9-q4",
+                "c-s10-u9-q5",
+                "c-s10-u9-q6",
+                "c-s10-u9-q7",
+                "c-s10-u9-q8",
+                "c-s10-u9-q9",
+                "c-s10-u9-q10"
+              ]
             },
             {
               "id": "c-section-10-unit-9-debugging-pass-lesson-2",
@@ -2969,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Debugging pass helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         },
         {
           "id": "c-section-10-unit-10-final-c-project",
@@ -2982,7 +4164,18 @@
               "unitId": "c-section-10-unit-10-final-c-project",
               "title": "Learn Final C project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "c-s10-u10-q1",
+                "c-s10-u10-q2",
+                "c-s10-u10-q3",
+                "c-s10-u10-q4",
+                "c-s10-u10-q5",
+                "c-s10-u10-q6",
+                "c-s10-u10-q7",
+                "c-s10-u10-q8",
+                "c-s10-u10-q9",
+                "c-s10-u10-q10"
+              ]
             },
             {
               "id": "c-section-10-unit-10-final-c-project-lesson-2",
@@ -2998,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final C project helps you control memory and low-level data. Example: `int count = 0;`. Avoid: using memory after it is freed."
         }
       ]
     }

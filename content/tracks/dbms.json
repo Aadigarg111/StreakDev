@@ -25,7 +25,16 @@
               "title": "Learn Why databases",
               "order": 1,
               "exerciseIds": [
-                "dbms-s1-u1-sample"
+                "dbms-s1-u1-q1",
+                "dbms-s1-u1-q2",
+                "dbms-s1-u1-q3",
+                "dbms-s1-u1-q4",
+                "dbms-s1-u1-q5",
+                "dbms-s1-u1-q6",
+                "dbms-s1-u1-q7",
+                "dbms-s1-u1-q8",
+                "dbms-s1-u1-q9",
+                "dbms-s1-u1-q10"
               ]
             },
             {
@@ -42,7 +51,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Why databases helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-1-unit-2-dbms-roles",
@@ -56,7 +66,16 @@
               "title": "Learn DBMS roles",
               "order": 1,
               "exerciseIds": [
-                "dbms-s1-u2-sample"
+                "dbms-s1-u2-q1",
+                "dbms-s1-u2-q2",
+                "dbms-s1-u2-q3",
+                "dbms-s1-u2-q4",
+                "dbms-s1-u2-q5",
+                "dbms-s1-u2-q6",
+                "dbms-s1-u2-q7",
+                "dbms-s1-u2-q8",
+                "dbms-s1-u2-q9",
+                "dbms-s1-u2-q10"
               ]
             },
             {
@@ -73,7 +92,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DBMS roles helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-1-unit-3-relational-model",
@@ -87,7 +107,16 @@
               "title": "Learn Relational model",
               "order": 1,
               "exerciseIds": [
-                "dbms-s1-u3-sample"
+                "dbms-s1-u3-q1",
+                "dbms-s1-u3-q2",
+                "dbms-s1-u3-q3",
+                "dbms-s1-u3-q4",
+                "dbms-s1-u3-q5",
+                "dbms-s1-u3-q6",
+                "dbms-s1-u3-q7",
+                "dbms-s1-u3-q8",
+                "dbms-s1-u3-q9",
+                "dbms-s1-u3-q10"
               ]
             },
             {
@@ -104,7 +133,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Relational model helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-1-unit-4-tables-and-rows",
@@ -117,7 +147,18 @@
               "unitId": "dbms-section-1-unit-4-tables-and-rows",
               "title": "Learn Tables and rows",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s1-u4-q1",
+                "dbms-s1-u4-q2",
+                "dbms-s1-u4-q3",
+                "dbms-s1-u4-q4",
+                "dbms-s1-u4-q5",
+                "dbms-s1-u4-q6",
+                "dbms-s1-u4-q7",
+                "dbms-s1-u4-q8",
+                "dbms-s1-u4-q9",
+                "dbms-s1-u4-q10"
+              ]
             },
             {
               "id": "dbms-section-1-unit-4-tables-and-rows-lesson-2",
@@ -133,7 +174,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tables and rows helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-1-unit-5-schemas",
@@ -146,7 +188,18 @@
               "unitId": "dbms-section-1-unit-5-schemas",
               "title": "Learn Schemas",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s1-u5-q1",
+                "dbms-s1-u5-q2",
+                "dbms-s1-u5-q3",
+                "dbms-s1-u5-q4",
+                "dbms-s1-u5-q5",
+                "dbms-s1-u5-q6",
+                "dbms-s1-u5-q7",
+                "dbms-s1-u5-q8",
+                "dbms-s1-u5-q9",
+                "dbms-s1-u5-q10"
+              ]
             },
             {
               "id": "dbms-section-1-unit-5-schemas-lesson-2",
@@ -162,7 +215,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Schemas helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-1-unit-6-keys",
@@ -175,7 +229,18 @@
               "unitId": "dbms-section-1-unit-6-keys",
               "title": "Learn Keys",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s1-u6-q1",
+                "dbms-s1-u6-q2",
+                "dbms-s1-u6-q3",
+                "dbms-s1-u6-q4",
+                "dbms-s1-u6-q5",
+                "dbms-s1-u6-q6",
+                "dbms-s1-u6-q7",
+                "dbms-s1-u6-q8",
+                "dbms-s1-u6-q9",
+                "dbms-s1-u6-q10"
+              ]
             },
             {
               "id": "dbms-section-1-unit-6-keys-lesson-2",
@@ -191,7 +256,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Keys helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-1-unit-7-constraints",
@@ -204,7 +270,18 @@
               "unitId": "dbms-section-1-unit-7-constraints",
               "title": "Learn Constraints",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s1-u7-q1",
+                "dbms-s1-u7-q2",
+                "dbms-s1-u7-q3",
+                "dbms-s1-u7-q4",
+                "dbms-s1-u7-q5",
+                "dbms-s1-u7-q6",
+                "dbms-s1-u7-q7",
+                "dbms-s1-u7-q8",
+                "dbms-s1-u7-q9",
+                "dbms-s1-u7-q10"
+              ]
             },
             {
               "id": "dbms-section-1-unit-7-constraints-lesson-2",
@@ -220,7 +297,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Constraints helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-1-unit-8-catalogs",
@@ -233,7 +311,18 @@
               "unitId": "dbms-section-1-unit-8-catalogs",
               "title": "Learn Catalogs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s1-u8-q1",
+                "dbms-s1-u8-q2",
+                "dbms-s1-u8-q3",
+                "dbms-s1-u8-q4",
+                "dbms-s1-u8-q5",
+                "dbms-s1-u8-q6",
+                "dbms-s1-u8-q7",
+                "dbms-s1-u8-q8",
+                "dbms-s1-u8-q9",
+                "dbms-s1-u8-q10"
+              ]
             },
             {
               "id": "dbms-section-1-unit-8-catalogs-lesson-2",
@@ -249,7 +338,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Catalogs helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-1-unit-9-users-and-roles",
@@ -262,7 +352,18 @@
               "unitId": "dbms-section-1-unit-9-users-and-roles",
               "title": "Learn Users and roles",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s1-u9-q1",
+                "dbms-s1-u9-q2",
+                "dbms-s1-u9-q3",
+                "dbms-s1-u9-q4",
+                "dbms-s1-u9-q5",
+                "dbms-s1-u9-q6",
+                "dbms-s1-u9-q7",
+                "dbms-s1-u9-q8",
+                "dbms-s1-u9-q9",
+                "dbms-s1-u9-q10"
+              ]
             },
             {
               "id": "dbms-section-1-unit-9-users-and-roles-lesson-2",
@@ -278,7 +379,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Users and roles helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-1-unit-10-dbms-vocabulary",
@@ -291,7 +393,18 @@
               "unitId": "dbms-section-1-unit-10-dbms-vocabulary",
               "title": "Learn DBMS vocabulary",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s1-u10-q1",
+                "dbms-s1-u10-q2",
+                "dbms-s1-u10-q3",
+                "dbms-s1-u10-q4",
+                "dbms-s1-u10-q5",
+                "dbms-s1-u10-q6",
+                "dbms-s1-u10-q7",
+                "dbms-s1-u10-q8",
+                "dbms-s1-u10-q9",
+                "dbms-s1-u10-q10"
+              ]
             },
             {
               "id": "dbms-section-1-unit-10-dbms-vocabulary-lesson-2",
@@ -307,7 +420,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "DBMS vocabulary helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         }
       ]
     },
@@ -329,7 +443,18 @@
               "unitId": "dbms-section-2-unit-1-entities",
               "title": "Learn Entities",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s2-u1-q1",
+                "dbms-s2-u1-q2",
+                "dbms-s2-u1-q3",
+                "dbms-s2-u1-q4",
+                "dbms-s2-u1-q5",
+                "dbms-s2-u1-q6",
+                "dbms-s2-u1-q7",
+                "dbms-s2-u1-q8",
+                "dbms-s2-u1-q9",
+                "dbms-s2-u1-q10"
+              ]
             },
             {
               "id": "dbms-section-2-unit-1-entities-lesson-2",
@@ -345,7 +470,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Entities helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-2-unit-2-attributes",
@@ -358,7 +484,18 @@
               "unitId": "dbms-section-2-unit-2-attributes",
               "title": "Learn Attributes",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s2-u2-q1",
+                "dbms-s2-u2-q2",
+                "dbms-s2-u2-q3",
+                "dbms-s2-u2-q4",
+                "dbms-s2-u2-q5",
+                "dbms-s2-u2-q6",
+                "dbms-s2-u2-q7",
+                "dbms-s2-u2-q8",
+                "dbms-s2-u2-q9",
+                "dbms-s2-u2-q10"
+              ]
             },
             {
               "id": "dbms-section-2-unit-2-attributes-lesson-2",
@@ -374,7 +511,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Attributes helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-2-unit-3-relationships",
@@ -387,7 +525,18 @@
               "unitId": "dbms-section-2-unit-3-relationships",
               "title": "Learn Relationships",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s2-u3-q1",
+                "dbms-s2-u3-q2",
+                "dbms-s2-u3-q3",
+                "dbms-s2-u3-q4",
+                "dbms-s2-u3-q5",
+                "dbms-s2-u3-q6",
+                "dbms-s2-u3-q7",
+                "dbms-s2-u3-q8",
+                "dbms-s2-u3-q9",
+                "dbms-s2-u3-q10"
+              ]
             },
             {
               "id": "dbms-section-2-unit-3-relationships-lesson-2",
@@ -403,7 +552,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Relationships helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-2-unit-4-cardinality",
@@ -416,7 +566,18 @@
               "unitId": "dbms-section-2-unit-4-cardinality",
               "title": "Learn Cardinality",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s2-u4-q1",
+                "dbms-s2-u4-q2",
+                "dbms-s2-u4-q3",
+                "dbms-s2-u4-q4",
+                "dbms-s2-u4-q5",
+                "dbms-s2-u4-q6",
+                "dbms-s2-u4-q7",
+                "dbms-s2-u4-q8",
+                "dbms-s2-u4-q9",
+                "dbms-s2-u4-q10"
+              ]
             },
             {
               "id": "dbms-section-2-unit-4-cardinality-lesson-2",
@@ -432,7 +593,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Cardinality helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-2-unit-5-weak-entities",
@@ -445,7 +607,18 @@
               "unitId": "dbms-section-2-unit-5-weak-entities",
               "title": "Learn Weak entities",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s2-u5-q1",
+                "dbms-s2-u5-q2",
+                "dbms-s2-u5-q3",
+                "dbms-s2-u5-q4",
+                "dbms-s2-u5-q5",
+                "dbms-s2-u5-q6",
+                "dbms-s2-u5-q7",
+                "dbms-s2-u5-q8",
+                "dbms-s2-u5-q9",
+                "dbms-s2-u5-q10"
+              ]
             },
             {
               "id": "dbms-section-2-unit-5-weak-entities-lesson-2",
@@ -461,7 +634,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Weak entities helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-2-unit-6-junction-entities",
@@ -474,7 +648,18 @@
               "unitId": "dbms-section-2-unit-6-junction-entities",
               "title": "Learn Junction entities",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s2-u6-q1",
+                "dbms-s2-u6-q2",
+                "dbms-s2-u6-q3",
+                "dbms-s2-u6-q4",
+                "dbms-s2-u6-q5",
+                "dbms-s2-u6-q6",
+                "dbms-s2-u6-q7",
+                "dbms-s2-u6-q8",
+                "dbms-s2-u6-q9",
+                "dbms-s2-u6-q10"
+              ]
             },
             {
               "id": "dbms-section-2-unit-6-junction-entities-lesson-2",
@@ -490,7 +675,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Junction entities helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-2-unit-7-er-diagrams",
@@ -503,7 +689,18 @@
               "unitId": "dbms-section-2-unit-7-er-diagrams",
               "title": "Learn ER diagrams",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s2-u7-q1",
+                "dbms-s2-u7-q2",
+                "dbms-s2-u7-q3",
+                "dbms-s2-u7-q4",
+                "dbms-s2-u7-q5",
+                "dbms-s2-u7-q6",
+                "dbms-s2-u7-q7",
+                "dbms-s2-u7-q8",
+                "dbms-s2-u7-q9",
+                "dbms-s2-u7-q10"
+              ]
             },
             {
               "id": "dbms-section-2-unit-7-er-diagrams-lesson-2",
@@ -519,7 +716,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "ER diagrams helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-2-unit-8-mapping-er-to-tables",
@@ -532,7 +730,18 @@
               "unitId": "dbms-section-2-unit-8-mapping-er-to-tables",
               "title": "Learn Mapping ER to tables",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s2-u8-q1",
+                "dbms-s2-u8-q2",
+                "dbms-s2-u8-q3",
+                "dbms-s2-u8-q4",
+                "dbms-s2-u8-q5",
+                "dbms-s2-u8-q6",
+                "dbms-s2-u8-q7",
+                "dbms-s2-u8-q8",
+                "dbms-s2-u8-q9",
+                "dbms-s2-u8-q10"
+              ]
             },
             {
               "id": "dbms-section-2-unit-8-mapping-er-to-tables-lesson-2",
@@ -548,7 +757,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Mapping ER to tables helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-2-unit-9-model-validation",
@@ -561,7 +771,18 @@
               "unitId": "dbms-section-2-unit-9-model-validation",
               "title": "Learn Model validation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s2-u9-q1",
+                "dbms-s2-u9-q2",
+                "dbms-s2-u9-q3",
+                "dbms-s2-u9-q4",
+                "dbms-s2-u9-q5",
+                "dbms-s2-u9-q6",
+                "dbms-s2-u9-q7",
+                "dbms-s2-u9-q8",
+                "dbms-s2-u9-q9",
+                "dbms-s2-u9-q10"
+              ]
             },
             {
               "id": "dbms-section-2-unit-9-model-validation-lesson-2",
@@ -577,7 +798,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Model validation helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-2-unit-10-er-project",
@@ -590,7 +812,18 @@
               "unitId": "dbms-section-2-unit-10-er-project",
               "title": "Learn ER project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s2-u10-q1",
+                "dbms-s2-u10-q2",
+                "dbms-s2-u10-q3",
+                "dbms-s2-u10-q4",
+                "dbms-s2-u10-q5",
+                "dbms-s2-u10-q6",
+                "dbms-s2-u10-q7",
+                "dbms-s2-u10-q8",
+                "dbms-s2-u10-q9",
+                "dbms-s2-u10-q10"
+              ]
             },
             {
               "id": "dbms-section-2-unit-10-er-project-lesson-2",
@@ -606,7 +839,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "ER project helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         }
       ]
     },
@@ -628,7 +862,18 @@
               "unitId": "dbms-section-3-unit-1-primary-keys",
               "title": "Learn Primary keys",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s3-u1-q1",
+                "dbms-s3-u1-q2",
+                "dbms-s3-u1-q3",
+                "dbms-s3-u1-q4",
+                "dbms-s3-u1-q5",
+                "dbms-s3-u1-q6",
+                "dbms-s3-u1-q7",
+                "dbms-s3-u1-q8",
+                "dbms-s3-u1-q9",
+                "dbms-s3-u1-q10"
+              ]
             },
             {
               "id": "dbms-section-3-unit-1-primary-keys-lesson-2",
@@ -644,7 +889,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Primary keys helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-3-unit-2-foreign-keys",
@@ -657,7 +903,18 @@
               "unitId": "dbms-section-3-unit-2-foreign-keys",
               "title": "Learn Foreign keys",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s3-u2-q1",
+                "dbms-s3-u2-q2",
+                "dbms-s3-u2-q3",
+                "dbms-s3-u2-q4",
+                "dbms-s3-u2-q5",
+                "dbms-s3-u2-q6",
+                "dbms-s3-u2-q7",
+                "dbms-s3-u2-q8",
+                "dbms-s3-u2-q9",
+                "dbms-s3-u2-q10"
+              ]
             },
             {
               "id": "dbms-section-3-unit-2-foreign-keys-lesson-2",
@@ -673,7 +930,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Foreign keys helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-3-unit-3-unique-constraints",
@@ -686,7 +944,18 @@
               "unitId": "dbms-section-3-unit-3-unique-constraints",
               "title": "Learn Unique constraints",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s3-u3-q1",
+                "dbms-s3-u3-q2",
+                "dbms-s3-u3-q3",
+                "dbms-s3-u3-q4",
+                "dbms-s3-u3-q5",
+                "dbms-s3-u3-q6",
+                "dbms-s3-u3-q7",
+                "dbms-s3-u3-q8",
+                "dbms-s3-u3-q9",
+                "dbms-s3-u3-q10"
+              ]
             },
             {
               "id": "dbms-section-3-unit-3-unique-constraints-lesson-2",
@@ -702,7 +971,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Unique constraints helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-3-unit-4-check-constraints",
@@ -715,7 +985,18 @@
               "unitId": "dbms-section-3-unit-4-check-constraints",
               "title": "Learn Check constraints",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s3-u4-q1",
+                "dbms-s3-u4-q2",
+                "dbms-s3-u4-q3",
+                "dbms-s3-u4-q4",
+                "dbms-s3-u4-q5",
+                "dbms-s3-u4-q6",
+                "dbms-s3-u4-q7",
+                "dbms-s3-u4-q8",
+                "dbms-s3-u4-q9",
+                "dbms-s3-u4-q10"
+              ]
             },
             {
               "id": "dbms-section-3-unit-4-check-constraints-lesson-2",
@@ -731,7 +1012,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Check constraints helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-3-unit-5-referential-integrity",
@@ -744,7 +1026,18 @@
               "unitId": "dbms-section-3-unit-5-referential-integrity",
               "title": "Learn Referential integrity",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s3-u5-q1",
+                "dbms-s3-u5-q2",
+                "dbms-s3-u5-q3",
+                "dbms-s3-u5-q4",
+                "dbms-s3-u5-q5",
+                "dbms-s3-u5-q6",
+                "dbms-s3-u5-q7",
+                "dbms-s3-u5-q8",
+                "dbms-s3-u5-q9",
+                "dbms-s3-u5-q10"
+              ]
             },
             {
               "id": "dbms-section-3-unit-5-referential-integrity-lesson-2",
@@ -760,7 +1053,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Referential integrity helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-3-unit-6-schema-evolution",
@@ -773,7 +1067,18 @@
               "unitId": "dbms-section-3-unit-6-schema-evolution",
               "title": "Learn Schema evolution",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s3-u6-q1",
+                "dbms-s3-u6-q2",
+                "dbms-s3-u6-q3",
+                "dbms-s3-u6-q4",
+                "dbms-s3-u6-q5",
+                "dbms-s3-u6-q6",
+                "dbms-s3-u6-q7",
+                "dbms-s3-u6-q8",
+                "dbms-s3-u6-q9",
+                "dbms-s3-u6-q10"
+              ]
             },
             {
               "id": "dbms-section-3-unit-6-schema-evolution-lesson-2",
@@ -789,7 +1094,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Schema evolution helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-3-unit-7-naming",
@@ -802,7 +1108,18 @@
               "unitId": "dbms-section-3-unit-7-naming",
               "title": "Learn Naming",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s3-u7-q1",
+                "dbms-s3-u7-q2",
+                "dbms-s3-u7-q3",
+                "dbms-s3-u7-q4",
+                "dbms-s3-u7-q5",
+                "dbms-s3-u7-q6",
+                "dbms-s3-u7-q7",
+                "dbms-s3-u7-q8",
+                "dbms-s3-u7-q9",
+                "dbms-s3-u7-q10"
+              ]
             },
             {
               "id": "dbms-section-3-unit-7-naming-lesson-2",
@@ -818,7 +1135,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Naming helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-3-unit-8-domain-modeling",
@@ -831,7 +1149,18 @@
               "unitId": "dbms-section-3-unit-8-domain-modeling",
               "title": "Learn Domain modeling",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s3-u8-q1",
+                "dbms-s3-u8-q2",
+                "dbms-s3-u8-q3",
+                "dbms-s3-u8-q4",
+                "dbms-s3-u8-q5",
+                "dbms-s3-u8-q6",
+                "dbms-s3-u8-q7",
+                "dbms-s3-u8-q8",
+                "dbms-s3-u8-q9",
+                "dbms-s3-u8-q10"
+              ]
             },
             {
               "id": "dbms-section-3-unit-8-domain-modeling-lesson-2",
@@ -847,7 +1176,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Domain modeling helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-3-unit-9-tradeoffs",
@@ -860,7 +1190,18 @@
               "unitId": "dbms-section-3-unit-9-tradeoffs",
               "title": "Learn Tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s3-u9-q1",
+                "dbms-s3-u9-q2",
+                "dbms-s3-u9-q3",
+                "dbms-s3-u9-q4",
+                "dbms-s3-u9-q5",
+                "dbms-s3-u9-q6",
+                "dbms-s3-u9-q7",
+                "dbms-s3-u9-q8",
+                "dbms-s3-u9-q9",
+                "dbms-s3-u9-q10"
+              ]
             },
             {
               "id": "dbms-section-3-unit-9-tradeoffs-lesson-2",
@@ -876,7 +1217,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Tradeoffs helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-3-unit-10-design-drills",
@@ -889,7 +1231,18 @@
               "unitId": "dbms-section-3-unit-10-design-drills",
               "title": "Learn Design drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s3-u10-q1",
+                "dbms-s3-u10-q2",
+                "dbms-s3-u10-q3",
+                "dbms-s3-u10-q4",
+                "dbms-s3-u10-q5",
+                "dbms-s3-u10-q6",
+                "dbms-s3-u10-q7",
+                "dbms-s3-u10-q8",
+                "dbms-s3-u10-q9",
+                "dbms-s3-u10-q10"
+              ]
             },
             {
               "id": "dbms-section-3-unit-10-design-drills-lesson-2",
@@ -905,7 +1258,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Design drills helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         }
       ]
     },
@@ -927,7 +1281,18 @@
               "unitId": "dbms-section-4-unit-1-functional-dependencies",
               "title": "Learn Functional dependencies",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s4-u1-q1",
+                "dbms-s4-u1-q2",
+                "dbms-s4-u1-q3",
+                "dbms-s4-u1-q4",
+                "dbms-s4-u1-q5",
+                "dbms-s4-u1-q6",
+                "dbms-s4-u1-q7",
+                "dbms-s4-u1-q8",
+                "dbms-s4-u1-q9",
+                "dbms-s4-u1-q10"
+              ]
             },
             {
               "id": "dbms-section-4-unit-1-functional-dependencies-lesson-2",
@@ -943,7 +1308,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Functional dependencies helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-4-unit-2-1nf",
@@ -956,7 +1322,18 @@
               "unitId": "dbms-section-4-unit-2-1nf",
               "title": "Learn 1NF",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s4-u2-q1",
+                "dbms-s4-u2-q2",
+                "dbms-s4-u2-q3",
+                "dbms-s4-u2-q4",
+                "dbms-s4-u2-q5",
+                "dbms-s4-u2-q6",
+                "dbms-s4-u2-q7",
+                "dbms-s4-u2-q8",
+                "dbms-s4-u2-q9",
+                "dbms-s4-u2-q10"
+              ]
             },
             {
               "id": "dbms-section-4-unit-2-1nf-lesson-2",
@@ -972,7 +1349,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "1NF helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-4-unit-3-2nf",
@@ -985,7 +1363,18 @@
               "unitId": "dbms-section-4-unit-3-2nf",
               "title": "Learn 2NF",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s4-u3-q1",
+                "dbms-s4-u3-q2",
+                "dbms-s4-u3-q3",
+                "dbms-s4-u3-q4",
+                "dbms-s4-u3-q5",
+                "dbms-s4-u3-q6",
+                "dbms-s4-u3-q7",
+                "dbms-s4-u3-q8",
+                "dbms-s4-u3-q9",
+                "dbms-s4-u3-q10"
+              ]
             },
             {
               "id": "dbms-section-4-unit-3-2nf-lesson-2",
@@ -1001,7 +1390,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "2NF helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-4-unit-4-3nf",
@@ -1014,7 +1404,18 @@
               "unitId": "dbms-section-4-unit-4-3nf",
               "title": "Learn 3NF",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s4-u4-q1",
+                "dbms-s4-u4-q2",
+                "dbms-s4-u4-q3",
+                "dbms-s4-u4-q4",
+                "dbms-s4-u4-q5",
+                "dbms-s4-u4-q6",
+                "dbms-s4-u4-q7",
+                "dbms-s4-u4-q8",
+                "dbms-s4-u4-q9",
+                "dbms-s4-u4-q10"
+              ]
             },
             {
               "id": "dbms-section-4-unit-4-3nf-lesson-2",
@@ -1030,7 +1431,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "3NF helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-4-unit-5-bcnf",
@@ -1043,7 +1445,18 @@
               "unitId": "dbms-section-4-unit-5-bcnf",
               "title": "Learn BCNF",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s4-u5-q1",
+                "dbms-s4-u5-q2",
+                "dbms-s4-u5-q3",
+                "dbms-s4-u5-q4",
+                "dbms-s4-u5-q5",
+                "dbms-s4-u5-q6",
+                "dbms-s4-u5-q7",
+                "dbms-s4-u5-q8",
+                "dbms-s4-u5-q9",
+                "dbms-s4-u5-q10"
+              ]
             },
             {
               "id": "dbms-section-4-unit-5-bcnf-lesson-2",
@@ -1059,7 +1472,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "BCNF helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-4-unit-6-4nf-concept",
@@ -1072,7 +1486,18 @@
               "unitId": "dbms-section-4-unit-6-4nf-concept",
               "title": "Learn 4NF concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s4-u6-q1",
+                "dbms-s4-u6-q2",
+                "dbms-s4-u6-q3",
+                "dbms-s4-u6-q4",
+                "dbms-s4-u6-q5",
+                "dbms-s4-u6-q6",
+                "dbms-s4-u6-q7",
+                "dbms-s4-u6-q8",
+                "dbms-s4-u6-q9",
+                "dbms-s4-u6-q10"
+              ]
             },
             {
               "id": "dbms-section-4-unit-6-4nf-concept-lesson-2",
@@ -1088,7 +1513,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "4NF concept helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-4-unit-7-decomposition",
@@ -1101,7 +1527,18 @@
               "unitId": "dbms-section-4-unit-7-decomposition",
               "title": "Learn Decomposition",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s4-u7-q1",
+                "dbms-s4-u7-q2",
+                "dbms-s4-u7-q3",
+                "dbms-s4-u7-q4",
+                "dbms-s4-u7-q5",
+                "dbms-s4-u7-q6",
+                "dbms-s4-u7-q7",
+                "dbms-s4-u7-q8",
+                "dbms-s4-u7-q9",
+                "dbms-s4-u7-q10"
+              ]
             },
             {
               "id": "dbms-section-4-unit-7-decomposition-lesson-2",
@@ -1117,7 +1554,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Decomposition helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-4-unit-8-lossless-joins",
@@ -1130,7 +1568,18 @@
               "unitId": "dbms-section-4-unit-8-lossless-joins",
               "title": "Learn Lossless joins",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s4-u8-q1",
+                "dbms-s4-u8-q2",
+                "dbms-s4-u8-q3",
+                "dbms-s4-u8-q4",
+                "dbms-s4-u8-q5",
+                "dbms-s4-u8-q6",
+                "dbms-s4-u8-q7",
+                "dbms-s4-u8-q8",
+                "dbms-s4-u8-q9",
+                "dbms-s4-u8-q10"
+              ]
             },
             {
               "id": "dbms-section-4-unit-8-lossless-joins-lesson-2",
@@ -1146,7 +1595,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Lossless joins helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-4-unit-9-dependency-preservation",
@@ -1159,7 +1609,18 @@
               "unitId": "dbms-section-4-unit-9-dependency-preservation",
               "title": "Learn Dependency preservation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s4-u9-q1",
+                "dbms-s4-u9-q2",
+                "dbms-s4-u9-q3",
+                "dbms-s4-u9-q4",
+                "dbms-s4-u9-q5",
+                "dbms-s4-u9-q6",
+                "dbms-s4-u9-q7",
+                "dbms-s4-u9-q8",
+                "dbms-s4-u9-q9",
+                "dbms-s4-u9-q10"
+              ]
             },
             {
               "id": "dbms-section-4-unit-9-dependency-preservation-lesson-2",
@@ -1175,7 +1636,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Dependency preservation helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-4-unit-10-normalization-project",
@@ -1188,7 +1650,18 @@
               "unitId": "dbms-section-4-unit-10-normalization-project",
               "title": "Learn Normalization project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s4-u10-q1",
+                "dbms-s4-u10-q2",
+                "dbms-s4-u10-q3",
+                "dbms-s4-u10-q4",
+                "dbms-s4-u10-q5",
+                "dbms-s4-u10-q6",
+                "dbms-s4-u10-q7",
+                "dbms-s4-u10-q8",
+                "dbms-s4-u10-q9",
+                "dbms-s4-u10-q10"
+              ]
             },
             {
               "id": "dbms-section-4-unit-10-normalization-project-lesson-2",
@@ -1204,7 +1677,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Normalization project helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         }
       ]
     },
@@ -1226,7 +1700,18 @@
               "unitId": "dbms-section-5-unit-1-atomicity",
               "title": "Learn Atomicity",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s5-u1-q1",
+                "dbms-s5-u1-q2",
+                "dbms-s5-u1-q3",
+                "dbms-s5-u1-q4",
+                "dbms-s5-u1-q5",
+                "dbms-s5-u1-q6",
+                "dbms-s5-u1-q7",
+                "dbms-s5-u1-q8",
+                "dbms-s5-u1-q9",
+                "dbms-s5-u1-q10"
+              ]
             },
             {
               "id": "dbms-section-5-unit-1-atomicity-lesson-2",
@@ -1242,7 +1727,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Atomicity helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-5-unit-2-consistency",
@@ -1255,7 +1741,18 @@
               "unitId": "dbms-section-5-unit-2-consistency",
               "title": "Learn Consistency",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s5-u2-q1",
+                "dbms-s5-u2-q2",
+                "dbms-s5-u2-q3",
+                "dbms-s5-u2-q4",
+                "dbms-s5-u2-q5",
+                "dbms-s5-u2-q6",
+                "dbms-s5-u2-q7",
+                "dbms-s5-u2-q8",
+                "dbms-s5-u2-q9",
+                "dbms-s5-u2-q10"
+              ]
             },
             {
               "id": "dbms-section-5-unit-2-consistency-lesson-2",
@@ -1271,7 +1768,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Consistency helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-5-unit-3-isolation",
@@ -1284,7 +1782,18 @@
               "unitId": "dbms-section-5-unit-3-isolation",
               "title": "Learn Isolation",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s5-u3-q1",
+                "dbms-s5-u3-q2",
+                "dbms-s5-u3-q3",
+                "dbms-s5-u3-q4",
+                "dbms-s5-u3-q5",
+                "dbms-s5-u3-q6",
+                "dbms-s5-u3-q7",
+                "dbms-s5-u3-q8",
+                "dbms-s5-u3-q9",
+                "dbms-s5-u3-q10"
+              ]
             },
             {
               "id": "dbms-section-5-unit-3-isolation-lesson-2",
@@ -1300,7 +1809,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Isolation helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-5-unit-4-durability",
@@ -1313,7 +1823,18 @@
               "unitId": "dbms-section-5-unit-4-durability",
               "title": "Learn Durability",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s5-u4-q1",
+                "dbms-s5-u4-q2",
+                "dbms-s5-u4-q3",
+                "dbms-s5-u4-q4",
+                "dbms-s5-u4-q5",
+                "dbms-s5-u4-q6",
+                "dbms-s5-u4-q7",
+                "dbms-s5-u4-q8",
+                "dbms-s5-u4-q9",
+                "dbms-s5-u4-q10"
+              ]
             },
             {
               "id": "dbms-section-5-unit-4-durability-lesson-2",
@@ -1329,7 +1850,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Durability helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-5-unit-5-transaction-logs",
@@ -1342,7 +1864,18 @@
               "unitId": "dbms-section-5-unit-5-transaction-logs",
               "title": "Learn Transaction logs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s5-u5-q1",
+                "dbms-s5-u5-q2",
+                "dbms-s5-u5-q3",
+                "dbms-s5-u5-q4",
+                "dbms-s5-u5-q5",
+                "dbms-s5-u5-q6",
+                "dbms-s5-u5-q7",
+                "dbms-s5-u5-q8",
+                "dbms-s5-u5-q9",
+                "dbms-s5-u5-q10"
+              ]
             },
             {
               "id": "dbms-section-5-unit-5-transaction-logs-lesson-2",
@@ -1358,7 +1891,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Transaction logs helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-5-unit-6-commit-protocol",
@@ -1371,7 +1905,18 @@
               "unitId": "dbms-section-5-unit-6-commit-protocol",
               "title": "Learn Commit protocol",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s5-u6-q1",
+                "dbms-s5-u6-q2",
+                "dbms-s5-u6-q3",
+                "dbms-s5-u6-q4",
+                "dbms-s5-u6-q5",
+                "dbms-s5-u6-q6",
+                "dbms-s5-u6-q7",
+                "dbms-s5-u6-q8",
+                "dbms-s5-u6-q9",
+                "dbms-s5-u6-q10"
+              ]
             },
             {
               "id": "dbms-section-5-unit-6-commit-protocol-lesson-2",
@@ -1387,7 +1932,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Commit protocol helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-5-unit-7-rollback",
@@ -1400,7 +1946,18 @@
               "unitId": "dbms-section-5-unit-7-rollback",
               "title": "Learn Rollback",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s5-u7-q1",
+                "dbms-s5-u7-q2",
+                "dbms-s5-u7-q3",
+                "dbms-s5-u7-q4",
+                "dbms-s5-u7-q5",
+                "dbms-s5-u7-q6",
+                "dbms-s5-u7-q7",
+                "dbms-s5-u7-q8",
+                "dbms-s5-u7-q9",
+                "dbms-s5-u7-q10"
+              ]
             },
             {
               "id": "dbms-section-5-unit-7-rollback-lesson-2",
@@ -1416,7 +1973,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Rollback helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-5-unit-8-savepoints",
@@ -1429,7 +1987,18 @@
               "unitId": "dbms-section-5-unit-8-savepoints",
               "title": "Learn Savepoints",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s5-u8-q1",
+                "dbms-s5-u8-q2",
+                "dbms-s5-u8-q3",
+                "dbms-s5-u8-q4",
+                "dbms-s5-u8-q5",
+                "dbms-s5-u8-q6",
+                "dbms-s5-u8-q7",
+                "dbms-s5-u8-q8",
+                "dbms-s5-u8-q9",
+                "dbms-s5-u8-q10"
+              ]
             },
             {
               "id": "dbms-section-5-unit-8-savepoints-lesson-2",
@@ -1445,7 +2014,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Savepoints helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-5-unit-9-consistency-design",
@@ -1458,7 +2028,18 @@
               "unitId": "dbms-section-5-unit-9-consistency-design",
               "title": "Learn Consistency design",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s5-u9-q1",
+                "dbms-s5-u9-q2",
+                "dbms-s5-u9-q3",
+                "dbms-s5-u9-q4",
+                "dbms-s5-u9-q5",
+                "dbms-s5-u9-q6",
+                "dbms-s5-u9-q7",
+                "dbms-s5-u9-q8",
+                "dbms-s5-u9-q9",
+                "dbms-s5-u9-q10"
+              ]
             },
             {
               "id": "dbms-section-5-unit-9-consistency-design-lesson-2",
@@ -1474,7 +2055,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Consistency design helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-5-unit-10-acid-drills",
@@ -1487,7 +2069,18 @@
               "unitId": "dbms-section-5-unit-10-acid-drills",
               "title": "Learn ACID drills",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s5-u10-q1",
+                "dbms-s5-u10-q2",
+                "dbms-s5-u10-q3",
+                "dbms-s5-u10-q4",
+                "dbms-s5-u10-q5",
+                "dbms-s5-u10-q6",
+                "dbms-s5-u10-q7",
+                "dbms-s5-u10-q8",
+                "dbms-s5-u10-q9",
+                "dbms-s5-u10-q10"
+              ]
             },
             {
               "id": "dbms-section-5-unit-10-acid-drills-lesson-2",
@@ -1503,7 +2096,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "ACID drills helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         }
       ]
     },
@@ -1525,7 +2119,18 @@
               "unitId": "dbms-section-6-unit-1-schedules",
               "title": "Learn Schedules",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s6-u1-q1",
+                "dbms-s6-u1-q2",
+                "dbms-s6-u1-q3",
+                "dbms-s6-u1-q4",
+                "dbms-s6-u1-q5",
+                "dbms-s6-u1-q6",
+                "dbms-s6-u1-q7",
+                "dbms-s6-u1-q8",
+                "dbms-s6-u1-q9",
+                "dbms-s6-u1-q10"
+              ]
             },
             {
               "id": "dbms-section-6-unit-1-schedules-lesson-2",
@@ -1541,7 +2146,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Schedules helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-6-unit-2-serializability",
@@ -1554,7 +2160,18 @@
               "unitId": "dbms-section-6-unit-2-serializability",
               "title": "Learn Serializability",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s6-u2-q1",
+                "dbms-s6-u2-q2",
+                "dbms-s6-u2-q3",
+                "dbms-s6-u2-q4",
+                "dbms-s6-u2-q5",
+                "dbms-s6-u2-q6",
+                "dbms-s6-u2-q7",
+                "dbms-s6-u2-q8",
+                "dbms-s6-u2-q9",
+                "dbms-s6-u2-q10"
+              ]
             },
             {
               "id": "dbms-section-6-unit-2-serializability-lesson-2",
@@ -1570,7 +2187,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Serializability helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-6-unit-3-locks",
@@ -1583,7 +2201,18 @@
               "unitId": "dbms-section-6-unit-3-locks",
               "title": "Learn Locks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s6-u3-q1",
+                "dbms-s6-u3-q2",
+                "dbms-s6-u3-q3",
+                "dbms-s6-u3-q4",
+                "dbms-s6-u3-q5",
+                "dbms-s6-u3-q6",
+                "dbms-s6-u3-q7",
+                "dbms-s6-u3-q8",
+                "dbms-s6-u3-q9",
+                "dbms-s6-u3-q10"
+              ]
             },
             {
               "id": "dbms-section-6-unit-3-locks-lesson-2",
@@ -1599,7 +2228,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Locks helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-6-unit-4-two-phase-locking",
@@ -1612,7 +2242,18 @@
               "unitId": "dbms-section-6-unit-4-two-phase-locking",
               "title": "Learn Two-phase locking",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s6-u4-q1",
+                "dbms-s6-u4-q2",
+                "dbms-s6-u4-q3",
+                "dbms-s6-u4-q4",
+                "dbms-s6-u4-q5",
+                "dbms-s6-u4-q6",
+                "dbms-s6-u4-q7",
+                "dbms-s6-u4-q8",
+                "dbms-s6-u4-q9",
+                "dbms-s6-u4-q10"
+              ]
             },
             {
               "id": "dbms-section-6-unit-4-two-phase-locking-lesson-2",
@@ -1628,7 +2269,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Two-phase locking helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-6-unit-5-deadlocks",
@@ -1641,7 +2283,18 @@
               "unitId": "dbms-section-6-unit-5-deadlocks",
               "title": "Learn Deadlocks",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s6-u5-q1",
+                "dbms-s6-u5-q2",
+                "dbms-s6-u5-q3",
+                "dbms-s6-u5-q4",
+                "dbms-s6-u5-q5",
+                "dbms-s6-u5-q6",
+                "dbms-s6-u5-q7",
+                "dbms-s6-u5-q8",
+                "dbms-s6-u5-q9",
+                "dbms-s6-u5-q10"
+              ]
             },
             {
               "id": "dbms-section-6-unit-5-deadlocks-lesson-2",
@@ -1657,7 +2310,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Deadlocks helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-6-unit-6-optimistic-control",
@@ -1670,7 +2324,18 @@
               "unitId": "dbms-section-6-unit-6-optimistic-control",
               "title": "Learn Optimistic control",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s6-u6-q1",
+                "dbms-s6-u6-q2",
+                "dbms-s6-u6-q3",
+                "dbms-s6-u6-q4",
+                "dbms-s6-u6-q5",
+                "dbms-s6-u6-q6",
+                "dbms-s6-u6-q7",
+                "dbms-s6-u6-q8",
+                "dbms-s6-u6-q9",
+                "dbms-s6-u6-q10"
+              ]
             },
             {
               "id": "dbms-section-6-unit-6-optimistic-control-lesson-2",
@@ -1686,7 +2351,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Optimistic control helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-6-unit-7-mvcc",
@@ -1699,7 +2365,18 @@
               "unitId": "dbms-section-6-unit-7-mvcc",
               "title": "Learn MVCC",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s6-u7-q1",
+                "dbms-s6-u7-q2",
+                "dbms-s6-u7-q3",
+                "dbms-s6-u7-q4",
+                "dbms-s6-u7-q5",
+                "dbms-s6-u7-q6",
+                "dbms-s6-u7-q7",
+                "dbms-s6-u7-q8",
+                "dbms-s6-u7-q9",
+                "dbms-s6-u7-q10"
+              ]
             },
             {
               "id": "dbms-section-6-unit-7-mvcc-lesson-2",
@@ -1715,7 +2392,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "MVCC helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-6-unit-8-isolation-anomalies",
@@ -1728,7 +2406,18 @@
               "unitId": "dbms-section-6-unit-8-isolation-anomalies",
               "title": "Learn Isolation anomalies",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s6-u8-q1",
+                "dbms-s6-u8-q2",
+                "dbms-s6-u8-q3",
+                "dbms-s6-u8-q4",
+                "dbms-s6-u8-q5",
+                "dbms-s6-u8-q6",
+                "dbms-s6-u8-q7",
+                "dbms-s6-u8-q8",
+                "dbms-s6-u8-q9",
+                "dbms-s6-u8-q10"
+              ]
             },
             {
               "id": "dbms-section-6-unit-8-isolation-anomalies-lesson-2",
@@ -1744,7 +2433,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Isolation anomalies helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-6-unit-9-conflict-detection",
@@ -1757,7 +2447,18 @@
               "unitId": "dbms-section-6-unit-9-conflict-detection",
               "title": "Learn Conflict detection",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s6-u9-q1",
+                "dbms-s6-u9-q2",
+                "dbms-s6-u9-q3",
+                "dbms-s6-u9-q4",
+                "dbms-s6-u9-q5",
+                "dbms-s6-u9-q6",
+                "dbms-s6-u9-q7",
+                "dbms-s6-u9-q8",
+                "dbms-s6-u9-q9",
+                "dbms-s6-u9-q10"
+              ]
             },
             {
               "id": "dbms-section-6-unit-9-conflict-detection-lesson-2",
@@ -1773,7 +2474,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Conflict detection helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-6-unit-10-concurrency-project",
@@ -1786,7 +2488,18 @@
               "unitId": "dbms-section-6-unit-10-concurrency-project",
               "title": "Learn Concurrency project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s6-u10-q1",
+                "dbms-s6-u10-q2",
+                "dbms-s6-u10-q3",
+                "dbms-s6-u10-q4",
+                "dbms-s6-u10-q5",
+                "dbms-s6-u10-q6",
+                "dbms-s6-u10-q7",
+                "dbms-s6-u10-q8",
+                "dbms-s6-u10-q9",
+                "dbms-s6-u10-q10"
+              ]
             },
             {
               "id": "dbms-section-6-unit-10-concurrency-project-lesson-2",
@@ -1802,7 +2515,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Concurrency project helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         }
       ]
     },
@@ -1824,7 +2538,18 @@
               "unitId": "dbms-section-7-unit-1-index-purpose",
               "title": "Learn Index purpose",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s7-u1-q1",
+                "dbms-s7-u1-q2",
+                "dbms-s7-u1-q3",
+                "dbms-s7-u1-q4",
+                "dbms-s7-u1-q5",
+                "dbms-s7-u1-q6",
+                "dbms-s7-u1-q7",
+                "dbms-s7-u1-q8",
+                "dbms-s7-u1-q9",
+                "dbms-s7-u1-q10"
+              ]
             },
             {
               "id": "dbms-section-7-unit-1-index-purpose-lesson-2",
@@ -1840,7 +2565,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Index purpose helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-7-unit-2-b-tree",
@@ -1853,7 +2579,18 @@
               "unitId": "dbms-section-7-unit-2-b-tree",
               "title": "Learn B-tree",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s7-u2-q1",
+                "dbms-s7-u2-q2",
+                "dbms-s7-u2-q3",
+                "dbms-s7-u2-q4",
+                "dbms-s7-u2-q5",
+                "dbms-s7-u2-q6",
+                "dbms-s7-u2-q7",
+                "dbms-s7-u2-q8",
+                "dbms-s7-u2-q9",
+                "dbms-s7-u2-q10"
+              ]
             },
             {
               "id": "dbms-section-7-unit-2-b-tree-lesson-2",
@@ -1869,7 +2606,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "B-tree helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-7-unit-3-hash-index-concept",
@@ -1882,7 +2620,18 @@
               "unitId": "dbms-section-7-unit-3-hash-index-concept",
               "title": "Learn Hash index concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s7-u3-q1",
+                "dbms-s7-u3-q2",
+                "dbms-s7-u3-q3",
+                "dbms-s7-u3-q4",
+                "dbms-s7-u3-q5",
+                "dbms-s7-u3-q6",
+                "dbms-s7-u3-q7",
+                "dbms-s7-u3-q8",
+                "dbms-s7-u3-q9",
+                "dbms-s7-u3-q10"
+              ]
             },
             {
               "id": "dbms-section-7-unit-3-hash-index-concept-lesson-2",
@@ -1898,7 +2647,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Hash index concept helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-7-unit-4-composite-index",
@@ -1911,7 +2661,18 @@
               "unitId": "dbms-section-7-unit-4-composite-index",
               "title": "Learn Composite index",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s7-u4-q1",
+                "dbms-s7-u4-q2",
+                "dbms-s7-u4-q3",
+                "dbms-s7-u4-q4",
+                "dbms-s7-u4-q5",
+                "dbms-s7-u4-q6",
+                "dbms-s7-u4-q7",
+                "dbms-s7-u4-q8",
+                "dbms-s7-u4-q9",
+                "dbms-s7-u4-q10"
+              ]
             },
             {
               "id": "dbms-section-7-unit-4-composite-index-lesson-2",
@@ -1927,7 +2688,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Composite index helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-7-unit-5-clustered-index-concept",
@@ -1940,7 +2702,18 @@
               "unitId": "dbms-section-7-unit-5-clustered-index-concept",
               "title": "Learn Clustered index concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s7-u5-q1",
+                "dbms-s7-u5-q2",
+                "dbms-s7-u5-q3",
+                "dbms-s7-u5-q4",
+                "dbms-s7-u5-q5",
+                "dbms-s7-u5-q6",
+                "dbms-s7-u5-q7",
+                "dbms-s7-u5-q8",
+                "dbms-s7-u5-q9",
+                "dbms-s7-u5-q10"
+              ]
             },
             {
               "id": "dbms-section-7-unit-5-clustered-index-concept-lesson-2",
@@ -1956,7 +2729,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Clustered index concept helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-7-unit-6-selectivity",
@@ -1969,7 +2743,18 @@
               "unitId": "dbms-section-7-unit-6-selectivity",
               "title": "Learn Selectivity",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s7-u6-q1",
+                "dbms-s7-u6-q2",
+                "dbms-s7-u6-q3",
+                "dbms-s7-u6-q4",
+                "dbms-s7-u6-q5",
+                "dbms-s7-u6-q6",
+                "dbms-s7-u6-q7",
+                "dbms-s7-u6-q8",
+                "dbms-s7-u6-q9",
+                "dbms-s7-u6-q10"
+              ]
             },
             {
               "id": "dbms-section-7-unit-6-selectivity-lesson-2",
@@ -1985,7 +2770,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Selectivity helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-7-unit-7-covering-index",
@@ -1998,7 +2784,18 @@
               "unitId": "dbms-section-7-unit-7-covering-index",
               "title": "Learn Covering index",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s7-u7-q1",
+                "dbms-s7-u7-q2",
+                "dbms-s7-u7-q3",
+                "dbms-s7-u7-q4",
+                "dbms-s7-u7-q5",
+                "dbms-s7-u7-q6",
+                "dbms-s7-u7-q7",
+                "dbms-s7-u7-q8",
+                "dbms-s7-u7-q9",
+                "dbms-s7-u7-q10"
+              ]
             },
             {
               "id": "dbms-section-7-unit-7-covering-index-lesson-2",
@@ -2014,7 +2811,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Covering index helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-7-unit-8-index-maintenance",
@@ -2027,7 +2825,18 @@
               "unitId": "dbms-section-7-unit-8-index-maintenance",
               "title": "Learn Index maintenance",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s7-u8-q1",
+                "dbms-s7-u8-q2",
+                "dbms-s7-u8-q3",
+                "dbms-s7-u8-q4",
+                "dbms-s7-u8-q5",
+                "dbms-s7-u8-q6",
+                "dbms-s7-u8-q7",
+                "dbms-s7-u8-q8",
+                "dbms-s7-u8-q9",
+                "dbms-s7-u8-q10"
+              ]
             },
             {
               "id": "dbms-section-7-unit-8-index-maintenance-lesson-2",
@@ -2043,7 +2852,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Index maintenance helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-7-unit-9-index-tradeoffs",
@@ -2056,7 +2866,18 @@
               "unitId": "dbms-section-7-unit-9-index-tradeoffs",
               "title": "Learn Index tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s7-u9-q1",
+                "dbms-s7-u9-q2",
+                "dbms-s7-u9-q3",
+                "dbms-s7-u9-q4",
+                "dbms-s7-u9-q5",
+                "dbms-s7-u9-q6",
+                "dbms-s7-u9-q7",
+                "dbms-s7-u9-q8",
+                "dbms-s7-u9-q9",
+                "dbms-s7-u9-q10"
+              ]
             },
             {
               "id": "dbms-section-7-unit-9-index-tradeoffs-lesson-2",
@@ -2072,7 +2893,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Index tradeoffs helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-7-unit-10-index-project",
@@ -2085,7 +2907,18 @@
               "unitId": "dbms-section-7-unit-10-index-project",
               "title": "Learn Index project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s7-u10-q1",
+                "dbms-s7-u10-q2",
+                "dbms-s7-u10-q3",
+                "dbms-s7-u10-q4",
+                "dbms-s7-u10-q5",
+                "dbms-s7-u10-q6",
+                "dbms-s7-u10-q7",
+                "dbms-s7-u10-q8",
+                "dbms-s7-u10-q9",
+                "dbms-s7-u10-q10"
+              ]
             },
             {
               "id": "dbms-section-7-unit-10-index-project-lesson-2",
@@ -2101,7 +2934,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Index project helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         }
       ]
     },
@@ -2123,7 +2957,18 @@
               "unitId": "dbms-section-8-unit-1-query-plans",
               "title": "Learn Query plans",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s8-u1-q1",
+                "dbms-s8-u1-q2",
+                "dbms-s8-u1-q3",
+                "dbms-s8-u1-q4",
+                "dbms-s8-u1-q5",
+                "dbms-s8-u1-q6",
+                "dbms-s8-u1-q7",
+                "dbms-s8-u1-q8",
+                "dbms-s8-u1-q9",
+                "dbms-s8-u1-q10"
+              ]
             },
             {
               "id": "dbms-section-8-unit-1-query-plans-lesson-2",
@@ -2139,7 +2984,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Query plans helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-8-unit-2-explain",
@@ -2152,7 +2998,18 @@
               "unitId": "dbms-section-8-unit-2-explain",
               "title": "Learn EXPLAIN",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s8-u2-q1",
+                "dbms-s8-u2-q2",
+                "dbms-s8-u2-q3",
+                "dbms-s8-u2-q4",
+                "dbms-s8-u2-q5",
+                "dbms-s8-u2-q6",
+                "dbms-s8-u2-q7",
+                "dbms-s8-u2-q8",
+                "dbms-s8-u2-q9",
+                "dbms-s8-u2-q10"
+              ]
             },
             {
               "id": "dbms-section-8-unit-2-explain-lesson-2",
@@ -2168,7 +3025,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "EXPLAIN helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-8-unit-3-join-algorithms",
@@ -2181,7 +3039,18 @@
               "unitId": "dbms-section-8-unit-3-join-algorithms",
               "title": "Learn Join algorithms",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s8-u3-q1",
+                "dbms-s8-u3-q2",
+                "dbms-s8-u3-q3",
+                "dbms-s8-u3-q4",
+                "dbms-s8-u3-q5",
+                "dbms-s8-u3-q6",
+                "dbms-s8-u3-q7",
+                "dbms-s8-u3-q8",
+                "dbms-s8-u3-q9",
+                "dbms-s8-u3-q10"
+              ]
             },
             {
               "id": "dbms-section-8-unit-3-join-algorithms-lesson-2",
@@ -2197,7 +3066,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Join algorithms helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-8-unit-4-predicate-pushdown",
@@ -2210,7 +3080,18 @@
               "unitId": "dbms-section-8-unit-4-predicate-pushdown",
               "title": "Learn Predicate pushdown",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s8-u4-q1",
+                "dbms-s8-u4-q2",
+                "dbms-s8-u4-q3",
+                "dbms-s8-u4-q4",
+                "dbms-s8-u4-q5",
+                "dbms-s8-u4-q6",
+                "dbms-s8-u4-q7",
+                "dbms-s8-u4-q8",
+                "dbms-s8-u4-q9",
+                "dbms-s8-u4-q10"
+              ]
             },
             {
               "id": "dbms-section-8-unit-4-predicate-pushdown-lesson-2",
@@ -2226,7 +3107,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Predicate pushdown helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-8-unit-5-statistics",
@@ -2239,7 +3121,18 @@
               "unitId": "dbms-section-8-unit-5-statistics",
               "title": "Learn Statistics",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s8-u5-q1",
+                "dbms-s8-u5-q2",
+                "dbms-s8-u5-q3",
+                "dbms-s8-u5-q4",
+                "dbms-s8-u5-q5",
+                "dbms-s8-u5-q6",
+                "dbms-s8-u5-q7",
+                "dbms-s8-u5-q8",
+                "dbms-s8-u5-q9",
+                "dbms-s8-u5-q10"
+              ]
             },
             {
               "id": "dbms-section-8-unit-5-statistics-lesson-2",
@@ -2255,7 +3148,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Statistics helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-8-unit-6-cost-estimates",
@@ -2268,7 +3162,18 @@
               "unitId": "dbms-section-8-unit-6-cost-estimates",
               "title": "Learn Cost estimates",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s8-u6-q1",
+                "dbms-s8-u6-q2",
+                "dbms-s8-u6-q3",
+                "dbms-s8-u6-q4",
+                "dbms-s8-u6-q5",
+                "dbms-s8-u6-q6",
+                "dbms-s8-u6-q7",
+                "dbms-s8-u6-q8",
+                "dbms-s8-u6-q9",
+                "dbms-s8-u6-q10"
+              ]
             },
             {
               "id": "dbms-section-8-unit-6-cost-estimates-lesson-2",
@@ -2284,7 +3189,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Cost estimates helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-8-unit-7-slow-queries",
@@ -2297,7 +3203,18 @@
               "unitId": "dbms-section-8-unit-7-slow-queries",
               "title": "Learn Slow queries",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s8-u7-q1",
+                "dbms-s8-u7-q2",
+                "dbms-s8-u7-q3",
+                "dbms-s8-u7-q4",
+                "dbms-s8-u7-q5",
+                "dbms-s8-u7-q6",
+                "dbms-s8-u7-q7",
+                "dbms-s8-u7-q8",
+                "dbms-s8-u7-q9",
+                "dbms-s8-u7-q10"
+              ]
             },
             {
               "id": "dbms-section-8-unit-7-slow-queries-lesson-2",
@@ -2313,7 +3230,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Slow queries helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-8-unit-8-rewrite-strategies",
@@ -2326,7 +3244,18 @@
               "unitId": "dbms-section-8-unit-8-rewrite-strategies",
               "title": "Learn Rewrite strategies",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s8-u8-q1",
+                "dbms-s8-u8-q2",
+                "dbms-s8-u8-q3",
+                "dbms-s8-u8-q4",
+                "dbms-s8-u8-q5",
+                "dbms-s8-u8-q6",
+                "dbms-s8-u8-q7",
+                "dbms-s8-u8-q8",
+                "dbms-s8-u8-q9",
+                "dbms-s8-u8-q10"
+              ]
             },
             {
               "id": "dbms-section-8-unit-8-rewrite-strategies-lesson-2",
@@ -2342,7 +3271,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Rewrite strategies helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-8-unit-9-plan-regression",
@@ -2355,7 +3285,18 @@
               "unitId": "dbms-section-8-unit-9-plan-regression",
               "title": "Learn Plan regression",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s8-u9-q1",
+                "dbms-s8-u9-q2",
+                "dbms-s8-u9-q3",
+                "dbms-s8-u9-q4",
+                "dbms-s8-u9-q5",
+                "dbms-s8-u9-q6",
+                "dbms-s8-u9-q7",
+                "dbms-s8-u9-q8",
+                "dbms-s8-u9-q9",
+                "dbms-s8-u9-q10"
+              ]
             },
             {
               "id": "dbms-section-8-unit-9-plan-regression-lesson-2",
@@ -2371,7 +3312,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Plan regression helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-8-unit-10-optimization-lab",
@@ -2384,7 +3326,18 @@
               "unitId": "dbms-section-8-unit-10-optimization-lab",
               "title": "Learn Optimization lab",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s8-u10-q1",
+                "dbms-s8-u10-q2",
+                "dbms-s8-u10-q3",
+                "dbms-s8-u10-q4",
+                "dbms-s8-u10-q5",
+                "dbms-s8-u10-q6",
+                "dbms-s8-u10-q7",
+                "dbms-s8-u10-q8",
+                "dbms-s8-u10-q9",
+                "dbms-s8-u10-q10"
+              ]
             },
             {
               "id": "dbms-section-8-unit-10-optimization-lab-lesson-2",
@@ -2400,7 +3353,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Optimization lab helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         }
       ]
     },
@@ -2422,7 +3376,18 @@
               "unitId": "dbms-section-9-unit-1-document-stores",
               "title": "Learn Document stores",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s9-u1-q1",
+                "dbms-s9-u1-q2",
+                "dbms-s9-u1-q3",
+                "dbms-s9-u1-q4",
+                "dbms-s9-u1-q5",
+                "dbms-s9-u1-q6",
+                "dbms-s9-u1-q7",
+                "dbms-s9-u1-q8",
+                "dbms-s9-u1-q9",
+                "dbms-s9-u1-q10"
+              ]
             },
             {
               "id": "dbms-section-9-unit-1-document-stores-lesson-2",
@@ -2438,7 +3403,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Document stores helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-9-unit-2-key-value-stores",
@@ -2451,7 +3417,18 @@
               "unitId": "dbms-section-9-unit-2-key-value-stores",
               "title": "Learn Key-value stores",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s9-u2-q1",
+                "dbms-s9-u2-q2",
+                "dbms-s9-u2-q3",
+                "dbms-s9-u2-q4",
+                "dbms-s9-u2-q5",
+                "dbms-s9-u2-q6",
+                "dbms-s9-u2-q7",
+                "dbms-s9-u2-q8",
+                "dbms-s9-u2-q9",
+                "dbms-s9-u2-q10"
+              ]
             },
             {
               "id": "dbms-section-9-unit-2-key-value-stores-lesson-2",
@@ -2467,7 +3444,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Key-value stores helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-9-unit-3-wide-column-stores",
@@ -2480,7 +3458,18 @@
               "unitId": "dbms-section-9-unit-3-wide-column-stores",
               "title": "Learn Wide-column stores",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s9-u3-q1",
+                "dbms-s9-u3-q2",
+                "dbms-s9-u3-q3",
+                "dbms-s9-u3-q4",
+                "dbms-s9-u3-q5",
+                "dbms-s9-u3-q6",
+                "dbms-s9-u3-q7",
+                "dbms-s9-u3-q8",
+                "dbms-s9-u3-q9",
+                "dbms-s9-u3-q10"
+              ]
             },
             {
               "id": "dbms-section-9-unit-3-wide-column-stores-lesson-2",
@@ -2496,7 +3485,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Wide-column stores helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-9-unit-4-graph-databases",
@@ -2509,7 +3499,18 @@
               "unitId": "dbms-section-9-unit-4-graph-databases",
               "title": "Learn Graph databases",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s9-u4-q1",
+                "dbms-s9-u4-q2",
+                "dbms-s9-u4-q3",
+                "dbms-s9-u4-q4",
+                "dbms-s9-u4-q5",
+                "dbms-s9-u4-q6",
+                "dbms-s9-u4-q7",
+                "dbms-s9-u4-q8",
+                "dbms-s9-u4-q9",
+                "dbms-s9-u4-q10"
+              ]
             },
             {
               "id": "dbms-section-9-unit-4-graph-databases-lesson-2",
@@ -2525,7 +3526,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Graph databases helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-9-unit-5-consistency-models",
@@ -2538,7 +3540,18 @@
               "unitId": "dbms-section-9-unit-5-consistency-models",
               "title": "Learn Consistency models",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s9-u5-q1",
+                "dbms-s9-u5-q2",
+                "dbms-s9-u5-q3",
+                "dbms-s9-u5-q4",
+                "dbms-s9-u5-q5",
+                "dbms-s9-u5-q6",
+                "dbms-s9-u5-q7",
+                "dbms-s9-u5-q8",
+                "dbms-s9-u5-q9",
+                "dbms-s9-u5-q10"
+              ]
             },
             {
               "id": "dbms-section-9-unit-5-consistency-models-lesson-2",
@@ -2554,7 +3567,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Consistency models helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-9-unit-6-schema-flexibility",
@@ -2567,7 +3581,18 @@
               "unitId": "dbms-section-9-unit-6-schema-flexibility",
               "title": "Learn Schema flexibility",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s9-u6-q1",
+                "dbms-s9-u6-q2",
+                "dbms-s9-u6-q3",
+                "dbms-s9-u6-q4",
+                "dbms-s9-u6-q5",
+                "dbms-s9-u6-q6",
+                "dbms-s9-u6-q7",
+                "dbms-s9-u6-q8",
+                "dbms-s9-u6-q9",
+                "dbms-s9-u6-q10"
+              ]
             },
             {
               "id": "dbms-section-9-unit-6-schema-flexibility-lesson-2",
@@ -2583,7 +3608,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Schema flexibility helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-9-unit-7-replication-concept",
@@ -2596,7 +3622,18 @@
               "unitId": "dbms-section-9-unit-7-replication-concept",
               "title": "Learn Replication concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s9-u7-q1",
+                "dbms-s9-u7-q2",
+                "dbms-s9-u7-q3",
+                "dbms-s9-u7-q4",
+                "dbms-s9-u7-q5",
+                "dbms-s9-u7-q6",
+                "dbms-s9-u7-q7",
+                "dbms-s9-u7-q8",
+                "dbms-s9-u7-q9",
+                "dbms-s9-u7-q10"
+              ]
             },
             {
               "id": "dbms-section-9-unit-7-replication-concept-lesson-2",
@@ -2612,7 +3649,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Replication concept helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-9-unit-8-partitioning-concept",
@@ -2625,7 +3663,18 @@
               "unitId": "dbms-section-9-unit-8-partitioning-concept",
               "title": "Learn Partitioning concept",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s9-u8-q1",
+                "dbms-s9-u8-q2",
+                "dbms-s9-u8-q3",
+                "dbms-s9-u8-q4",
+                "dbms-s9-u8-q5",
+                "dbms-s9-u8-q6",
+                "dbms-s9-u8-q7",
+                "dbms-s9-u8-q8",
+                "dbms-s9-u8-q9",
+                "dbms-s9-u8-q10"
+              ]
             },
             {
               "id": "dbms-section-9-unit-8-partitioning-concept-lesson-2",
@@ -2641,7 +3690,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Partitioning concept helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-9-unit-9-nosql-tradeoffs",
@@ -2654,7 +3704,18 @@
               "unitId": "dbms-section-9-unit-9-nosql-tradeoffs",
               "title": "Learn NoSQL tradeoffs",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s9-u9-q1",
+                "dbms-s9-u9-q2",
+                "dbms-s9-u9-q3",
+                "dbms-s9-u9-q4",
+                "dbms-s9-u9-q5",
+                "dbms-s9-u9-q6",
+                "dbms-s9-u9-q7",
+                "dbms-s9-u9-q8",
+                "dbms-s9-u9-q9",
+                "dbms-s9-u9-q10"
+              ]
             },
             {
               "id": "dbms-section-9-unit-9-nosql-tradeoffs-lesson-2",
@@ -2670,7 +3731,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "NoSQL tradeoffs helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-9-unit-10-nosql-comparison",
@@ -2683,7 +3745,18 @@
               "unitId": "dbms-section-9-unit-10-nosql-comparison",
               "title": "Learn NoSQL comparison",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s9-u10-q1",
+                "dbms-s9-u10-q2",
+                "dbms-s9-u10-q3",
+                "dbms-s9-u10-q4",
+                "dbms-s9-u10-q5",
+                "dbms-s9-u10-q6",
+                "dbms-s9-u10-q7",
+                "dbms-s9-u10-q8",
+                "dbms-s9-u10-q9",
+                "dbms-s9-u10-q10"
+              ]
             },
             {
               "id": "dbms-section-9-unit-10-nosql-comparison-lesson-2",
@@ -2699,7 +3772,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "NoSQL comparison helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         }
       ]
     },
@@ -2721,7 +3795,18 @@
               "unitId": "dbms-section-10-unit-1-er-to-schema",
               "title": "Learn ER to schema",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s10-u1-q1",
+                "dbms-s10-u1-q2",
+                "dbms-s10-u1-q3",
+                "dbms-s10-u1-q4",
+                "dbms-s10-u1-q5",
+                "dbms-s10-u1-q6",
+                "dbms-s10-u1-q7",
+                "dbms-s10-u1-q8",
+                "dbms-s10-u1-q9",
+                "dbms-s10-u1-q10"
+              ]
             },
             {
               "id": "dbms-section-10-unit-1-er-to-schema-lesson-2",
@@ -2737,7 +3822,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "ER to schema helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-10-unit-2-normalize-a-design",
@@ -2750,7 +3836,18 @@
               "unitId": "dbms-section-10-unit-2-normalize-a-design",
               "title": "Learn Normalize a design",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s10-u2-q1",
+                "dbms-s10-u2-q2",
+                "dbms-s10-u2-q3",
+                "dbms-s10-u2-q4",
+                "dbms-s10-u2-q5",
+                "dbms-s10-u2-q6",
+                "dbms-s10-u2-q7",
+                "dbms-s10-u2-q8",
+                "dbms-s10-u2-q9",
+                "dbms-s10-u2-q10"
+              ]
             },
             {
               "id": "dbms-section-10-unit-2-normalize-a-design-lesson-2",
@@ -2766,7 +3863,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Normalize a design helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-10-unit-3-transaction-design",
@@ -2779,7 +3877,18 @@
               "unitId": "dbms-section-10-unit-3-transaction-design",
               "title": "Learn Transaction design",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s10-u3-q1",
+                "dbms-s10-u3-q2",
+                "dbms-s10-u3-q3",
+                "dbms-s10-u3-q4",
+                "dbms-s10-u3-q5",
+                "dbms-s10-u3-q6",
+                "dbms-s10-u3-q7",
+                "dbms-s10-u3-q8",
+                "dbms-s10-u3-q9",
+                "dbms-s10-u3-q10"
+              ]
             },
             {
               "id": "dbms-section-10-unit-3-transaction-design-lesson-2",
@@ -2795,7 +3904,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Transaction design helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-10-unit-4-index-a-workload",
@@ -2808,7 +3918,18 @@
               "unitId": "dbms-section-10-unit-4-index-a-workload",
               "title": "Learn Index a workload",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s10-u4-q1",
+                "dbms-s10-u4-q2",
+                "dbms-s10-u4-q3",
+                "dbms-s10-u4-q4",
+                "dbms-s10-u4-q5",
+                "dbms-s10-u4-q6",
+                "dbms-s10-u4-q7",
+                "dbms-s10-u4-q8",
+                "dbms-s10-u4-q9",
+                "dbms-s10-u4-q10"
+              ]
             },
             {
               "id": "dbms-section-10-unit-4-index-a-workload-lesson-2",
@@ -2824,7 +3945,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Index a workload helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-10-unit-5-optimize-report-query",
@@ -2837,7 +3959,18 @@
               "unitId": "dbms-section-10-unit-5-optimize-report-query",
               "title": "Learn Optimize report query",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s10-u5-q1",
+                "dbms-s10-u5-q2",
+                "dbms-s10-u5-q3",
+                "dbms-s10-u5-q4",
+                "dbms-s10-u5-q5",
+                "dbms-s10-u5-q6",
+                "dbms-s10-u5-q7",
+                "dbms-s10-u5-q8",
+                "dbms-s10-u5-q9",
+                "dbms-s10-u5-q10"
+              ]
             },
             {
               "id": "dbms-section-10-unit-5-optimize-report-query-lesson-2",
@@ -2853,7 +3986,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Optimize report query helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-10-unit-6-isolation-anomaly-lab",
@@ -2866,7 +4000,18 @@
               "unitId": "dbms-section-10-unit-6-isolation-anomaly-lab",
               "title": "Learn Isolation anomaly lab",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s10-u6-q1",
+                "dbms-s10-u6-q2",
+                "dbms-s10-u6-q3",
+                "dbms-s10-u6-q4",
+                "dbms-s10-u6-q5",
+                "dbms-s10-u6-q6",
+                "dbms-s10-u6-q7",
+                "dbms-s10-u6-q8",
+                "dbms-s10-u6-q9",
+                "dbms-s10-u6-q10"
+              ]
             },
             {
               "id": "dbms-section-10-unit-6-isolation-anomaly-lab-lesson-2",
@@ -2882,7 +4027,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Isolation anomaly lab helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-10-unit-7-nosql-choice-memo",
@@ -2895,7 +4041,18 @@
               "unitId": "dbms-section-10-unit-7-nosql-choice-memo",
               "title": "Learn NoSQL choice memo",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s10-u7-q1",
+                "dbms-s10-u7-q2",
+                "dbms-s10-u7-q3",
+                "dbms-s10-u7-q4",
+                "dbms-s10-u7-q5",
+                "dbms-s10-u7-q6",
+                "dbms-s10-u7-q7",
+                "dbms-s10-u7-q8",
+                "dbms-s10-u7-q9",
+                "dbms-s10-u7-q10"
+              ]
             },
             {
               "id": "dbms-section-10-unit-7-nosql-choice-memo-lesson-2",
@@ -2911,7 +4068,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "NoSQL choice memo helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-10-unit-8-migration-plan",
@@ -2924,7 +4082,18 @@
               "unitId": "dbms-section-10-unit-8-migration-plan",
               "title": "Learn Migration plan",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s10-u8-q1",
+                "dbms-s10-u8-q2",
+                "dbms-s10-u8-q3",
+                "dbms-s10-u8-q4",
+                "dbms-s10-u8-q5",
+                "dbms-s10-u8-q6",
+                "dbms-s10-u8-q7",
+                "dbms-s10-u8-q8",
+                "dbms-s10-u8-q9",
+                "dbms-s10-u8-q10"
+              ]
             },
             {
               "id": "dbms-section-10-unit-8-migration-plan-lesson-2",
@@ -2940,7 +4109,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Migration plan helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-10-unit-9-data-integrity-audit",
@@ -2953,7 +4123,18 @@
               "unitId": "dbms-section-10-unit-9-data-integrity-audit",
               "title": "Learn Data integrity audit",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s10-u9-q1",
+                "dbms-s10-u9-q2",
+                "dbms-s10-u9-q3",
+                "dbms-s10-u9-q4",
+                "dbms-s10-u9-q5",
+                "dbms-s10-u9-q6",
+                "dbms-s10-u9-q7",
+                "dbms-s10-u9-q8",
+                "dbms-s10-u9-q9",
+                "dbms-s10-u9-q10"
+              ]
             },
             {
               "id": "dbms-section-10-unit-9-data-integrity-audit-lesson-2",
@@ -2969,7 +4150,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Data integrity audit helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         },
         {
           "id": "dbms-section-10-unit-10-final-dbms-project",
@@ -2982,7 +4164,18 @@
               "unitId": "dbms-section-10-unit-10-final-dbms-project",
               "title": "Learn Final DBMS project",
               "order": 1,
-              "exerciseIds": []
+              "exerciseIds": [
+                "dbms-s10-u10-q1",
+                "dbms-s10-u10-q2",
+                "dbms-s10-u10-q3",
+                "dbms-s10-u10-q4",
+                "dbms-s10-u10-q5",
+                "dbms-s10-u10-q6",
+                "dbms-s10-u10-q7",
+                "dbms-s10-u10-q8",
+                "dbms-s10-u10-q9",
+                "dbms-s10-u10-q10"
+              ]
             },
             {
               "id": "dbms-section-10-unit-10-final-dbms-project-lesson-2",
@@ -2998,7 +4191,8 @@
               "order": 3,
               "exerciseIds": []
             }
-          ]
+          ],
+          "learn": "Final DBMS project helps you protect and optimize durable data. Example: `PRIMARY KEY (id)`. Avoid: skipping constraints and transactions."
         }
       ]
     }
