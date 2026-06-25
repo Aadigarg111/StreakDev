@@ -218,7 +218,7 @@ export function AuthDialog({
   );
 }
 
-export function AuthStatus() {
+export function AuthStatus({ variant = "default" }: { variant?: "default" | "header" | "headerIcon" }) {
   const [authState, setAuthState] = useState<AuthState | null>(null);
   const [dialogMode, setDialogMode] = useState<AuthMode | null>(null);
   const displayName = authState?.user?.displayName ?? "";
@@ -272,46 +272,67 @@ export function AuthStatus() {
 
   return (
     <>
-      <div
-        className={cn(
-          "flex min-h-11 items-center gap-2 rounded-duo border-2 border-duo-swan bg-duo-snow px-2 text-sm font-black",
-          !signedIn && "p-0",
-        )}
-      >
-        {signedIn && authState.user ? (
-          <>
-            <AuthAvatar name={authState.user.displayName} seed={authState.user.avatarSeed} />
-            <span className="max-w-24 truncate">{buttonLabel}</span>
-            <button
-              aria-label="Log out"
-              className="flex h-8 w-8 items-center justify-center rounded-full text-duo-grey-text"
-              onClick={logout}
-              title="Log out"
-              type="button"
-            >
-              <LogOut className="h-4 w-4" />
-            </button>
-          </>
-        ) : (
-          <div className="flex gap-2">
-            <DuoButton
-              icon={<LogIn className="h-5 w-5" />}
-              onClick={() => setDialogMode("login")}
-              size="sm"
-              variant="grey"
-            >
-              Log in
-            </DuoButton>
-            <DuoButton
-              icon={<UserPlus className="h-5 w-5" />}
-              onClick={() => setDialogMode("signup")}
-              size="sm"
-            >
-              Sign up
-            </DuoButton>
-          </div>
-        )}
-      </div>
+      {signedIn && authState.user && variant === "headerIcon" ? (
+        <DuoButton
+          aria-label="Log out"
+          className="shrink-0"
+          icon={<LogOut className="h-5 w-5" />}
+          onClick={logout}
+          size="icon"
+          variant="red"
+        />
+      ) : signedIn && authState.user && variant === "header" ? (
+        <DuoButton
+          className="shrink-0"
+          icon={<LogOut className="h-5 w-5" />}
+          onClick={logout}
+          size="sm"
+          variant="red"
+        >
+          Log out
+        </DuoButton>
+      ) : (
+        <div
+          className={cn(
+            "flex min-h-11 items-center gap-2 rounded-duo border-2 border-duo-swan bg-duo-snow px-2 text-sm font-black",
+            !signedIn && "p-0",
+          )}
+        >
+          {signedIn && authState.user ? (
+            <>
+              <AuthAvatar name={authState.user.displayName} seed={authState.user.avatarSeed} />
+              <span className="max-w-24 truncate">{buttonLabel}</span>
+              <button
+                aria-label="Log out"
+                className="flex h-8 w-8 items-center justify-center rounded-full bg-duo-red text-white shadow-[inset_0_-2px_0_rgb(234_43_43)] transition focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-red/25 active:translate-y-0.5"
+                onClick={logout}
+                title="Log out"
+                type="button"
+              >
+                <LogOut className="h-4 w-4" />
+              </button>
+            </>
+          ) : (
+            <div className="flex gap-2">
+              <DuoButton
+                icon={<LogIn className="h-5 w-5" />}
+                onClick={() => setDialogMode("login")}
+                size="sm"
+                variant="grey"
+              >
+                Log in
+              </DuoButton>
+              <DuoButton
+                icon={<UserPlus className="h-5 w-5" />}
+                onClick={() => setDialogMode("signup")}
+                size="sm"
+              >
+                Sign up
+              </DuoButton>
+            </div>
+          )}
+        </div>
+      )}
       {dialogMode && (
         <AuthDialog
           mode={dialogMode}

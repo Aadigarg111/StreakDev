@@ -1,7 +1,7 @@
 "use client";
 
 import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
-import { Bell, Check, ChevronRight, Flame, Sparkles } from "lucide-react";
+import { Bell, Check, ChevronRight, Flame, Sparkles, X } from "lucide-react";
 import { useMemo, useState } from "react";
 import type { DailyGoalId, TrackProgress } from "@/store/user-progress";
 import type { PlacementExercise } from "../../../types/content";
@@ -287,9 +287,68 @@ function ConfettiBurst() {
   );
 }
 
+function TrackSelectionDialog({
+  onClose,
+  onContinue,
+  track,
+}: {
+  onClose: () => void;
+  onContinue: () => void;
+  track: ReturnType<typeof getTrack>;
+}) {
+  return (
+    <div className="fixed inset-0 z-50 grid place-items-center bg-duo-eel/35 p-4 backdrop-blur-sm">
+      <motion.section
+        animate={{ opacity: 1, scale: 1, y: 0 }}
+        aria-labelledby="track-selection-title"
+        aria-modal="true"
+        className="w-full max-w-md overflow-hidden rounded-duo-lg border-2 border-duo-swan bg-duo-snow text-duo-eel shadow-[0_24px_80px_rgb(0_0_0_/_0.22)]"
+        initial={{ opacity: 0, scale: 0.96, y: 16 }}
+        role="dialog"
+        transition={{ type: "spring", stiffness: 260, damping: 24 }}
+      >
+        <div className="flex items-start justify-between gap-3 border-b-2 border-duo-swan bg-duo-grey-panel p-5">
+          <div>
+            <p className="text-sm font-black uppercase text-duo-grey-disabled">
+              Selected language
+            </p>
+            <h2 id="track-selection-title" className="mt-1 text-2xl font-black">
+              {track.title}
+            </h2>
+          </div>
+          <button
+            aria-label="Choose a different language"
+            className="grid h-10 w-10 shrink-0 place-items-center rounded-full border-2 border-duo-swan bg-duo-snow text-duo-grey-text transition hover:border-duo-blue focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-duo-blue/25 active:translate-y-1"
+            onClick={onClose}
+            type="button"
+          >
+            <X className="h-5 w-5 stroke-[3]" />
+          </button>
+        </div>
+        <div className="p-5 text-center">
+          <Bity className="mx-auto h-28 w-28" pose="confident" />
+          <p className="mt-3 text-base font-bold leading-7 text-duo-grey-text">
+            Start your first coding path with {track.sections.length} sections and{" "}
+            {track.sections.reduce((sum, section) => sum + section.units.length, 0)} units.
+          </p>
+          <DuoButton
+            className="mt-6 w-full"
+            icon={<ChevronRight className="h-5 w-5" />}
+            onClick={onContinue}
+            size="lg"
+          >
+            Continue
+          </DuoButton>
+        </div>
+      </motion.section>
+    </div>
+  );
+}
+
 export function OnboardingFlow({ onComplete }: OnboardingFlowProps) {
   const [step, setStep] = useState<OnboardingStep>("tracks");
-  const [selectedTrackIds, setSelectedTrackIds] = useState<string[]>([liveTrackId]);
+  const [selectedTrackIds, setSelectedTrackIds] = useState<string[]>([]);
+  const [trackSelectionDialogOpen, setTrackSelectionDialogOpen] = useState(false);
   const [dailyGoal, setDailyGoal] = useState<(typeof dailyGoals)[number]>(dailyGoals[1]);
   const [placementAnswers, setPlacementAnswers] = useState<PlacementAnswer[]>([]);
   const [placementSection, setPlacementSection] = useState(1);
@@ -308,15 +367,8 @@ export function OnboardingFlow({ onComplete }: OnboardingFlowProps) {
       return;
     }
 
-    setSelectedTrackIds((current) => {
-      if (current.includes(trackId)) {
-        return current.length === 1
-          ? current
-          : current.filter((id) => id !== trackId);
-      }
-
-      return [...current, trackId];
-    });
+    setSelectedTrackIds([trackId]);
+    setTrackSelectionDialogOpen(true);
     playFeedback("tap");
   }
 
@@ -385,21 +437,20 @@ export function OnboardingFlow({ onComplete }: OnboardingFlowProps) {
               </div>
             </div>
             <TrackGrid selectedTrackIds={selectedTrackIds} onToggleTrack={toggleTrack} />
-            <div className="sticky bottom-0 -mx-3 mt-6 border-t-2 border-duo-swan bg-duo-snow p-4 pb-safe xs:-mx-4 sm:-mx-6">
-              <div className="mx-auto flex max-w-5xl justify-end">
-                <DuoButton
-                  className="w-full sm:w-auto"
-                  disabled={selectedTrackIds.length === 0}
-                  icon={<ChevronRight className="h-5 w-5" />}
-                  onClick={() => {
-                    playFeedback("tap");
-                    setStep("goal");
-                  }}
-                >
-                  Continue
-                </DuoButton>
-              </div>
-            </div>
+            {trackSelectionDialogOpen && selectedTrackIds.length > 0 && (
+              <TrackSelectionDialog
+                onClose={() => {
+                  setTrackSelectionDialogOpen(false);
+                  setSelectedTrackIds([]);
+                }}
+                onContinue={() => {
+                  playFeedback("tap");
+                  setTrackSelectionDialogOpen(false);
+                  setStep("goal");
+                }}
+                track={getTrack(selectedTrackIds[0])}
+              />
+            )}
           </ScreenShell>
         )}
 

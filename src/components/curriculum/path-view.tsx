@@ -723,7 +723,7 @@ export function PathView({
               <details className="group relative">
                 <summary className="flex h-12 cursor-pointer list-none items-center gap-2 rounded-duo border-2 border-duo-swan bg-duo-snow px-3 font-black text-duo-eel [&::-webkit-details-marker]:hidden">
                   <CourseMark track={track} selected />
-                  <span className="max-w-[8.5rem] truncate">{track.title}</span>
+                  <span className="max-w-[4.25rem] truncate xs:max-w-[6rem] sm:max-w-[8.5rem]">{track.title}</span>
                   <ChevronDown className="h-4 w-4 text-duo-grey-disabled transition group-open:rotate-180" />
                 </summary>
                 <div className="absolute left-0 top-14 z-30 w-[min(20rem,calc(100vw-2rem))] overflow-hidden rounded-duo-lg border-2 border-duo-swan bg-duo-snow shadow-xl">
@@ -765,6 +765,7 @@ export function PathView({
                   <Gem className="h-5 w-5 fill-duo-blue text-duo-blue" />
                   {stats.gems}
                 </span>
+                <AuthStatus variant="headerIcon" />
               </div>
             </div>
 
@@ -943,6 +944,7 @@ export function PathView({
               {stats.gems}
             </span>
             <ThemeToggle className="border-0 bg-transparent" />
+            <AuthStatus variant="header" />
           </div>
 
           <div className="rounded-duo-lg border-2 border-duo-swan bg-duo-snow p-5">
@@ -980,7 +982,6 @@ export function PathView({
               <span className="text-sm font-black text-duo-grey-disabled">{Math.min(stats.xp, dailyGoalXp)} / {dailyGoalXp}</span>
             </div>
           </div>
-          <AuthStatus />
         </aside>
       </div>
       {guideOpen && activeUnit && (
