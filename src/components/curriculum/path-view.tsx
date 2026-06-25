@@ -443,7 +443,7 @@ function ProfileView({
             <StatCard icon={<Flame className="h-7 w-7 fill-duo-yellow text-duo-yellow" />} label="Day streak" value={stats.streakDays} />
             <StatCard icon={<Zap className="h-7 w-7 fill-duo-yellow text-duo-yellow" />} label="Total XP" value={stats.xp} />
             <StatCard icon={<Award className="h-7 w-7 text-[#C58A4B]" />} label="Current league" value="Bronze" />
-            <StatCard icon={<Trophy className="h-7 w-7 text-duo-grey-disabled" />} label="Top 3 finishes" value="0" />
+            <StatCard icon={<Trophy className="h-7 w-7 text-duo-grey-disabled" />} label="Units completed" value={completedUnitIds.length} />
           </div>
         </div>
 
