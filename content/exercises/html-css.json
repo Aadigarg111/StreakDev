@@ -2,2801 +2,2801 @@
   {
     "id": "html-css-s1-u1-q1",
     "type": "multiple_choice",
-    "prompt": "What should Document anatomy help you do?",
+    "prompt": "What does HTML stand for?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "HyperText Markdown Language",
+      "High-Level Text Management",
+      "HyperText Markup Language",
+      "Home Tool Markup Language"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Document anatomy helps you structure and style web content.",
+    "correctAnswer": "HyperText Markup Language",
+    "explanation": "HTML is a markup language for web pages.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u1-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Document anatomy?",
+    "prompt": "What is the primary purpose of HTML?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "To style web pages",
+      "To add interactivity to web pages",
+      "To structure content on web pages",
+      "To manage server-side logic"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Document anatomy helps you structure and style web content.",
+    "correctAnswer": "To structure content on web pages",
+    "explanation": "HTML defines the content and structure of a web page.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u1-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in HTML Foundations?",
+    "prompt": "Is HTML considered a programming language?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "Yes, because it uses code",
+      "No, it is a markup language",
+      "Only when combined with CSS",
+      "Only when combined with JavaScript"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Document anatomy helps you structure and style web content.",
+    "correctAnswer": "No, it is a markup language",
+    "explanation": "HTML describes content structure, it doesn't perform computations.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u1-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Which of the following is an example of an HTML element?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`<h1>`",
+      "`print()`",
+      "`var x = 10;`",
+      "`body { color: blue; }`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Document anatomy helps you structure and style web content.",
+    "correctAnswer": "`<h1>`",
+    "explanation": "`<h1>` is an HTML tag that forms part of an element.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u1-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "What do HTML tags typically consist of?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "A single keyword",
+      "An opening tag, content, and a closing tag",
+      "Only a closing tag",
+      "Only an opening tag"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Document anatomy helps you structure and style web content.",
+    "correctAnswer": "An opening tag, content, and a closing tag",
+    "explanation": "Most HTML elements have an opening tag, content, and a closing tag.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u1-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "Which of these is a common beginner mistake when learning HTML?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Forgetting to save the HTML file",
+      "Expecting HTML to perform complex calculations",
+      "Using too many paragraphs",
+      "Not using enough images"
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Document anatomy helps you structure and style web content.",
+    "correctAnswer": "Expecting HTML to perform complex calculations",
+    "explanation": "HTML is for structure, not programming logic.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u1-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "What is the correct way to write an opening tag for a paragraph?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`<paragraph>`",
+      "`[p]`",
+      "`<p>`",
+      "`{p}`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Document anatomy helps you structure and style web content.",
+    "correctAnswer": "`<p>`",
+    "explanation": "`<p>` is the standard tag for a paragraph.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u1-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "Which of the following best describes the role of HTML in web development?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "It dictates the visual appearance of a website.",
+      "It provides the fundamental content and structure.",
+      "It handles user interactions and dynamic content.",
+      "It manages data storage on the server."
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Document anatomy helps you structure and style web content.",
+    "correctAnswer": "It provides the fundamental content and structure.",
+    "explanation": "HTML lays the groundwork for all web content.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u1-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "What is the purpose of the `<!DOCTYPE html>` declaration?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "It defines the document's title.",
+      "It links to an external stylesheet.",
+      "It tells the browser which HTML version to use.",
+      "It specifies the character encoding."
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Document anatomy helps you structure and style web content.",
+    "correctAnswer": "It tells the browser which HTML version to use.",
+    "explanation": "It's a declaration that helps the browser render the page correctly.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u1-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "If you want to add a main heading to your web page, which HTML tag would you use?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "`<head>`",
+      "`<title>`",
+      "`<h1>`",
+      "`<main>`"
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Document anatomy helps you structure and style web content.",
+    "correctAnswer": "`<h1>`",
+    "explanation": "`<h1>` is used for the most important heading on a page.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u2-q1",
     "type": "multiple_choice",
-    "prompt": "What should Headings and text help you do?",
+    "prompt": "What is the purpose of `<!DOCTYPE html>`?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "To define the document's title",
+      "To declare the HTML version being used",
+      "To link to external CSS files",
+      "To specify the page's language"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Headings and text helps you structure and style web content.",
+    "correctAnswer": "To declare the HTML version being used",
+    "explanation": "It's a declaration that helps the browser render the page correctly according to the HTML5 standard.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u2-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Headings and text?",
+    "prompt": "Which HTML tag is the root element of an HTML page?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<h1>Dashboard</h1>`",
-      "`TODO`",
-      "No example needed"
+      "`<head>`",
+      "`<body>`",
+      "`<html>`",
+      "`<document>`"
     ],
-    "correctAnswer": "`<h1>Dashboard</h1>`",
-    "explanation": "`<h1>Dashboard</h1>`. Headings and text helps you structure and style web content.",
+    "correctAnswer": "`<html>`",
+    "explanation": "All other HTML elements are descendants of the `<html>` element.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u2-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in HTML Foundations?",
+    "prompt": "Which section of an HTML document contains meta-information about the page, not visible to the user?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`<body>`",
+      "`<header>`",
+      "`<head>`",
+      "`<footer>`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Headings and text helps you structure and style web content.",
+    "correctAnswer": "`<head>`",
+    "explanation": "The `<head>` element contains metadata like title, scripts, and style information.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u2-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Where should all the visible content of an HTML page be placed?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`<head>`",
+      "`<html>`",
+      "`<body>`",
+      "`<meta>`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Headings and text helps you structure and style web content.",
+    "correctAnswer": "`<body>`",
+    "explanation": "The `<body>` element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u2-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "Which of the following is typically found inside the `<head>` section?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "Paragraphs (`<p>`)",
+      "Images (`<img>`)",
+      "Page title (`<title>`)",
+      "Headings (`<h1>`)"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Headings and text helps you structure and style web content.",
+    "correctAnswer": "Page title (`<title>`)",
+    "explanation": "The `<title>` element defines the title of the document, shown in the browser's title bar or tab.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u2-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake related to HTML document structure?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Forgetting the `<html>` tag",
+      "Placing visible content inside the `<head>` tag",
+      "Not closing the `<body>` tag",
+      "Using too many `<div>` tags"
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Headings and text helps you structure and style web content.",
+    "correctAnswer": "Placing visible content inside the `<head>` tag",
+    "explanation": "Visible content belongs in the `<body>`.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u2-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which tag pair is used to define the title of the document, which appears in the browser tab?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`<header></header>`",
+      "`<title></title>`",
+      "`<heading></heading>`",
+      "`<name></name>`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Headings and text helps you structure and style web content.",
+    "correctAnswer": "`<title></title>`",
+    "explanation": "The `<title>` tag sets the title for the browser window/tab.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u2-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "What is the correct order of the main structural tags in an HTML document?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`<html>`, `<body>`, `<head>`",
+      "`<html>`, `<head>`, `<body>`",
+      "`<head>`, `<body>`, `<html>`",
+      "`<body>`, `<head>`, `<html>`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Headings and text helps you structure and style web content.",
+    "correctAnswer": "`<html>`, `<head>`, `<body>`",
+    "explanation": "The `<head>` comes before the `<body>` within the `<html>` tag.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u2-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "If you want to link an external CSS file to your HTML document, where would you place the `<link>` tag?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "Inside the `<body>`",
+      "Inside the `<footer>`",
+      "Inside the `<head>`",
+      "After the `</html>` tag"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Headings and text helps you structure and style web content.",
+    "correctAnswer": "Inside the `<head>`",
+    "explanation": "External stylesheets are linked in the `<head>` section.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u2-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "What would happen if you omitted the `<!DOCTYPE html>` declaration?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "The page would not load at all.",
+      "The browser would render the page in \"quirks mode,\" potentially causing inconsistent rendering.",
+      "The page would automatically use the latest HTML standard.",
+      "Only JavaScript would stop working."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Headings and text helps you structure and style web content.",
+    "correctAnswer": "The browser would render the page in \"quirks mode,\" potentially causing inconsistent rendering.",
+    "explanation": "Omitting it can trigger quirks mode, leading to unpredictable layout and styling.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u3-q1",
     "type": "multiple_choice",
-    "prompt": "What should Links and anchors help you do?",
+    "prompt": "Which HTML tag represents the most important heading?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`<h2>`",
+      "`<h1>`",
+      "`<h6>`",
+      "`<head>`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Links and anchors helps you structure and style web content.",
+    "correctAnswer": "`<h1>`",
+    "explanation": "`<h1>` is for the main heading, indicating highest importance.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u3-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Links and anchors?",
+    "prompt": "How many levels of headings does HTML provide?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<a href=\"/about\">About</a>`",
-      "`TODO`",
-      "No example needed"
+      "3",
+      "5",
+      "6",
+      "10"
     ],
-    "correctAnswer": "`<a href=\"/about\">About</a>`",
-    "explanation": "`<a href=\"/about\">About</a>`. Links and anchors helps you structure and style web content.",
+    "correctAnswer": "6",
+    "explanation": "HTML offers `<h1>` through `<h6>`.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u3-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in HTML Foundations?",
+    "prompt": "Which tag is used to define a paragraph of text?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`<para>`",
+      "`<text>`",
+      "`<p>`",
+      "`<line>`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Links and anchors helps you structure and style web content.",
+    "correctAnswer": "`<p>`",
+    "explanation": "`<p>` is the standard tag for paragraphs.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u3-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Are HTML headings (`<h1>` to `<h6>`) inline or block-level elements?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "Inline",
+      "Block-level",
+      "Both, depending on content",
+      "Neither"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Links and anchors helps you structure and style web content.",
+    "correctAnswer": "Block-level",
+    "explanation": "Headings always start on a new line and take up available width.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u3-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "What is a common beginner mistake when using HTML headings?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "Not closing the heading tag",
+      "Using them for visual styling instead of semantic structure",
+      "Using too few headings",
+      "Placing them inside a paragraph"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Links and anchors helps you structure and style web content.",
+    "correctAnswer": "Using them for visual styling instead of semantic structure",
+    "explanation": "Headings should convey content hierarchy, not just text size.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u3-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "Which of the following is true about `<p>` tags?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "They are inline elements.",
+      "They are used for short phrases only.",
+      "They are block-level elements.",
+      "They cannot contain other HTML elements."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Links and anchors helps you structure and style web content.",
+    "correctAnswer": "They are block-level elements.",
+    "explanation": "Paragraphs, like headings, are block-level elements.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u3-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "What is the correct way to create a sub-heading after an `<h1>`?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "Another `<h1>`",
+      "`<h2>`",
+      "`<h7>`",
+      "`<subheading>`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Links and anchors helps you structure and style web content.",
+    "correctAnswer": "`<h2>`",
+    "explanation": "`<h2>` semantically follows `<h1>` in hierarchy.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u3-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "If you want to break a line within a paragraph without starting a new paragraph, which tag would you use?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`<new-line>`",
+      "`<break>`",
+      "`<br>`",
+      "`<lb>`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Links and anchors helps you structure and style web content.",
+    "correctAnswer": "`<br>`",
+    "explanation": "The `<br>` tag creates a line break without creating a new paragraph.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u3-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "Which HTML structure correctly uses headings and paragraphs?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`<p><h1>My Title</h1></p>`",
+      "`<h1>My Title<p>My paragraph</p></h1>`",
+      "`<h1>My Title</h1><p>My paragraph</p>`",
+      "`<h1>My Title</h1><p>My paragraph<h1>Another Title</h1></p>`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Links and anchors helps you structure and style web content.",
+    "correctAnswer": "`<h1>My Title</h1><p>My paragraph</p>`",
+    "explanation": "Headings and paragraphs are distinct block-level elements and should not be nested incorrectly.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u3-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is it important to use headings (`<h1>` to `<h6>`) semantically?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "It makes the page load faster.",
+      "It helps search engines understand the page structure and improves accessibility for screen readers.",
+      "It automatically applies bold styling.",
+      "It prevents JavaScript errors."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Links and anchors helps you structure and style web content.",
+    "correctAnswer": "It helps search engines understand the page structure and improves accessibility for screen readers.",
+    "explanation": "Semantic use of headings is crucial for SEO and accessibility.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u4-q1",
     "type": "multiple_choice",
-    "prompt": "What should Images and alt text help you do?",
+    "prompt": "Which HTML tag is used to indicate strong importance for text?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`<b>`",
+      "`<em>`",
+      "`<strong>`",
+      "`<i>`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Images and alt text helps you structure and style web content.",
+    "correctAnswer": "`<strong>`",
+    "explanation": "`<strong>` semantically marks text as important.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u4-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Images and alt text?",
+    "prompt": "Which HTML tag is used to emphasize text, typically displayed as italic?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<img src=\"cat.jpg\" alt=\"Cat\">`",
-      "`TODO`",
-      "No example needed"
+      "`<i>`",
+      "`<em>`",
+      "`<italic>`",
+      "`<emphasize>`"
     ],
-    "correctAnswer": "`<img src=\"cat.jpg\" alt=\"Cat\">`",
-    "explanation": "`<img src=\"cat.jpg\" alt=\"Cat\">`. Images and alt text helps you structure and style web content.",
+    "correctAnswer": "`<em>`",
+    "explanation": "`<em>` semantically emphasizes text.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u4-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in HTML Foundations?",
+    "prompt": "What is the primary difference between `<b>` and `<strong>`?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`<b>` is for bold, `<strong>` is for italic.",
+      "`<b>` is semantic, `<strong>` is presentational.",
+      "`<b>` is presentational (bold), `<strong>` is semantic (important).",
+      "There is no difference."
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Images and alt text helps you structure and style web content.",
+    "correctAnswer": "`<b>` is presentational (bold), `<strong>` is semantic (important).",
+    "explanation": "`<strong>` adds semantic meaning, `<b>` only changes appearance.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u4-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Which tag would you use to make text italic without adding any special emphasis?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`<em>`",
+      "`<i>`",
+      "`<italic>`",
+      "`<strong>`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Images and alt text helps you structure and style web content.",
+    "correctAnswer": "`<i>`",
+    "explanation": "`<i>` is purely presentational for italic text.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u4-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "Consider the phrase: \"This is a `<strong>very important</strong>` point.\" How would a screen reader likely interpret the `<strong>` tag?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "It would ignore it.",
+      "It would read it with a different voice or emphasis.",
+      "It would spell out each letter.",
+      "It would display it in a larger font."
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Images and alt text helps you structure and style web content.",
+    "correctAnswer": "It would read it with a different voice or emphasis.",
+    "explanation": "Semantic tags like `<strong>` provide cues for assistive technologies.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u4-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when formatting text in HTML?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using `<strong>` for bold text.",
+      "Using `<em>` for italic text.",
+      "Using `<b>` for important text when `<strong>` is more appropriate.",
+      "Not using any formatting tags."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Images and alt text helps you structure and style web content.",
+    "correctAnswer": "Using `<b>` for important text when `<strong>` is more appropriate.",
+    "explanation": "Prioritizing presentational tags over semantic ones is a common error.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u4-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which tag is used to mark text that has been deleted from a document?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`<del>`",
+      "`<strike>`",
+      "`<removed>`",
+      "`<s>`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Images and alt text helps you structure and style web content.",
+    "correctAnswer": "`<del>`",
+    "explanation": "`<del>` indicates deleted text.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u4-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "Which tag is used to mark text that has been inserted into a document?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`<add>`",
+      "`<ins>`",
+      "`<new>`",
+      "`<u>`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Images and alt text helps you structure and style web content.",
+    "correctAnswer": "`<ins>`",
+    "explanation": "`<ins>` indicates inserted text.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u4-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "To display a subscript character (e.g., H₂O), which tag would you use?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`<sup>`",
+      "`<sub>`",
+      "`<subscript>`",
+      "`<down>`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Images and alt text helps you structure and style web content.",
+    "correctAnswer": "`<sub>`",
+    "explanation": "`<sub>` is for subscript text.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u4-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is using semantic HTML tags (like `<strong>` and `<em>`) generally preferred over presentational tags (`<b>` and `<i>`)?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "Semantic tags are shorter to type.",
+      "Semantic tags are easier to style with CSS.",
+      "Semantic tags provide meaning to the content, improving accessibility and SEO.",
+      "Presentational tags are deprecated in HTML5."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Images and alt text helps you structure and style web content.",
+    "correctAnswer": "Semantic tags provide meaning to the content, improving accessibility and SEO.",
+    "explanation": "Semantic tags convey the purpose of the content, which is beneficial for various reasons.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u5-q1",
     "type": "multiple_choice",
-    "prompt": "What should Lists and tables help you do?",
+    "prompt": "Which HTML tag is used to create an unordered list?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`<list>`",
+      "`<ol>`",
+      "`<ul>`",
+      "`<dl>`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Lists and tables helps you structure and style web content.",
+    "correctAnswer": "`<ul>`",
+    "explanation": "`<ul>` stands for unordered list.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u5-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Lists and tables?",
+    "prompt": "Which HTML tag is used to create an ordered list?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "`<list>`",
+      "`<ol>`",
+      "`<ul>`",
+      "`<dl>`"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Lists and tables helps you structure and style web content.",
+    "correctAnswer": "`<ol>`",
+    "explanation": "`<ol>` stands for ordered list.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u5-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in HTML Foundations?",
+    "prompt": "What tag is used to define each item in both ordered and unordered lists?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`<item>`",
+      "`<list-item>`",
+      "`<li>`",
+      "`<entry>`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Lists and tables helps you structure and style web content.",
+    "correctAnswer": "`<li>`",
+    "explanation": "`<li>` is the universal tag for list items.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u5-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "By default, how are items in an unordered list displayed?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "With numbers",
+      "With letters",
+      "With bullet points",
+      "With Roman numerals"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Lists and tables helps you structure and style web content.",
+    "correctAnswer": "With bullet points",
+    "explanation": "Unordered lists typically use bullet points.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u5-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "By default, how are items in an ordered list displayed?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "With bullet points",
+      "With numbers",
+      "With letters",
+      "With Roman numerals"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Lists and tables helps you structure and style web content.",
+    "correctAnswer": "With numbers",
+    "explanation": "Ordered lists typically use numbers.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u5-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when creating HTML lists?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Forgetting to close the `<ul>` or `<ol>` tag.",
+      "Using `<br>` tags instead of `<li>` for list items.",
+      "Mixing ordered and unordered lists.",
+      "Not styling the list items with CSS."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Lists and tables helps you structure and style web content.",
+    "correctAnswer": "Using `<br>` tags instead of `<li>` for list items.",
+    "explanation": "`<li>` tags are essential for semantic list structure.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u5-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which of the following is a correctly structured HTML list?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`<ul><li>Item 1</li><li>Item 2</li></ul>`",
+      "`<li><ul>Item 1</ul><ul>Item 2</ul></li>`",
+      "`<ul>Item 1<br>Item 2</ul>`",
+      "`<ol><li>Item 1<br>Item 2</li></ol>`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Lists and tables helps you structure and style web content.",
+    "correctAnswer": "`<ul><li>Item 1</li><li>Item 2</li></ul>`",
+    "explanation": "Each `<li>` must be directly inside an `<ul>` or `<ol>`.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u5-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "How can you change the numbering style of an ordered list (e.g., to use Roman numerals)?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "By using the `type` attribute on the `<ol>` tag (e.g., `<ol type=\"I\">`)",
+      "By using CSS `list-style-type` property",
+      "By changing the `<li>` tag",
+      "HTML does not support changing numbering styles"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Lists and tables helps you structure and style web content.",
+    "correctAnswer": "By using the `type` attribute on the `<ol>` tag (e.g., `<ol type=\"I\">`)",
+    "explanation": "The `type` attribute on `<ol>` can specify numbering style.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u5-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "If you want to create a list of definitions, which HTML tags would be most semantically appropriate?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`<ul>` and `<li>`",
+      "`<ol>` and `<li>`",
+      "`<dl>`, `<dt>`, and `<dd>`",
+      "`<list>`, `<item>`, `<description>`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Lists and tables helps you structure and style web content.",
+    "correctAnswer": "`<dl>`, `<dt>`, and `<dd>`",
+    "explanation": "`<dl>` (description list), `<dt>` (description term), and `<dd>` (description details) are for definition lists.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u5-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is it important to use semantic list tags (`<ul>`, `<ol>`, `<li>`) instead of just styling text with bullet points or numbers using CSS?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "Semantic tags are easier to type.",
+      "Semantic tags improve accessibility for screen readers and help search engines understand content structure.",
+      "Semantic tags make the page load faster.",
+      "Semantic tags automatically apply more attractive styling."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Lists and tables helps you structure and style web content.",
+    "correctAnswer": "Semantic tags improve accessibility for screen readers and help search engines understand content structure.",
+    "explanation": "Semantic tags provide meaning to the content, which is vital for accessibility and SEO.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u6-q1",
     "type": "multiple_choice",
-    "prompt": "What should Semantic page layout help you do?",
+    "prompt": "Which HTML tag is used to create a hyperlink?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`<link>`",
+      "`<href>`",
+      "`<a>`",
+      "`<url>`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Semantic page layout helps you structure and style web content.",
+    "correctAnswer": "`<a>`",
+    "explanation": "The `<a>` tag defines a hyperlink.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u6-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Semantic page layout?",
+    "prompt": "Which attribute of the `<a>` tag specifies the destination URL of the link?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "`src`",
+      "`link`",
+      "`href`",
+      "`url`"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Semantic page layout helps you structure and style web content.",
+    "correctAnswer": "`href`",
+    "explanation": "`href` (Hypertext Reference) specifies the link's destination.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u6-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in HTML Foundations?",
+    "prompt": "What is the default behavior of a link when clicked?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "It opens in a new tab.",
+      "It downloads the linked resource.",
+      "It navigates to the linked page in the same tab.",
+      "It displays a preview of the linked page."
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Semantic page layout helps you structure and style web content.",
+    "correctAnswer": "It navigates to the linked page in the same tab.",
+    "explanation": "By default, links open in the current browsing context.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u6-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "How can you make a link open in a new browser tab or window?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "Add `target=\"_self\"` to the `<a>` tag.",
+      "Add `target=\"_blank\"` to the `<a>` tag.",
+      "Add `newtab=\"true\"` to the `<a>` tag.",
+      "Add `rel=\"noopener\"` to the `<a>` tag."
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Semantic page layout helps you structure and style web content.",
+    "correctAnswer": "Add `target=\"_blank\"` to the `<a>` tag.",
+    "explanation": "`target=\"_blank\"` opens the linked document in a new window or tab.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u6-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "To link to a specific section within the same HTML page, what attribute should the target element have?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "`name`",
+      "`class`",
+      "`id`",
+      "`data-target`"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Semantic page layout helps you structure and style web content.",
+    "correctAnswer": "`id`",
+    "explanation": "The `id` attribute provides a unique identifier for an element.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u6-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when creating HTML links?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using relative paths instead of absolute paths.",
+      "Forgetting the `href` attribute or providing an incorrect path.",
+      "Making the link text too long.",
+      "Using too many links on one page."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Semantic page layout helps you structure and style web content.",
+    "correctAnswer": "Forgetting the `href` attribute or providing an incorrect path.",
+    "explanation": "A missing or incorrect `href` leads to broken links.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u6-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which of the following correctly links to an external website?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`<a href=\"website.com\">Visit Website</a>`",
+      "`<a href=\"www.website.com\">Visit Website</a>`",
+      "`<a href=\"https://www.website.com\">Visit Website</a>`",
+      "`<a url=\"https://www.website.com\">Visit Website</a>`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Semantic page layout helps you structure and style web content.",
+    "correctAnswer": "`<a href=\"https://www.website.com\">Visit Website</a>`",
+    "explanation": "Full URLs, including the protocol (e.g., `https://`), are best practice for external links.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u6-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "If you have an element with `id=\"top-section\"`, how would you create a link to it from another part of the same page?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`<a href=\"top-section\">Go to Top</a>`",
+      "`<a href=\"#top-section\">Go to Top</a>`",
+      "`<a name=\"top-section\">Go to Top</a>`",
+      "`<a link=\"top-section\">Go to Top</a>`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Semantic page layout helps you structure and style web content.",
+    "correctAnswer": "`<a href=\"#top-section\">Go to Top</a>`",
+    "explanation": "Use `#` followed by the `id` to link to an anchor on the same page.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u6-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "What is the purpose of the `title` attribute on an `<a>` tag?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "It changes the color of the link.",
+      "It provides a tooltip when the user hovers over the link.",
+      "It makes the link text bold.",
+      "It specifies the link's target window."
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Semantic page layout helps you structure and style web content.",
+    "correctAnswer": "It provides a tooltip when the user hovers over the link.",
+    "explanation": "The `title` attribute provides advisory information about the element.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u6-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Which of these is NOT a valid value for the `target` attribute of an `<a>` tag?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "`_blank`",
+      "`_self`",
+      "`_parent`",
+      "`_new`"
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Semantic page layout helps you structure and style web content.",
+    "correctAnswer": "`_new`",
+    "explanation": "`_new` is not a standard `target` value; `_blank` is used for new windows/tabs.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u7-q1",
     "type": "multiple_choice",
-    "prompt": "What should Metadata and SEO basics help you do?",
+    "prompt": "Which HTML tag is used to embed an image in a web page?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`<picture>`",
+      "`<image>`",
+      "`<img>`",
+      "`<graphic>`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Metadata and SEO basics helps you structure and style web content.",
+    "correctAnswer": "`<img>`",
+    "explanation": "The `<img>` tag is used for embedding images.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u7-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Metadata and SEO basics?",
+    "prompt": "Which attribute of the `<img>` tag specifies the path to the image file?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "`link`",
+      "`href`",
+      "`src`",
+      "`path`"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Metadata and SEO basics helps you structure and style web content.",
+    "correctAnswer": "`src`",
+    "explanation": "`src` (source) is used to specify the URL of the image.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u7-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in HTML Foundations?",
+    "prompt": "What is the purpose of the `alt` attribute in the `<img>` tag?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "To define the image's alignment",
+      "To provide alternative text for screen readers and when the image fails to load",
+      "To set the image's width and height",
+      "To link the image to another page"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Metadata and SEO basics helps you structure and style web content.",
+    "correctAnswer": "To provide alternative text for screen readers and when the image fails to load",
+    "explanation": "`alt` text is crucial for accessibility and SEO.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u7-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Is the `<img>` tag a self-closing tag or does it require a closing tag?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "It requires a closing `</img>` tag.",
+      "It is a self-closing tag.",
+      "It depends on the HTML version.",
+      "It can be either, but self-closing is preferred."
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Metadata and SEO basics helps you structure and style web content.",
+    "correctAnswer": "It is a self-closing tag.",
+    "explanation": "`<img>` is an empty element and does not have a closing tag.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u7-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "Which HTML tag is used to embed video content?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "`<movie>`",
+      "`<media>`",
+      "`<video>`",
+      "`<clip>`"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Metadata and SEO basics helps you structure and style web content.",
+    "correctAnswer": "`<video>`",
+    "explanation": "The `<video>` tag is used to embed video content.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u7-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when using the `<img>` tag?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using an absolute path for `src`.",
+      "Forgetting the `alt` attribute.",
+      "Making the image too small.",
+      "Placing the `<img>` tag inside a `<p>` tag."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Metadata and SEO basics helps you structure and style web content.",
+    "correctAnswer": "Forgetting the `alt` attribute.",
+    "explanation": "Omitting `alt` text reduces accessibility.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u7-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which attribute is used to provide playback controls (like play/pause) for `<video>` and `<audio>` elements?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`play`",
+      "`controls`",
+      "`player`",
+      "`interface`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Metadata and SEO basics helps you structure and style web content.",
+    "correctAnswer": "`controls`",
+    "explanation": "The `controls` attribute adds standard playback controls.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u7-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "To make an image a clickable link, what should you do?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "Add an `href` attribute directly to the `<img>` tag.",
+      "Wrap the `<img>` tag inside an `<a>` tag.",
+      "Use a `<link>` tag with the image `src`.",
+      "It's not possible to make an image a link."
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Metadata and SEO basics helps you structure and style web content.",
+    "correctAnswer": "Wrap the `<img>` tag inside an `<a>` tag.",
+    "explanation": "Nesting `<img>` inside `<a>` makes the image a hyperlink.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u7-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "Which HTML tag is used to embed audio content?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`<sound>`",
+      "`<music>`",
+      "`<audio>`",
+      "`<mp3>`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Metadata and SEO basics helps you structure and style web content.",
+    "correctAnswer": "`<audio>`",
+    "explanation": "The `<audio>` tag is used to embed audio content.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u7-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is it important to optimize image file sizes for web pages?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "Larger images look better on high-resolution screens.",
+      "Smaller image files improve page load times and user experience.",
+      "Image optimization is only necessary for mobile devices.",
+      "Optimized images are easier to style with CSS."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Metadata and SEO basics helps you structure and style web content.",
+    "correctAnswer": "Smaller image files improve page load times and user experience.",
+    "explanation": "Page speed is crucial for user experience and SEO.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u8-q1",
     "type": "multiple_choice",
-    "prompt": "What should Audio and video help you do?",
+    "prompt": "Which HTML tag is used to create a table?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`<grid>`",
+      "`<tab>`",
+      "`<table>`",
+      "`<data>`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Audio and video helps you structure and style web content.",
+    "correctAnswer": "`<table>`",
+    "explanation": "The `<table>` tag defines an HTML table.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u8-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Audio and video?",
+    "prompt": "Which tag defines a row in an HTML table?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "`<td>`",
+      "`<th>`",
+      "`<tr>`",
+      "`<tbody>`"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Audio and video helps you structure and style web content.",
+    "correctAnswer": "`<tr>`",
+    "explanation": "`<tr>` stands for table row.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u8-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in HTML Foundations?",
+    "prompt": "Which tag defines a header cell in an HTML table?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`<td>`",
+      "`<th>`",
+      "`<h1>`",
+      "`<head>`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Audio and video helps you structure and style web content.",
+    "correctAnswer": "`<th>`",
+    "explanation": "`<th>` stands for table header.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u8-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Which tag defines a standard data cell in an HTML table?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`<th>`",
+      "`<td>`",
+      "`<data>`",
+      "`<cell>`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Audio and video helps you structure and style web content.",
+    "correctAnswer": "`<td>`",
+    "explanation": "`<td>` stands for table data.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u8-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "What is the primary purpose of `<th>` tags?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "To make text bold",
+      "To define the table's caption",
+      "To provide semantic headers for columns or rows",
+      "To merge cells"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Audio and video helps you structure and style web content.",
+    "correctAnswer": "To provide semantic headers for columns or rows",
+    "explanation": "`<th>` provides semantic meaning for table headers.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u8-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when using HTML tables?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Not closing the `<table>` tag.",
+      "Using tables for page layout.",
+      "Forgetting to use `<th>` tags.",
+      "Having too many rows."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Audio and video helps you structure and style web content.",
+    "correctAnswer": "Using tables for page layout.",
+    "explanation": "Tables should be used for tabular data, not layout.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u8-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which attribute is used to merge cells across columns in an HTML table?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`rowspan`",
+      "`colspan`",
+      "`mergecols`",
+      "`span`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Audio and video helps you structure and style web content.",
+    "correctAnswer": "`colspan`",
+    "explanation": "`colspan` merges cells horizontally.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u8-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "Which attribute is used to merge cells across rows in an HTML table?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`colspan`",
+      "`rowspan`",
+      "`mergerows`",
+      "`span`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Audio and video helps you structure and style web content.",
+    "correctAnswer": "`rowspan`",
+    "explanation": "`rowspan` merges cells vertically.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u8-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "Which tags are used to group the header content in a table?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`<thead>`",
+      "`<head>`",
+      "`<top>`",
+      "`<th>`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Audio and video helps you structure and style web content.",
+    "correctAnswer": "`<thead>`",
+    "explanation": "`<thead>` groups the header content in an HTML table.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u8-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is it important to use tables semantically (only for tabular data)?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "It makes the table look better by default.",
+      "It improves accessibility for screen readers and helps search engines understand the data structure.",
+      "It makes the table load faster.",
+      "It allows for more complex styling with CSS."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Audio and video helps you structure and style web content.",
+    "correctAnswer": "It improves accessibility for screen readers and helps search engines understand the data structure.",
+    "explanation": "Semantic tables are crucial for accessibility and data interpretation.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u9-q1",
     "type": "multiple_choice",
-    "prompt": "What should Forms introduction help you do?",
+    "prompt": "Which HTML tag is used to create an input field for single-line text?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`<textinput>`",
+      "`<textarea>`",
+      "`<input type=\"text\">`",
+      "`<textfield>`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Forms introduction helps you structure and style web content.",
+    "correctAnswer": "`<input type=\"text\">`",
+    "explanation": "The `<input>` tag with `type=\"text\"` creates a single-line text input.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u9-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Forms introduction?",
+    "prompt": "What is the purpose of the `<form>` tag?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<label for=\"email\">Email</label>`",
-      "`TODO`",
-      "No example needed"
+      "To display a table of data",
+      "To define a section of content",
+      "To create a container for user input elements",
+      "To link external stylesheets"
     ],
-    "correctAnswer": "`<label for=\"email\">Email</label>`",
-    "explanation": "`<label for=\"email\">Email</label>`. Forms introduction helps you structure and style web content.",
+    "correctAnswer": "To create a container for user input elements",
+    "explanation": "The `<form>` tag collects user input.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u9-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in HTML Foundations?",
+    "prompt": "Which attribute is essential for identifying the data from an input field when a form is submitted?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`id`",
+      "`value`",
+      "`name`",
+      "`placeholder`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Forms introduction helps you structure and style web content.",
+    "correctAnswer": "`name`",
+    "explanation": "The `name` attribute is used to reference the form data after submission.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u9-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Which `input` type is used for a password field?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`type=\"text\"`",
+      "`type=\"hidden\"`",
+      "`type=\"password\"`",
+      "`type=\"secret\"`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Forms introduction helps you structure and style web content.",
+    "correctAnswer": "`type=\"password\"`",
+    "explanation": "`type=\"password\"` masks the input characters.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u9-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "Which tag is used for a multi-line text input area?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "`<input type=\"textarea\">`",
+      "`<textarea>`",
+      "`<input type=\"multiline\">`",
+      "`<textblock>`"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Forms introduction helps you structure and style web content.",
+    "correctAnswer": "`<textarea>`",
+    "explanation": "`<textarea>` creates a multi-line text input field.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u9-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when creating HTML forms?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using too many input fields.",
+      "Forgetting the `name` attribute on input fields.",
+      "Not styling the form with CSS.",
+      "Using the `GET` method instead of `POST`."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Forms introduction helps you structure and style web content.",
+    "correctAnswer": "Forgetting the `name` attribute on input fields.",
+    "explanation": "Without a `name`, input data won't be sent.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u9-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which `input` type allows a user to select only one option from a predefined set?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`checkbox`",
+      "`radio`",
+      "`select`",
+      "`option`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Forms introduction helps you structure and style web content.",
+    "correctAnswer": "`radio`",
+    "explanation": "Radio buttons are for single selection from a group.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u9-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "Which attribute of the `<form>` tag specifies where to send the form data when it is submitted?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`method`",
+      "`action`",
+      "`target`",
+      "`onsubmit`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Forms introduction helps you structure and style web content.",
+    "correctAnswer": "`action`",
+    "explanation": "The `action` attribute specifies the URL to send the data to.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u9-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "What is the default `method` for submitting form data if not specified?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`POST`",
+      "`PUT`",
+      "`GET`",
+      "`DELETE`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Forms introduction helps you structure and style web content.",
+    "correctAnswer": "`GET`",
+    "explanation": "`GET` is the default method, appending data to the URL.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u9-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is it important to use the `<label>` tag with form input elements?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "It makes the input field bigger.",
+      "It provides a visual border around the input.",
+      "It improves accessibility by associating text with the input, making it clickable and readable by screen readers.",
+      "It automatically validates the input."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Forms introduction helps you structure and style web content.",
+    "correctAnswer": "It improves accessibility by associating text with the input, making it clickable and readable by screen readers.",
+    "explanation": "`<label>` improves usability and accessibility, especially for screen readers.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u10-q1",
     "type": "multiple_choice",
-    "prompt": "What should HTML validation help you do?",
+    "prompt": "Which HTML5 element is used to represent introductory content or a set of navigational links?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`<div>`",
+      "`<section>`",
+      "`<header>`",
+      "`<top>`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. HTML validation helps you structure and style web content.",
+    "correctAnswer": "`<header>`",
+    "explanation": "The `<header>` element typically contains introductory content or navigation.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u10-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of HTML validation?",
+    "prompt": "Which HTML5 element is used for a section of a page that contains navigation links?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "`<menu>`",
+      "`<nav>`",
+      "`<links>`",
+      "`<navigation>`"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. HTML validation helps you structure and style web content.",
+    "correctAnswer": "`<nav>`",
+    "explanation": "The `<nav>` element is specifically for navigation links.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u10-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in HTML Foundations?",
+    "prompt": "Which HTML5 element represents the dominant content of the `<body>` of a document?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`<content>`",
+      "`<main>`",
+      "`<article>`",
+      "`<bodycontent>`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. HTML validation helps you structure and style web content.",
+    "correctAnswer": "`<main>`",
+    "explanation": "The `<main>` element represents the primary content of the document.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u10-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Which HTML5 element is used to represent a self-contained composition in a document, like a blog post or a news story?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`<section>`",
+      "`<main>`",
+      "`<article>`",
+      "`<post>`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. HTML validation helps you structure and style web content.",
+    "correctAnswer": "`<article>`",
+    "explanation": "An `<article>` should be independently distributable or reusable.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s1-u10-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "Which HTML5 element is used to group related content, typically with a heading?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "`<div>`",
+      "`<group>`",
+      "`<section>`",
+      "`<container>`"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. HTML validation helps you structure and style web content.",
+    "correctAnswer": "`<section>`",
+    "explanation": "The `<section>` element groups related content, often with a heading.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u10-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake regarding semantic HTML5 elements?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using too many semantic elements.",
+      "Using `<div>` for structural parts where a semantic tag would fit.",
+      "Not styling semantic elements with CSS.",
+      "Placing semantic elements inside non-semantic elements."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. HTML validation helps you structure and style web content.",
+    "correctAnswer": "Using `<div>` for structural parts where a semantic tag would fit.",
+    "explanation": "Over-reliance on `<div>` misses semantic benefits.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u10-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which HTML5 element is used for content that is tangentially related to the content around it, like a sidebar?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`<sidebar>`",
+      "`<aside>`",
+      "`<related>`",
+      "`<extra>`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. HTML validation helps you structure and style web content.",
+    "correctAnswer": "`<aside>`",
+    "explanation": "The `<aside>` element represents content indirectly related to the main content.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s1-u10-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "Which HTML5 element is used to represent a footer for its nearest sectioning content or sectioning root?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`<bottom>`",
+      "`<end>`",
+      "`<footer>`",
+      "`<copyright>`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. HTML validation helps you structure and style web content.",
+    "correctAnswer": "`<footer>`",
+    "explanation": "The `<footer>` element typically contains authorship information, copyright data, or related links.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u10-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "Why are semantic HTML5 elements important for accessibility?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "They automatically apply better styling.",
+      "They provide a clearer document outline for screen readers and other assistive technologies.",
+      "They make the page load faster.",
+      "They reduce the amount of HTML code needed."
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. HTML validation helps you structure and style web content.",
+    "correctAnswer": "They provide a clearer document outline for screen readers and other assistive technologies.",
+    "explanation": "Semantic elements help assistive technologies interpret page structure.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s1-u10-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Which of the following is NOT a semantic HTML5 element?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "`<article>`",
+      "`<header>`",
+      "`<div>`",
+      "`<nav>`"
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. HTML validation helps you structure and style web content.",
+    "correctAnswer": "`<div>`",
+    "explanation": "`<div>` is a generic container, not semantic.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u1-q1",
     "type": "multiple_choice",
-    "prompt": "What should Selectors help you do?",
+    "prompt": "What does CSS stand for?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "Creative Style Sheets",
+      "Computer Style Syntax",
+      "Cascading Style Sheets",
+      "Colorful Styling System"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Selectors helps you structure and style web content.",
+    "correctAnswer": "Cascading Style Sheets",
+    "explanation": "CSS is a stylesheet language.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u1-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Selectors?",
+    "prompt": "What is the primary purpose of CSS?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "To structure content on web pages",
+      "To add interactivity to web pages",
+      "To style the presentation of web pages",
+      "To manage server-side logic"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Selectors helps you structure and style web content.",
+    "correctAnswer": "To style the presentation of web pages",
+    "explanation": "CSS controls the visual appearance of HTML elements.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u1-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in CSS Foundations?",
+    "prompt": "Which of the following is NOT a way to include CSS in an HTML document?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "Inline styles",
+      "Internal stylesheet",
+      "External stylesheet",
+      "Embedded stylesheet in the `<body>`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Selectors helps you structure and style web content.",
+    "correctAnswer": "Embedded stylesheet in the `<body>`",
+    "explanation": "Internal stylesheets are typically in the `<head>`, not `<body>`.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u1-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Which HTML tag is used to link an external stylesheet?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`<style>`",
+      "`<css>`",
+      "`<link>`",
+      "`<stylesheet>`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Selectors helps you structure and style web content.",
+    "correctAnswer": "`<link>`",
+    "explanation": "The `<link>` tag is used to link external resources, including CSS.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u1-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "Where is an internal stylesheet typically placed in an HTML document?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "In the `<body>` section",
+      "In the `<footer>` section",
+      "In the `<head>` section",
+      "After the `</html>` tag"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Selectors helps you structure and style web content.",
+    "correctAnswer": "In the `<head>` section",
+    "explanation": "Internal styles are defined within a `<style>` tag in the `<head>`.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u1-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when trying to style web pages?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using too much CSS.",
+      "Trying to style elements directly in HTML without CSS.",
+      "Not using enough CSS.",
+      "Using external stylesheets."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Selectors helps you structure and style web content.",
+    "correctAnswer": "Trying to style elements directly in HTML without CSS.",
+    "explanation": "HTML is for structure, CSS is for style.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u1-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which property is used to change the text color of an element?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`text-color`",
+      "`font-color`",
+      "`color`",
+      "`foreground-color`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Selectors helps you structure and style web content.",
+    "correctAnswer": "`color`",
+    "explanation": "The `color` property sets the foreground color of an element.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u1-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "Which property is used to change the background color of an element?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`background`",
+      "`bg-color`",
+      "`background-color`",
+      "`color-background`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Selectors helps you structure and style web content.",
+    "correctAnswer": "`background-color`",
+    "explanation": "The `background-color` property sets the background color.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u1-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "What is the correct CSS syntax for selecting all `<p>` elements and setting their text color to blue?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`p { text-color: blue; }`",
+      "`p.color = blue;`",
+      "`p { color: blue; }`",
+      "`<p style=\"color: blue;\">`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Selectors helps you structure and style web content.",
+    "correctAnswer": "`p { color: blue; }`",
+    "explanation": "`p` is the selector, and `color: blue;` is the declaration.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u1-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is it generally recommended to use external stylesheets for larger projects?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "External stylesheets load faster.",
+      "External stylesheets allow for easier maintenance and consistent styling across multiple pages.",
+      "External stylesheets are required for responsive design.",
+      "External stylesheets are more secure."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Selectors helps you structure and style web content.",
+    "correctAnswer": "External stylesheets allow for easier maintenance and consistent styling across multiple pages.",
+    "explanation": "Centralizing styles makes updates and consistency much easier.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u2-q1",
     "type": "multiple_choice",
-    "prompt": "What should Specificity help you do?",
+    "prompt": "Which CSS selector targets all elements of a specific HTML tag, like all `<p>` tags?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "Class selector",
+      "ID selector",
+      "Type selector",
+      "Universal selector"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Specificity helps you structure and style web content.",
+    "correctAnswer": "Type selector",
+    "explanation": "A type selector (e.g., `p`) targets all instances of that HTML tag.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u2-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Specificity?",
+    "prompt": "Which symbol is used to define a class selector in CSS?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "`#`",
+      "`.`",
+      "`*`",
+      "`:`"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Specificity helps you structure and style web content.",
+    "correctAnswer": "`.`",
+    "explanation": "The dot (`.`) precedes a class name.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u2-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in CSS Foundations?",
+    "prompt": "Which symbol is used to define an ID selector in CSS?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`.`",
+      "`#`",
+      "`*`",
+      "`:`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Specificity helps you structure and style web content.",
+    "correctAnswer": "`#`",
+    "explanation": "The hash (`#`) precedes an ID name.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u2-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Can multiple HTML elements on a single page share the same class name?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "No, class names must be unique.",
+      "Yes, multiple elements can have the same class name.",
+      "Only if they are different types of elements.",
+      "Only if they are nested within each other."
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Specificity helps you structure and style web content.",
+    "correctAnswer": "Yes, multiple elements can have the same class name.",
+    "explanation": "Classes are designed for reusable styles across multiple elements.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u2-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "Can multiple HTML elements on a single page share the same ID?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "Yes, multiple elements can have the same ID.",
+      "No, IDs must be unique within an HTML document.",
+      "Only if they are different types of elements.",
+      "Only if they are nested within each other."
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Specificity helps you structure and style web content.",
+    "correctAnswer": "No, IDs must be unique within an HTML document.",
+    "explanation": "IDs are unique identifiers for a single element.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u2-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when using CSS selectors?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using type selectors too often.",
+      "Using ID selectors for non-unique elements.",
+      "Not using enough selectors.",
+      "Using too many class selectors."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Specificity helps you structure and style web content.",
+    "correctAnswer": "Using ID selectors for non-unique elements.",
+    "explanation": "IDs should be unique; classes are for reusable styles.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u2-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which CSS rule correctly targets an element with `id=\"main-header\"`?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`.main-header { color: blue; }`",
+      "`main-header { color: blue; }`",
+      "`#main-header { color: blue; }`",
+      "`id.main-header { color: blue; }`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Specificity helps you structure and style web content.",
+    "correctAnswer": "`#main-header { color: blue; }`",
+    "explanation": "The `#` symbol is used for ID selectors.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u2-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "Which CSS rule correctly targets elements with `class=\"highlight\"`?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`highlight { background-color: yellow; }`",
+      "`.highlight { background-color: yellow; }`",
+      "`#highlight { background-color: yellow; }`",
+      "`class.highlight { background-color: yellow; }`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Specificity helps you structure and style web content.",
+    "correctAnswer": "`.highlight { background-color: yellow; }`",
+    "explanation": "The `.` symbol is used for class selectors.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u2-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "If an element has both a class and an ID, and both have conflicting styles for the same property, which style will generally apply?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "The class style.",
+      "The ID style.",
+      "The style defined last in the stylesheet.",
+      "Neither, it will cause an error."
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Specificity helps you structure and style web content.",
+    "correctAnswer": "The ID style.",
+    "explanation": "ID selectors have higher specificity than class selectors.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u2-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is it generally better to use class selectors over ID selectors for styling whenever possible?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "Class selectors are faster to process.",
+      "Class selectors allow for more reusable and flexible styling.",
+      "ID selectors are deprecated in modern CSS.",
+      "Class selectors have higher specificity."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Specificity helps you structure and style web content.",
+    "correctAnswer": "Class selectors allow for more reusable and flexible styling.",
+    "explanation": "Classes promote reusability and maintainability in CSS.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u3-q1",
     "type": "multiple_choice",
-    "prompt": "What should Cascade order help you do?",
+    "prompt": "Which of the following is NOT a component of the CSS Box Model?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "Content",
+      "Padding",
+      "Background",
+      "Margin"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Cascade order helps you structure and style web content.",
+    "correctAnswer": "Background",
+    "explanation": "Background is a property, not a component of the box model structure.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u3-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Cascade order?",
+    "prompt": "What is the innermost part of the CSS Box Model, where the actual content of the element is displayed?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "Padding",
+      "Border",
+      "Content",
+      "Margin"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Cascade order helps you structure and style web content.",
+    "correctAnswer": "Content",
+    "explanation": "The content area holds the element's actual content.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u3-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in CSS Foundations?",
+    "prompt": "Which part of the box model creates space between the element's content and its border?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "Margin",
+      "Padding",
+      "Outline",
+      "Gutter"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Cascade order helps you structure and style web content.",
+    "correctAnswer": "Padding",
+    "explanation": "Padding is the inner spacing.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u3-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Which part of the box model creates space outside the element's border, separating it from other elements?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "Padding",
+      "Border",
+      "Margin",
+      "Content"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Cascade order helps you structure and style web content.",
+    "correctAnswer": "Margin",
+    "explanation": "Margin is the outer spacing.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u3-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "What is the default `box-sizing` value in CSS?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "`border-box`",
+      "`padding-box`",
+      "`content-box`",
+      "`margin-box`"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Cascade order helps you structure and style web content.",
+    "correctAnswer": "`content-box`",
+    "explanation": "`content-box` means the width and height only apply to the content area.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u3-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when working with the CSS Box Model?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Forgetting to set a border.",
+      "Confusing padding and margin.",
+      "Not using enough content.",
+      "Setting all values to zero."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Cascade order helps you structure and style web content.",
+    "correctAnswer": "Confusing padding and margin.",
+    "explanation": "Misunderstanding padding vs. margin is a frequent error.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u3-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "If an element has `width: 100px; padding: 10px; border: 2px solid black;`, and `box-sizing: content-box;`, what will be its total rendered width?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`100px`",
+      "`110px`",
+      "`124px`",
+      "`112px`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Cascade order helps you structure and style web content.",
+    "correctAnswer": "`124px`",
+    "explanation": "100px (content) + 10px (left padding) + 10px (right padding) + 2px (left border) + 2px (right border) = 124px.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u3-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "If an element has `width: 100px; padding: 10px; border: 2px solid black;`, and `box-sizing: border-box;`, what will be its total rendered width?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`100px`",
+      "`110px`",
+      "`124px`",
+      "`112px`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Cascade order helps you structure and style web content.",
+    "correctAnswer": "`100px`",
+    "explanation": "With `border-box`, width includes padding and border.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u3-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "Which CSS property can be used to set the margin on all four sides of an element at once?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`margin-all`",
+      "`margin-sides`",
+      "`margin`",
+      "`margin-box`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Cascade order helps you structure and style web content.",
+    "correctAnswer": "`margin`",
+    "explanation": "The `margin` shorthand property sets all four margins.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u3-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is `box-sizing: border-box;` often preferred in modern CSS layouts?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "It makes elements smaller.",
+      "It simplifies layout calculations by including padding and border within the specified width/height.",
+      "It makes borders invisible.",
+      "It is required for responsive design."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Cascade order helps you structure and style web content.",
+    "correctAnswer": "It simplifies layout calculations by including padding and border within the specified width/height.",
+    "explanation": "It makes element sizing more intuitive and predictable.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u4-q1",
     "type": "multiple_choice",
-    "prompt": "What should Inheritance help you do?",
+    "prompt": "Which CSS property is used to set the color of text?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`text-color`",
+      "`font-color`",
+      "`color`",
+      "`foreground`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Inheritance helps you structure and style web content.",
+    "correctAnswer": "`color`",
+    "explanation": "The `color` property sets the text color.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u4-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Inheritance?",
+    "prompt": "Which CSS property is used to set the background color of an element?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "`bg-color`",
+      "`background`",
+      "`background-color`",
+      "`color-background`"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Inheritance helps you structure and style web content.",
+    "correctAnswer": "`background-color`",
+    "explanation": "`background-color` specifically sets the background color.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u4-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in CSS Foundations?",
+    "prompt": "Which of the following is a valid hexadecimal color code?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`rgb(255,0,0)`",
+      "`red`",
+      "`#00FF00`",
+      "`hsl(120, 100%, 50%)`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Inheritance helps you structure and style web content.",
+    "correctAnswer": "`#00FF00`",
+    "explanation": "Hex codes start with `#` followed by 6 (or 3) hex characters.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u4-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "What does the 'A' in RGBA stand for?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "Alignment",
+      "Alpha (opacity)",
+      "Accent",
+      "Area"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Inheritance helps you structure and style web content.",
+    "correctAnswer": "Alpha (opacity)",
+    "explanation": "Alpha controls the opacity of the color.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u4-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "How would you set a background image for an element?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "`background: url('image.jpg');`",
+      "`image: url('image.jpg');`",
+      "`background-src: 'image.jpg';`",
+      "`bg-image: 'image.jpg';`"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Inheritance helps you structure and style web content.",
+    "correctAnswer": "`background: url('image.jpg');`",
+    "explanation": "`background` or `background-image` property with `url()` function.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u4-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when choosing colors for a website?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using too many colors.",
+      "Using colors that clash with each other.",
+      "Using colors with poor contrast between text and background.",
+      "Not using enough colors."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Inheritance helps you structure and style web content.",
+    "correctAnswer": "Using colors with poor contrast between text and background.",
+    "explanation": "Poor contrast severely impacts readability and accessibility.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u4-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which CSS property controls how a background image repeats?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`background-repeat`",
+      "`background-tile`",
+      "`image-repeat`",
+      "`repeat-image`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Inheritance helps you structure and style web content.",
+    "correctAnswer": "`background-repeat`",
+    "explanation": "`background-repeat` can be `repeat`, `repeat-x`, `repeat-y`, or `no-repeat`.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u4-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "How can you make a background image stay in a fixed position while the rest of the page scrolls?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`background-attachment: scroll;`",
+      "`background-attachment: fixed;`",
+      "`background-position: fixed;`",
+      "`background-scroll: none;`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Inheritance helps you structure and style web content.",
+    "correctAnswer": "`background-attachment: fixed;`",
+    "explanation": "`background-attachment: fixed;` keeps the background image static.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u4-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "Which color value represents pure black?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`#FFFFFF`",
+      "`rgb(255, 255, 255)`",
+      "`#000000`",
+      "`rgb(1, 1, 1)`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Inheritance helps you structure and style web content.",
+    "correctAnswer": "`#000000`",
+    "explanation": "`#000000` is the hex code for black.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u4-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is it important to consider accessibility when choosing colors for a website?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "Accessible colors are more visually appealing.",
+      "Accessible colors ensure that content is readable by all users, including those with visual impairments.",
+      "Accessible colors make the website load faster.",
+      "Accessible colors are easier to implement with CSS."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Inheritance helps you structure and style web content.",
+    "correctAnswer": "Accessible colors ensure that content is readable by all users, including those with visual impairments.",
+    "explanation": "Color contrast is a key factor in web accessibility.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u5-q1",
     "type": "multiple_choice",
-    "prompt": "What should Units and values help you do?",
+    "prompt": "Which CSS property is used to change the font of an element?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`text-font`",
+      "`font-style`",
+      "`font-family`",
+      "`typeface`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Units and values helps you structure and style web content.",
+    "correctAnswer": "`font-family`",
+    "explanation": "`font-family` specifies the font for an element.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u5-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Units and values?",
+    "prompt": "Which CSS property controls the size of the text?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "`text-size`",
+      "`font-size`",
+      "`size`",
+      "`text-height`"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Units and values helps you structure and style web content.",
+    "correctAnswer": "`font-size`",
+    "explanation": "`font-size` sets the size of the font.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u5-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in CSS Foundations?",
+    "prompt": "How can you make text bold using CSS?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`font-style: bold;`",
+      "`text-weight: bold;`",
+      "`font-weight: bold;`",
+      "`text-decoration: bold;`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Units and values helps you structure and style web content.",
+    "correctAnswer": "`font-weight: bold;`",
+    "explanation": "`font-weight` controls the boldness of text.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u5-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Which CSS property is used to align text horizontally (e.g., left, center, right)?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`align-text`",
+      "`text-position`",
+      "`text-align`",
+      "`horizontal-align`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Units and values helps you structure and style web content.",
+    "correctAnswer": "`text-align`",
+    "explanation": "`text-align` sets the horizontal alignment of text.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u5-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "Which CSS property is used to add or remove underlines from text?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "`text-line`",
+      "`text-decoration`",
+      "`underline`",
+      "`line-style`"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Units and values helps you structure and style web content.",
+    "correctAnswer": "`text-decoration`",
+    "explanation": "`text-decoration` can set `underline`, `overline`, `line-through`, or `none`.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u5-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when setting `font-size` in CSS?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using `em` units instead of `px`.",
+      "Using pixel values exclusively, limiting user scalability.",
+      "Not setting a `font-size` at all.",
+      "Setting `font-size` too small."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Units and values helps you structure and style web content.",
+    "correctAnswer": "Using pixel values exclusively, limiting user scalability.",
+    "explanation": "Relative units like `em` or `rem` are better for accessibility.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u5-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which CSS property controls the spacing between lines of text?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`line-spacing`",
+      "`text-spacing`",
+      "`line-height`",
+      "`vertical-align`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Units and values helps you structure and style web content.",
+    "correctAnswer": "`line-height`",
+    "explanation": "`line-height` sets the height of a line of text.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u5-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "How can you make text uppercase using CSS?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`text-transform: uppercase;`",
+      "`font-case: upper;`",
+      "`text-style: uppercase;`",
+      "`transform: uppercase;`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Units and values helps you structure and style web content.",
+    "correctAnswer": "`text-transform: uppercase;`",
+    "explanation": "`text-transform` changes the capitalization of text.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u5-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "Which CSS property is used to indent the first line of text in a block?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`text-indent`",
+      "`first-line-indent`",
+      "`padding-left`",
+      "`margin-left`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Units and values helps you structure and style web content.",
+    "correctAnswer": "`text-indent`",
+    "explanation": "`text-indent` indents the first line of text.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u5-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is it important to consider `line-height` for readability?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "A larger `line-height` makes text appear smaller.",
+      "Appropriate `line-height` improves the visual separation of lines, making text easier to read.",
+      "`line-height` only affects images.",
+      "`line-height` is primarily for vertical alignment of elements."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Units and values helps you structure and style web content.",
+    "correctAnswer": "Appropriate `line-height` improves the visual separation of lines, making text easier to read.",
+    "explanation": "Good line spacing prevents text from feeling cramped.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u6-q1",
     "type": "multiple_choice",
-    "prompt": "What should Colors and opacity help you do?",
+    "prompt": "Which `display` value causes an element to start on a new line and take up the full available width?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`inline`",
+      "`inline-block`",
+      "`block`",
+      "`flex`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Colors and opacity helps you structure and style web content.",
+    "correctAnswer": "`block`",
+    "explanation": "Block-level elements behave this way.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u6-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Colors and opacity?",
+    "prompt": "Which `display` value causes an element to sit on the same line as surrounding content and only take up necessary width?",
     "options": [
-      "`<div>Everything</div>`",
-      "`color: #1cb0f6`",
-      "`TODO`",
-      "No example needed"
+      "`block`",
+      "`inline`",
+      "`inline-block`",
+      "`grid`"
     ],
-    "correctAnswer": "`color: #1cb0f6`",
-    "explanation": "`color: #1cb0f6`. Colors and opacity helps you structure and style web content.",
+    "correctAnswer": "`inline`",
+    "explanation": "Inline elements do not force a new line.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u6-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in CSS Foundations?",
+    "prompt": "Which `display` value allows an element to sit on the same line as others, but also allows setting width and height?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`block`",
+      "`inline`",
+      "`inline-block`",
+      "`none`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Colors and opacity helps you structure and style web content.",
+    "correctAnswer": "`inline-block`",
+    "explanation": "`inline-block` offers a hybrid behavior.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u6-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Which of the following HTML elements is typically a block-level element by default?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`<span>`",
+      "`<a>`",
+      "`<div>`",
+      "`<img>`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Colors and opacity helps you structure and style web content.",
+    "correctAnswer": "`<div>`",
+    "explanation": "`<div>` is a common block-level container.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u6-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "Which of the following HTML elements is typically an inline element by default?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "`<p>`",
+      "`<h1>`",
+      "`<span>`",
+      "`<ul>`"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Colors and opacity helps you structure and style web content.",
+    "correctAnswer": "`<span>`",
+    "explanation": "`<span>` is a generic inline container.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u6-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when using the `display` property?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Setting `display: block;` on all elements.",
+      "Trying to apply `width` or `height` to an `inline` element.",
+      "Not using `display: none;` enough.",
+      "Using `display: inline-block;` for everything."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Colors and opacity helps you structure and style web content.",
+    "correctAnswer": "Trying to apply `width` or `height` to an `inline` element.",
+    "explanation": "`width` and `height` properties do not affect inline elements.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u6-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "If you set `display: none;` on an element, what happens to it?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "It becomes invisible but still takes up space.",
+      "It is completely removed from the document flow and is not rendered.",
+      "Its opacity is set to 0.",
+      "It becomes a block-level element."
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Colors and opacity helps you structure and style web content.",
+    "correctAnswer": "It is completely removed from the document flow and is not rendered.",
+    "explanation": "`display: none;` hides the element entirely.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u6-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "To center a block-level element horizontally on a page, what CSS properties would you typically use?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`text-align: center;`",
+      "`margin: auto;` (with a defined width)",
+      "`display: inline-block;`",
+      "`position: absolute;`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Colors and opacity helps you structure and style web content.",
+    "correctAnswer": "`margin: auto;` (with a defined width)",
+    "explanation": "`margin: auto;` on left and right centers a block element with a set width.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u6-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "Which `display` value is often used to create flexible and responsive layouts?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`block`",
+      "`inline`",
+      "`flex`",
+      "`table`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Colors and opacity helps you structure and style web content.",
+    "correctAnswer": "`flex`",
+    "explanation": "`display: flex;` is key for Flexbox layouts.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u6-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is understanding the difference between `block` and `inline` elements crucial for layout?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "It affects the font size of the text.",
+      "It determines how elements interact with each other in terms of space and flow.",
+      "It changes the color of the elements.",
+      "It is only relevant for mobile devices."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Colors and opacity helps you structure and style web content.",
+    "correctAnswer": "It determines how elements interact with each other in terms of space and flow.",
+    "explanation": "It dictates how elements occupy space and break lines.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u7-q1",
     "type": "multiple_choice",
-    "prompt": "What should Typography basics help you do?",
+    "prompt": "What is the default value of the `position` property in CSS?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`relative`",
+      "`absolute`",
+      "`static`",
+      "`fixed`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Typography basics helps you structure and style web content.",
+    "correctAnswer": "`static`",
+    "explanation": "Elements are positioned according to the normal flow by default.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u7-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Typography basics?",
+    "prompt": "Which `position` value allows you to move an element relative to its normal position, leaving a gap where it would have been?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "`absolute`",
+      "`fixed`",
+      "`relative`",
+      "`static`"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Typography basics helps you structure and style web content.",
+    "correctAnswer": "`relative`",
+    "explanation": "`relative` positioning shifts an element from its original spot.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u7-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in CSS Foundations?",
+    "prompt": "Which `position` value removes an element from the normal document flow and positions it relative to its nearest *positioned* ancestor?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`relative`",
+      "`absolute`",
+      "`fixed`",
+      "`static`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Typography basics helps you structure and style web content.",
+    "correctAnswer": "`absolute`",
+    "explanation": "`absolute` elements are positioned relative to a non-static parent.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u7-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Which `position` value keeps an element in the same place on the screen, even when the user scrolls?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`absolute`",
+      "`relative`",
+      "`fixed`",
+      "`sticky`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Typography basics helps you structure and style web content.",
+    "correctAnswer": "`fixed`",
+    "explanation": "`fixed` elements are positioned relative to the viewport.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u7-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "What happens if you apply `top: 20px;` to an element with `position: static;`?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "The element moves 20px down.",
+      "The element moves 20px up.",
+      "Nothing happens.",
+      "The element becomes absolutely positioned."
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Typography basics helps you structure and style web content.",
+    "correctAnswer": "Nothing happens.",
+    "explanation": "`top`, `bottom`, `left`, `right` only work with non-static positioning.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u7-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when using CSS positioning?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using `position: relative;` too often.",
+      "Forgetting to set a `position` value other than `static` before using `top`, `left`, etc.",
+      "Using `position: fixed;` for elements that should scroll.",
+      "Not understanding `z-index`."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Typography basics helps you structure and style web content.",
+    "correctAnswer": "Forgetting to set a `position` value other than `static` before using `top`, `left`, etc.",
+    "explanation": "This is a fundamental concept for positioning to work.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u7-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "If an absolutely positioned element has no positioned ancestors, where will it be positioned relative to?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "The `<html>` element",
+      "The `<body>` element",
+      "The nearest `<div>` element",
+      "Its original `static` position"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Typography basics helps you structure and style web content.",
+    "correctAnswer": "The `<body>` element",
+    "explanation": "It defaults to the initial containing block, which is the `<body>`.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u7-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "Which property controls the stacking order of positioned elements (which element appears on top)?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`order`",
+      "`stack-index`",
+      "`z-index`",
+      "`layer`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Typography basics helps you structure and style web content.",
+    "correctAnswer": "`z-index`",
+    "explanation": "`z-index` specifies the stack order of an element.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u7-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "Which `position` value behaves like `relative` until a certain scroll point, then becomes `fixed`?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`fixed`",
+      "`absolute`",
+      "`sticky`",
+      "`dynamic`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Typography basics helps you structure and style web content.",
+    "correctAnswer": "`sticky`",
+    "explanation": "`sticky` elements toggle between relative and fixed.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u7-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is understanding `position: absolute;` and its relationship with `position: relative;` on parent elements important?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "It makes elements load faster.",
+      "It allows for precise placement of child elements within a specific parent container.",
+      "It is only used for responsive design.",
+      "It prevents elements from overlapping."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Typography basics helps you structure and style web content.",
+    "correctAnswer": "It allows for precise placement of child elements within a specific parent container.",
+    "explanation": "`relative` on parent creates a positioning context for `absolute` children.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u8-q1",
     "type": "multiple_choice",
-    "prompt": "What should Custom properties help you do?",
+    "prompt": "What CSS property is used to enable Flexbox on a container?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`layout: flex;`",
+      "`display: flex;`",
+      "`flex-mode: on;`",
+      "`align: flex;`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Custom properties helps you structure and style web content.",
+    "correctAnswer": "`display: flex;`",
+    "explanation": "`display: flex;` turns an element into a flex container.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u8-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Custom properties?",
+    "prompt": "What are the direct children of a flex container called?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "Flex parents",
+      "Flex children",
+      "Flex items",
+      "Flex boxes"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Custom properties helps you structure and style web content.",
+    "correctAnswer": "Flex items",
+    "explanation": "Direct children become flex items.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u8-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in CSS Foundations?",
+    "prompt": "Which property defines the direction flex items are placed in the flex container?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`flex-align`",
+      "`flex-wrap`",
+      "`flex-direction`",
+      "`justify-content`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Custom properties helps you structure and style web content.",
+    "correctAnswer": "`flex-direction`",
+    "explanation": "`flex-direction` can be `row`, `row-reverse`, `column`, `column-reverse`.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u8-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "How can you center flex items horizontally within a flex container?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`align-items: center;`",
+      "`justify-content: center;`",
+      "`text-align: center;`",
+      "`margin: auto;`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Custom properties helps you structure and style web content.",
+    "correctAnswer": "`justify-content: center;`",
+    "explanation": "`justify-content` aligns items along the main axis.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u8-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "How can you center flex items vertically within a flex container?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "`justify-content: center;`",
+      "`align-items: center;`",
+      "`vertical-align: middle;`",
+      "`flex-align: center;`"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Custom properties helps you structure and style web content.",
+    "correctAnswer": "`align-items: center;`",
+    "explanation": "`align-items` aligns items along the cross axis.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u8-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when using Flexbox?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Setting `display: flex;` on flex items.",
+      "Forgetting to set `display: flex;` on the parent container.",
+      "Using too many flex items.",
+      "Not using `flex-wrap`."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Custom properties helps you structure and style web content.",
+    "correctAnswer": "Forgetting to set `display: flex;` on the parent container.",
+    "explanation": "The parent must be a flex container for flex properties to work.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u8-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "Which property allows flex items to wrap onto multiple lines if there isn't enough space?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`flex-direction`",
+      "`flex-flow`",
+      "`flex-wrap`",
+      "`overflow`"
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Custom properties helps you structure and style web content.",
+    "correctAnswer": "`flex-wrap`",
+    "explanation": "`flex-wrap` controls whether flex items are forced onto one line or can wrap.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u8-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "Which property is a shorthand for `flex-direction` and `flex-wrap`?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`flex-layout`",
+      "`flex-flow`",
+      "`flex-shorthand`",
+      "`flex-group`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Custom properties helps you structure and style web content.",
+    "correctAnswer": "`flex-flow`",
+    "explanation": "`flex-flow` combines these two properties.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u8-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "If you want flex items to take up equal available space, which property would you apply to the flex items?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "`flex-grow: 1;`",
+      "`flex-basis: auto;`",
+      "`flex-shrink: 1;`",
+      "`flex-equal: true;`"
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Custom properties helps you structure and style web content.",
+    "correctAnswer": "`flex-grow: 1;`",
+    "explanation": "`flex-grow` specifies how much a flex item will grow relative to the rest of the flex items.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u8-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is Flexbox considered a powerful tool for responsive web design?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "It automatically adjusts font sizes.",
+      "It provides a flexible and efficient way to lay out, align, and distribute space among items in a container, adapting to different screen sizes.",
+      "It only works on mobile devices.",
+      "It replaces the need for media queries."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Custom properties helps you structure and style web content.",
+    "correctAnswer": "It provides a flexible and efficient way to lay out, align, and distribute space among items in a container, adapting to different screen sizes.",
+    "explanation": "Flexbox simplifies creating adaptable layouts.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u9-q1",
     "type": "multiple_choice",
-    "prompt": "What should Reset and normalize CSS help you do?",
+    "prompt": "What CSS property is used to enable Grid Layout on a container?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "`layout: grid;`",
+      "`display: grid;`",
+      "`grid-mode: on;`",
+      "`align: grid;`"
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Reset and normalize CSS helps you structure and style web content.",
+    "correctAnswer": "`display: grid;`",
+    "explanation": "`display: grid;` turns an element into a grid container.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u9-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Reset and normalize CSS?",
+    "prompt": "CSS Grid is primarily a _________ layout system.",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "One-dimensional",
+      "Two-dimensional",
+      "Three-dimensional",
+      "Linear"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Reset and normalize CSS helps you structure and style web content.",
+    "correctAnswer": "Two-dimensional",
+    "explanation": "Grid allows control over both rows and columns.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u9-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in CSS Foundations?",
+    "prompt": "Which property defines the number and size of columns in a grid layout?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`grid-columns`",
+      "`grid-template-columns`",
+      "`columns`",
+      "`template-columns`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Reset and normalize CSS helps you structure and style web content.",
+    "correctAnswer": "`grid-template-columns`",
+    "explanation": "`grid-template-columns` defines the column tracks.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u9-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "Which property defines the number and size of rows in a grid layout?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`grid-rows`",
+      "`grid-template-rows`",
+      "`rows`",
+      "`template-rows`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Reset and normalize CSS helps you structure and style web content.",
+    "correctAnswer": "`grid-template-rows`",
+    "explanation": "`grid-template-rows` defines the row tracks.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u9-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "What unit in CSS Grid represents a fraction of the available space?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "`px`",
+      "`em`",
+      "`fr`",
+      "`%`"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Reset and normalize CSS helps you structure and style web content.",
+    "correctAnswer": "`fr`",
+    "explanation": "The `fr` unit distributes available space proportionally.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u9-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when learning CSS Grid?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using `display: flex;` instead of `display: grid;`.",
+      "Confusing its purpose with Flexbox.",
+      "Not defining any grid rows.",
+      "Using too many grid items."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Reset and normalize CSS helps you structure and style web content.",
+    "correctAnswer": "Confusing its purpose with Flexbox.",
+    "explanation": "Grid is for 2D layouts, Flexbox for 1D.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u9-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "How can you place a grid item to start at column line 2 and end at column line 4?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "`grid-column: 2 / 4;`",
+      "`grid-column-start: 2; grid-column-end: 4;`",
+      "`column-span: 2;`",
+      "Both a and b are correct."
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Reset and normalize CSS helps you structure and style web content.",
+    "correctAnswer": "`grid-column: 2 / 4;`",
+    "explanation": "Both are valid ways to specify grid item placement.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u9-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "Which property is used to define the gap between grid rows and columns?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`grid-spacing`",
+      "`grid-gap`",
+      "`gap` (shorthand for `row-gap` and `column-gap`)",
+      "Both b and c are correct."
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Reset and normalize CSS helps you structure and style web content.",
+    "correctAnswer": "`grid-gap`",
+    "explanation": "`grid-gap` is the older syntax, `gap` is the modern shorthand.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u9-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "If you define `grid-template-columns: 1fr 2fr 1fr;`, how will the three columns be sized?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "All three columns will be of equal width.",
+      "The first and third columns will be equal, and the second will be twice as wide.",
+      "The first column will be the widest, and the third the narrowest.",
+      "The columns will have fixed widths."
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Reset and normalize CSS helps you structure and style web content.",
+    "correctAnswer": "The first and third columns will be equal, and the second will be twice as wide.",
+    "explanation": "`fr` units distribute space proportionally.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u9-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why is CSS Grid considered a powerful tool for overall page layout?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "It only works for simple, single-column designs.",
+      "It provides a robust and intuitive way to create complex, responsive two-dimensional layouts for entire web pages.",
+      "It replaces the need for all other CSS properties.",
+      "It is only useful for small components, not full pages."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Reset and normalize CSS helps you structure and style web content.",
+    "correctAnswer": "It provides a robust and intuitive way to create complex, responsive two-dimensional layouts for entire web pages.",
+    "explanation": "Grid is ideal for defining the main structure of a page.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u10-q1",
     "type": "multiple_choice",
-    "prompt": "What should Debugging styles help you do?",
+    "prompt": "What is the primary goal of responsive web design?",
     "options": [
-      "structure and style web content",
-      "Pick random syntax",
-      "Rename files only",
-      "Change UI color only"
+      "To make websites load faster.",
+      "To ensure websites look and function well on all devices and screen sizes.",
+      "To use only CSS Grid for layout.",
+      "To eliminate the need for JavaScript."
     ],
-    "correctAnswer": "structure and style web content",
-    "explanation": "structure and style web content. Debugging styles helps you structure and style web content.",
+    "correctAnswer": "To ensure websites look and function well on all devices and screen sizes.",
+    "explanation": "Responsive design adapts to the user's environment.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u10-q2",
     "type": "multiple_choice",
-    "prompt": "Best example of Debugging styles?",
+    "prompt": "Which CSS feature is essential for creating responsive layouts based on screen size?",
     "options": [
-      "`<div>Everything</div>`",
-      "`<main><h1>Title</h1></main>`",
-      "`TODO`",
-      "No example needed"
+      "Flexbox",
+      "CSS Grid",
+      "Media Queries",
+      "The `display` property"
     ],
-    "correctAnswer": "`<main><h1>Title</h1></main>`",
-    "explanation": "`<main><h1>Title</h1></main>`. Debugging styles helps you structure and style web content.",
+    "correctAnswer": "Media Queries",
+    "explanation": "Media queries apply styles conditionally based on device characteristics.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u10-q3",
     "type": "multiple_choice",
-    "prompt": "Why learn it in CSS Foundations?",
+    "prompt": "What is the syntax for defining a media query in CSS?",
     "options": [
-      "It skips basics",
-      "It hides errors",
-      "It supports later skills",
-      "It replaces practice"
+      "`@media-query`",
+      "`@media`",
+      "`@responsive`",
+      "`@screen`"
     ],
-    "correctAnswer": "It supports later skills",
-    "explanation": "It supports later skills. Debugging styles helps you structure and style web content.",
+    "correctAnswer": "`@media`",
+    "explanation": "The `@media` rule introduces a media query.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u10-q4",
     "type": "multiple_choice",
-    "prompt": "What should you check first?",
+    "prompt": "If you want a style to apply only when the screen width is 600 pixels or less, which media query would you use?",
     "options": [
-      "The longest syntax",
-      "The prettiest option",
-      "The final project",
-      "The purpose"
+      "`@media (min-width: 600px)`",
+      "`@media (max-width: 600px)`",
+      "`@media (width: 600px)`",
+      "`@media (screen-width < 600px)`"
     ],
-    "correctAnswer": "The purpose",
-    "explanation": "The purpose. Debugging styles helps you structure and style web content.",
+    "correctAnswer": "`@media (max-width: 600px)`",
+    "explanation": "`max-width` targets screens up to that size.",
     "difficulty": "easy"
   },
   {
     "id": "html-css-s2-u10-q5",
     "type": "multiple_choice",
-    "prompt": "Which habit is safest?",
+    "prompt": "If you want a style to apply only when the screen width is 768 pixels or more, which media query would you use?",
     "options": [
-      "Use one clear example",
-      "Copy blindly",
-      "Ignore feedback",
-      "Guess the answer"
+      "`@media (min-width: 768px)`",
+      "`@media (max-width: 768px)`",
+      "`@media (width: 768px)`",
+      "`@media (screen-width > 768px)`"
     ],
-    "correctAnswer": "Use one clear example",
-    "explanation": "Use one clear example. Debugging styles helps you structure and style web content.",
+    "correctAnswer": "`@media (min-width: 768px)`",
+    "explanation": "`min-width` targets screens from that size upwards.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u10-q6",
     "type": "multiple_choice",
-    "prompt": "Common beginner mistake?",
+    "prompt": "What is a common beginner mistake when approaching responsive design?",
     "options": [
-      "Reading docs",
-      "choosing tags or CSS only by how they look",
-      "Testing examples",
-      "Naming clearly"
+      "Using media queries too often.",
+      "Designing for desktop first and struggling to adapt it for mobile later.",
+      "Using Flexbox instead of Grid.",
+      "Not using enough colors."
     ],
-    "correctAnswer": "choosing tags or CSS only by how they look",
-    "explanation": "choosing tags or CSS only by how they look. Debugging styles helps you structure and style web content.",
+    "correctAnswer": "Designing for desktop first and struggling to adapt it for mobile later.",
+    "explanation": "A \"mobile-first\" approach is generally recommended.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u10-q7",
     "type": "multiple_choice",
-    "prompt": "What makes it useful?",
+    "prompt": "What does the \"mobile-first\" approach mean in responsive design?",
     "options": [
-      "More confusion",
-      "Less structure",
-      "Clearer decisions",
-      "Random memorization"
+      "Designing the website only for mobile devices.",
+      "Writing CSS for small screens first, then using `min-width` media queries to add styles for larger screens.",
+      "Writing CSS for large screens first, then using `max-width` media queries for smaller screens.",
+      "Using JavaScript to detect mobile devices."
     ],
-    "correctAnswer": "Clearer decisions",
-    "explanation": "Clearer decisions. Debugging styles helps you structure and style web content.",
+    "correctAnswer": "Writing CSS for small screens first, then using `min-width` media queries to add styles for larger screens.",
+    "explanation": "It prioritizes the core content and layout for smaller screens.",
     "difficulty": "medium"
   },
   {
     "id": "html-css-s2-u10-q8",
     "type": "multiple_choice",
-    "prompt": "How should you practice?",
+    "prompt": "Which HTML tag is crucial for responsive design to ensure the browser scales the page correctly on mobile devices?",
     "options": [
-      "Only read it",
-      "Skip examples",
-      "Avoid mistakes",
-      "Apply it once"
+      "`<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">`",
+      "`<meta name=\"responsive\" content=\"true\">`",
+      "`<link rel=\"stylesheet\" href=\"responsive.css\">`",
+      "`<style type=\"text/css\">`"
     ],
-    "correctAnswer": "Apply it once",
-    "explanation": "Apply it once. Debugging styles helps you structure and style web content.",
+    "correctAnswer": "`<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">`",
+    "explanation": "The viewport meta tag controls layout on mobile browsers.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u10-q9",
     "type": "multiple_choice",
-    "prompt": "What should an answer explain?",
+    "prompt": "Can media queries be used to detect device orientation (portrait vs. landscape)?",
     "options": [
-      "Why it works",
-      "Only the letter",
-      "Only the color",
-      "Only the order"
+      "Yes, using `@media (orientation: portrait)` or `@media (orientation: landscape)`.",
+      "No, media queries only detect width and height.",
+      "Only with JavaScript.",
+      "Only on specific browsers."
     ],
-    "correctAnswer": "Why it works",
-    "explanation": "Why it works. Debugging styles helps you structure and style web content.",
+    "correctAnswer": "Yes, using `@media (orientation: portrait)` or `@media (orientation: landscape)`.",
+    "explanation": "Media queries can check various device features, including orientation.",
     "difficulty": "hard"
   },
   {
     "id": "html-css-s2-u10-q10",
     "type": "multiple_choice",
-    "prompt": "Ready to continue when you can...",
+    "prompt": "Why are media queries important for modern web development?",
     "options": [
-      "Guess quickly",
-      "Explain the idea",
-      "Ignore examples",
-      "Skip review"
+      "They make CSS code shorter.",
+      "They allow a single HTML document to provide an optimal viewing experience across a wide range of devices.",
+      "They are required for SEO.",
+      "They replace the need for HTML structure."
     ],
-    "correctAnswer": "Explain the idea",
-    "explanation": "Explain the idea. Debugging styles helps you structure and style web content.",
+    "correctAnswer": "They allow a single HTML document to provide an optimal viewing experience across a wide range of devices.",
+    "explanation": "They are the foundation of adaptable, responsive layouts.",
     "difficulty": "hard"
   },
   {

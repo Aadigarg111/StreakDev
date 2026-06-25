@@ -14,15 +14,15 @@
       "bannerColor": "#58CC02",
       "units": [
         {
-          "id": "html-css-section-1-unit-1-document-anatomy",
+          "id": "html-css-section-1-unit-1-what-is-html",
           "sectionId": "html-css-section-1",
           "order": 1,
-          "title": "Document anatomy",
+          "title": "What is HTML?",
           "lessons": [
             {
-              "id": "html-css-section-1-unit-1-document-anatomy-lesson-1",
-              "unitId": "html-css-section-1-unit-1-document-anatomy",
-              "title": "Learn Document anatomy",
+              "id": "html-css-section-1-unit-1-what-is-html-lesson-1",
+              "unitId": "html-css-section-1-unit-1-what-is-html",
+              "title": "Learn What is HTML?",
               "order": 1,
               "exerciseIds": [
                 "html-css-s1-u1-q1",
@@ -38,32 +38,32 @@
               ]
             },
             {
-              "id": "html-css-section-1-unit-1-document-anatomy-lesson-2",
-              "unitId": "html-css-section-1-unit-1-document-anatomy",
-              "title": "Practice Document anatomy",
+              "id": "html-css-section-1-unit-1-what-is-html-lesson-2",
+              "unitId": "html-css-section-1-unit-1-what-is-html",
+              "title": "Practice What is HTML?",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-1-unit-1-document-anatomy-lesson-3",
-              "unitId": "html-css-section-1-unit-1-document-anatomy",
-              "title": "Review Document anatomy",
+              "id": "html-css-section-1-unit-1-what-is-html-lesson-3",
+              "unitId": "html-css-section-1-unit-1-what-is-html",
+              "title": "Review What is HTML?",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Document anatomy helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "**HTML**, or **HyperText Markup Language**, is the standard language used to create web pages. It provides the structure of a web page using a system of \"elements\" and \"tags.\" Think of HTML as the skeleton of a website, defining headings, paragraphs, images, and links. It is *not* a programming language, but a markup language. A common beginner mistake is confusing HTML with a programming language, expecting it to perform logic or calculations, which it cannot do on its own."
         },
         {
-          "id": "html-css-section-1-unit-2-headings-and-text",
+          "id": "html-css-section-1-unit-2-basic-html-document-structure",
           "sectionId": "html-css-section-1",
           "order": 2,
-          "title": "Headings and text",
+          "title": "Basic HTML Document Structure",
           "lessons": [
             {
-              "id": "html-css-section-1-unit-2-headings-and-text-lesson-1",
-              "unitId": "html-css-section-1-unit-2-headings-and-text",
-              "title": "Learn Headings and text",
+              "id": "html-css-section-1-unit-2-basic-html-document-structure-lesson-1",
+              "unitId": "html-css-section-1-unit-2-basic-html-document-structure",
+              "title": "Learn Basic HTML Document Structure",
               "order": 1,
               "exerciseIds": [
                 "html-css-s1-u2-q1",
@@ -79,32 +79,32 @@
               ]
             },
             {
-              "id": "html-css-section-1-unit-2-headings-and-text-lesson-2",
-              "unitId": "html-css-section-1-unit-2-headings-and-text",
-              "title": "Practice Headings and text",
+              "id": "html-css-section-1-unit-2-basic-html-document-structure-lesson-2",
+              "unitId": "html-css-section-1-unit-2-basic-html-document-structure",
+              "title": "Practice Basic HTML Document Structure",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-1-unit-2-headings-and-text-lesson-3",
-              "unitId": "html-css-section-1-unit-2-headings-and-text",
-              "title": "Review Headings and text",
+              "id": "html-css-section-1-unit-2-basic-html-document-structure-lesson-3",
+              "unitId": "html-css-section-1-unit-2-basic-html-document-structure",
+              "title": "Review Basic HTML Document Structure",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Headings and text helps you structure and style web content. Example: `<h1>Dashboard</h1>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Every HTML document follows a basic structure to be properly interpreted by web browsers. It starts with `<!DOCTYPE html>` to declare the document type, followed by the `<html>` root element. Inside `<html>`, there are two main sections: `<head>` and `<body>`. The `<head>` contains meta-information about the document (like title, character set, and links to stylesheets), which is not directly visible on the page. The `<body>` contains all the visible content of the web page. A common beginner mistake is placing visible content inside the `<head>` tag, which can lead to unexpected rendering issues."
         },
         {
-          "id": "html-css-section-1-unit-3-links-and-anchors",
+          "id": "html-css-section-1-unit-3-headings-and-paragraphs",
           "sectionId": "html-css-section-1",
           "order": 3,
-          "title": "Links and anchors",
+          "title": "Headings and Paragraphs",
           "lessons": [
             {
-              "id": "html-css-section-1-unit-3-links-and-anchors-lesson-1",
-              "unitId": "html-css-section-1-unit-3-links-and-anchors",
-              "title": "Learn Links and anchors",
+              "id": "html-css-section-1-unit-3-headings-and-paragraphs-lesson-1",
+              "unitId": "html-css-section-1-unit-3-headings-and-paragraphs",
+              "title": "Learn Headings and Paragraphs",
               "order": 1,
               "exerciseIds": [
                 "html-css-s1-u3-q1",
@@ -120,32 +120,32 @@
               ]
             },
             {
-              "id": "html-css-section-1-unit-3-links-and-anchors-lesson-2",
-              "unitId": "html-css-section-1-unit-3-links-and-anchors",
-              "title": "Practice Links and anchors",
+              "id": "html-css-section-1-unit-3-headings-and-paragraphs-lesson-2",
+              "unitId": "html-css-section-1-unit-3-headings-and-paragraphs",
+              "title": "Practice Headings and Paragraphs",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-1-unit-3-links-and-anchors-lesson-3",
-              "unitId": "html-css-section-1-unit-3-links-and-anchors",
-              "title": "Review Links and anchors",
+              "id": "html-css-section-1-unit-3-headings-and-paragraphs-lesson-3",
+              "unitId": "html-css-section-1-unit-3-headings-and-paragraphs",
+              "title": "Review Headings and Paragraphs",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Links and anchors helps you structure and style web content. Example: `<a href=\"/about\">About</a>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "HTML provides six levels of headings, from `<h1>` (most important) to `<h6>` (least important), to structure content and indicate hierarchy. These are block-level elements, meaning they start on a new line and take up the full width available. Paragraphs are defined by the `<p>` tag and are used for blocks of text. Like headings, paragraphs are also block-level elements. A common beginner mistake is using headings for styling text size instead of for semantic structure, or using multiple `<h1>` tags on a single page, which can negatively impact accessibility and SEO."
         },
         {
-          "id": "html-css-section-1-unit-4-images-and-alt-text",
+          "id": "html-css-section-1-unit-4-text-formatting-bold-italic-etc",
           "sectionId": "html-css-section-1",
           "order": 4,
-          "title": "Images and alt text",
+          "title": "Text Formatting (Bold, Italic, etc.)",
           "lessons": [
             {
-              "id": "html-css-section-1-unit-4-images-and-alt-text-lesson-1",
-              "unitId": "html-css-section-1-unit-4-images-and-alt-text",
-              "title": "Learn Images and alt text",
+              "id": "html-css-section-1-unit-4-text-formatting-bold-italic-etc-lesson-1",
+              "unitId": "html-css-section-1-unit-4-text-formatting-bold-italic-etc",
+              "title": "Learn Text Formatting (Bold, Italic, etc.)",
               "order": 1,
               "exerciseIds": [
                 "html-css-s1-u4-q1",
@@ -161,32 +161,32 @@
               ]
             },
             {
-              "id": "html-css-section-1-unit-4-images-and-alt-text-lesson-2",
-              "unitId": "html-css-section-1-unit-4-images-and-alt-text",
-              "title": "Practice Images and alt text",
+              "id": "html-css-section-1-unit-4-text-formatting-bold-italic-etc-lesson-2",
+              "unitId": "html-css-section-1-unit-4-text-formatting-bold-italic-etc",
+              "title": "Practice Text Formatting (Bold, Italic, etc.)",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-1-unit-4-images-and-alt-text-lesson-3",
-              "unitId": "html-css-section-1-unit-4-images-and-alt-text",
-              "title": "Review Images and alt text",
+              "id": "html-css-section-1-unit-4-text-formatting-bold-italic-etc-lesson-3",
+              "unitId": "html-css-section-1-unit-4-text-formatting-bold-italic-etc",
+              "title": "Review Text Formatting (Bold, Italic, etc.)",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Images and alt text helps you structure and style web content. Example: `<img src=\"cat.jpg\" alt=\"Cat\">`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "HTML provides various tags to format text, enhancing its meaning and presentation. Common tags include `<strong>` for important text (often displayed as bold), `<em>` for emphasized text (often displayed as italic), `<b>` for bold text (without extra semantic importance), and `<i>` for italic text (without extra semantic importance). It's important to distinguish between semantic tags (`<strong>`, `<em>`) which convey meaning, and presentational tags (`<b>`, `<i>`) which only affect appearance. A common beginner mistake is using `<b>` and `<i>` when `<strong>` and `<em>` would be more semantically appropriate, especially for accessibility and search engine optimization."
         },
         {
-          "id": "html-css-section-1-unit-5-lists-and-tables",
+          "id": "html-css-section-1-unit-5-lists-ordered-and-unordered",
           "sectionId": "html-css-section-1",
           "order": 5,
-          "title": "Lists and tables",
+          "title": "Lists (Ordered and Unordered)",
           "lessons": [
             {
-              "id": "html-css-section-1-unit-5-lists-and-tables-lesson-1",
-              "unitId": "html-css-section-1-unit-5-lists-and-tables",
-              "title": "Learn Lists and tables",
+              "id": "html-css-section-1-unit-5-lists-ordered-and-unordered-lesson-1",
+              "unitId": "html-css-section-1-unit-5-lists-ordered-and-unordered",
+              "title": "Learn Lists (Ordered and Unordered)",
               "order": 1,
               "exerciseIds": [
                 "html-css-s1-u5-q1",
@@ -202,32 +202,32 @@
               ]
             },
             {
-              "id": "html-css-section-1-unit-5-lists-and-tables-lesson-2",
-              "unitId": "html-css-section-1-unit-5-lists-and-tables",
-              "title": "Practice Lists and tables",
+              "id": "html-css-section-1-unit-5-lists-ordered-and-unordered-lesson-2",
+              "unitId": "html-css-section-1-unit-5-lists-ordered-and-unordered",
+              "title": "Practice Lists (Ordered and Unordered)",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-1-unit-5-lists-and-tables-lesson-3",
-              "unitId": "html-css-section-1-unit-5-lists-and-tables",
-              "title": "Review Lists and tables",
+              "id": "html-css-section-1-unit-5-lists-ordered-and-unordered-lesson-3",
+              "unitId": "html-css-section-1-unit-5-lists-ordered-and-unordered",
+              "title": "Review Lists (Ordered and Unordered)",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Lists and tables helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "HTML allows you to create lists to organize information. There are two primary types: **unordered lists** (`<ul>`), which display items with bullet points, and **ordered lists** (`<ol>`), which display items with numbers or letters. Both list types use the `<li>` (list item) tag for each item within the list. Lists are crucial for presenting information clearly and semantically. A common beginner mistake is using `<br>` tags to create line breaks between list items instead of correctly using `<li>` tags, which breaks the semantic structure of the list."
         },
         {
-          "id": "html-css-section-1-unit-6-semantic-page-layout",
+          "id": "html-css-section-1-unit-6-links-and-anchors",
           "sectionId": "html-css-section-1",
           "order": 6,
-          "title": "Semantic page layout",
+          "title": "Links and Anchors",
           "lessons": [
             {
-              "id": "html-css-section-1-unit-6-semantic-page-layout-lesson-1",
-              "unitId": "html-css-section-1-unit-6-semantic-page-layout",
-              "title": "Learn Semantic page layout",
+              "id": "html-css-section-1-unit-6-links-and-anchors-lesson-1",
+              "unitId": "html-css-section-1-unit-6-links-and-anchors",
+              "title": "Learn Links and Anchors",
               "order": 1,
               "exerciseIds": [
                 "html-css-s1-u6-q1",
@@ -243,32 +243,32 @@
               ]
             },
             {
-              "id": "html-css-section-1-unit-6-semantic-page-layout-lesson-2",
-              "unitId": "html-css-section-1-unit-6-semantic-page-layout",
-              "title": "Practice Semantic page layout",
+              "id": "html-css-section-1-unit-6-links-and-anchors-lesson-2",
+              "unitId": "html-css-section-1-unit-6-links-and-anchors",
+              "title": "Practice Links and Anchors",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-1-unit-6-semantic-page-layout-lesson-3",
-              "unitId": "html-css-section-1-unit-6-semantic-page-layout",
-              "title": "Review Semantic page layout",
+              "id": "html-css-section-1-unit-6-links-and-anchors-lesson-3",
+              "unitId": "html-css-section-1-unit-6-links-and-anchors",
+              "title": "Review Links and Anchors",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Semantic page layout helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "**Hyperlinks**, or **links**, are fundamental to the web, allowing users to navigate between pages or to different sections within the same page. In HTML, links are created using the `<a>` (anchor) tag. The `href` attribute specifies the destination URL, while the text between the opening and closing `<a>` tags is what the user clicks. To link to a specific section within the same page, you use an `id` attribute on the target element and reference it in the `href` with a `#` prefix (e.g., `<a href=\"#section2\">Go to Section 2</a>`). A common beginner mistake is forgetting the `href` attribute or providing an incorrect path, leading to broken links."
         },
         {
-          "id": "html-css-section-1-unit-7-metadata-and-seo-basics",
+          "id": "html-css-section-1-unit-7-images-and-multimedia",
           "sectionId": "html-css-section-1",
           "order": 7,
-          "title": "Metadata and SEO basics",
+          "title": "Images and Multimedia",
           "lessons": [
             {
-              "id": "html-css-section-1-unit-7-metadata-and-seo-basics-lesson-1",
-              "unitId": "html-css-section-1-unit-7-metadata-and-seo-basics",
-              "title": "Learn Metadata and SEO basics",
+              "id": "html-css-section-1-unit-7-images-and-multimedia-lesson-1",
+              "unitId": "html-css-section-1-unit-7-images-and-multimedia",
+              "title": "Learn Images and Multimedia",
               "order": 1,
               "exerciseIds": [
                 "html-css-s1-u7-q1",
@@ -284,32 +284,32 @@
               ]
             },
             {
-              "id": "html-css-section-1-unit-7-metadata-and-seo-basics-lesson-2",
-              "unitId": "html-css-section-1-unit-7-metadata-and-seo-basics",
-              "title": "Practice Metadata and SEO basics",
+              "id": "html-css-section-1-unit-7-images-and-multimedia-lesson-2",
+              "unitId": "html-css-section-1-unit-7-images-and-multimedia",
+              "title": "Practice Images and Multimedia",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-1-unit-7-metadata-and-seo-basics-lesson-3",
-              "unitId": "html-css-section-1-unit-7-metadata-and-seo-basics",
-              "title": "Review Metadata and SEO basics",
+              "id": "html-css-section-1-unit-7-images-and-multimedia-lesson-3",
+              "unitId": "html-css-section-1-unit-7-images-and-multimedia",
+              "title": "Review Images and Multimedia",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Metadata and SEO basics helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "Images and multimedia are essential for creating engaging web pages. The `<img>` tag is used to embed images, and it's a self-closing tag. Key attributes include `src` (source, the path to the image file) and `alt` (alternative text, a description of the image for accessibility and when the image cannot be displayed). For embedding videos, the `<video>` tag is used, and for audio, the `<audio>` tag. These tags also use the `src` attribute. A common beginner mistake is forgetting the `alt` attribute for images, which makes the website less accessible to users with visual impairments and can negatively impact SEO."
         },
         {
-          "id": "html-css-section-1-unit-8-audio-and-video",
+          "id": "html-css-section-1-unit-8-tables",
           "sectionId": "html-css-section-1",
           "order": 8,
-          "title": "Audio and video",
+          "title": "Tables",
           "lessons": [
             {
-              "id": "html-css-section-1-unit-8-audio-and-video-lesson-1",
-              "unitId": "html-css-section-1-unit-8-audio-and-video",
-              "title": "Learn Audio and video",
+              "id": "html-css-section-1-unit-8-tables-lesson-1",
+              "unitId": "html-css-section-1-unit-8-tables",
+              "title": "Learn Tables",
               "order": 1,
               "exerciseIds": [
                 "html-css-s1-u8-q1",
@@ -325,32 +325,32 @@
               ]
             },
             {
-              "id": "html-css-section-1-unit-8-audio-and-video-lesson-2",
-              "unitId": "html-css-section-1-unit-8-audio-and-video",
-              "title": "Practice Audio and video",
+              "id": "html-css-section-1-unit-8-tables-lesson-2",
+              "unitId": "html-css-section-1-unit-8-tables",
+              "title": "Practice Tables",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-1-unit-8-audio-and-video-lesson-3",
-              "unitId": "html-css-section-1-unit-8-audio-and-video",
-              "title": "Review Audio and video",
+              "id": "html-css-section-1-unit-8-tables-lesson-3",
+              "unitId": "html-css-section-1-unit-8-tables",
+              "title": "Review Tables",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Audio and video helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "HTML tables are used to display tabular data, such as financial reports or product specifications, in a structured way. The main tags involved are `<table>` (the container for the entire table), `<tr>` (table row), `<th>` (table header cell), and `<td>` (table data cell). Table headers (`<th>`) are typically bold and centered by default, providing semantic meaning to the columns or rows. It's important to use tables *only* for tabular data, not for page layout. A common beginner mistake is using tables for layout purposes, which is outdated, inflexible, and detrimental to accessibility and responsive design."
         },
         {
-          "id": "html-css-section-1-unit-9-forms-introduction",
+          "id": "html-css-section-1-unit-9-forms-and-input-elements",
           "sectionId": "html-css-section-1",
           "order": 9,
-          "title": "Forms introduction",
+          "title": "Forms and Input Elements",
           "lessons": [
             {
-              "id": "html-css-section-1-unit-9-forms-introduction-lesson-1",
-              "unitId": "html-css-section-1-unit-9-forms-introduction",
-              "title": "Learn Forms introduction",
+              "id": "html-css-section-1-unit-9-forms-and-input-elements-lesson-1",
+              "unitId": "html-css-section-1-unit-9-forms-and-input-elements",
+              "title": "Learn Forms and Input Elements",
               "order": 1,
               "exerciseIds": [
                 "html-css-s1-u9-q1",
@@ -366,32 +366,32 @@
               ]
             },
             {
-              "id": "html-css-section-1-unit-9-forms-introduction-lesson-2",
-              "unitId": "html-css-section-1-unit-9-forms-introduction",
-              "title": "Practice Forms introduction",
+              "id": "html-css-section-1-unit-9-forms-and-input-elements-lesson-2",
+              "unitId": "html-css-section-1-unit-9-forms-and-input-elements",
+              "title": "Practice Forms and Input Elements",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-1-unit-9-forms-introduction-lesson-3",
-              "unitId": "html-css-section-1-unit-9-forms-introduction",
-              "title": "Review Forms introduction",
+              "id": "html-css-section-1-unit-9-forms-and-input-elements-lesson-3",
+              "unitId": "html-css-section-1-unit-9-forms-and-input-elements",
+              "title": "Review Forms and Input Elements",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Forms introduction helps you structure and style web content. Example: `<label for=\"email\">Email</label>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "HTML forms are crucial for collecting user input on web pages. The `<form>` tag acts as a container for all form elements. The most common input element is `<input>`, which can vary greatly in appearance and behavior based on its `type` attribute (e.g., `text`, `password`, `submit`, `checkbox`, `radio`). Other important form elements include `<textarea>` for multi-line text input, `<select>` for dropdown lists, and `<button>` for clickable actions. The `name` attribute is vital for each input, as it identifies the data when the form is submitted. A common beginner mistake is forgetting the `name` attribute on input fields, which results in the data not being sent to the server when the form is submitted."
         },
         {
-          "id": "html-css-section-1-unit-10-html-validation",
+          "id": "html-css-section-1-unit-10-semantic-html5-elements",
           "sectionId": "html-css-section-1",
           "order": 10,
-          "title": "HTML validation",
+          "title": "Semantic HTML5 Elements",
           "lessons": [
             {
-              "id": "html-css-section-1-unit-10-html-validation-lesson-1",
-              "unitId": "html-css-section-1-unit-10-html-validation",
-              "title": "Learn HTML validation",
+              "id": "html-css-section-1-unit-10-semantic-html5-elements-lesson-1",
+              "unitId": "html-css-section-1-unit-10-semantic-html5-elements",
+              "title": "Learn Semantic HTML5 Elements",
               "order": 1,
               "exerciseIds": [
                 "html-css-s1-u10-q1",
@@ -407,21 +407,21 @@
               ]
             },
             {
-              "id": "html-css-section-1-unit-10-html-validation-lesson-2",
-              "unitId": "html-css-section-1-unit-10-html-validation",
-              "title": "Practice HTML validation",
+              "id": "html-css-section-1-unit-10-semantic-html5-elements-lesson-2",
+              "unitId": "html-css-section-1-unit-10-semantic-html5-elements",
+              "title": "Practice Semantic HTML5 Elements",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-1-unit-10-html-validation-lesson-3",
-              "unitId": "html-css-section-1-unit-10-html-validation",
-              "title": "Review HTML validation",
+              "id": "html-css-section-1-unit-10-semantic-html5-elements-lesson-3",
+              "unitId": "html-css-section-1-unit-10-semantic-html5-elements",
+              "title": "Review Semantic HTML5 Elements",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "HTML validation helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "HTML5 introduced several new semantic elements that provide meaning to the structure of a web page, rather than just presenting content. These include `<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, `<aside>`, and `<footer>`. Using semantic tags helps browsers, search engines, and assistive technologies understand the purpose of different parts of a page, improving accessibility and SEO. While `<div>` can be used for any division, semantic tags offer clearer meaning. A common beginner mistake is continuing to use generic `<div>` elements for structural parts of a page where a more specific semantic HTML5 tag would be appropriate, missing out on the benefits of improved document outline and accessibility."
         }
       ]
     },
@@ -433,15 +433,15 @@
       "bannerColor": "#58CC02",
       "units": [
         {
-          "id": "html-css-section-2-unit-1-selectors",
+          "id": "html-css-section-2-unit-1-introduction-to-css",
           "sectionId": "html-css-section-2",
           "order": 1,
-          "title": "Selectors",
+          "title": "Introduction to CSS",
           "lessons": [
             {
-              "id": "html-css-section-2-unit-1-selectors-lesson-1",
-              "unitId": "html-css-section-2-unit-1-selectors",
-              "title": "Learn Selectors",
+              "id": "html-css-section-2-unit-1-introduction-to-css-lesson-1",
+              "unitId": "html-css-section-2-unit-1-introduction-to-css",
+              "title": "Learn Introduction to CSS",
               "order": 1,
               "exerciseIds": [
                 "html-css-s2-u1-q1",
@@ -457,32 +457,32 @@
               ]
             },
             {
-              "id": "html-css-section-2-unit-1-selectors-lesson-2",
-              "unitId": "html-css-section-2-unit-1-selectors",
-              "title": "Practice Selectors",
+              "id": "html-css-section-2-unit-1-introduction-to-css-lesson-2",
+              "unitId": "html-css-section-2-unit-1-introduction-to-css",
+              "title": "Practice Introduction to CSS",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-2-unit-1-selectors-lesson-3",
-              "unitId": "html-css-section-2-unit-1-selectors",
-              "title": "Review Selectors",
+              "id": "html-css-section-2-unit-1-introduction-to-css-lesson-3",
+              "unitId": "html-css-section-2-unit-1-introduction-to-css",
+              "title": "Review Introduction to CSS",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Selectors helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "**CSS**, or **Cascading Style Sheets**, is a stylesheet language used to describe the presentation of a document written in HTML. While HTML provides the structure, CSS dictates how that structure looks—colors, fonts, layout, and more. CSS works by selecting HTML elements and applying style rules to them. There are three main ways to include CSS: inline (using the `style` attribute), internal (within a `<style>` tag in the `<head>`), and external (linking to a `.css` file). A common beginner mistake is trying to style elements directly in HTML without understanding CSS, leading to messy and unmaintainable code."
         },
         {
-          "id": "html-css-section-2-unit-2-specificity",
+          "id": "html-css-section-2-unit-2-css-selectors-type-class-id",
           "sectionId": "html-css-section-2",
           "order": 2,
-          "title": "Specificity",
+          "title": "CSS Selectors (Type, Class, ID)",
           "lessons": [
             {
-              "id": "html-css-section-2-unit-2-specificity-lesson-1",
-              "unitId": "html-css-section-2-unit-2-specificity",
-              "title": "Learn Specificity",
+              "id": "html-css-section-2-unit-2-css-selectors-type-class-id-lesson-1",
+              "unitId": "html-css-section-2-unit-2-css-selectors-type-class-id",
+              "title": "Learn CSS Selectors (Type, Class, ID)",
               "order": 1,
               "exerciseIds": [
                 "html-css-s2-u2-q1",
@@ -498,32 +498,32 @@
               ]
             },
             {
-              "id": "html-css-section-2-unit-2-specificity-lesson-2",
-              "unitId": "html-css-section-2-unit-2-specificity",
-              "title": "Practice Specificity",
+              "id": "html-css-section-2-unit-2-css-selectors-type-class-id-lesson-2",
+              "unitId": "html-css-section-2-unit-2-css-selectors-type-class-id",
+              "title": "Practice CSS Selectors (Type, Class, ID)",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-2-unit-2-specificity-lesson-3",
-              "unitId": "html-css-section-2-unit-2-specificity",
-              "title": "Review Specificity",
+              "id": "html-css-section-2-unit-2-css-selectors-type-class-id-lesson-3",
+              "unitId": "html-css-section-2-unit-2-css-selectors-type-class-id",
+              "title": "Review CSS Selectors (Type, Class, ID)",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Specificity helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "CSS selectors are patterns used to select the HTML elements you want to style. The most basic selectors are **type selectors** (e.g., `p` to select all paragraph elements), **class selectors** (e.g., `.my-class` to select elements with `class=\"my-class\"`), and **ID selectors** (e.g., `#my-id` to select the unique element with `id=\"my-id\"`). Class selectors can be applied to multiple elements, while ID selectors should only be used once per page. A common beginner mistake is using ID selectors for styling elements that are not unique, or using them when a class selector would be more appropriate for reusable styles."
         },
         {
-          "id": "html-css-section-2-unit-3-cascade-order",
+          "id": "html-css-section-2-unit-3-css-box-model",
           "sectionId": "html-css-section-2",
           "order": 3,
-          "title": "Cascade order",
+          "title": "CSS Box Model",
           "lessons": [
             {
-              "id": "html-css-section-2-unit-3-cascade-order-lesson-1",
-              "unitId": "html-css-section-2-unit-3-cascade-order",
-              "title": "Learn Cascade order",
+              "id": "html-css-section-2-unit-3-css-box-model-lesson-1",
+              "unitId": "html-css-section-2-unit-3-css-box-model",
+              "title": "Learn CSS Box Model",
               "order": 1,
               "exerciseIds": [
                 "html-css-s2-u3-q1",
@@ -539,32 +539,32 @@
               ]
             },
             {
-              "id": "html-css-section-2-unit-3-cascade-order-lesson-2",
-              "unitId": "html-css-section-2-unit-3-cascade-order",
-              "title": "Practice Cascade order",
+              "id": "html-css-section-2-unit-3-css-box-model-lesson-2",
+              "unitId": "html-css-section-2-unit-3-css-box-model",
+              "title": "Practice CSS Box Model",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-2-unit-3-cascade-order-lesson-3",
-              "unitId": "html-css-section-2-unit-3-cascade-order",
-              "title": "Review Cascade order",
+              "id": "html-css-section-2-unit-3-css-box-model-lesson-3",
+              "unitId": "html-css-section-2-unit-3-css-box-model",
+              "title": "Review CSS Box Model",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Cascade order helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "In CSS, every HTML element is considered a rectangular box, which is described by the **CSS Box Model**. This model consists of four layers: **content**, **padding**, **border**, and **margin**. The **content** area is where the actual content (text, images) resides. **Padding** is the space between the content and the border. The **border** is a line that goes around the padding and content. **Margin** is the space outside the border, separating the element from other elements. Understanding the box model is crucial for controlling layout and spacing. A common beginner mistake is confusing padding and margin, leading to incorrect spacing and layout issues."
         },
         {
-          "id": "html-css-section-2-unit-4-inheritance",
+          "id": "html-css-section-2-unit-4-css-colors-and-backgrounds",
           "sectionId": "html-css-section-2",
           "order": 4,
-          "title": "Inheritance",
+          "title": "CSS Colors and Backgrounds",
           "lessons": [
             {
-              "id": "html-css-section-2-unit-4-inheritance-lesson-1",
-              "unitId": "html-css-section-2-unit-4-inheritance",
-              "title": "Learn Inheritance",
+              "id": "html-css-section-2-unit-4-css-colors-and-backgrounds-lesson-1",
+              "unitId": "html-css-section-2-unit-4-css-colors-and-backgrounds",
+              "title": "Learn CSS Colors and Backgrounds",
               "order": 1,
               "exerciseIds": [
                 "html-css-s2-u4-q1",
@@ -580,32 +580,32 @@
               ]
             },
             {
-              "id": "html-css-section-2-unit-4-inheritance-lesson-2",
-              "unitId": "html-css-section-2-unit-4-inheritance",
-              "title": "Practice Inheritance",
+              "id": "html-css-section-2-unit-4-css-colors-and-backgrounds-lesson-2",
+              "unitId": "html-css-section-2-unit-4-css-colors-and-backgrounds",
+              "title": "Practice CSS Colors and Backgrounds",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-2-unit-4-inheritance-lesson-3",
-              "unitId": "html-css-section-2-unit-4-inheritance",
-              "title": "Review Inheritance",
+              "id": "html-css-section-2-unit-4-css-colors-and-backgrounds-lesson-3",
+              "unitId": "html-css-section-2-unit-4-css-colors-and-backgrounds",
+              "title": "Review CSS Colors and Backgrounds",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Inheritance helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "CSS provides powerful ways to control the colors of text and backgrounds of elements. Colors can be specified using **named colors** (e.g., `red`, `blue`), **hexadecimal codes** (e.g., `#FF0000` for red), **RGB values** (e.g., `rgb(255, 0, 0)`), or **RGBA values** (e.g., `rgba(255, 0, 0, 0.5)` for red with 50% opacity). The `color` property sets the text color, while `background-color` sets the background color. You can also use `background-image` to set an image as the background. A common beginner mistake is using colors that provide poor contrast between text and background, making the content difficult to read for users, especially those with visual impairments."
         },
         {
-          "id": "html-css-section-2-unit-5-units-and-values",
+          "id": "html-css-section-2-unit-5-css-text-properties",
           "sectionId": "html-css-section-2",
           "order": 5,
-          "title": "Units and values",
+          "title": "CSS Text Properties",
           "lessons": [
             {
-              "id": "html-css-section-2-unit-5-units-and-values-lesson-1",
-              "unitId": "html-css-section-2-unit-5-units-and-values",
-              "title": "Learn Units and values",
+              "id": "html-css-section-2-unit-5-css-text-properties-lesson-1",
+              "unitId": "html-css-section-2-unit-5-css-text-properties",
+              "title": "Learn CSS Text Properties",
               "order": 1,
               "exerciseIds": [
                 "html-css-s2-u5-q1",
@@ -621,32 +621,32 @@
               ]
             },
             {
-              "id": "html-css-section-2-unit-5-units-and-values-lesson-2",
-              "unitId": "html-css-section-2-unit-5-units-and-values",
-              "title": "Practice Units and values",
+              "id": "html-css-section-2-unit-5-css-text-properties-lesson-2",
+              "unitId": "html-css-section-2-unit-5-css-text-properties",
+              "title": "Practice CSS Text Properties",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-2-unit-5-units-and-values-lesson-3",
-              "unitId": "html-css-section-2-unit-5-units-and-values",
-              "title": "Review Units and values",
+              "id": "html-css-section-2-unit-5-css-text-properties-lesson-3",
+              "unitId": "html-css-section-2-unit-5-css-text-properties",
+              "title": "Review CSS Text Properties",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Units and values helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "CSS offers extensive properties to control the appearance of text on a web page. Key properties include `font-family` (to set the typeface), `font-size` (to control text size), `font-weight` (for boldness), `text-align` (to align text horizontally), `line-height` (for spacing between lines), and `text-decoration` (to add or remove underlines, overlines, etc.). These properties allow for fine-grained control over typography, which is crucial for readability and visual appeal. A common beginner mistake is using pixel values for `font-size` exclusively, which can lead to accessibility issues as users cannot easily scale text in their browsers."
         },
         {
-          "id": "html-css-section-2-unit-6-colors-and-opacity",
+          "id": "html-css-section-2-unit-6-css-layout-display-property",
           "sectionId": "html-css-section-2",
           "order": 6,
-          "title": "Colors and opacity",
+          "title": "CSS Layout (Display Property)",
           "lessons": [
             {
-              "id": "html-css-section-2-unit-6-colors-and-opacity-lesson-1",
-              "unitId": "html-css-section-2-unit-6-colors-and-opacity",
-              "title": "Learn Colors and opacity",
+              "id": "html-css-section-2-unit-6-css-layout-display-property-lesson-1",
+              "unitId": "html-css-section-2-unit-6-css-layout-display-property",
+              "title": "Learn CSS Layout (Display Property)",
               "order": 1,
               "exerciseIds": [
                 "html-css-s2-u6-q1",
@@ -662,32 +662,32 @@
               ]
             },
             {
-              "id": "html-css-section-2-unit-6-colors-and-opacity-lesson-2",
-              "unitId": "html-css-section-2-unit-6-colors-and-opacity",
-              "title": "Practice Colors and opacity",
+              "id": "html-css-section-2-unit-6-css-layout-display-property-lesson-2",
+              "unitId": "html-css-section-2-unit-6-css-layout-display-property",
+              "title": "Practice CSS Layout (Display Property)",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-2-unit-6-colors-and-opacity-lesson-3",
-              "unitId": "html-css-section-2-unit-6-colors-and-opacity",
-              "title": "Review Colors and opacity",
+              "id": "html-css-section-2-unit-6-css-layout-display-property-lesson-3",
+              "unitId": "html-css-section-2-unit-6-css-layout-display-property",
+              "title": "Review CSS Layout (Display Property)",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Colors and opacity helps you structure and style web content. Example: `color: #1cb0f6`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "The `display` CSS property is fundamental to controlling the layout of elements on a web page. It determines how an element is rendered and how it interacts with other elements. Common values include `block`, `inline`, and `inline-block`. **Block-level elements** (like `<div>`, `<p>`, `<h1>`) always start on a new line and take up the full available width. **Inline elements** (like `<span>`, `<a>`, `<strong>`) do not start on a new line and only take up as much width as necessary. **Inline-block elements** combine characteristics of both, allowing elements to sit side-by-side while still being able to set width, height, and vertical margins/paddings. A common beginner mistake is trying to apply width/height to inline elements, which has no effect, or not understanding why block elements force new lines."
         },
         {
-          "id": "html-css-section-2-unit-7-typography-basics",
+          "id": "html-css-section-2-unit-7-css-positioning",
           "sectionId": "html-css-section-2",
           "order": 7,
-          "title": "Typography basics",
+          "title": "CSS Positioning",
           "lessons": [
             {
-              "id": "html-css-section-2-unit-7-typography-basics-lesson-1",
-              "unitId": "html-css-section-2-unit-7-typography-basics",
-              "title": "Learn Typography basics",
+              "id": "html-css-section-2-unit-7-css-positioning-lesson-1",
+              "unitId": "html-css-section-2-unit-7-css-positioning",
+              "title": "Learn CSS Positioning",
               "order": 1,
               "exerciseIds": [
                 "html-css-s2-u7-q1",
@@ -703,32 +703,32 @@
               ]
             },
             {
-              "id": "html-css-section-2-unit-7-typography-basics-lesson-2",
-              "unitId": "html-css-section-2-unit-7-typography-basics",
-              "title": "Practice Typography basics",
+              "id": "html-css-section-2-unit-7-css-positioning-lesson-2",
+              "unitId": "html-css-section-2-unit-7-css-positioning",
+              "title": "Practice CSS Positioning",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-2-unit-7-typography-basics-lesson-3",
-              "unitId": "html-css-section-2-unit-7-typography-basics",
-              "title": "Review Typography basics",
+              "id": "html-css-section-2-unit-7-css-positioning-lesson-3",
+              "unitId": "html-css-section-2-unit-7-css-positioning",
+              "title": "Review CSS Positioning",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Typography basics helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "The `position` CSS property allows you to precisely control the placement of an element on a web page. Common values include `static`, `relative`, `absolute`, `fixed`, and `sticky`. **`static`** is the default position; elements are positioned according to the normal flow of the document. **`relative`** positions an element relative to its normal position. **`absolute`** positions an element relative to its nearest positioned ancestor (or the document body if none). **`fixed`** positions an element relative to the viewport, staying in place even when the page scrolls. **`sticky`** is a hybrid of `relative` and `fixed`. A common beginner mistake is using `top`, `bottom`, `left`, or `right` properties without first setting a `position` value other than `static`, which will have no effect."
         },
         {
-          "id": "html-css-section-2-unit-8-custom-properties",
+          "id": "html-css-section-2-unit-8-flexbox-basics",
           "sectionId": "html-css-section-2",
           "order": 8,
-          "title": "Custom properties",
+          "title": "Flexbox Basics",
           "lessons": [
             {
-              "id": "html-css-section-2-unit-8-custom-properties-lesson-1",
-              "unitId": "html-css-section-2-unit-8-custom-properties",
-              "title": "Learn Custom properties",
+              "id": "html-css-section-2-unit-8-flexbox-basics-lesson-1",
+              "unitId": "html-css-section-2-unit-8-flexbox-basics",
+              "title": "Learn Flexbox Basics",
               "order": 1,
               "exerciseIds": [
                 "html-css-s2-u8-q1",
@@ -744,32 +744,32 @@
               ]
             },
             {
-              "id": "html-css-section-2-unit-8-custom-properties-lesson-2",
-              "unitId": "html-css-section-2-unit-8-custom-properties",
-              "title": "Practice Custom properties",
+              "id": "html-css-section-2-unit-8-flexbox-basics-lesson-2",
+              "unitId": "html-css-section-2-unit-8-flexbox-basics",
+              "title": "Practice Flexbox Basics",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-2-unit-8-custom-properties-lesson-3",
-              "unitId": "html-css-section-2-unit-8-custom-properties",
-              "title": "Review Custom properties",
+              "id": "html-css-section-2-unit-8-flexbox-basics-lesson-3",
+              "unitId": "html-css-section-2-unit-8-flexbox-basics",
+              "title": "Review Flexbox Basics",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Custom properties helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "**Flexbox** (Flexible Box Layout Module) is a one-dimensional layout model in CSS designed to provide an efficient way to arrange, align, and distribute space among items in a container, even when their size is unknown or dynamic. It makes it easier to design flexible and responsive layout structures without using floats or positioning. To use Flexbox, you set `display: flex;` on a container element, making it a flex container and its direct children flex items. A common beginner mistake is trying to apply flex properties to non-flex items or forgetting to set `display: flex;` on the parent container, leading to unexpected layout behavior."
         },
         {
-          "id": "html-css-section-2-unit-9-reset-and-normalize-css",
+          "id": "html-css-section-2-unit-9-css-grid-basics",
           "sectionId": "html-css-section-2",
           "order": 9,
-          "title": "Reset and normalize CSS",
+          "title": "CSS Grid Basics",
           "lessons": [
             {
-              "id": "html-css-section-2-unit-9-reset-and-normalize-css-lesson-1",
-              "unitId": "html-css-section-2-unit-9-reset-and-normalize-css",
-              "title": "Learn Reset and normalize CSS",
+              "id": "html-css-section-2-unit-9-css-grid-basics-lesson-1",
+              "unitId": "html-css-section-2-unit-9-css-grid-basics",
+              "title": "Learn CSS Grid Basics",
               "order": 1,
               "exerciseIds": [
                 "html-css-s2-u9-q1",
@@ -785,32 +785,32 @@
               ]
             },
             {
-              "id": "html-css-section-2-unit-9-reset-and-normalize-css-lesson-2",
-              "unitId": "html-css-section-2-unit-9-reset-and-normalize-css",
-              "title": "Practice Reset and normalize CSS",
+              "id": "html-css-section-2-unit-9-css-grid-basics-lesson-2",
+              "unitId": "html-css-section-2-unit-9-css-grid-basics",
+              "title": "Practice CSS Grid Basics",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-2-unit-9-reset-and-normalize-css-lesson-3",
-              "unitId": "html-css-section-2-unit-9-reset-and-normalize-css",
-              "title": "Review Reset and normalize CSS",
+              "id": "html-css-section-2-unit-9-css-grid-basics-lesson-3",
+              "unitId": "html-css-section-2-unit-9-css-grid-basics",
+              "title": "Review CSS Grid Basics",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Reset and normalize CSS helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "**CSS Grid Layout** is a two-dimensional layout system for the web. It allows you to arrange content into rows and columns, making it incredibly powerful for designing complex, responsive web page layouts. To use CSS Grid, you set `display: grid;` on a container element, making it a grid container. You then define the grid structure using properties like `grid-template-columns` and `grid-template-rows`. Unlike Flexbox, which is one-dimensional, Grid excels at controlling both rows and columns simultaneously. A common beginner mistake is confusing Grid with Flexbox; while both are powerful layout tools, they are designed for different purposes (Grid for 2D layouts, Flexbox for 1D layouts)."
         },
         {
-          "id": "html-css-section-2-unit-10-debugging-styles",
+          "id": "html-css-section-2-unit-10-responsive-design-basics-media-queries",
           "sectionId": "html-css-section-2",
           "order": 10,
-          "title": "Debugging styles",
+          "title": "Responsive Design Basics (Media Queries)",
           "lessons": [
             {
-              "id": "html-css-section-2-unit-10-debugging-styles-lesson-1",
-              "unitId": "html-css-section-2-unit-10-debugging-styles",
-              "title": "Learn Debugging styles",
+              "id": "html-css-section-2-unit-10-responsive-design-basics-media-queries-lesson-1",
+              "unitId": "html-css-section-2-unit-10-responsive-design-basics-media-queries",
+              "title": "Learn Responsive Design Basics (Media Queries)",
               "order": 1,
               "exerciseIds": [
                 "html-css-s2-u10-q1",
@@ -826,21 +826,21 @@
               ]
             },
             {
-              "id": "html-css-section-2-unit-10-debugging-styles-lesson-2",
-              "unitId": "html-css-section-2-unit-10-debugging-styles",
-              "title": "Practice Debugging styles",
+              "id": "html-css-section-2-unit-10-responsive-design-basics-media-queries-lesson-2",
+              "unitId": "html-css-section-2-unit-10-responsive-design-basics-media-queries",
+              "title": "Practice Responsive Design Basics (Media Queries)",
               "order": 2,
               "exerciseIds": []
             },
             {
-              "id": "html-css-section-2-unit-10-debugging-styles-lesson-3",
-              "unitId": "html-css-section-2-unit-10-debugging-styles",
-              "title": "Review Debugging styles",
+              "id": "html-css-section-2-unit-10-responsive-design-basics-media-queries-lesson-3",
+              "unitId": "html-css-section-2-unit-10-responsive-design-basics-media-queries",
+              "title": "Review Responsive Design Basics (Media Queries)",
               "order": 3,
               "exerciseIds": []
             }
           ],
-          "learn": "Debugging styles helps you structure and style web content. Example: `<main><h1>Title</h1></main>`. Avoid: choosing tags or CSS only by how they look."
+          "learn": "**Responsive Web Design** ensures that web pages look good and function well on all devices, from desktops to mobile phones. A key technique for achieving this is using **CSS Media Queries**. Media queries allow you to apply different CSS styles based on the characteristics of the device displaying the page, most commonly its width. You use the `@media` rule to define a block of CSS properties that will only be applied if a certain condition is true (e.g., `@media (max-width: 600px) { ... }`). A common beginner mistake is designing only for desktop and then trying to \"fix\" it for mobile later, rather than adopting a \"mobile-first\" approach where you design for small screens first and then add styles for larger screens."
         }
       ]
     },
