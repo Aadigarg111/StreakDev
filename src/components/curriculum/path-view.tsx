@@ -109,6 +109,16 @@ type AchievementResponse = {
   }>;
 };
 
+type AuthState = {
+  authenticated: boolean;
+  user: {
+    id: string;
+    email: string;
+    displayName: string;
+    avatarSeed: string;
+  } | null;
+};
+
 function avatarColor(seed: string) {
   const colors = ["#58CC02", "#1CB0F6", "#CE82FF", "#FFC800", "#FF4B4B"];
   const total = seed.split("").reduce((sum, char) => sum + char.charCodeAt(0), 0);
